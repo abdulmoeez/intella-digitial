@@ -1,6 +1,6 @@
 # intella-digitial
 
-Marketing agency website for Intella Digital.
+Marketing Agency Venture — website for Intella Digital.
 
 ## Pages
 
