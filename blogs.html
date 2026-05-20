@@ -1,0 +1,1476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blogs - Intella Digital</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.res.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap" rel="stylesheet"/>
+    
+</head>
+<body>
+    <div class="blogs-page-container">
+        
+        <!-- Header Starts -->
+        <header class="idlp-header">
+            <div class="id-header-brand">
+                <a href="home.html">
+                    <svg width="94" height="43" viewBox="0 0 94 43" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <rect width="94" height="43" fill="url(#pattern0_5498_137)" />
+                        <defs>
+                        <pattern id="pattern0_5498_137" patternContentUnits="objectBoundingBox" width="1" height="1">
+                            <use xlink:href="#image0_5498_137" transform="matrix(0.00253165 0 0 0.00553429 0 -0.00638799)" />
+                        </pattern>
+                        <image id="image0_5498_137" width="395" height="183" preserveAspectRatio="none" xlink:href="data:image/png;base64,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" />
+                        </defs>
+                    </svg>
+                </a>
+            </div>
+            <div class="id-nav">
+                <div class="id-nav-item">
+                    <a href="">
+                        <p>About</p>
+                    </a>
+                </div>
+                <div class="id-nav-item collapsable">
+                    <a href="services.html">
+                        <div class="id-nav-item-div">
+                            <p>Services</p>
+                            <img src="assets/images/home/down-arrow.svg" alt="Chevron down">
+                            <div class="hover-bridge"></div>
+                        </div>
+                    </a>
+                    <div class="nav-collapsed" id="services-collapsed">
+                        <div class="nav-collapsed-d1">
+                            <h6>SEO and Content</h6>
+                            <div class="nav-col">
+                                <img src="assets/images/home/seo-icon.svg" alt="SEO Icon">
+                                <div>
+                                    <h4>SEO</h4>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                </div>
+                            </div>
+                            <div class="nav-col">
+                                <img src="assets/images/home/geo-icon.svg" alt="GEO Icon">
+                                <div >
+                                    <h4>GEO</h4>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                </div>
+                            </div>
+                            <div class="nav-col">
+                                <img src="assets/images/home/content-icon.svg" alt="Content Icon">
+                                <div >
+                                    <h4>Content</h4>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="nav-collapsed-d2">
+                            <h6>Performance Marketing</h6>
+                            <div class="nav-col">
+                                <img src="assets/images/home/googleAds-icon.svg" alt="">
+                                <div>
+                                    <h4>Google Ads</h4>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                </div>
+                            </div>
+                            <div class="nav-col">
+                                <img src="assets/images/home/linkedInAds-icon.svg" alt="">
+                                <div >
+                                    <h4>LinkedIn Ads</h4>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                </div>
+                            </div>
+                            <div class="nav-col">
+                                <img src="assets/images/home/metaAds-icon.svg" alt="">
+                                <div >
+                                    <h4>Meta Ads</h4>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                </div>
+                            </div>
+                            <div class="nav-col">
+                                <img src="assets/images/home/instaAds-icon.svg" alt="">
+                                <div >
+                                    <h4>Instagram Ads</h4>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="nav-collapsed-d3">
+                            <h6>Web Development</h6>
+                            <div class="nav-col">
+                                <img src="assets/images/home/website-developement-icon.svg" alt="">
+                                <div>
+                                    <h4>Website Development</h4>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                </div>
+                            </div>
+                            <div class="nav-col">
+                                <img src="assets/images/home/webiste-migration-icon.svg" alt="">
+                                <div>
+                                    <h4>Website Migration</h4>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="nav-collapsed-d4">
+                            <h6>Audits and Planning</h6>
+                            <div class="nav-col">
+                                <img src="assets/images/home/marketing-plan-icon.svg" alt="">
+                                <div>
+                                    <h4>Marketing Plan</h4>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                </div>
+                            </div>
+                            <div class="nav-col">
+                                <img src="assets/images/home/website-audit-icon.svg" alt="">
+                                <div>
+                                    <h4>Website Audit</h4>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                </div>
+                            </div>
+                            <div class="nav-col">
+                                <img src="assets/images/home/content-audit-icon.svg" alt="">
+                                <div>
+                                    <h4>Content Audit</h4>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                </div>
+                            </div>
+                            <div class="nav-col">
+                                <img src="assets/images/home/performanceMarketingAudit-icon.svg" alt="">
+                                <div>
+                                    <h4>Performance Marketing Audit</h4>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="id-nav-item">
+                    <a href="">
+                        <p>Case Studies</p>
+                    </a>
+                </div>
+                <div class="id-nav-item">
+                    <a href="">
+                        <p>Portfolio</p>
+                    </a>
+                </div>
+                <div class="id-nav-item collapsable">
+                    <a href="">
+                        <div class="id-nav-item-div">
+                            <p>Resources</p>
+                            <img src="assets/images/home/down-arrow.svg" alt="Chevron down">
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="id-header-actions">
+                <div class="id-header-btn">
+                    <a href="contact-us.html">
+                        <div><p>Contact us</p></div>
+                    </a>
+                </div>
+
+
+                <div class="hamburger" id="hamburger">
+                    <img src="assets/images/home/hamburger-svgrepo-com.svg" alt="">
+                </div>
+            </div>
+        </header>
+        <!-- Header Ends -->
+
+        <!-- Section 1 Starts -->
+        <section class="isbsp-s1">
+            <div class="isbsp-s1-d1">
+                <h1>Blogs</h1>
+                <div class="isbsp-s1-d1-d1">
+                    <div class="isbsp-s1-d1-d1-d1">
+                        <p>All</p>
+                        <svg width="8" height="5" viewBox="0 0 8 5" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path d="M0.75 0.75L3.75 3.75L6.75 0.75"
+                                stroke="white"
+                                stroke-width="1.5"
+                                stroke-linecap="round"
+                                stroke-linejoin="round"/>
+                        </svg>
+
+                        <div class="isbsp-s1-d1-d1-d1-dropdown">
+                            <div data-Bs-dropdown="inspired">Get Inspired</div>
+                            <div data-Bs-dropdown="development">Development</div>
+                            <div data-Bs-dropdown="news">News</div>
+                            <div data-Bs-dropdown="look-inside">Look Inside</div>
+                            <div data-Bs-dropdown="updates">Updates</div>
+                        </div>
+                    </div>
+                    <input class="isbsp-s1-d1-d1-input" type="search" placeholder="Search blogs...">
+                    <div class="isbsp-s1-d1-d1-options">
+                        <div  class="active"><p>All</p></div>
+                        <div data-Bs-search="inspired"><p>Get Inspired</p></div>
+                        <div data-Bs-search="development"><p>Development</p></div>
+                        <div data-Bs-search="news"><p>News</p></div>
+                        <div data-Bs-search="look-inside"><p>Look Inside</p></div>
+                        <div data-Bs-search="updates"><p>Updates</p></div>
+                    </div>
+                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M6.97136 13.1927C10.4073 13.1927 13.1927 10.4073 13.1927 6.97136C13.1927 3.5354 10.4073 0.75 6.97136 0.75C3.5354 0.75 0.75 3.5354 0.75 6.97136C0.75 10.4073 3.5354 13.1927 6.97136 13.1927Z" fill="#F7F8FB" stroke="#281438" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M15.1329 15.1329L11.75 11.75" stroke="#281438" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </div>
+            </div>
+
+            <div class="isbsp-s1-d2">
+                <div class="isbsp-s1-d2-d1">
+                    <img class="isbsp-s1-d2-d1-blog-img" src="./assets/images/Blogs/Rectangle-22.png" alt="">
+                </div>
+                <div class="isbsp-s1-d2-d2">
+                    <div class="isbsp-s1-d2-d1-transition">
+                        <div class="isbsp-s1-d2-d1-transition-tags">
+                            <div class="isbsp-s1-d2-d1-transition-tag1"><p>GEO</p></div>
+                            <div class="isbsp-s1-d2-d1-transition-tag2"><p>Content Optimization</p></div>
+                        </div>
+                        <div class="isbsp-s1-d2-d1-transition-content">
+                            <h1 class="isbsp-s1-d2-d1-transition-title">Strong websites start with sharper and strong brand positioning.</h1>
+                            <p class="isbsp-s1-d2-d1-transition-desc">When website performance dips, the website usually takes the blame. Traffic’s softer than expected.</p>
+                        </div>
+                        <div>
+                            <a href="">
+                                <p>Read more</p>
+                                <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="isbsp-s1-d2-d1-dots">
+                        <div class="isbsp-s1-d2-d1-dot active" data-index="0"></div>
+                        <div class="isbsp-s1-d2-d1-dot" data-index="1"></div>
+                        <div class="isbsp-s1-d2-d1-dot" data-index="2"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Section 1 Ends -->
+
+        <!-- Section 2 Starts -->
+        <section class="isbsp-s2">
+            <h1>
+                Latest Blogs
+            </h1>
+            <div class="isbsp-s2-d1">
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="look-inside" data-Bs-search="look-inside">
+                    <img src="assets/images/CaseStudies/image-11.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-12.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Amit BannerJi</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-13.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="news" data-Bs-search="news">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-22.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="development" data-Bs-search="development">
+                    <img src="assets/images/CaseStudies/image-23.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="look-inside" data-Bs-search="look-inside">
+                    <img src="assets/images/CaseStudies/image-24.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="news" data-Bs-search="news">
+                    <img src="assets/images/CaseStudies/image-25.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-26.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="look-inside" data-Bs-search="look-inside">
+                    <img src="assets/images/CaseStudies/image-12.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="development" data-Bs-search="development">
+                    <img src="assets/images/CaseStudies/image-11.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="development" data-Bs-search="development">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="news" data-Bs-search="news">
+                    <img src="assets/images/CaseStudies/image-13.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="development" data-Bs-search="development">
+                    <img src="assets/images/CaseStudies/image-23.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="development" data-Bs-search="development">
+                    <img src="assets/images/CaseStudies/image-22.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="development" data-Bs-search="development">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="news" data-Bs-search="news">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="updates" data-Bs-search="updates">
+                    <img src="assets/images/CaseStudies/image-11.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="news" data-Bs-search="news">
+                    <img src="assets/images/CaseStudies/image-12.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="development" data-Bs-search="development">
+                    <img src="assets/images/CaseStudies/image-26.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-23.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="look-inside" data-Bs-search="look-inside">
+                    <img src="assets/images/CaseStudies/image-22.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="updates" data-Bs-search="updates">
+                    <img src="assets/images/CaseStudies/image-26.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="news" data-Bs-search="news">
+                    <img src="assets/images/CaseStudies/image-12.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-11.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="look-inside" data-Bs-search="look-inside">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-13.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="updates" data-Bs-search="updates">
+                    <img src="assets/images/CaseStudies/image-23.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="look-inside" data-Bs-search="look-inside">
+                    <img src="assets/images/CaseStudies/image-22.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="news" data-Bs-search="news">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="development" data-Bs-search="development">
+                    <img src="assets/images/CaseStudies/image-11.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="news" data-Bs-search="news">
+                    <img src="assets/images/CaseStudies/image-12.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="updates" data-Bs-search="updates">
+                    <img src="assets/images/CaseStudies/image-26.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="news" data-Bs-search="news">
+                    <img src="assets/images/CaseStudies/image-23.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="updates" data-Bs-search="updates">
+                    <img src="assets/images/CaseStudies/image-22.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="look-inside" data-Bs-search="look-inside">
+                    <img src="assets/images/CaseStudies/image-26.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="development" data-Bs-search="development">
+                    <img src="assets/images/CaseStudies/image-12.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-11.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-13.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="look-inside" data-Bs-search="look-inside">
+                    <img src="assets/images/CaseStudies/image-23.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="look-inside" data-Bs-search="look-inside">
+                    <img src="assets/images/CaseStudies/image-22.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="development" data-Bs-search="development">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="look-inside" data-Bs-search="look-inside">
+                    <img src="assets/images/CaseStudies/image-21.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="development" data-Bs-search="development">
+                    <img src="assets/images/CaseStudies/image-11.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="look-inside" data-Bs-search="look-inside">
+                    <img src="assets/images/CaseStudies/image-12.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+                <div class="isbsp-s2-d1-card" data-Bs-dropdown="inspired" data-Bs-search="inspired">
+                    <img src="assets/images/CaseStudies/image-26.png" alt="">
+                    <h5>SaaS Lead Generation Turnaround with GEO-Driven Optimization</h5>
+                    <div class="isbsp-s2-d1-card-d1">
+                        <div>
+                            <p>GEO</p>
+                        </div>
+                        <div>
+                            <p>Content Optimization</p>
+                        </div>
+                    </div>
+                    <div class="isbsp-s2-d1-card-d2">
+                        <a href="">
+                            <p>View case study</p>
+                            <svg width="6" height="10" viewBox="0 0 6 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L5 5L1 9" stroke="#272727" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="isbsp-s2-d2">
+                <div class="isbsp-s2-d2-prev">
+                    <p>Prev</p>
+                </div>
+                <div class="isbsp-s2-d2-num">
+                    <p>1</p>
+                </div>
+                <div class="isbsp-s2-d2-num">
+                    <p>2</p>
+                </div>
+                <div class="isbsp-s2-d2-num">
+                    <p>3</p>
+                </div>
+                <div class="isbsp-s2-d2-num">
+                    <p>4</p>
+                </div>
+                <div class="isbsp-s2-d2-num">
+                    <p>5</p>
+                </div>
+                <div class="isbsp-s2-d2-next">
+                    <p>Next</p>
+                </div>
+            </div>
+        </section>
+        <!-- Section 2 Ends -->
+
+
+        <!-- Section 3 Starts -->
+        <section class="idsp-s9">
+            <h1>Let’s get you visible in the AI Era</h1>
+            <p>If you’re ready to become the answer in AI-driven search, talk to us. <br> As your dedicated GEO agency, we’ll build the  strategy, execute the work, and measure the outcomes.</p>
+            <button>Get free consultation</button>
+        </section>
+        <!-- Section 3 Ends -->
+
+        <!-- Footer Starts -->
+        <footer class="idlp-footer">
+            <div class="idlp-footer-d1">
+                <div class="idlp-footer-d1-d1">
+                    <div class="idlp-footer-d1-d1-d1">
+                        <a href="">
+                            <img src="assets/images/home/brand.svg" alt="">
+                        </a>
+                    </div>
+                    <p>Intella Digital is a results-driven SEO and digital marketing agency dedicated to helping businesses thrive in the digital landscape.</p>
+                    <div class="idlp-footer-d1-d1-d2">
+                        <a href="">LinkedIn</a>
+                        <a href="">Facebook</a>
+                        <a href="">X</a>
+                        <a href="">Instagram</a>
+                    </div>
+                </div>
+                <div class="idlp-footer-d1-d2">
+                    <a href=""><h6>Quick Links</h6></a>
+                    <a href="home.html"><p>Home</p></a>
+                    <a href=""><p>About us</p></a>
+                    <a href="services.html"><p>Services</p></a>
+                    <a href="contact-us.html"><p>Contact us</p></a>
+                    <a href=""><p>Resources</p></a>
+                </div>
+                <div class="idlp-footer-d1-d3">
+                    <a href=""><h6>Services</h6></a>
+                    <a href=""><p>Digital Marketing</p></a>
+                    <a href=""><p>SEO Marketing</p></a>
+                    <a href=""><p>Social Media Agency</p></a>
+                    <a href=""><p>Web Design Agency</p></a>
+                    <a href=""><p>Startup Agency</p></a>
+                </div>
+                <div class="idlp-footer-d1-d4">
+                    <a href=""><h6>Contact</h6></a>
+                    <a href="" id="footer-numb"><h6>+91-7044224430</h6></a>
+                    <a href="" id="footer-email"><h6>contact@intelladigital.com</h6></a>
+                    <a href=""><p>17/A Marathahalli, Outer Ring Road, Bangalore, India</p></a>
+                </div>
+            </div>
+            <div class="idlp-footer-line"></div>
+            <div class="idlp-footer-rights">
+                <p class="idlp-footer-rights-p1">© 2026 Intella Digital. All Rights Reserved.</p>
+                <div class="idlp-footer-rights-2">
+                    <p>Privacy Policy</p>
+                    <p>Terms & Conditions</p>
+                    <p>Site Map</p>
+                </div>
+            </div>
+        </footer>
+        <!-- Footer Ends -->
+
+    </div>
+    <script src="func.js"></script>
+    <script>
+        
+        const slides = [
+            {
+                img: "./assets/images/Blogs/Rectangle-22.png",
+                tag1: "GEO",
+                tag2: "Content Optimization",
+                title: "Strong websites start with sharper and strong brand positioning.",
+                desc: "When website performance dips, the website usually takes the blame. Traffic’s softer than expected."
+            },
+            {
+                img: "./assets/images/Blogs/blog-img2.png",
+                tag1: "SEO",
+                tag2: "Content Optimization",
+                title: "Working with us will be the best experience of your life",
+                desc: "When website performance dips, the website usually takes the blame. Traffic’s softer than expected."
+            },
+            {
+                img: "./assets/images/Blogs/blog-img3.png",
+                tag1: "Website Development",
+                tag2: "Marketing",
+                title: "Work with Amit BannerJi",
+                desc: "When website performance dips, the website usually takes the blame. Traffic’s softer than expected."
+            }
+        ];
+
+        const img = document.querySelector(".isbsp-s1-d2-d1-blog-img");
+
+        // IMPORTANT: target inner <p>
+        const tag1 = document.querySelector(".isbsp-s1-d2-d1-transition-tag1 p");
+        const tag2 = document.querySelector(".isbsp-s1-d2-d1-transition-tag2 p");
+
+        const title = document.querySelector(".isbsp-s1-d2-d1-transition-title");
+
+        // FIXED CLASS NAME HERE
+        const desc = document.querySelector(".isbsp-s1-d2-d1-transition-desc");
+
+        const dots = document.querySelectorAll(".isbsp-s1-d2-d1-dot");
+
+        function setSlide(index) {
+            const s = slides[index];
+
+            img.src = s.img;
+            tag1.textContent = s.tag1;
+            tag2.textContent = s.tag2;
+            title.textContent = s.title;
+            desc.textContent = s.desc;
+
+            dots.forEach(d => d.classList.remove("active"));
+            dots[index].classList.add("active");
+        }
+
+        // default
+        setSlide(0);
+
+        dots.forEach(dot => {
+            dot.addEventListener("click", () => {
+                setSlide(Number(dot.dataset.index));
+            });
+        });
+    </script>
+
+</body>
+</html>
