@@ -1,16 +1,21 @@
 @media (min-width: 1400px){
-    .idlp-s1{
+    .idlp-s1-inner{
         width: 100%;
         max-width: 1400px;
         margin: 0 auto;
         margin-bottom: 162px;
+        overflow: visible;
     }
-    .idlp-header{
+    .idlp-s1{
+        width: 100%;
+    }
+    .idlp-header-inner{
         max-width: 1400px;
         margin: 0 auto;
         padding: 24px 138px;
         padding-right: 136px;
         padding-left:100px;
+        
     }
     .idlp-s2{
         width: 100%;

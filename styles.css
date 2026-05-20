@@ -136,19 +136,26 @@ a{
 
 
 
-
 .idlp-header{
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 15px 120px 24px 138px;
-    background: #fbfbfb;
+    justify-content: center;
     width: 100%;
     position: sticky;
     top: 0;
     z-index: 100;
+    background: #fbfbfb;
     transition: background 0.25s ease;
 }
+.idlp-header-inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 120px 24px 138px;
+    
+    width: 100%;
+}
+
 .idlp-header.scrolled{
     background: #fff;
 }
@@ -309,21 +316,40 @@ a{
 
 
 .idlp-s1{
-    display: flex;
+    width: 100%;
+    margin-bottom: 162px;
     background-color: #fbfbfb;
+    
+}
+.idlp-s1-inner{
+    display: flex;
     justify-content: space-around;
     padding: 20px 100px;
     padding-top: 102px;
     padding-right: 140px;
     padding-left: 95px;
+    padding-bottom: 130px;
     gap: 0px;
-    margin-bottom: 162px;
+    background: #FBFBFB;
+    overflow: hidden;
+    position: relative;
+}
+.idlp-s1-inner > img{
+    position: absolute;
+    top: 0px;
+    right: -350px;
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    max-height: 100%;
+    z-index: 0;
 }
 .idlp-s1-left{
     display: flex;
     flex-direction: column;
     gap: 25px;
     padding-left: 10px;
+    z-index: 1;
 }
 .idlp-s1-left h1{
     font-family: 'Guminert', sans-serif;
@@ -385,6 +411,7 @@ a{
     gap: 10px;
     padding-top:10px;
     margin-left: 40px;
+    z-index: 1;
 }
 .idlp-s1-right .idlp-s1-right-images{
     display: flex;
