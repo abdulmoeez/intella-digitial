@@ -1380,7 +1380,10 @@ document.addEventListener("DOMContentLoaded", () => {
             document.querySelector(".case-study-rbl-page-container"),
             document.querySelector(".about-page-container"),
             document.querySelector(".blogs-page-container"),
-            document.querySelector(".case-studies-page-container")
+            document.querySelector(".case-studies-page-container"),
+            document.querySelector(".contact-us-page-container"),
+            document.querySelector(".portfolio-page-container"),
+            document.querySelector(".services-page-container")
         ];
     
         // pick the one that actually scrolls

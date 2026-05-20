@@ -117,6 +117,21 @@ a{
     overflow-y: auto;
     overflow-x: hidden;
 }
+.contact-us-page-container{
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.portfolio-page-container{
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.services-page-container{
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
 
 
 
