@@ -420,140 +420,176 @@ document.addEventListener("DOMContentLoaded", () => {
     cardsCarouselSp();
 
     function scrollBasedStepperSp(){
-
-    const section = document.querySelector(".idsp-s4");
-    const cardsContainer = document.querySelector(".idsp-s4-cards-inner");
-    const cards = document.querySelectorAll(".idsp-s4-card");
-    const dots = document.querySelectorAll(".idsp-s4-d2-dot");
-    const progressLine = document.querySelector(".idsp-s4-d2-progress-line");
-    const dotsContainer = document.querySelector(".idsp-s4-d2");
-
-    if (!cardsContainer || !cards.length || !dots.length || !progressLine || !section || !dotsContainer) return;
-
-    const totalCards = cards.length;
-
-    function getFillPositions() {
-        return Array.from(dots).map(dot => {
-            const dotRect = dot.getBoundingClientRect();
-            const containerRect = dotsContainer.getBoundingClientRect();
-
-            return ((dotRect.left + dotRect.width / 2) - containerRect.left) 
+        const scrollContainer = document.querySelector(".services-page-container");
+        if (!scrollContainer) return;
+    
+        const section = scrollContainer.querySelector(".idsp-s4");
+        const cardsContainer = scrollContainer.querySelector(".idsp-s4-cards-inner");
+        const cards = scrollContainer.querySelectorAll(".idsp-s4-card");
+        const dots = scrollContainer.querySelectorAll(".idsp-s4-d2-dot");
+        const progressLine = scrollContainer.querySelector(".idsp-s4-d2-progress-line");
+        const dotsContainer = scrollContainer.querySelector(".idsp-s4-d2");
+        const steps = scrollContainer.querySelectorAll(".idsp-s4-d2-d3 p");
+    
+        if (!cardsContainer || !cards.length || !dots.length || !progressLine || !section || !dotsContainer) return;
+    
+        const stepCount = dots.length;
+    
+        let fillPositions = [];
+        let suppressScrollSync = false;
+        let syncReleaseTimer = null;
+    
+        function getFillPositions() {
+            return Array.from(dots).map(dot => {
+                const dotRect = dot.getBoundingClientRect();
+                const containerRect = dotsContainer.getBoundingClientRect();
+    
+                return ((dotRect.left + dotRect.width / 2) - containerRect.left)
                     / containerRect.width * 100;
-        });
-    }
-
-    let fillPositions = getFillPositions();
-
-    window.addEventListener("resize", () => {
-        fillPositions = getFillPositions();
-    });
-
-    window.addEventListener("scroll", () => {
-
-        const rect = section.getBoundingClientRect();
-        const windowHeight = window.innerHeight;
-
-        const sectionHeight = section.offsetHeight - windowHeight;
-
-        const scrolled = Math.min(
-            Math.max(-rect.top, 0),
-            sectionHeight
-        );
-
-        const progress = scrolled / sectionHeight;
-
-
-        const maxScroll = cardsContainer.scrollWidth - cardsContainer.clientWidth;
-        cardsContainer.scrollLeft = maxScroll * progress;
-
-        const visibilityProgress = Math.min(
-            Math.max((windowHeight - rect.top) / (windowHeight + rect.height), 0),
-            1
-        );
-
-        const activeIndex = Math.min(
-            dots.length - 1,
-            Math.floor(visibilityProgress * dots.length)
-        );
-
-        cards.forEach((card, i) => {
-            card.classList.toggle("active", i === activeIndex);
-        });
-
-
-        dots.forEach(d => d.classList.remove("active"));
-        for (let i = 0; i <= activeIndex; i++) {
-            dots[i].classList.add("active");
+            });
         }
 
-        progressLine.style.width = `${fillPositions[activeIndex]}%`;
+        function getScrollMetrics() {
+            const containerRect = scrollContainer.getBoundingClientRect();
+            const cardsRect = cardsContainer.getBoundingClientRect();
+            const containerHeight = scrollContainer.clientHeight;
+    
+            const maxCardScroll = Math.max(
+                cardsContainer.scrollWidth - cardsContainer.clientWidth,
+                0
+            );
 
-    });
-    }
-    scrollBasedStepperSp();
-
-    function moveDotsIdspS4() {
-    const dots = document.querySelectorAll(".idsp-s4-d2-dot");
-    if (!dots.length) return;
-
-    const fill = document.querySelector(".idsp-s4-d2-progress-line");
-    if (!fill) return;
-
-    const container = fill.parentElement;
-    if (!container) return;
-
-    const cards = document.querySelectorAll(".idsp-s4-card");
-    const steps = document.querySelectorAll(".idsp-s4-d2-d3 p"); 
-    if (!cards.length || !steps.length) return;
-
-
-    const fillPositions = Array.from(dots).map(dot => {
-        const dotRect = dot.getBoundingClientRect();
-        const containerRect = container.getBoundingClientRect();
-        return ((dotRect.left + dotRect.width / 2) - containerRect.left)
-            / containerRect.width * 100;
-    });
-
-    dots.forEach((dot, idx) => {
-        dot.addEventListener("click", () => {
-            const stepNumber = dot.getAttribute("data-step");
-
-
+            const startOffset = containerHeight * 0.9;
+            const endOffset = -cardsRect.height + containerHeight * 0.1;
+    
+            let progress = 0;
+    
+            if (cardsRect.top <= startOffset && cardsRect.bottom >= 0) {
+                const totalDistance = startOffset - endOffset;
+                const scrolled = startOffset - cardsRect.top;
+    
+                progress = Math.min(Math.max(scrolled / totalDistance, 0), 1);
+            }
+    
+            return {
+                progress,
+                maxCardScroll
+            };
+        }
+    
+        function getIndexFromProgress(progress) {
+            if (stepCount <= 1) return 0;
+            return Math.min(stepCount - 1, Math.round(progress * (stepCount - 1)));
+        }
+    
+        function setActiveStep(idx) {
+            const activeIndex = Math.min(Math.max(idx, 0), stepCount - 1);
+    
+            cards.forEach((card, i) => {
+                card.classList.toggle("active", i === activeIndex);
+            });
+    
             dots.forEach(d => d.classList.remove("active"));
-            for (let i = 0; i <= idx; i++) {
+            for (let i = 0; i <= activeIndex; i++) {
                 dots[i].classList.add("active");
             }
-
-            fill.style.width = `${fillPositions[idx]}%`;
-
-            cards.forEach(card => card.classList.remove("active"));
-            const activeCard = document.querySelector(`.idsp-s4-card[data-step="${stepNumber}"]`);
-            if (activeCard) activeCard.classList.add("active");
-
-            // Update steps active state
+    
+            progressLine.style.width = `${fillPositions[activeIndex]}%`;
+    
             steps.forEach(step => step.classList.remove("active"));
-            const activeStep = steps[idx]; // steps are in order, 0-based
-            if (activeStep) activeStep.classList.add("active");
-
-            // Scroll card into view (centered)
-            if (activeCard) {
-                const containerWidth = activeCard.parentElement.clientWidth;
-                const cardCenter = activeCard.offsetLeft + activeCard.offsetWidth / 2;
-                const targetScroll = cardCenter - containerWidth / 2;
-                activeCard.parentElement.scrollTo({
-                    left: targetScroll,
-                    behavior: "smooth"
-                });
+            if (steps[activeIndex]) steps[activeIndex].classList.add("active");
+        }
+    
+        function scrollCardsToIndex(idx, behavior = "auto") {
+            const { maxCardScroll } = getScrollMetrics();
+            const card = cards[idx];
+            if (!card) return;
+    
+            const container = cardsContainer;
+    
+            const cardRect = card.getBoundingClientRect();
+            const containerRect = container.getBoundingClientRect();
+    
+            const currentScroll = container.scrollLeft;
+    
+            let targetScroll = currentScroll;
+    
+            // FIRST card
+            if (idx === 0) {
+                targetScroll = 0;
             }
+    
+            // LAST card
+            else if (idx === stepCount - 1) {
+                targetScroll = maxCardScroll;
+            }
+    
+            // MIDDLE cards (stable full visibility logic)
+            else {
+                const cardLeft = cardRect.left - containerRect.left + currentScroll;
+                const cardRight = cardLeft + cardRect.width;
+    
+                const visibleLeft = currentScroll;
+                const visibleRight = currentScroll + container.clientWidth;
+    
+                if (cardLeft < visibleLeft) {
+                    targetScroll = cardLeft;
+                } else if (cardRight > visibleRight) {
+                    targetScroll = cardRight - container.clientWidth;
+                } else {
+                    targetScroll = currentScroll;
+                }
+            }
+    
+            cardsContainer.scrollTo({
+                left: Math.max(0, Math.min(targetScroll, maxCardScroll)),
+                behavior
+            });
+        }
+    
+        function goToStep(idx, behavior = "smooth") {
+            const progress = stepCount > 1 ? idx / (stepCount - 1) : 0;
+    
+            suppressScrollSync = true;
+            if (syncReleaseTimer) clearTimeout(syncReleaseTimer);
+    
+            setActiveStep(idx);
+            scrollCardsToIndex(idx, behavior);
+    
+            syncReleaseTimer = setTimeout(() => {
+                suppressScrollSync = false;
+                syncReleaseTimer = null;
+            }, behavior === "smooth" ? 500 : 50);
+        }
+    
+        // ✅ UPDATED: now uses new progress correctly
+        function updateStepper() {
+            if (suppressScrollSync) return;
+    
+            const { progress, maxCardScroll } = getScrollMetrics();
+    
+            cardsContainer.scrollLeft = maxCardScroll * progress;
+    
+            setActiveStep(getIndexFromProgress(progress));
+        }
+    
+        dots.forEach((dot, idx) => {
+            dot.addEventListener("click", () => goToStep(idx, "smooth"));
         });
-    });
-
-    dots[0].classList.add("active");
-    fill.style.width = `${fillPositions[0]}%`;
-    if (cards[0]) cards[0].classList.add("active");
-    if (steps[0]) steps[0].classList.add("active");
-     }
-     moveDotsIdspS4();
+    
+        window.addEventListener("resize", () => {
+            fillPositions = getFillPositions();
+            updateStepper();
+        });
+    
+        scrollContainer.addEventListener("scroll", updateStepper, { passive: true });
+    
+        fillPositions = getFillPositions();
+        setActiveStep(0);
+        updateStepper();
+    }
+    
+    scrollBasedStepperSp();
 
      document.querySelectorAll(".idsp-s7-faq").forEach(faq => {
     faq.addEventListener("click", () => {

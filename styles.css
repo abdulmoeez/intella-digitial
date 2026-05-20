@@ -319,7 +319,7 @@ a{
     width: 100%;
     margin-bottom: 162px;
     background-color: #fbfbfb;
-    
+    background: #FBFBFB url(assets/images/home/Vector-1.svg) no-repeat top right;
 }
 .idlp-s1-inner{
     display: flex;
@@ -330,26 +330,14 @@ a{
     padding-left: 95px;
     padding-bottom: 130px;
     gap: 0px;
-    background: #FBFBFB;
+    
     overflow: hidden;
-    position: relative;
-}
-.idlp-s1-inner > img{
-    position: absolute;
-    top: 0px;
-    right: -350px;
-    width: 100%;
-    max-width: 100%;
-    height: 100%;
-    max-height: 100%;
-    z-index: 0;
 }
 .idlp-s1-left{
     display: flex;
     flex-direction: column;
     gap: 25px;
     padding-left: 10px;
-    z-index: 1;
 }
 .idlp-s1-left h1{
     font-family: 'Guminert', sans-serif;
@@ -411,7 +399,6 @@ a{
     gap: 10px;
     padding-top:10px;
     margin-left: 40px;
-    z-index: 1;
 }
 .idlp-s1-right .idlp-s1-right-images{
     display: flex;

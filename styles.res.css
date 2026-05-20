@@ -670,7 +670,7 @@
 
 }
 @media (max-width: 1120px) {
-    .idlp-header{
+    .idlp-header-inner{
     padding: 24px 66px 24px 28px;
     }
     .id-nav{
@@ -744,7 +744,7 @@
         min-width: 150px;
     }
     
-    .idlp-s1{
+    .idlp-s1-inner{
         padding: 20px 100px;
         padding-right: 35px;
         padding-top: 52px;
@@ -1076,7 +1076,7 @@
     }
 }
 @media (max-width: 990px) {
-    .idlp-header{
+    .idlp-header-inner{
     padding-right: 16px;
     padding-top: 24px;
     }
@@ -1222,7 +1222,7 @@
         padding: 7px 27px;
         font-size: 13px;
     }
-    .idlp-header{
+    .idlp-header-inner{
         padding-left: 10px;
         padding-right:10px;
     }
@@ -1413,11 +1413,11 @@
 
 
 @media (max-width: 767px) {
-    .idlp-header{
+    .idlp-header-inner{
         position: relative;
     }
 
-    .idlp-header .id-nav{
+    .idlp-header-inner .id-nav{
         display: none;
         position: absolute;
         top: 100%;
@@ -1432,7 +1432,7 @@
         box-sizing: border-box;
     }
 
-    .idlp-header .id-nav.active{
+    .idlp-header-inner .id-nav.active{
         display: flex;
     }
     .hamburger{
@@ -1452,7 +1452,7 @@
         justify-content: center;
     }
 
-    .idlp-s1 {
+    .idlp-s1-inner {
         display: flex;
         flex-direction: column-reverse;
         justify-content: center;
