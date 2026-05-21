@@ -319,7 +319,7 @@ a{
     width: 100%;
     margin-bottom: 162px;
     background-color: #fbfbfb;
-    background: #FBFBFB url(assets/images/home/Vector-1.svg) no-repeat top right;
+    /* background: #FBFBFB url(assets/images/home/Vector-1.svg) no-repeat top right; */
 }
 .idlp-s1-inner{
     display: flex;
@@ -330,7 +330,7 @@ a{
     padding-left: 95px;
     padding-bottom: 130px;
     gap: 0px;
-    
+    background: #FBFBFB url(assets/images/home/Vector-1.svg) no-repeat top right;
     overflow: hidden;
 }
 .idlp-s1-left{
