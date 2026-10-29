@@ -1,0 +1,48 @@
+/*
+ * Design tokens.
+ * Colours, font families, font sizes and spacing are defined in theme.json (so the editor offers the same
+ * options) and given short names here. All other CSS uses these names, never raw values.
+ * The values are placeholders until the redesign in Design/version 2/ is approved.
+ */
+
+:root {
+	/* Colour */
+	--color-ink: var(--wp--preset--color--ink);
+	--color-paper: var(--wp--preset--color--paper);
+	--color-mist: var(--wp--preset--color--mist);
+	--color-accent: var(--wp--preset--color--accent);
+	--color-accent-dark: var(--wp--preset--color--accent-dark);
+	--color-text: var(--color-ink);
+	--color-background: var(--color-paper);
+	--color-focus: var(--color-accent);
+
+	/* Type */
+	--font-body: var(--wp--preset--font-family--body);
+	--font-heading: var(--wp--preset--font-family--heading);
+	--text-sm: var(--wp--preset--font-size--small);
+	--text-base: var(--wp--preset--font-size--base);
+	--text-lg: var(--wp--preset--font-size--large);
+	--text-xl: var(--wp--preset--font-size--x-large);
+	--text-2xl: var(--wp--preset--font-size--xx-large);
+	--leading-tight: 1.15;
+	--leading-normal: 1.6;
+
+	/* Space */
+	--space-xs: var(--wp--preset--spacing--20);
+	--space-s: var(--wp--preset--spacing--30);
+	--space-m: var(--wp--preset--spacing--40);
+	--space-l: var(--wp--preset--spacing--50);
+	--space-xl: var(--wp--preset--spacing--60);
+
+	/* Layout */
+	--container-max: 75rem;
+	--container-gutter: 1rem;
+	--content-max: 48rem;
+
+	/* Shape and motion */
+	--radius-s: 0.5rem;
+	--radius-m: 1rem;
+	--radius-pill: 999px;
+	--shadow-card: 0 0.5rem 1.5rem rgb(14 10 26 / 0.08);
+	--transition-fast: 150ms ease;
+}

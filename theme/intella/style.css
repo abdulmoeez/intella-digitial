@@ -1,0 +1,14 @@
+/*
+Theme Name:        Intella Digital
+Theme URI:         https://www.intelladigital.com/
+Author:            Intella Digital
+Author URI:        https://www.intelladigital.com/
+Description:       Custom theme for intelladigital.com (version 2), built from scratch. Rules: Code/version 2/CONVENTIONS.md.
+Version:           0.1.0
+Requires at least: 6.7
+Tested up to:      7.1
+Requires PHP:      8.1
+Text Domain:       intella
+*/
+
+/* This file only holds the theme header. All CSS lives in assets/css/ and blocks/<name>/style.css. */

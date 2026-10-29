@@ -1,0 +1,17 @@
+# Local WordPress install and tools (recreated by bin/setup.sh)
+/wordpress/
+/.tools/
+
+# Local secrets and logs
+.env.local
+*.log
+
+# Never commit database dumps or archives
+*.sql
+*.sql.gz
+*.zip
+*.tgz
+
+# Dependencies (if a build step is ever added)
+node_modules/
+vendor/

@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# WP-CLI for the local site. Usage: bin/wp <command>, e.g. bin/wp plugin list
+set -euo pipefail
+source "$(dirname "$0")/config.sh"
+php_quiet -d memory_limit=512M "$WP_CLI" --path="$WP_DIR" "$@"

@@ -1,0 +1,24 @@
+/*
+ * Entry card: a post in a listing (template-parts/content/entry-card.php).
+ */
+
+.entry-card {
+	display: flex;
+	flex-direction: column;
+	gap: var(--space-xs);
+}
+
+.entry-card__media img {
+	border-radius: var(--radius-m);
+	aspect-ratio: 16 / 10;
+	object-fit: cover;
+}
+
+.entry-card__title {
+	font-size: var(--text-lg);
+
+	a {
+		color: inherit;
+		text-decoration: none;
+	}
+}

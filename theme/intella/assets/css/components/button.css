@@ -1,0 +1,36 @@
+/*
+ * Button: the CTA pill. Use on <a> or <button>.
+ * Variants: .button--secondary
+ */
+
+.button {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: var(--space-xs);
+	min-height: 2.75rem;
+	padding: var(--space-xs) var(--space-m);
+	font-weight: 600;
+	color: var(--color-paper);
+	text-decoration: none;
+	background: var(--color-accent);
+	border: 1px solid transparent;
+	border-radius: var(--radius-pill);
+	cursor: pointer;
+	transition: background-color var(--transition-fast);
+
+	&:hover {
+		background: var(--color-accent-dark);
+	}
+}
+
+.button--secondary {
+	color: var(--color-accent);
+	background: transparent;
+	border-color: currentColor;
+
+	&:hover {
+		color: var(--color-paper);
+		background: var(--color-accent);
+	}
+}

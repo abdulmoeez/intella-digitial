@@ -1,0 +1,14 @@
+{
+	"name": "intella-theme",
+	"private": true,
+	"description": "Build tooling for the Intella Digital theme's custom blocks only. Global CSS/JS in assets/ needs no build.",
+	"scripts": {
+		"start": "wp-scripts start --webpack-src-dir=src/blocks --output-path=build/blocks --experimental-modules",
+		"build": "wp-scripts build --webpack-src-dir=src/blocks --output-path=build/blocks --experimental-modules",
+		"lint:js": "wp-scripts lint-js src assets/js",
+		"lint:css": "wp-scripts lint-style \"src/**/*.css\" \"assets/css/**/*.css\""
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^37.0.0"
+	}
+}
