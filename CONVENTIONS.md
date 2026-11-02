@@ -44,7 +44,9 @@ Code/version 2/
 ├── theme/intella/       ★ The theme (presentation only)
 ├── mu-plugins/          ★ Site functionality that must survive a theme change
 │   ├── intella-core.php      Loader
-│   └── intella-core/         Post types, custom fields, forms, schema helpers
+│   ├── intella-core/         Post types, custom fields, forms, schema helpers
+│   ├── intella-admin.php     Loader for the team admin panel at /admin/ (stand-alone; also runs on the live site)
+│   └── intella-admin/        Boards, bug tracker and admins for client work. See its README.md
 └── wordpress/           Local WordPress install (git-ignored, created by bin/setup.sh)
 ```
 
