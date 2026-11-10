@@ -5,7 +5,7 @@
 # One-time setup on the server: create bin/.deploy.env (git-ignored) with the path to the live WordPress, e.g.
 #   WP_PATH="/var/www/intelladigital.com"
 # Optional extras in the same file:
-#   BRANCH="main"                              # Branch to deploy
+#   BRANCH="version-2"                         # Branch to deploy (default: the branch checked out on the server)
 #   AFTER_DEPLOY="sudo systemctl reload php8.3-fpm"   # Only if PHP's opcache doesn't pick up changed files
 #
 # What it does: git pull → links the theme and mu-plugins into wp-content (first run only) → clears caches.
@@ -15,9 +15,8 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 [ -f "$ROOT/bin/.deploy.env" ] && source "$ROOT/bin/.deploy.env"
 : "${WP_PATH:?Set WP_PATH in bin/.deploy.env (the folder that holds wp-config.php)}"
-BRANCH="${BRANCH:-main}"
-
 cd "$ROOT"
+BRANCH="${BRANCH:-$(git rev-parse --abbrev-ref HEAD)}"
 echo "==> Pulling $BRANCH"
 git fetch --quiet origin "$BRANCH"
 git merge --ff-only "origin/$BRANCH"
