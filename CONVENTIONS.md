@@ -40,7 +40,7 @@ Code/version 2/
 ├── README.md            How to run the site locally
 ├── .gitignore
 ├── redirects.md         Log of every URL change and its 301
-├── bin/                 Local dev scripts: setup.sh, start.sh, wp, router.php, config.sh
+├── bin/                 Dev scripts (setup.sh, start.sh, wp, router.php, config.sh) and deploy.sh for the VPS
 ├── theme/intella/       ★ The theme (presentation only)
 ├── mu-plugins/          ★ Site functionality that must survive a theme change
 │   ├── intella-core.php      Loader
@@ -361,5 +361,5 @@ site root (section 6) · Rank Math (section 11) · build step for blocks only (s
 | Q5 | Author / category archives | Keep author pages; drop "Uncategorized" |
 | Q8 | Form handling | Custom handler in intella-core |
 | Q9 | Git branches | Feature branches, reviewed by Amit |
-| Q10 | Hosting, staging and deploy | _Unknown_ |
+| Q10 | Hosting, staging and deploy | VPS; deploy = `git push`, then `bin/deploy.sh` on the server (README). Staging: not set up |
 | Q11 | Arabic / RTL version ever? | Not planned, but CSS stays RTL-ready |

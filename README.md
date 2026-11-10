@@ -56,3 +56,21 @@ cd theme/intella && npm install
 ```
 Then, while working on blocks, keep `npm run start` running (it rebuilds on save). Run `npm run build` before
 committing. Global CSS and JS in `theme/intella/assets/` need no build.
+
+## Deploying (git push → git pull on the VPS)
+Design changes are theme files, so deploying is just moving code. Content (pages, posts, settings, uploads) lives
+in the live database and is never touched by a deploy.
+
+1. Claude changes the code; you check it on http://localhost:8080.
+2. Commit and `git push`.
+3. On the VPS, in the cloned repo:
+   ```bash
+   bin/deploy.sh
+   ```
+   It pulls the latest code, links `theme/intella` and `mu-plugins/` into the live `wp-content/` (first run
+   only), and clears caches. CSS and JS URLs carry the file's modified time, so visitors get the new design
+   straight away.
+
+**One-time server setup:** clone the repo on the VPS outside the web root, install WordPress and WP-CLI there,
+and create `bin/.deploy.env` (git-ignored) with `WP_PATH="/path/to/wordpress"` (the folder with `wp-config.php`).
+If you build blocks, run `npm run build` locally and commit `build/`; the server never needs Node.

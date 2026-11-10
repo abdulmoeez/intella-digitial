@@ -15,3 +15,9 @@
 # Dependencies (if a build step is ever added)
 node_modules/
 vendor/
+
+# Server-only deploy settings
+bin/.deploy.env
+
+# macOS Finder files
+.DS_Store
