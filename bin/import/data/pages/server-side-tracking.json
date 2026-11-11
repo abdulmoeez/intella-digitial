@@ -1,0 +1,275 @@
+{
+ "title": "Server-Side Tracking Setup",
+ "path": "/services/digital-marketing/performance-marketing/server-side-tracking/",
+ "seo": {
+  "title": "Server-Side Tracking Setup | Server-Side Tag Manager | Intella Digital",
+  "description": "Server-side tracking with server-side Google Tag Manager: Google Ads, GA4, Meta Conversions API and TikTok Events API, set up by developers and tested."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Services",
+      "url": "/services/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "Server-Side Tracking",
+      "url": ""
+     }
+    ],
+    "title": "Server-side tracking that <em>survives ad blockers</em>",
+    "lead": "Server-side Tag Manager feeding Google Ads, GA4, Meta and TikTok, set up by our developers, so your ad platforms see more of your conversions.",
+    "buttonText": "Get a server-side tracking plan",
+    "formLabel": "Get a server-side tracking plan",
+    "service": "server-side-tracking",
+    "notes": [
+     "Server-side Google Tag Manager",
+     "Google, Meta and TikTok",
+     "Set up by developers"
+    ],
+    "sliderLabel": "",
+    "fixLabel": "How we fix it",
+    "slides": [],
+    "tools": "",
+    "visual": "<figure class=\"pmrep \" role=\"img\" aria-label=\"Server-side tracking: sample report\">\n\t<div class=\"pmrep__head\"><b>Server-side tracking</b><span>After our setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Server container</span><span class=\"pmrep__s\">Live</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Google Ads</span><span class=\"pmrep__s\">Receiving</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">GA4</span><span class=\"pmrep__s\">Receiving</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Meta CAPI</span><span class=\"pmrep__s\">Receiving</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">TikTok Events API</span><span class=\"pmrep__s\">Receiving</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Conversions recovered</span><span class=\"pmrep__s\">+19%</span></li></ul>\n\t<p class=\"pmrep__foot\">One setup for every platform</p>\n</figure>",
+    "look": "cmhero cmhero--pm cmhero--job"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/signs",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Signs you need <em>server-side tracking</em>",
+    "lead": "Browser tracking misses more every year.",
+    "items": [
+     "Platforms report fewer conversions than your store or CRM",
+     "You advertise on several platforms",
+     "Your site has many scripts slowing it down",
+     "You want more control over what data is shared",
+     "You spend enough that a few percent matters"
+    ],
+    "icon": "sparkle",
+    "asideTitle": "One server, every platform",
+    "asideText": "Events go to your own server first, then on to each platform, with the data you choose.",
+    "buttonText": "Get this fixed",
+    "buttonUrl": "#proposal",
+    "photo": 0,
+    "photoAlt": "",
+    "bubble": "",
+    "shortPhoto": false
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Server-Side Tracking, <em>done properly</em>",
+    "lead": "One fixed-scope project, quoted after a short call. No retainer needed.",
+    "name": "Server-side tracking setup",
+    "price": "Fixed price, quoted after a 30-minute call",
+    "items": [
+     "A server-side Google Tag Manager container",
+     "Hosting on Google Cloud or a managed host",
+     "Your own tracking subdomain",
+     "Google Ads and GA4 tags",
+     "Meta Conversions API and TikTok Events API",
+     "Consent mode respected",
+     "Deduplication with browser tags",
+     "A test report and documentation"
+    ],
+    "delivery": "Usually done in 2 to 3 weeks",
+    "buttonText": "Request a quote",
+    "buttonUrl": "#proposal",
+    "visual": "<figure class=\"pmrep pmrep--side\" role=\"img\" aria-label=\"What you receive: sample report\">\n\t<div class=\"pmrep__head\"><b>What you receive</b><span>Setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Platforms</span><span class=\"pmrep__s\">4</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Tested</span><span class=\"pmrep__s\">Yes</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Consent</span><span class=\"pmrep__s\">Respected</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Docs</span><span class=\"pmrep__s\">Yes</span></li></ul>\n\t<p class=\"pmrep__foot\">Documented for your team</p>\n</figure>"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we set it up",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-271\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-271\">How we <span class=\"accent\">set it up</span></h2>\n\t\t\t\t<p class=\"section-lead\">Built by developers, tested on every platform.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"cmsteps\" role=\"list\"><li class=\"cmstep cmstep--1\">\n\t\t\t\t\t<p class=\"cmstep__when\">Week 1</p>\n\t\t\t\t\t<p class=\"cmstep__n\">1</p>\n\t\t\t\t\t<h3>Audit</h3>\n\t\t\t\t\t<p>Current tags, consent and platforms.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--2\">\n\t\t\t\t\t<p class=\"cmstep__when\">Week 1</p>\n\t\t\t\t\t<p class=\"cmstep__n\">2</p>\n\t\t\t\t\t<h3>Plan</h3>\n\t\t\t\t\t<p>Events, data and hosting.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--3\">\n\t\t\t\t\t<p class=\"cmstep__when\">Week 2</p>\n\t\t\t\t\t<p class=\"cmstep__n\">3</p>\n\t\t\t\t\t<h3>Build</h3>\n\t\t\t\t\t<p>Server container, subdomain and tags.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--4\">\n\t\t\t\t\t<p class=\"cmstep__when\">Week 3</p>\n\t\t\t\t\t<p class=\"cmstep__n\">4</p>\n\t\t\t\t\t<h3>Test</h3>\n\t\t\t\t\t<p>Every platform checked, with consent on and off.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--5\">\n\t\t\t\t\t<p class=\"cmstep__when\">Week 3</p>\n\t\t\t\t\t<p class=\"cmstep__n\">5</p>\n\t\t\t\t\t<h3>Hand over</h3>\n\t\t\t\t\t<p>Documentation and walkthrough.</p>\n\t\t\t\t</li></ol>\n\t\t</div>\n\t</section>",
+    "css": "server-side-tracking",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Why tracking <em>loses conversions</em>",
+    "lead": "What server-side tracking helps with.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "",
+      "problem": "Ad blockers and browsers stop tags.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Events sent from your own server.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Each platform has its own script.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "One container feeding them all.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Data shared without control.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "You choose exactly what goes to each platform.",
+      "afterTitle": "",
+      "after": []
+     }
+    ],
+    "visual": "",
+    "alt": true
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your setup documentation",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-273\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-273\">Your <span class=\"accent\">setup documentation</span></h2>\n\t\t\t\t<p class=\"section-lead\">So your team can maintain it.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"chaps\" role=\"list\"><li class=\"chap\"><span class=\"chap__num\">01</span><h3 class=\"chap__title\">Architecture</h3><p>How data flows from site to platforms.</p><span class=\"chap__pages\">1–2 pages</span></li><li class=\"chap\"><span class=\"chap__num\">02</span><h3 class=\"chap__title\">Tags and events</h3><p>What each platform receives.</p><span class=\"chap__pages\">2 pages</span></li><li class=\"chap\"><span class=\"chap__num\">03</span><h3 class=\"chap__title\">Tests</h3><p>Results on every platform.</p><span class=\"chap__pages\">2 pages</span></li></ol>\n\t\t</div>\n\t</section>",
+    "css": "server-side-tracking",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Alex Barsuk",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ]
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Server-Side Tracking questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What is server-side tracking?",
+      "answer": "Instead of every ad platform’s script running in the visitor’s browser, events go to your own server, which forwards them to Google, Meta and others. It’s more reliable and gives you more control."
+     },
+     {
+      "question": "Will server-side tracking recover lost conversions?",
+      "answer": "Usually some, because it’s less affected by ad blockers and browser limits. It still respects consent."
+     },
+     {
+      "question": "Does server-side tracking cost money to run?",
+      "answer": "Yes, a small hosting cost, depending on traffic. We recommend the right hosting for your volume."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Track conversions <em>every platform can see</em>",
+    "lead": "Tell us your platforms and site. We’ll quote the setup.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "Which ad platforms do you use, and what is your site built on?",
+    "service": "server-side-tracking",
+    "buttonText": "Request a quote",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Related <em>services</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "check",
+      "title": "Google Ads Conversion Tracking",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/conversion-tracking/",
+      "text": "Every conversion set up and tested."
+     },
+     {
+      "icon": "check",
+      "title": "Meta Pixel and Conversions API",
+      "url": "/services/digital-marketing/performance-marketing/facebook-ads/conversions-api/",
+      "text": "Pixel and CAPI, deduplicated and tested."
+     },
+     {
+      "icon": "chart",
+      "title": "Performance Marketing Audit",
+      "url": "/audits/google-ads-audit/",
+      "text": "A full audit of your ad accounts and tracking."
+     }
+    ]
+   }
+  }
+ ]
+}

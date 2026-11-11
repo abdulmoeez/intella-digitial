@@ -1,0 +1,55 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/stats",
+	"title": "Numbers",
+	"category": "intella",
+	"icon": "chart-line",
+	"description": "A band of headline numbers that count up.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/count-up",
+	"intella": {
+		"fields": [
+			{
+				"key": "label",
+				"type": "text",
+				"label": "Label (for screen readers)"
+			},
+			{
+				"key": "stats",
+				"type": "repeater",
+				"label": "Numbers",
+				"itemName": "number",
+				"itemLabel": "label",
+				"fields": [
+					{
+						"key": "number",
+						"type": "text",
+						"label": "Number"
+					},
+					{
+						"key": "suffix",
+						"type": "text",
+						"label": "After the number"
+					},
+					{
+						"key": "label",
+						"type": "text",
+						"label": "Label"
+					},
+					{
+						"key": "note",
+						"type": "text",
+						"label": "Note"
+					}
+				],
+				"default": []
+			}
+		],
+		"section": "cream"
+	}
+}

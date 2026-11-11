@@ -1,0 +1,84 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/quote-strip",
+	"title": "Testimonials (two at a time)",
+	"category": "intella",
+	"icon": "format-quote",
+	"description": "Two testimonials side by side (more rotate in pairs), with optional case study cards.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/quote-pairs",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "plainAccent",
+				"type": "toggle",
+				"label": "Plain highlight (no gradient)",
+				"default": true
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text (optional)"
+			},
+			{
+				"key": "buttonUrl",
+				"type": "url",
+				"label": "Button link"
+			},
+			{
+				"key": "people",
+				"type": "posts",
+				"label": "Testimonials",
+				"postType": "testimonial",
+				"help": "Shown two at a time; with more than two they rotate.",
+				"default": []
+			},
+			{
+				"key": "cases",
+				"type": "repeater",
+				"label": "Case study cards",
+				"itemName": "case study",
+				"panel": "Case study cards",
+				"fields": [
+					{
+						"key": "tag",
+						"type": "text",
+						"label": "Tag"
+					},
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Title"
+					},
+					{
+						"key": "text",
+						"type": "textarea",
+						"label": "Text"
+					},
+					{
+						"key": "linkText",
+						"type": "text",
+						"label": "Link text"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					}
+				],
+				"default": []
+			}
+		],
+		"section": "cream"
+	}
+}

@@ -1,0 +1,58 @@
+/* free-review: section styles, split from the prototype CSS (Code/frontend/assets/css) by bin/import/css_split.py. */
+
+.offer {
+	display: grid;
+	gap: var(--space-2xl);
+	align-items: center;
+	padding: var(--space-2xl) var(--space-lg);
+	border-radius: var(--radius-xl);
+	background: var(--gradient-plum);
+	color: var(--color-on-dark-muted);
+}
+.offer__title {
+	color: var(--color-on-dark);
+	font-size: var(--text-h2);
+}
+.offer__lead {
+	margin-block-start: var(--space-lg);
+	color: rgb(255 255 255 / 0.82);
+	font-size: var(--text-md);
+	line-height: 1.6;
+}
+.check-list {
+	display: grid;
+	gap: 0.55rem;
+	margin-block-start: var(--space-lg);
+	color: var(--color-on-dark);
+
+	& li {
+		display: flex;
+		align-items: center;
+		gap: 0.75rem;
+	}
+
+	& svg {
+		width: 1.1rem;
+		color: #4fd18b;
+		flex: none;
+	}
+}
+@media (min-width: 40rem) {
+	.offer {
+		padding: 3.5rem 3rem;
+	}
+}
+@media (min-width: 64rem) {
+	.offer {
+		grid-template-columns: 1.15fr 1fr;
+		gap: 5rem;
+		padding: 5rem 4.5rem;
+	}
+}
+.hp-field {
+	position: absolute;
+	inset-inline-start: -9999px;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+}

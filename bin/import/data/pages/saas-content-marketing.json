@@ -1,0 +1,411 @@
+{
+ "title": "SaaS Content Marketing Agency",
+ "path": "/services/digital-marketing/content-marketing/saas-content-marketing/",
+ "seo": {
+  "title": "SaaS Content Marketing Agency | Content Marketing for SaaS | Intella Digital",
+  "description": "SaaS content marketing services that turn readers into trials: product-led guides, templates, comparison and integration pages, written by people who use your product."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Services",
+      "url": "/services/"
+     },
+     {
+      "label": "Content Marketing",
+      "url": "/services/digital-marketing/content-marketing/"
+     },
+     {
+      "label": "SaaS Content Marketing",
+      "url": ""
+     }
+    ],
+    "title": "SaaS content marketing that turns <em>readers into sign-ups</em>",
+    "lead": "A SaaS content marketing agency that learns your product first. We create guides, templates and comparison pages that show your product doing the job, and report in trials and sign-ups.",
+    "buttonText": "Get a SaaS content plan",
+    "formLabel": "Get a SaaS content plan",
+    "service": "saas-content-marketing",
+    "notes": [
+     "We learn your product first",
+     "Content mapped to features",
+     "Reported in trials"
+    ],
+    "sliderLabel": "Common SaaS content challenges",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "Common challenge 1 of 4",
+      "title": "Lots of readers, hardly any trials",
+      "card": "<div class=\"cmhc__card cmhc__card--an\"><p class=\"cmhc__h\">Blog, last 90 days</p>\n\t\t\t\t<div class=\"cmhc__kpi\"><span>Readers</span><b>48,200</b><i class=\"up\"><svg viewBox=\"0 0 120 36\" aria-hidden=\"true\"><path d=\"M2 32 L20 28 L38 26 L56 20 L74 16 L92 9 L118 4\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></i><em class=\"up\">+64%</em></div>\n\t\t\t\t<div class=\"cmhc__kpi\"><span>Trial sign-ups</span><b>23</b><i class=\"flat\"><svg viewBox=\"0 0 120 36\" aria-hidden=\"true\"><path d=\"M2 28 L20 30 L38 27 L56 31 L74 29 L92 32 L118 30\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></i><em class=\"flat\">−4%</em></div>\n\t\t\t\t<p class=\"cmhc__note\">Top post: “10 productivity tips for 2027” · 0 trials</p></div>",
+      "photo": "media:assets/images/people-cut/laptop-a.webp",
+      "fix": "Product-led content that shows the product doing the job.",
+      "look": "traffic"
+     },
+     {
+      "kicker": "Common challenge 2 of 4",
+      "title": "Bigger competitors own the searches",
+      "card": "<div class=\"cmhc__card cmhc__card--serp\"><p class=\"cmhc__q\">best project tool for agencies</p>\n\t\t\t\t<ol class=\"cmhc__res\" role=\"list\"><li><b>Asana</b> The 12 best project tools for agencies</li><li><b>Monday.com</b> Agency project management, made simple</li><li><b>G2</b> Best agency software 2027</li><li class=\"you\"><span>#14</span><b>Your product</b> Why we built a tool for agencies</li></ol></div>",
+      "photo": 0,
+      "fix": "We win the searches they ignore, closest to a sign-up.",
+      "look": "rank"
+     },
+     {
+      "kicker": "Common challenge 3 of 4",
+      "title": "Every release makes content out of date",
+      "card": "<div class=\"cmhc__card cmhc__card--old\"><p class=\"cmhc__h\">Help guide: setting up automations</p>\n\t\t\t\t<div class=\"cmhc__ui\"><div class=\"cmhc__old\"><span>Screenshot from v3.1</span><i></i><i></i><i class=\"s\"></i></div><div class=\"cmhc__new\"><span>Product today: v4.2</span><i></i><i></i><i class=\"s\"></i></div></div>\n\t\t\t\t<p class=\"cmhc__note\"><b>38 pages</b> still show the old screens</p></div>",
+      "photo": "media:assets/images/people-cut/developer.webp",
+      "fix": "A launch kit for every release, and quarterly refreshes.",
+      "look": "stale"
+     },
+     {
+      "kicker": "Common challenge 4 of 4",
+      "title": "Trials that never become customers",
+      "card": "<div class=\"cmhc__card cmhc__card--fun\"><p class=\"cmhc__h\">This month’s trials</p>\n\t\t\t\t<ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:100%\"><span>Signed up</span><b>1,240</b></li><li style=\"--w:58%\"><span>Created a project</span><b>720</b></li><li style=\"--w:31%\"><span>Invited a teammate</span><b>384</b></li><li style=\"--w:12%\"><span>Paid</span><b>149</b></li></ul>\n\t\t\t\t<p class=\"cmhc__note\">Most drop off before inviting a teammate</p></div>",
+      "photo": "media:assets/images/people-cut/phone-b.webp",
+      "fix": "Onboarding guides and emails that lead to a first result.",
+      "look": "activate"
+     }
+    ],
+    "tools": "",
+    "visual": "",
+    "look": "cmhero cmhero--saas"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "SaaS content has to sell the product",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-32\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-32\">SaaS content has to <span class=\"accent\">sell the product</span></h2>\n\t\t\t\t<p class=\"section-lead\">Traffic is easy to buy. Sign-ups from content are what matter. Pick a challenge to see how we handle it.</p>\n\t\t\t</div>\n\t\t\t<div class=\"wpvt cmvt\" data-tabs>\n\t\t\t\t<div class=\"wpvt__list\" role=\"tablist\" aria-label=\"SaaS content challenges\" aria-orientation=\"vertical\"><button class=\"wpvt__tab cmvt__tab cmvt__tab--1\" type=\"button\" role=\"tab\" id=\"bh-31-t-big\" aria-controls=\"bh-31-big\" aria-selected=\"true\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">01</i>Competing with big content teams</b><span>Larger competitors publish every day and already own the obvious topics. Writing the same posts later rarely wins.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--2\" type=\"button\" role=\"tab\" id=\"bh-31-t-product\" aria-controls=\"bh-31-product\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">02</i>Content that never mentions the product</b><span>Generic productivity posts bring in readers who have no reason to try your product.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--3\" type=\"button\" role=\"tab\" id=\"bh-31-t-changing\" aria-controls=\"bh-31-changing\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">03</i>A product that keeps changing</b><span>Every release makes screenshots, steps and feature pages a little more out of date.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--4\" type=\"button\" role=\"tab\" id=\"bh-31-t-activation\" aria-controls=\"bh-31-activation\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">04</i>Trials that never activate</b><span>People sign up, look around and never come back. Content often stops at the sign-up button.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--5\" type=\"button\" role=\"tab\" id=\"bh-31-t-compare\" aria-controls=\"bh-31-compare\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">05</i>Losing the comparison searches</b><span>Buyers search “you vs them” and “alternatives to”, and competitors or review sites answer first.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--6\" type=\"button\" role=\"tab\" id=\"bh-31-t-integrations\" aria-controls=\"bh-31-integrations\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">06</i>Integrations nobody can find</b><span>You connect to dozens of tools, but there’s one list page and nothing that ranks.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--7\" type=\"button\" role=\"tab\" id=\"bh-31-t-measure\" aria-controls=\"bh-31-measure\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">07</i>Measuring the wrong thing</b><span>Page views look good in reports, but they don’t pay for the programme.</span>\n\t\t\t\t\t</button></div>\n\t\t\t\t<div class=\"wpvt__panels\"><div class=\"wpvt__panel cmvt__panel cmvt__panel--1\" role=\"tabpanel\" id=\"bh-31-big\" aria-labelledby=\"bh-31-t-big\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Larger competitors publish every day and already own the obvious topics. Writing the same posts later rarely wins.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Win the searches they ignore, closest to your product and to a sign-up.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>You don’t beat a 20-person content team by publishing more. You beat them by being more useful on the searches closest to a buying decision, where they’re often thin.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>A review of the searches your competitors rank for, and the ones they don’t</li><li>Comparison, use-case and integration pages before broad blog posts</li><li>Detailed guides that need real product knowledge to write</li><li>Regular checks for competitor pages that have gone out of date</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Small teams win in search by picking their battles. The right 30 pages beat 300 generic ones.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--gap\"><p class=\"cmv__t\">Search gap review</p><ul class=\"cmv__gaps\" role=\"list\"><li class=\"h\"><span>Topic</span><b>Big competitor</b><b>You</b></li><li><span>Project templates</span><b>✓</b><b class=\"\">✓</b></li><li><span>Client approval tools</span><b>✓</b><b class=\"is-gap\">Our chance</b></li><li><span>Agency resourcing</span><b>–</b><b class=\"is-gap\">Our chance</b></li><li><span>Retainer reporting</span><b>–</b><b class=\"is-gap\">Our chance</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Search gap review</b><p>Topics your buyers search for that big competitors cover badly or not at all.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Bottom-of-funnel first</b><p>Comparison, use-case and integration pages before broad blog posts.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Niche depth</b><p>The detailed guides only a team that knows the product can write.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Faster refreshes</b><p>We update pages quickly when competitors’ content goes stale.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A search gap map</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A prioritised content plan</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Quick-win pages</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--2\" role=\"tabpanel\" id=\"bh-31-product\" aria-labelledby=\"bh-31-t-product\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Generic productivity posts bring in readers who have no reason to try your product.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Show your product doing the job the reader came for.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>Readers don’t sign up because of a blog post. They sign up because a post showed them how your product solves their problem. So the product belongs in the content.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Writers get an account and use the product before writing</li><li>Real screenshots and workflows in every guide</li><li>Free templates that open straight in your product</li><li>A call to action that fits what the reader just learned</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Product-led content turns readers into trials. Generic content turns readers into readers.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--prod\"><p class=\"cmv__dt\">How to get client approvals in one round</p><div class=\"cmv__shot\"><i></i><span><b>Hero copy</b><em>Approved</em></span><span><b>Pricing</b><em class=\"w\">2 comments</em></span></div><p class=\"cmv__cap\">Step 3: share one review link</p><span class=\"cmv__cta\">Use this template in Plotline →</span></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Hands-on product time</b><p>Our writers use your product before they write about it.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Real screenshots and steps</b><p>Workflows shown in the product, not stock images.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Templates that open in the app</b><p>Free templates readers can use straight away in your product.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Natural calls to action</b><p>A reason to sign up that fits each piece, not a banner at the end.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Product-led guides</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Free templates</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> In-post calls to action</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--3\" role=\"tabpanel\" id=\"bh-31-changing\" aria-labelledby=\"bh-31-t-changing\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Every release makes screenshots, steps and feature pages a little more out of date.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Keep content as current as the product, with a kit for every release.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>SaaS products change every few weeks. Without a plan, your best content slowly starts showing screens and steps that no longer exist.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>A launch kit for every major release</li><li>A map of which pages show which product screens</li><li>A quarterly check of top pages against the current product</li><li>Release notes customers actually want to read</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Out-of-date screenshots make buyers wonder what else is out of date.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--rel\"><p class=\"cmv__deal\"><b>Release 4.2</b><span>Automations, shipped Tuesday</span></p><p class=\"cmv__t\">Launch kit</p><ul class=\"cmv__kit\" role=\"list\"><li class=\"on\">Feature page</li><li class=\"on\">Launch article</li><li class=\"on\">Help guide</li><li class=\"on\">Customer email</li><li class=\"\">LinkedIn posts</li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Release launch kits</b><p>A feature page update, launch article, help guide, email and posts for each release.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Screenshot tracking</b><p>A list of which pages show which screens, so updates take hours, not weeks.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Quarterly refreshes</b><p>Older pieces checked against the current product every quarter.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Changelog content</b><p>Release notes written for customers, not engineers.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Launch kits</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A screenshot map</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Quarterly refreshes</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--4\" role=\"tabpanel\" id=\"bh-31-activation\" aria-labelledby=\"bh-31-t-activation\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>People sign up, look around and never come back. Content often stops at the sign-up button.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Help new users reach their first result in their first week.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>A sign-up is only the start. If new users don’t reach a first result quickly, they don’t convert to paid. Content can guide them there.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>We find the steps activated users take in their first days</li><li>Short guides for each of those steps</li><li>Trial emails that send the next guide at the right time</li><li>In-app copy that keeps people moving</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Better activation means more paying customers from the same number of trials.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--act\"><p class=\"cmv__t\">Your first week</p><ul class=\"cmv__kit\" role=\"list\"><li class=\"on\">Create a project</li><li class=\"on\">Invite a client</li><li class=\"\">Send first review</li></ul><div class=\"cmv__bar\"><i style=\"--w:66%\"></i></div><p class=\"cmv__foot\">2 of 3 done. Next guide arrives tomorrow.</p></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Activation research</b><p>We look at what activated users do in their first days.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Onboarding guides</b><p>Short guides that walk users to that first result.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Trial email sequences</b><p>Emails that send the right guide at the right moment.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>In-app help copy</b><p>Empty states, tooltips and checklists written to keep users moving.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Onboarding guides</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Trial emails</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> In-app copy</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--5\" role=\"tabpanel\" id=\"bh-31-compare\" aria-labelledby=\"bh-31-t-compare\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Buyers search “you vs them” and “alternatives to”, and competitors or review sites answer first.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Be the honest answer when buyers compare you.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>Buyers comparing tools are close to a decision. If your competitor or a review site answers their “you vs them” search, they shape the decision.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>We use competitors’ products and note the real differences</li><li>Fair comparison pages that say who each tool suits</li><li>Alternatives pages for buyers leaving a competitor</li><li>Battle cards for sales, from the same research</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Honest comparison pages win trust, and trust wins close decisions.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--cmp\"><p class=\"cmv__t\">Plotline vs Asana</p><table class=\"cmv__tbl\"><tr><th></th><th>Plotline</th><th>Asana</th></tr><tr><td>Client review links</td><td>✓</td><td>✕</td></tr><tr><td>Unlimited guests</td><td>✓</td><td>✕</td></tr><tr><td>Gantt charts</td><td>✕</td><td>✓</td></tr><tr><td>Price per seat</td><td>$12</td><td>$24</td></tr></table><p class=\"cmv__foot\">Best for agencies with client reviews</p></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Competitor research</b><p>We sign up for competitors and note the real differences.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Honest comparison pages</b><p>Fair “you vs them” pages that say who each tool is best for.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Alternatives pages</b><p>Pages for buyers leaving a competitor, with migration steps.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Sales battle cards</b><p>The same research, turned into one-pagers for your sales team.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Comparison pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Alternatives pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Battle cards</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--6\" role=\"tabpanel\" id=\"bh-31-integrations\" aria-labelledby=\"bh-31-t-integrations\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>You connect to dozens of tools, but there’s one list page and nothing that ranks.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Turn every integration into a page that brings in the right users.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>People search for tools that work with the software they already use. Every integration you have is a search you could be ranking for.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>A page for each integration, with set-up steps</li><li>Workflow recipes that combine your product with the other tool</li><li>Joint content with your integration partners</li><li>One template that keeps every page consistent</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Integration searches bring in users who already have the problem and the tools to solve it.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--int\"><p class=\"cmv__t\">Integration pages</p><ul class=\"cmv__tiles\" role=\"list\"><li><i>S</i>Salesforce</li><li><i>S</i>Slack</li><li><i>H</i>HubSpot</li><li><i>X</i>Xero</li><li><i>F</i>Figma</li><li><i>G</i>Google Drive</li></ul><p class=\"cmv__foot\">42 pages live · 9 in the top three</p></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>A page per integration</b><p>What it does, who it’s for and how to set it up.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Use-case recipes</b><p>Step-by-step workflows that combine your product with the other tool.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Partner co-marketing</b><p>Guest posts and joint content with your integration partners.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Templates at scale</b><p>A page structure that keeps hundreds of pages consistent.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Integration pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Workflow recipes</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Partner content</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--7\" role=\"tabpanel\" id=\"bh-31-measure\" aria-labelledby=\"bh-31-t-measure\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Page views look good in reports, but they don’t pay for the programme.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Report in trials, activation and revenue, piece by piece.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>If content is reported in page views, it gets judged on page views. We report what your board cares about: trials, activation and revenue.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Content visits connected to sign-ups in your product analytics</li><li>A list of which pieces new trials read first</li><li>A monthly report on trials, activation and paid conversions</li><li>Quarterly reviews of where to spend next</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>When you can show trials and revenue from content, the programme pays for itself on paper too.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--fun\"><p class=\"cmv__t\">From content, last 6 months</p><ul class=\"cmv__fun\" role=\"list\"><li><span>Readers</span><i style=\"--w:100%\"></i><b>41,200</b></li><li><span>Trials</span><i style=\"--w:46%\"></i><b>1,240</b></li><li><span>Activated</span><i style=\"--w:28%\"></i><b>610</b></li><li><span>Paid</span><i style=\"--w:14%\"></i><b>188</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Product analytics set-up</b><p>Content visits connected to sign-ups and activation in your analytics.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Trials by piece</b><p>Which pieces each new trial read before signing up.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>A monthly report</b><p>Readers, trials, activation and paid conversions, in plain English.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Quarterly reviews</b><p>What to do more of, what to fix and what to stop.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Trial attribution</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A monthly report</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Quarterly reviews</li></ul></div>\n\t\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "saas-content-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Content mapped to your product",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-33\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-33\">Content mapped to <span class=\"accent\">your product</span></h2>\n\t\t\t\t<p class=\"section-lead\">The best SaaS content shows the product doing the job the reader came for. We plan content around your features, so every piece has a natural reason to sign up.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmmx\">\n\t\t\t\t<table class=\"cmmx__table\"><thead><tr><th scope=\"col\"><span class=\"visually-hidden\">Feature</span></th><th scope=\"col\">How-to guide</th><th scope=\"col\">Free template</th><th scope=\"col\">Use case</th><th scope=\"col\">Comparison</th></tr></thead><tbody><tr><th scope=\"row\"><span class=\"cmmx__feat cmmx__feat--1\">Approvals</span></th><td data-label=\"How-to guide\">How to get client sign-off in one round</td><td data-label=\"Free template\">Client approval checklist</td><td data-label=\"Use case\">Approvals for creative agencies</td><td data-label=\"Comparison\">Plotline vs Asana for approvals</td></tr><tr><th scope=\"row\"><span class=\"cmmx__feat cmmx__feat--2\">Automations</span></th><td data-label=\"How-to guide\">How to automate project handovers</td><td data-label=\"Free template\">Handover automation recipes</td><td data-label=\"Use case\">Automations for consultancies</td><td data-label=\"Comparison\">Plotline vs Monday automations</td></tr><tr><th scope=\"row\"><span class=\"cmmx__feat cmmx__feat--3\">Reporting</span></th><td data-label=\"How-to guide\">How to report on project margins</td><td data-label=\"Free template\">Project margin report template</td><td data-label=\"Use case\">Reporting for agency owners</td><td data-label=\"Comparison\">Best tools for project reporting</td></tr><tr><th scope=\"row\"><span class=\"cmmx__feat cmmx__feat--4\">Integrations</span></th><td data-label=\"How-to guide\">How to sync projects with Salesforce</td><td data-label=\"Free template\">Salesforce sync set-up guide</td><td data-label=\"Use case\">Plotline for sales-led teams</td><td data-label=\"Comparison\">Plotline vs Wrike integrations</td></tr></tbody></table>\n\t\t\t</div>\n\t\t\t<div class=\"cmkit\"><p><b>Launch kit</b>For every major release, we create:</p><ul role=\"list\"><li>Feature page update</li><li>Launch article</li><li>Help centre guide</li><li>Customer email</li><li>Three LinkedIn posts</li><li>Sales one-pager</li></ul></div>\n\t\t</div>\n\t</section>",
+    "css": "saas-content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "SaaS content from first search to activation",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-35\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-35\">SaaS content from <span class=\"accent\">first search to activation</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a stage to see what users need from you then, and the content we create for it.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmst2\" data-tabs style=\"--n:4\">\n\t\t\t\t<div class=\"cmst2__tabs\" role=\"tablist\" aria-label=\"Stages from first search to activation\"><button class=\"cmst2__tab cmst2__tab--attract\" type=\"button\" role=\"tab\" id=\"bs-34-t-attract\" aria-controls=\"bs-34-attract\" aria-selected=\"true\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">1</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Attract</b><span>They have a problem and are looking for a better way</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--trust\" type=\"button\" role=\"tab\" id=\"bs-34-t-trust\" aria-controls=\"bs-34-trust\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">2</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Evaluate</b><span>They know the options and want to see if you fit</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--convert\" type=\"button\" role=\"tab\" id=\"bs-34-t-convert\" aria-controls=\"bs-34-convert\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">3</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Sign up</b><span>They’re close, and comparing the last two or three</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--keep\" type=\"button\" role=\"tab\" id=\"bs-34-t-keep\" aria-controls=\"bs-34-keep\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">4</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Activate and expand</b><span>They’ve signed up, and need to get value fast</span></span>\n\t\t\t\t</button></div>\n\t\t\t\t<div class=\"cmst2__panel cmst2__panel--attract\" role=\"tabpanel\" id=\"bs-34-attract\" aria-labelledby=\"bs-34-t-attract\" tabindex=\"0\">\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 1 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Attract</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“They have a problem and are looking for a better way”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Get found by people with the problem you solve</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Readers from search, template downloads, AI citations</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>3</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>How-to guides</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Practical guides to the jobs your product does, with the product shown in use.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>The person doing the work every day</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Step-by-step guides, video walkthroughs</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Brings in readers who have your problem today</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>How to get client approvals in one round</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Free templates and tools</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Useful templates and calculators that rank, and open straight in your product.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Practical people who want a quick win</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Templates, checklists, calculators</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Turns readers into sign-ups without a sales pitch</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Project budget template (free)</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">03</p>\n\t\t\t\t\t\t\t<h3>Original data</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Benchmarks from your product data or surveys, which others quote and link to.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Team leads, journalists and analysts</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Benchmark reports, data studies</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Earns links, press and AI citations</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>How long agency approvals really take: data from 4,000 projects</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--trust\" role=\"tabpanel\" id=\"bs-34-trust\" aria-labelledby=\"bs-34-t-trust\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 2 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Evaluate</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“They know the options and want to see if you fit”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Show the product fits their team</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Use-case page visits, demo views, return visits</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>4</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Use-case pages</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">A page for each team, role and industry that uses your product.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Buyers checking you fit their situation</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Use-case pages, role pages, industry pages</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Answers “is this for teams like mine?”</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>/use-cases/creative-agencies/</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Customer stories</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Short, specific stories with screenshots and numbers.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Buyers who want proof from similar teams</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Case studies, short quotes, video clips</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Shows real results from similar teams</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>How Northbank cut review time by half</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">03</p>\n\t\t\t\t\t\t\t<h3>Product tours</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Written and video tours of the product, for people not ready to talk to sales.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Self-serve buyers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Interactive tours, feature explainers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Lets buyers try before they sign up</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A five-minute tour of Plotline</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">04</p>\n\t\t\t\t\t\t\t<h3>Integration pages</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">A page for every tool you connect to, with set-up steps.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Buyers checking it works with their stack</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Integration pages, workflow recipes</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Removes “will it work with our tools?”</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>/integrations/salesforce/</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--convert\" role=\"tabpanel\" id=\"bs-34-convert\" aria-labelledby=\"bs-34-t-convert\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 3 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Sign up</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“They’re close, and comparing the last two or three”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Make the decision and the sign-up easy</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Trials, demo requests, sign-up rate</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>3</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Comparison and alternatives pages</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Honest pages for buyers comparing you with competitors.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Buyers down to a shortlist</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>“You vs them” pages, alternatives pages</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Wins the comparison searches fairly</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Plotline vs Asana: an honest comparison</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Pricing and plan pages</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Clear pricing copy that answers “which plan do I need?”</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Whoever holds the budget</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Pricing pages, plan comparisons, FAQs</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Cuts drop-off on the pricing page</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A rewritten pricing page with a plan picker</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">03</p>\n\t\t\t\t\t\t\t<h3>Sales enablement</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">One-pagers and battle cards for sales-assisted deals.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Your sales team and bigger buyers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Battle cards, security one-pagers, emails</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Helps bigger deals close faster</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Plotline for IT teams: security and SSO</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--keep\" role=\"tabpanel\" id=\"bs-34-keep\" aria-labelledby=\"bs-34-t-keep\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 4 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Activate and expand</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“They’ve signed up, and need to get value fast”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Get users to their first result, then to more</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Activation, paid conversion, expansion</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>3</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Onboarding guides</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Guides that help new users reach their first result fast, so trials convert.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>New users in their first week</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Getting-started guides, checklists, short videos</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Raises activation and paid conversion</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Your first project in 10 minutes</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Trial and lifecycle emails</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Emails that send the right guide at the right moment.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Trial users and new customers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Trial sequences, nudges, upgrade emails</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Brings users back before they drift away</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A seven-email trial sequence</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">03</p>\n\t\t\t\t\t\t\t<h3>Product newsletters and launches</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Release content customers actually read, which leads to more usage.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Existing customers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>What’s new emails, launch articles, changelog</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Gets new features used, and supports upgrades</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A monthly “what’s new” email</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "saas-content-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "From first call to first results",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-36\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-36\">From first call to <span class=\"accent\">first results</span></h2>\n\t\t\t\t<p class=\"section-lead\">A clear rhythm, built around how product and marketing teams approve and publish content.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"cmsteps\" role=\"list\"><li class=\"cmstep cmstep--1\">\n\t\t\t\t\t<p class=\"cmstep__when\">Weeks 1–2</p>\n\t\t\t\t\t<p class=\"cmstep__n\">1</p>\n\t\t\t\t\t<h3>Research</h3>\n\t\t\t\t\t<p>Your buyers, competitors, sales calls and the questions that lead to a sale.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--2\">\n\t\t\t\t\t<p class=\"cmstep__when\">Week 3</p>\n\t\t\t\t\t<p class=\"cmstep__n\">2</p>\n\t\t\t\t\t<h3>Strategy and calendar</h3>\n\t\t\t\t\t<p>Topics, formats and goals for the first three months, with owners and dates.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--3\">\n\t\t\t\t\t<p class=\"cmstep__when\">Every month</p>\n\t\t\t\t\t<p class=\"cmstep__n\">3</p>\n\t\t\t\t\t<h3>Create</h3>\n\t\t\t\t\t<p>Expert interviews, writing, editing and fact-checking.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--4\">\n\t\t\t\t\t<p class=\"cmstep__when\">Every month</p>\n\t\t\t\t\t<p class=\"cmstep__n\">4</p>\n\t\t\t\t\t<h3>Approve and publish</h3>\n\t\t\t\t\t<p>Your reviewers sign off; we publish and distribute.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--5\">\n\t\t\t\t\t<p class=\"cmstep__when\">Every quarter</p>\n\t\t\t\t\t<p class=\"cmstep__n\">5</p>\n\t\t\t\t\t<h3>Measure and improve</h3>\n\t\t\t\t\t<p>What each piece brought in, what to do more of, and what to refresh.</p>\n\t\t\t\t</li></ol>\n\t\t</div>\n\t</section>",
+    "css": "saas-content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/case-study",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "look": "cmcase cmcase--saas",
+    "kicker": "Case study · SaaS content marketing",
+    "title": "How Plotline grew trial sign-ups <em>from the blog</em>",
+    "client": "Plotline",
+    "clientInfo": "· Project management software for agencies · Series A",
+    "steps": [
+     {
+      "title": "The challenge",
+      "text": "A busy blog with generic productivity tips. Plenty of readers, almost no trials, and competitors owned every comparison search."
+     },
+     {
+      "title": "What we did",
+      "text": "Content mapped to four core features, 20 free templates, comparison pages for every main competitor, and a launch kit for each release."
+     },
+     {
+      "title": "The outcome",
+      "text": "The blog became the second-largest source of trials within nine months, with templates driving most new sign-ups."
+     }
+    ],
+    "buttonText": "Read the case study",
+    "buttonUrl": "/case-studies/",
+    "stats": [
+     {
+      "value": "4.2×",
+      "label": "trial sign-ups from content"
+     },
+     {
+      "value": "20",
+      "label": "free templates"
+     },
+     {
+      "value": "31%",
+      "label": "of new trials start on the blog"
+     },
+     {
+      "value": "9",
+      "label": "months to get there"
+     }
+    ],
+    "chartTitle": "Trial sign-ups from content, per month",
+    "bars": [
+     {
+      "height": 24,
+      "label": "Month 1: 74"
+     },
+     {
+      "height": 26,
+      "label": "Month 2: 80"
+     },
+     {
+      "height": 30,
+      "label": "Month 3: 95"
+     },
+     {
+      "height": 38,
+      "label": "Month 4: 118"
+     },
+     {
+      "height": 46,
+      "label": "Month 5: 142"
+     },
+     {
+      "height": 54,
+      "label": "Month 6: 170"
+     },
+     {
+      "height": 64,
+      "label": "Month 7: 201"
+     },
+     {
+      "height": 76,
+      "label": "Month 8: 236"
+     },
+     {
+      "height": 86,
+      "label": "Month 9: 268"
+     },
+     {
+      "height": 93,
+      "label": "Month 10: 290"
+     },
+     {
+      "height": 96,
+      "label": "Month 11: 301"
+     },
+     {
+      "height": 100,
+      "label": "Month 12: 312"
+     }
+    ],
+    "axisStart": "Month 1",
+    "axisEnd": "Month 12"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "SaaS companies we create content for",
+    "html": "<section class=\"section section--white cmwk2s\" aria-labelledby=\"h-39\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-39\">SaaS companies we create <span class=\"accent\">content for</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a company to see why they came to us, the work we did, what they wanted and what they got.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmwk2\" data-tabs>\n\t\t\t\t<div class=\"cmwk2__tabs\" role=\"tablist\" aria-label=\"SaaS clients\"><button class=\"cmwk2__tab cmwk2__tab--1\" type=\"button\" role=\"tab\" id=\"bw-38-t-ledgerly\" aria-controls=\"bw-38-ledgerly\" aria-selected=\"true\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"6\" y=\"6\" width=\"28\" height=\"28\" rx=\"7\" fill=\"#0f766e\"/><path d=\"M13 13v14h14\" stroke=\"#99f6e4\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Ledgerly</b><span>Books</span></span></span><span class=\"cmwk2__ind\">Accounting software for small firms</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--2\" type=\"button\" role=\"tab\" id=\"bw-38-t-rosterly\" aria-controls=\"bw-38-rosterly\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#c2410c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"5\" y=\"8\" width=\"30\" height=\"26\" rx=\"5\" fill=\"#ea580c\"/><path d=\"M5 15h30\" stroke=\"#fed7aa\" stroke-width=\"3\"/><circle cx=\"14\" cy=\"23\" r=\"2.5\" fill=\"#fff\"/><circle cx=\"20\" cy=\"23\" r=\"2.5\" fill=\"#fff\"/><circle cx=\"26\" cy=\"23\" r=\"2.5\" fill=\"#fed7aa\"/></svg><span class=\"cmlg__w\"><b>Rosterly</b><span>Shifts</span></span></span><span class=\"cmwk2__ind\">Staff scheduling for restaurants</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--3\" type=\"button\" role=\"tab\" id=\"bw-38-t-kitebase\" aria-controls=\"bw-38-kitebase\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#6d28d9\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 3 35 18 20 37 5 18z\" fill=\"#7c3aed\"/><path d=\"M20 3v34M5 18h30\" stroke=\"#ddd6fe\" stroke-width=\"2\"/></svg><span class=\"cmlg__w\"><b>Kitebase</b><span>Feedback</span></span></span><span class=\"cmwk2__ind\">Customer feedback software</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--4\" type=\"button\" role=\"tab\" id=\"bw-38-t-tandem\" aria-controls=\"bw-38-tandem\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#1d4ed8\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"15\" cy=\"20\" r=\"10\" fill=\"#2563eb\"/><circle cx=\"25\" cy=\"20\" r=\"10\" fill=\"#60a5fa\" opacity=\"0.85\"/></svg><span class=\"cmlg__w\"><b>Tandem</b><span>Docs</span></span></span><span class=\"cmwk2__ind\">Document collaboration for legal teams</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--5\" type=\"button\" role=\"tab\" id=\"bw-38-t-fieldnote\" aria-controls=\"bw-38-fieldnote\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#be185d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M8 6h18l6 6v22H8z\" fill=\"#db2777\"/><path d=\"M26 6v6h6\" fill=\"#fbcfe8\"/><path d=\"M13 19h14M13 25h10\" stroke=\"#fff\" stroke-width=\"2.5\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Fieldnote</b><span>Research</span></span></span><span class=\"cmwk2__ind\">User research platform</span>\n\t\t\t\t</button></div>\n\t\t\t\t<article class=\"cmwk2__panel cmwk2__panel--1\" role=\"tabpanel\" id=\"bw-38-ledgerly\" aria-labelledby=\"bw-38-t-ledgerly\" tabindex=\"0\">\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Ledgerly Books</h3>\n\t\t\t\t\t\t\t<p>Accounting software for small firms · Seed to Series A · 14 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Product-led guides</li><li>Templates</li><li>Comparison pages</li><li>Trial emails</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Lots of blog traffic from accounting tips, but almost none of those readers ever started a trial.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content mapped to five core features</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> 24 free templates that open in the product</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Comparison pages for the four main competitors</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A seven-email trial sequence</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>More trials from content, and better trial-to-paid conversion.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>3.6×</b><span>trials from content</span></li><li><b>24</b><span>templates driving sign-ups</span></li><li><b>+18%</b><span>trial-to-paid conversion</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--2\" role=\"tabpanel\" id=\"bw-38-rosterly\" aria-labelledby=\"bw-38-t-rosterly\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Rosterly Shifts</h3>\n\t\t\t\t\t\t\t<p>Staff scheduling for restaurants · Series A · 10 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Integration pages</li><li>Use cases</li><li>Partner content</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>They integrated with 30 point-of-sale and payroll tools, but had one integrations page that ranked for nothing.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A page for each of the 30 integrations</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> 12 workflow recipes with partner tools</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Co-written guides with three POS partners</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Use-case pages for five types of venue</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Sign-ups from people searching for tools that work with their POS.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>30</b><span>integration pages live</span></li><li><b>+140%</b><span>organic sign-ups in 10 months</span></li><li><b>11</b><span>integration pages in the top three</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--3\" role=\"tabpanel\" id=\"bw-38-kitebase\" aria-labelledby=\"bw-38-t-kitebase\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Kitebase Feedback</h3>\n\t\t\t\t\t\t\t<p>Customer feedback software · Series B · 12 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Comparison pages</li><li>Research report</li><li>Battle cards</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Two much bigger competitors owned every “best tool” and comparison search in the category.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A search gap review across 600 category searches</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> 16 honest comparison and alternatives pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> An annual benchmark report from product data</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Battle cards for the sales team</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>To win the comparison searches and show up in “best tool” lists.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>16</b><span>comparison pages in the top five</span></li><li><b>2.2×</b><span>demo requests from search</span></li><li><b>38</b><span>sites citing the benchmark</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--4\" role=\"tabpanel\" id=\"bw-38-tandem\" aria-labelledby=\"bw-38-t-tandem\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Tandem Docs</h3>\n\t\t\t\t\t\t\t<p>Document collaboration for legal teams · Series A · 9 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Onboarding guides</li><li>In-app copy</li><li>Trial emails</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Plenty of trials, but most users left before they invited a colleague, the step that leads to paid plans.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Research into what activated teams did in week one</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Five onboarding guides and short videos</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> In-app checklist and empty-state copy</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A trial email sequence tied to each step</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>More trial teams reaching activation, and more paid conversions.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>+31%</b><span>trials reaching activation</span></li><li><b>+22%</b><span>trial-to-paid conversion</span></li><li><b>5</b><span>onboarding guides in the app</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--5\" role=\"tabpanel\" id=\"bw-38-fieldnote\" aria-labelledby=\"bw-38-t-fieldnote\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Fieldnote Research</h3>\n\t\t\t\t\t\t\t<p>User research platform · Series A · 12 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Launch kits</li><li>Refreshes</li><li>Product newsletters</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>They shipped every two weeks, and their feature pages and help guides were always months behind.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A launch kit for every major release</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A map of which pages show which screens</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Quarterly refreshes of the top 40 pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A monthly “what’s new” email for customers</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Content that keeps up with the product, and new features that customers actually use.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>18</b><span>releases launched with a full kit</span></li><li><b>2×</b><span>adoption of new features</span></li><li><b>40</b><span>top pages kept current</span></li></ul></div>\n\t\t\t\t</article>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "saas-content-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Alex Barsuk",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "SaaS content programmes, for every stage",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-42\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-42\">SaaS content programmes, <span class=\"accent\">for every stage</span></h2>\n\t\t\t\t<p class=\"section-lead\">Three ways to work with us. Each is a fixed monthly price, quoted after a free call.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"cmplans\" role=\"list\"><li class=\"cmplan cmplan--1\">\n\t\t\t\t\t<p class=\"cmplan__name\">Seed</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Early-stage SaaS</p>\n\t\t\t\t\t<p class=\"cmplan__d\">The pages and posts every SaaS site needs first.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content strategy mapped to features</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Four pieces a month</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Comparison pages for main competitors</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly report</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--2 cmplan--main\">\n\t\t\t\t\t<p class=\"cmplan__name\">Growth</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Series A and B</p>\n\t\t\t\t\t<p class=\"cmplan__d\">Product-led content at a steady pace.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Seed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Eight pieces a month</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Templates and free tools</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Launch kits for releases</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Trial and activation reporting</li></ul>\n\t\t\t\t\t<a class=\"button button--primary button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--3\">\n\t\t\t\t\t<p class=\"cmplan__name\">Scale</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Scale-ups</p>\n\t\t\t\t\t<p class=\"cmplan__d\">A full content team for SaaS companies that want to own their category.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Growth</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Integration pages at scale</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Research and data reports</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A dedicated content lead</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li></ul>\n\t\t</div>\n\t</section>",
+    "css": "saas-content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/why-intella",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "A SaaS content marketing agency that <em>uses your product</em>",
+    "items": [
+     {
+      "title": "We learn the product first",
+      "text": "Writers get hands-on with your product before they write about it."
+     },
+     {
+      "title": "Content that sells",
+      "text": "Every piece shows the product solving a real problem."
+     },
+     {
+      "title": "Written by people",
+      "text": "No AI-written content. AI is for research only."
+     },
+     {
+      "title": "Reported in trials",
+      "text": "Sign-ups and activation from each piece, not just page views."
+     }
+    ],
+    "facts": [
+     {
+      "value": "30+",
+      "label": "countries our writers work from"
+     },
+     {
+      "value": "2",
+      "label": "people check every piece"
+     },
+     {
+      "value": "0",
+      "label": "AI-written words"
+     }
+    ],
+    "bigFacts": true,
+    "quote": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "SaaS content marketing questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What is SaaS content marketing?",
+      "answer": "SaaS content marketing is creating content, such as guides, templates, comparison and integration pages, that attracts people with the problem your software solves and shows them how your product solves it."
+     },
+     {
+      "question": "What does a SaaS content marketing agency do?",
+      "answer": "It learns your product, maps content to your features and buyers, writes and edits the content, keeps it up to date with releases and reports on trials and sign-ups."
+     },
+     {
+      "question": "What is product-led content?",
+      "answer": "Content that teaches something useful and shows your product doing it, with real screenshots and workflows, so readers see why they’d want it."
+     },
+     {
+      "question": "How much does SaaS content marketing cost?",
+      "answer": "Every programme is a fixed monthly price, based on your stage and how much content you need. We quote after a free 30-minute call."
+     },
+     {
+      "question": "How long until content brings in trials?",
+      "answer": "Comparison pages and templates can bring in trials within two to three months. Wider programmes build over six to twelve months."
+     },
+     {
+      "question": "Do you use AI to write content?",
+      "answer": "No. Every piece is written and edited by people who have used your product."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Turn your blog into <em>a trial engine</em>",
+    "lead": "Tell us about your product and who it’s for. We’ll look at your content and reply with a plan and a fixed quote.",
+    "steps": [
+     {
+      "title": "We read your content first",
+      "text": "What you publish today, what ranks and what’s missing."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your buyers, your goals and who signs off content."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "The first pieces to create, and what they should achieve."
+     }
+    ],
+    "formTitle": "Request a SaaS content plan",
+    "messageHint": "What does your product do, and who is it for? For example project management for agencies",
+    "service": "saas-content-marketing",
+    "buttonText": "Request my SaaS content plan",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "We sign NDAs",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "SaaS content marketing works best <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "chart",
+      "title": "B2B Content Marketing",
+      "url": "/services/digital-marketing/content-marketing/b2b-content-marketing/",
+      "text": "Content for long sales cycles."
+     },
+     {
+      "icon": "search",
+      "title": "B2B and SaaS SEO",
+      "url": "/services/digital-marketing/seo/b2b-seo/",
+      "text": "SEO that builds pipeline."
+     },
+     {
+      "icon": "code",
+      "title": "SaaS Development",
+      "url": "/services/website-development/laravel/saas-development/",
+      "text": "Product engineering for SaaS teams."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/packages",
+	"title": "Packages",
+	"category": "intella",
+	"icon": "money-alt",
+	"description": "Engagement options side by side; one can be featured.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "inline",
+				"label": "Intro"
+			},
+			{
+				"key": "items",
+				"type": "repeater",
+				"label": "Packages",
+				"itemName": "package",
+				"itemLabel": "name",
+				"fields": [
+					{
+						"key": "name",
+						"type": "text",
+						"label": "Name"
+					},
+					{
+						"key": "for",
+						"type": "text",
+						"label": "Best for"
+					},
+					{
+						"key": "text",
+						"type": "textarea",
+						"label": "Text"
+					},
+					{
+						"key": "ticks",
+						"type": "list",
+						"label": "Ticked points",
+						"default": []
+					},
+					{
+						"key": "featured",
+						"type": "toggle",
+						"label": "Featured"
+					},
+					{
+						"key": "badge",
+						"type": "text",
+						"label": "Badge (featured)"
+					},
+					{
+						"key": "buttonText",
+						"type": "text",
+						"label": "Button text"
+					},
+					{
+						"key": "buttonUrl",
+						"type": "url",
+						"label": "Button link"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "note",
+				"type": "text",
+				"label": "Note under the packages"
+			}
+		],
+		"section": "white"
+	}
+}

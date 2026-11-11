@@ -1,0 +1,1388 @@
+{
+ "title": "Services",
+ "path": "/services/",
+ "seo": {
+  "title": "Services | SEO, AI search, paid ads and web development | Intella Digital",
+  "description": "Intella Digital services: SEO, GEO / AI search, content marketing, Google, LinkedIn and Meta ads, website development, migrations, audits and marketing plans."
+ },
+ "blocks": [
+  {
+   "name": "intella/page-hero",
+   "attrs": {
+    "layout": "center",
+    "title": "Everything you need to <em>grow online</em>",
+    "lead": "Marketing brings the right people to you. Development makes sure your website turns them into customers. Pick one service or let one team handle it all.",
+    "buttons": [],
+    "chipsLabel": "Jump to a service category",
+    "chips": [
+     {
+      "label": "SEO and Content",
+      "url": "#seo"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "#ads"
+     },
+     {
+      "label": "Social Media",
+      "url": "#social"
+     },
+     {
+      "label": "Email & Automation",
+      "url": "#email"
+     },
+     {
+      "label": "CRO & Analytics",
+      "url": "#cro"
+     },
+     {
+      "label": "Design & Branding",
+      "url": "#design"
+     },
+     {
+      "label": "Websites",
+      "url": "#web"
+     },
+     {
+      "label": "Apps & Software",
+      "url": "#apps"
+     },
+     {
+      "label": "Agentic AI Development",
+      "url": "#ai"
+     },
+     {
+      "label": "Audits and Planning",
+      "url": "#audits"
+     }
+    ],
+    "cards": []
+   }
+  },
+  {
+   "name": "intella/stats",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "label": "Intella Digital in numbers",
+    "stats": [
+     {
+      "number": "150",
+      "suffix": "+",
+      "label": "Projects delivered",
+      "note": "Websites, apps, campaigns and audits"
+     },
+     {
+      "number": "12",
+      "suffix": "",
+      "label": "Countries served",
+      "note": "From the Gulf to Europe, the US and Australia"
+     },
+     {
+      "number": "4.9",
+      "suffix": "/5",
+      "label": "Average client rating",
+      "note": "From reviews after every project"
+     },
+     {
+      "number": "3",
+      "suffix": "+ yrs",
+      "label": "Average client relationship",
+      "note": "Clients stay because the work keeps paying off"
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/goals",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Start with <em>your goal</em>",
+    "lead": "Not sure which service you need? Pick what you want to achieve and we’ll show you how we’d get you there.",
+    "goals": [
+     {
+      "color": "violet",
+      "key": "leads",
+      "title": "Get more leads",
+      "text": "Turn your website and ads into a steady flow of enquiries.",
+      "fit": "SEO, Google Ads, CRO",
+      "steps": [
+       {
+        "when": "Week 1",
+        "title": "Find the leaks",
+        "text": "We check your site, ads and tracking to see where enquiries are being lost."
+       },
+       {
+        "when": "Weeks 2–4",
+        "title": "Quick wins",
+        "text": "Faster pages, clearer forms and landing pages, and tidier ad campaigns."
+       },
+       {
+        "when": "Month 2 onwards",
+        "title": "Grow",
+        "text": "SEO content and ads that bring in qualified leads, reported every month."
+       }
+      ],
+      "expect": "More enquiries within 60 to 90 days",
+      "services": [
+       {
+        "label": "SEO",
+        "url": "/services/digital-marketing/seo/"
+       },
+       {
+        "label": "Google Ads",
+        "url": "/services/digital-marketing/performance-marketing/google-ads/"
+       },
+       {
+        "label": "CRO",
+        "url": "/services/digital-marketing/conversion-rate-optimisation/"
+       }
+      ],
+      "primaryText": "Get my free plan",
+      "primaryUrl": "contact.html?goal=My%20main%20goal%20is%20to%20get%20more%20leads.#contact-form",
+      "secondaryText": "See results like this",
+      "secondaryUrl": "case-studies.html?outcome=more-leads#all-stories"
+     },
+     {
+      "color": "pink",
+      "key": "sales",
+      "title": "Sell more online",
+      "text": "More shoppers finding your products, and more of them buying.",
+      "fit": "eCommerce SEO, Shopping Ads, Online stores",
+      "steps": [
+       {
+        "when": "Week 1",
+        "title": "Review the store",
+        "text": "Product pages, checkout, product feed and tracking, step by step."
+       },
+       {
+        "when": "Weeks 2–4",
+        "title": "Fix and launch",
+        "text": "Better product pages, a smoother checkout and Shopping ads that pay back."
+       },
+       {
+        "when": "Month 2 onwards",
+        "title": "Scale",
+        "text": "eCommerce SEO and email flows that bring shoppers back again and again."
+       }
+      ],
+      "expect": "A higher conversion rate and a better return on ad spend",
+      "services": [
+       {
+        "label": "eCommerce SEO",
+        "url": "/services/digital-marketing/ecommerce-seo/"
+       },
+       {
+        "label": "Shopping Ads",
+        "url": "/services/digital-marketing/performance-marketing/google-shopping-ads/"
+       },
+       {
+        "label": "Online stores",
+        "url": "/services/website-development/laravel/laravel-ecommerce-development/"
+       }
+      ],
+      "primaryText": "Get my free plan",
+      "primaryUrl": "contact.html?goal=My%20main%20goal%20is%20to%20sell%20more%20online.#contact-form",
+      "secondaryText": "See results like this",
+      "secondaryUrl": "case-studies.html?outcome=more-sales#all-stories"
+     },
+     {
+      "color": "teal",
+      "key": "ai",
+      "title": "Show up in AI answers",
+      "text": "Be the business ChatGPT, Gemini and Perplexity recommend.",
+      "fit": "GEO, Content, GEO audit",
+      "steps": [
+       {
+        "when": "Week 1",
+        "title": "See what AI says",
+        "text": "We ask the AI assistants about your services and see who they name."
+       },
+       {
+        "when": "Weeks 2–4",
+        "title": "Fix the basics",
+        "text": "Clear service pages, business details and markup that AI can trust."
+       },
+       {
+        "when": "Month 2 onwards",
+        "title": "Earn mentions",
+        "text": "Expert content and citations that get you recommended more often."
+       }
+      ],
+      "expect": "Your business named in AI answers for the questions buyers ask",
+      "services": [
+       {
+        "label": "GEO",
+        "url": "/services/digital-marketing/geo/"
+       },
+       {
+        "label": "Content",
+        "url": "/services/digital-marketing/content-marketing/"
+       },
+       {
+        "label": "GEO audit",
+        "url": "/audits/geo-audit/"
+       }
+      ],
+      "primaryText": "Get my free plan",
+      "primaryUrl": "contact.html?goal=My%20main%20goal%20is%20to%20show%20up%20in%20AI%20answers.#contact-form",
+      "secondaryText": "See results like this",
+      "secondaryUrl": "case-studies.html?outcome=more-traffic#all-stories"
+     },
+     {
+      "color": "orange",
+      "key": "website",
+      "title": "Launch a new website",
+      "text": "A fast, good-looking site that turns visitors into enquiries.",
+      "fit": "Websites, WordPress, Branding",
+      "steps": [
+       {
+        "when": "Weeks 1–2",
+        "title": "Plan",
+        "text": "Goals, pages and content mapped out, with a sitemap you sign off."
+       },
+       {
+        "when": "Weeks 3–8",
+        "title": "Design and build",
+        "text": "Designs first, then the build in short sprints with weekly demos."
+       },
+       {
+        "when": "Launch",
+        "title": "Go live and improve",
+        "text": "Redirects, tracking and training, then tweaks based on real visits."
+       }
+      ],
+      "expect": "A new website live in 6 to 10 weeks",
+      "services": [
+       {
+        "label": "Websites",
+        "url": "/services/website-development/"
+       },
+       {
+        "label": "WordPress",
+        "url": "/services/website-development/wordpress/"
+       },
+       {
+        "label": "Branding",
+        "url": "/services/design/brand-identity/"
+       }
+      ],
+      "primaryText": "Get my free plan",
+      "primaryUrl": "contact.html?goal=My%20main%20goal%20is%20to%20launch%20a%20new%20website.#contact-form",
+      "secondaryText": "See results like this",
+      "secondaryUrl": "case-studies.html?outcome=better-experience#all-stories"
+     },
+     {
+      "color": "blue",
+      "key": "time",
+      "title": "Save time with AI",
+      "text": "Agents and automations that take repetitive work off your team.",
+      "fit": "AI agents, Automation, Chatbots",
+      "steps": [
+       {
+        "when": "Week 1",
+        "title": "Map the busywork",
+        "text": "We list the repetitive tasks and pick the ones worth automating first."
+       },
+       {
+        "when": "Weeks 2–4",
+        "title": "Build and test",
+        "text": "An agent or automation built around your tools, tested with your team."
+       },
+       {
+        "when": "Month 2 onwards",
+        "title": "Roll out",
+        "text": "More tasks automated, with the hours saved reported every month."
+       }
+      ],
+      "expect": "Hours back every week for your team",
+      "services": [
+       {
+        "label": "AI agents",
+        "url": "/ai-agent-development/"
+       },
+       {
+        "label": "Automation",
+        "url": "/ai-workflow-automation/"
+       },
+       {
+        "label": "Chatbots",
+        "url": "/services/ai-development/ai-chatbots/"
+       }
+      ],
+      "primaryText": "Get my free plan",
+      "primaryUrl": "contact.html?goal=My%20main%20goal%20is%20to%20save%20time%20with%20AI.#contact-form",
+      "secondaryText": "See results like this",
+      "secondaryUrl": "case-studies.html?outcome=time-saved#all-stories"
+     },
+     {
+      "color": "amber",
+      "key": "fix",
+      "title": "Find what’s holding you back",
+      "text": "A clear list of what to fix first, and why, before you spend more.",
+      "fit": "Website audit, SEO audit, Marketing plan",
+      "steps": [
+       {
+        "when": "Day 1",
+        "title": "Pick the right audit",
+        "text": "Website, SEO, ads or a full marketing plan, at a fixed price."
+       },
+       {
+        "when": "Weeks 1–2",
+        "title": "We dig in",
+        "text": "A full review of what is working, what isn’t and why."
+       },
+       {
+        "when": "Handover",
+        "title": "Your fix list",
+        "text": "A video walkthrough and a ranked plan that is yours to keep."
+       }
+      ],
+      "expect": "A ranked list of fixes you can act on straight away",
+      "services": [
+       {
+        "label": "Website audit",
+        "url": "/audits/website-audit/"
+       },
+       {
+        "label": "SEO audit",
+        "url": "/audits/seo-audit/"
+       },
+       {
+        "label": "Marketing plan",
+        "url": "/audits/marketing-plan/"
+       }
+      ],
+      "primaryText": "Get my free plan",
+      "primaryUrl": "contact.html?goal=My%20main%20goal%20is%20to%20find%20out%20what%20is%20holding%20my%20website%20or%20marketing%20back.#contact-form",
+      "secondaryText": "See results like this",
+      "secondaryUrl": "case-studies.html?outcome=lower-costs#all-stories"
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/service-lines",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Pick a service line to <em>see what's inside</em>",
+    "tabs": [
+     {
+      "key": "seo",
+      "tab": "SEO and Content",
+      "sub": "Get found on Google and AI",
+      "title": "Get found on Google and in <em>AI answers</em>",
+      "lead": "Rank for the searches your buyers make, show up when they ask AI tools, and win their trust with useful content.",
+      "text": "We start with a technical check-up, then build pages around the questions your buyers actually ask. Every month you see which keywords moved, which pages brought enquiries and what we’re doing next.",
+      "slides": [
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Google Search Console · Performance · Last 12 months</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Total clicks</div><div class=\"mock-stat__value\">48.2K</div><span class=\"mock-up\">▲ +126%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Impressions</div><div class=\"mock-stat__value\">1.9M</div><span class=\"mock-up\">▲ +88%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Average CTR</div><div class=\"mock-stat__value\">2.5%</div><span class=\"mock-up\">▲ +0.6 pts</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Average position</div><div class=\"mock-stat__value\">8.4</div><span class=\"mock-up\">▲ +6.1</span></div></div><svg class=\"mock-chart\" viewBox=\"0 0 640 180\" role=\"img\" aria-label=\"Clicks and impressions growing month on month\"><defs><linearGradient id=\"g24900\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#8f2cf4\" stop-opacity=\"0.28\"/><stop offset=\"1\" stop-color=\"#8f2cf4\" stop-opacity=\"0\"/></linearGradient></defs><line x1=\"16\" x2=\"622\" y1=\"12.0\" y2=\"12.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"47.5\" y2=\"47.5\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"83.0\" y2=\"83.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"118.5\" y2=\"118.5\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"154.0\" y2=\"154.0\" stroke=\"#efeaf2\"/><path d=\"M16.0,115.8 L71.1,111.0 L126.2,103.8 L181.3,96.6 L236.4,91.8 L291.5,82.3 L346.5,75.1 L401.6,65.5 L456.7,58.4 L511.8,48.8 L566.9,36.9 L622.0,24.9 L622.0,154 L16.0,154 Z\" fill=\"url(#g24900)\"/><path d=\"M16.0,115.8 L71.1,111.0 L126.2,103.8 L181.3,96.6 L236.4,91.8 L291.5,82.3 L346.5,75.1 L401.6,65.5 L456.7,58.4 L511.8,48.8 L566.9,36.9 L622.0,24.9\" fill=\"none\" stroke=\"#8f2cf4\" stroke-width=\"2.5\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"622.0\" cy=\"24.9\" r=\"4\" fill=\"#fff\" stroke=\"#8f2cf4\" stroke-width=\"2.5\"/><path d=\"M16.0,96.6 L71.1,91.8 L126.2,87.1 L181.3,82.3 L236.4,75.1 L291.5,70.3 L346.5,63.2 L401.6,58.4 L456.7,51.2 L511.8,46.4 L566.9,39.3 L622.0,34.5\" fill=\"none\" stroke=\"#c43aa6\" stroke-width=\"2.5\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"622.0\" cy=\"34.5\" r=\"4\" fill=\"#fff\" stroke=\"#c43aa6\" stroke-width=\"2.5\"/><text x=\"16.0\" y=\"174\" text-anchor=\"middle\">Nov</text><text x=\"126.2\" y=\"174\" text-anchor=\"middle\">Jan</text><text x=\"236.4\" y=\"174\" text-anchor=\"middle\">Mar</text><text x=\"346.5\" y=\"174\" text-anchor=\"middle\">May</text><text x=\"456.7\" y=\"174\" text-anchor=\"middle\">Jul</text><text x=\"566.9\" y=\"174\" text-anchor=\"middle\">Sep</text><text x=\"622.0\" y=\"174\" text-anchor=\"middle\">Oct</text></svg><div class=\"mock-legend\"><span><i style=\"background:#8f2cf4\"></i>Clicks</span><span><i style=\"background:#c43aa6\"></i>Impressions (÷20)</span></div><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Top query</th><th class=\"num\">Clicks</th><th class=\"num\">Position</th></tr></thead><tbody><tr><td>accounting software for small business</td><td class=\"num\">3,214</td><td class=\"num\"><span class=\"mock-chip mock-chip--ok\">3.2</span></td></tr><tr><td>how to file vat online</td><td class=\"num\">2,086</td><td class=\"num\"><span class=\"mock-chip mock-chip--ok\">4.8</span></td></tr><tr><td>best invoicing app</td><td class=\"num\">1,452</td><td class=\"num\"><span class=\"mock-chip mock-chip--info\">7.1</span></td></tr></tbody></table></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">ChatGPT · Answer with sources</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-chat\">\n\t<div class=\"mock-chat__q\">What’s the best accounting software for a small team?</div>\n\t<div class=\"mock-chat__a\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-sparkle\"/></svg></span><div>For small teams, <b>YourCompany</b> is often recommended for simple invoicing and VAT filing, with a free 14-day trial.\n\t\t<div class=\"mock-cites\"><span class=\"mock-cite mock-cite--you\">yourcompany.com/pricing</span><span class=\"mock-cite\">Comparison guide</span></div></div></div>\n</div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Rank tracker · Top keywords</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Keyword</th><th class=\"num\">Position</th><th class=\"num\">Change</th></tr></thead><tbody><tr><td>seo agency for startups</td><td class=\"num\"><span class=\"mock-chip mock-chip--ok\">2</span></td><td class=\"num\">+9</td></tr><tr><td>technical seo audit</td><td class=\"num\"><span class=\"mock-chip mock-chip--ok\">4</span></td><td class=\"num\">+12</td></tr><tr><td>local seo services</td><td class=\"num\"><span class=\"mock-chip mock-chip--info\">6</span></td><td class=\"num\">+5</td></tr></tbody></table></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Google Maps · “dentist near me”</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-search\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-search\"/></svg>dentist near me</div><svg class=\"mk-map\" viewBox=\"0 0 400 200\" role=\"img\" aria-label=\"Map with business pins\"><rect width=\"400\" height=\"200\" fill=\"#ece8e1\"/><path d=\"M0 60 C120 50 200 90 400 70\" stroke=\"#fff\" stroke-width=\"10\" fill=\"none\"/><path d=\"M60 0 C80 90 140 140 120 200\" stroke=\"#fff\" stroke-width=\"8\" fill=\"none\"/><path d=\"M0 150 C150 160 260 130 400 170\" stroke=\"#fff\" stroke-width=\"7\" fill=\"none\"/><path d=\"M280 0 L300 200\" stroke=\"#fff\" stroke-width=\"6\" fill=\"none\"/><rect x=\"190\" y=\"140\" width=\"60\" height=\"40\" rx=\"6\" fill=\"#d7ecd9\"/><rect x=\"310\" y=\"20\" width=\"70\" height=\"36\" rx=\"6\" fill=\"#d7ecd9\"/><g transform=\"translate(150 70)\"><path d=\"M0 0c-9-13-13-19-13-25a13 13 0 0 1 26 0c0 6-4 12-13 25z\" fill=\"#8f2cf4\"/><text x=\"0\" y=\"-21\" text-anchor=\"middle\" style=\"fill:#fff;font-size:11px;font-weight:700\">★</text></g><g transform=\"translate(250 120)\"><path d=\"M0 0c-9-13-13-19-13-25a13 13 0 0 1 26 0c0 6-4 12-13 25z\" fill=\"#c43a5a\"/><text x=\"0\" y=\"-21\" text-anchor=\"middle\" style=\"fill:#fff;font-size:11px;font-weight:700\">2</text></g><g transform=\"translate(90 140)\"><path d=\"M0 0c-9-13-13-19-13-25a13 13 0 0 1 26 0c0 6-4 12-13 25z\" fill=\"#c43a5a\"/><text x=\"0\" y=\"-21\" text-anchor=\"middle\" style=\"fill:#fff;font-size:11px;font-weight:700\">3</text></g></svg><div class=\"mk-place mk-place--you\"><div><p class=\"mk-place__name\">Your Business</p><p class=\"mk-place__meta\"><span class=\"mk-stars\"><b>4.9</b> <span aria-hidden=\"true\">★★★★★</span></span> (312) · Dentist</p><p class=\"mk-place__meta\">Open · Closes 7 pm</p></div><div class=\"mk-place__btns\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-browser\"/></svg></span><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pin\"/></svg></span></div></div><div class=\"mk-place\"><div><p class=\"mk-place__name\">Competitor Dental</p><p class=\"mk-place__meta\"><span class=\"mk-stars\"><b>4.6</b> <span aria-hidden=\"true\">★★★★★</span></span> (128) · Dentist</p><p class=\"mk-place__meta\">Open · Closes 6 pm</p></div><div class=\"mk-place__btns\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-browser\"/></svg></span><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pin\"/></svg></span></div></div><div class=\"mk-place\"><div><p class=\"mk-place__name\">Another Clinic</p><p class=\"mk-place__meta\"><span class=\"mk-stars\"><b>4.4</b> <span aria-hidden=\"true\">★★★★★</span></span> (86) · Dentist</p><p class=\"mk-place__meta\">Closed · Opens 9 am</p></div><div class=\"mk-place__btns\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-browser\"/></svg></span><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pin\"/></svg></span></div></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Citation audit · Name, address, phone</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats mock-stats--3\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Listings checked</div><div class=\"mock-stat__value\">48</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Consistent</div><div class=\"mock-stat__value\">41</div><span class=\"mock-up\">▲ from 19</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Fixed this month</div><div class=\"mock-stat__value\">22</div></div></div><ul class=\"mock-list\"><li><span>Google Business Profile</span><span class=\"mock-chip mock-chip--ok\">Matches</span></li><li><span>Apple Business Connect</span><span class=\"mock-chip mock-chip--ok\">Matches</span></li><li><span>Bing Places</span><span class=\"mock-chip mock-chip--warn\">Old phone number</span></li><li><span>Yelp</span><span class=\"mock-chip mock-chip--ok\">Matches</span></li><li><span>Facebook page</span><span class=\"mock-chip mock-chip--bad\">Wrong address</span></li><li><span>Industry directory</span><span class=\"mock-chip mock-chip--muted\">Not listed</span></li></ul></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Reviews · Google</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats mock-stats--3\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Average rating</div><div class=\"mock-stat__value\">4.9</div><span class=\"mock-up\">▲ from 4.2</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">New reviews / month</div><div class=\"mock-stat__value\">38</div><span class=\"mock-up\">▲ +29</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Reply rate</div><div class=\"mock-stat__value\">100%</div><span class=\"mock-up\">▲ from 12%</span></div></div><div class=\"mk-review\"><div class=\"mk-review__head\"><span class=\"mk-avatar\">S</span><div><p class=\"mk-review__name\">Sara K.</p><p class=\"mk-place__meta\"><span class=\"mk-stars\"><span aria-hidden=\"true\">★★★★★</span></span> · 2 days ago</p></div></div><p>Friendly team and spotless clinic. They explained every step and the price upfront.</p><p class=\"mk-review__reply\"><b>Response from the owner</b> Thank you, we’re glad the visit went well!</p></div><div class=\"mk-review\"><div class=\"mk-review__head\"><span class=\"mk-avatar\">O</span><div><p class=\"mk-review__name\">Omar H.</p><p class=\"mk-place__meta\"><span class=\"mk-stars\"><span aria-hidden=\"true\">★★★★★</span></span> · 1 week ago</p></div></div><p>Booked online the same day. No waiting, and the follow-up call was a nice touch.</p><p class=\"mk-review__reply\"><b>Response from the owner</b> Thank you, we’re glad the visit went well!</p></div></div>\n</figure>"
+       }
+      ],
+      "links": [
+       {
+        "title": "SEO",
+        "description": "Rank on page 1 for the searches your buyers make.",
+        "url": "/services/digital-marketing/seo/",
+        "tool": "Google"
+       },
+       {
+        "title": "GEO / AI search",
+        "description": "Get recommended in ChatGPT, Gemini and AI Overviews.",
+        "url": "/services/digital-marketing/geo/",
+        "tool": "Gemini"
+       },
+       {
+        "title": "Content Marketing",
+        "description": "Articles and pages that answer buyers and earn links.",
+        "url": "/services/digital-marketing/content-marketing/",
+        "tool": "WordPress"
+       },
+       {
+        "title": "Local SEO",
+        "description": "Win the map pack and local searches in the areas you serve.",
+        "url": "/services/digital-marketing/local-seo/",
+        "tool": "Google Maps"
+       },
+       {
+        "title": "eCommerce SEO",
+        "description": "Category and product pages that rank and sell.",
+        "url": "/services/digital-marketing/ecommerce-seo/",
+        "tool": "Shopify"
+       },
+       {
+        "title": "Link Building",
+        "description": "Earn links from relevant, trusted websites.",
+        "url": "/services/digital-marketing/link-building/",
+        "tool": "Semrush"
+       }
+      ],
+      "ctaText": "",
+      "ctaUrl": ""
+     },
+     {
+      "key": "ads",
+      "tab": "Performance Marketing",
+      "sub": "Paid ads that bring leads",
+      "title": "Paid ads that bring in <em>real leads</em>",
+      "lead": "Campaigns on Google, YouTube, LinkedIn, Facebook and Instagram, tracked all the way to enquiries and sales.",
+      "text": "We set up tracking first, so every lead and sale is counted. Then we test ads and audiences each week, cut what doesn’t work and move budget to the campaigns that bring in customers.",
+      "slides": [
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Ads overview · All platforms · Last 30 days</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Campaign</th><th class=\"num\">Cost</th><th class=\"num\">Conv.</th><th class=\"num\">Cost / conv.</th><th class=\"num\">ROAS</th></tr></thead><tbody><tr><td>Search · Services</td><td class=\"num\">$6,820</td><td class=\"num\">214</td><td class=\"num\">$31.87</td><td class=\"num\">4.1x</td></tr><tr><td>Shopping · Best sellers</td><td class=\"num\">$3,400</td><td class=\"num\">182</td><td class=\"num\">$18.68</td><td class=\"num\">5.2x</td></tr><tr><td>Meta · Prospecting</td><td class=\"num\">$2,900</td><td class=\"num\">121</td><td class=\"num\">$23.97</td><td class=\"num\">3.4x</td></tr><tr><td>LinkedIn · Decision makers</td><td class=\"num\">$2,200</td><td class=\"num\">31</td><td class=\"num\">$70.97</td><td class=\"num\">6.0x</td></tr><tr><td>YouTube · Remarketing</td><td class=\"num\">$1,150</td><td class=\"num\">38</td><td class=\"num\">$30.26</td><td class=\"num\">3.8x</td></tr></tbody></table></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Google search · Ad preview</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-search\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-search\"/></svg>accounting software for small business</div><div class=\"mk-ad mk-ad--you\"><p class=\"mk-ad__top\"><b>Sponsored</b></p><p class=\"mk-ad__url\">yourcompany.com</p><p class=\"mk-ad__title\">Simple Accounting for Small Teams | Free 14-Day Trial</p><p class=\"mk-ad__desc\">Send invoices, track expenses and file VAT in one place.</p><div class=\"mk-ad__links\"><span>Pricing</span><span>Features</span><span>Book a demo</span></div></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Merchant Center · Product feed</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats mock-stats--3\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Products approved</div><div class=\"mock-stat__value\">2,384</div><span class=\"mock-up\">▲ from 1,910</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Disapprovals fixed</div><div class=\"mock-stat__value\">474</div><span class=\"mock-up\">▲ in 30 days</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Feed score</div><div class=\"mock-stat__value\">96%</div><span class=\"mock-up\">▲ +21 pts</span></div></div><ul class=\"mock-list\"><li><span>Titles rewritten with brand, type and colour</span><span class=\"mock-chip mock-chip--ok\">Done</span></li><li><span>Missing GTINs added</span><span class=\"mock-chip mock-chip--ok\">Done</span></li><li><span>Custom labels by margin</span><span class=\"mock-chip mock-chip--ok\">Done</span></li><li><span>Shipping and returns policies</span><span class=\"mock-chip mock-chip--ok\">Fixed</span></li><li><span>Seasonal promotions feed</span><span class=\"mock-chip mock-chip--muted\">Next</span></li></ul></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Search terms report · Wasted spend</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats mock-stats--3\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Wasted spend found</div><div class=\"mock-stat__value\">$3,240</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Negatives added</div><div class=\"mock-stat__value\">186</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Cost / lead</div><div class=\"mock-stat__value\">$38</div><span class=\"mock-up\">▲ from $61</span></div></div><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Search term</th><th class=\"num\">Clicks</th><th>Action</th></tr></thead><tbody><tr><td>dentist near me open now</td><td class=\"num\">42</td><td><span class=\"mock-chip mock-chip--ok\">Keep</span></td></tr><tr><td>free dental check up</td><td class=\"num\">18</td><td><span class=\"mock-chip mock-chip--bad\">Negative</span></td></tr><tr><td>dental implants cost</td><td class=\"num\">27</td><td><span class=\"mock-chip mock-chip--ok\">Keep</span></td></tr><tr><td>dentist jobs</td><td class=\"num\">11</td><td><span class=\"mock-chip mock-chip--bad\">Negative</span></td></tr><tr><td>dental school courses</td><td class=\"num\">6</td><td><span class=\"mock-chip mock-chip--bad\">Negative</span></td></tr></tbody></table></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">YouTube · Campaign funnel</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-bars\"><div class=\"mock-bar\"><span>Impressions</span><em><i style=\"width:100%\"></i></em><span class=\"num\">1.2M</span></div><div class=\"mock-bar\"><span>Views (30s+)</span><em><i style=\"width:58%\"></i></em><span class=\"num\">412K</span></div><div class=\"mock-bar\"><span>Site visits</span><em><i style=\"width:22%\"></i></em><span class=\"num\">18.6K</span></div><div class=\"mock-bar mock-bar--you\"><span>Leads</span><em><i style=\"width:9%\"></i></em><span class=\"num\">742</span></div></div><div class=\"mock-stats mock-stats--3\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Cost per view</div><div class=\"mock-stat__value\">$0.03</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">View rate</div><div class=\"mock-stat__value\">34%</div><span class=\"mock-up\">▲ +9 pts</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Brand search lift</div><div class=\"mock-stat__value\">+41%</div></div></div></div>\n</figure>",
+        "alt": "<figure class=\"mock mk-post mk-post--Instagram\">\n\t<div class=\"mk-post__head\"><span class=\"mk-gbp__logo\">Y</span><div><p class=\"mk-post__brand\">Your Brand</p><p class=\"mk-place__meta\">Sponsored</p></div><span class=\"mk-post__dots\" aria-hidden=\"true\">•••</span></div>\n\t<p class=\"mk-post__text\">New season, new styles. Free delivery this week only.</p>\n\t<div class=\"mk-post__img mk-post__img--square\" style=\"--h:320\"><span>Shop the new collection</span></div>\n\t<div class=\"mk-post__foot\"><div><p class=\"mk-place__meta\">yourbrand.com</p><p class=\"mk-post__headline\">Shop the new collection</p></div><span class=\"mk-post__cta\">Shop now</span></div>\n</figure>"
+       }
+      ],
+      "links": [
+       {
+        "title": "Google Ads",
+        "description": "Search, display and remarketing campaigns for high-intent leads.",
+        "url": "/services/digital-marketing/performance-marketing/google-ads/",
+        "tool": "Google Ads"
+       },
+       {
+        "title": "Google Shopping Ads",
+        "description": "Product ads that put your catalogue in front of buyers.",
+        "url": "/services/digital-marketing/performance-marketing/google-shopping-ads/",
+        "tool": "Google"
+       },
+       {
+        "title": "YouTube Ads",
+        "description": "Video campaigns that build awareness and drive action.",
+        "url": "/services/digital-marketing/performance-marketing/youtube-ads/",
+        "tool": "YouTube"
+       },
+       {
+        "title": "LinkedIn Ads",
+        "description": "Reach decision makers by role, company and industry.",
+        "url": "/services/digital-marketing/performance-marketing/linkedin-ads/",
+        "tool": "LinkedIn"
+       },
+       {
+        "title": "Meta Ads",
+        "description": "Facebook campaigns that build awareness and drive enquiries.",
+        "url": "/services/digital-marketing/performance-marketing/facebook-ads/",
+        "tool": "Meta"
+       },
+       {
+        "title": "Instagram Ads",
+        "description": "Targeted campaigns that grow visibility and win customers.",
+        "url": "/services/digital-marketing/performance-marketing/instagram-ads/",
+        "tool": "Instagram"
+       }
+      ],
+      "ctaText": "Explore performance marketing",
+      "ctaUrl": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "key": "social",
+      "tab": "Social Media",
+      "sub": "Build an audience that buys",
+      "title": "Social media that builds <em>real audiences</em>",
+      "lead": "Consistent, on-brand social content and campaigns that grow your audience and turn followers into customers.",
+      "text": "A content plan built around your audience, posts made in-house and a community that gets replies the same day. We report on reach, clicks and enquiries, not just likes.",
+      "slides": [
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Social report · Last 90 days</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Reach</div><div class=\"mock-stat__value\">1.4M</div><span class=\"mock-up\">▲ +86%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Engagement rate</div><div class=\"mock-stat__value\">4.8%</div><span class=\"mock-up\">▲ +1.9 pts</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Followers</div><div class=\"mock-stat__value\">+6,210</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Website clicks</div><div class=\"mock-stat__value\">9,840</div><span class=\"mock-up\">▲ +120%</span></div></div><svg class=\"mock-chart\" viewBox=\"0 0 640 170\" role=\"img\" aria-label=\"Engagement rate rising each week\"><defs><linearGradient id=\"g66100\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#8f2cf4\" stop-opacity=\"0.28\"/><stop offset=\"1\" stop-color=\"#8f2cf4\" stop-opacity=\"0\"/></linearGradient></defs><line x1=\"16\" x2=\"622\" y1=\"12.0\" y2=\"12.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"45.0\" y2=\"45.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"78.0\" y2=\"78.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"111.0\" y2=\"111.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"144.0\" y2=\"144.0\" stroke=\"#efeaf2\"/><path d=\"M16.0,99.0 L71.1,94.0 L126.2,86.5 L181.3,79.0 L236.4,71.5 L291.5,64.0 L346.5,56.5 L401.6,49.0 L456.7,41.5 L511.8,36.5 L566.9,29.0 L622.0,24.0 L622.0,144 L16.0,144 Z\" fill=\"url(#g66100)\"/><path d=\"M16.0,99.0 L71.1,94.0 L126.2,86.5 L181.3,79.0 L236.4,71.5 L291.5,64.0 L346.5,56.5 L401.6,49.0 L456.7,41.5 L511.8,36.5 L566.9,29.0 L622.0,24.0\" fill=\"none\" stroke=\"#8f2cf4\" stroke-width=\"2.5\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"622.0\" cy=\"24.0\" r=\"4\" fill=\"#fff\" stroke=\"#8f2cf4\" stroke-width=\"2.5\"/><text x=\"16.0\" y=\"164\" text-anchor=\"middle\">W1</text><text x=\"126.2\" y=\"164\" text-anchor=\"middle\">W3</text><text x=\"236.4\" y=\"164\" text-anchor=\"middle\">W5</text><text x=\"346.5\" y=\"164\" text-anchor=\"middle\">W7</text><text x=\"456.7\" y=\"164\" text-anchor=\"middle\">W9</text><text x=\"566.9\" y=\"164\" text-anchor=\"middle\">W11</text><text x=\"622.0\" y=\"164\" text-anchor=\"middle\">W12</text></svg><div class=\"mock-legend\"><span><i style=\"background:#8f2cf4\"></i>Engagement</span></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Content calendar · This week</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-week\"><div class=\"mk-week__col\"><p class=\"mk-kanban__head\">Mon</p><div class=\"mk-week__post\"><span class=\"mk-plat\" style=\"--c:#d6249f\">IG</span><span>Reel: behind the scenes</span><span class=\"mock-chip mock-chip--ok\">Posted</span></div><div class=\"mk-week__post\"><span class=\"mk-plat\" style=\"--c:#0a66c2\">in</span><span>Client win story</span><span class=\"mock-chip mock-chip--ok\">Posted</span></div></div><div class=\"mk-week__col\"><p class=\"mk-kanban__head\">Tue</p><div class=\"mk-week__post\"><span class=\"mk-plat\" style=\"--c:#1877f2\">f</span><span>Weekend offer</span><span class=\"mock-chip mock-chip--warn\">Scheduled</span></div></div><div class=\"mk-week__col\"><p class=\"mk-kanban__head\">Wed</p><div class=\"mk-week__post\"><span class=\"mk-plat\" style=\"--c:#d6249f\">IG</span><span>Carousel: 5 tips</span><span class=\"mock-chip mock-chip--info\">Approved</span></div><div class=\"mk-week__post\"><span class=\"mk-plat\" style=\"--c:#111\">TT</span><span>Trend remix</span><span class=\"mock-chip mock-chip--info\">Approved</span></div></div><div class=\"mk-week__col\"><p class=\"mk-kanban__head\">Thu</p><div class=\"mk-week__post\"><span class=\"mk-plat\" style=\"--c:#0a66c2\">in</span><span>Founder post</span><span class=\"mock-chip mock-chip--muted\">Draft</span></div></div><div class=\"mk-week__col\"><p class=\"mk-kanban__head\">Fri</p><div class=\"mk-week__post\"><span class=\"mk-plat\" style=\"--c:#d6249f\">IG</span><span>Story poll</span><span class=\"mock-chip mock-chip--muted\">Draft</span></div><div class=\"mk-week__post\"><span class=\"mk-plat\" style=\"--c:#1877f2\">f</span><span>Event invite</span><span class=\"mock-chip mock-chip--muted\">Draft</span></div></div></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Top posts · By engagement</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Post</th><th>Format</th><th class=\"num\">Reach</th><th class=\"num\">Eng.</th></tr></thead><tbody><tr><td>How we packed 200 orders</td><td>Reel</td><td class=\"num\">184K</td><td class=\"num\">7.9%</td></tr><tr><td>5 mistakes buyers make</td><td>Carousel</td><td class=\"num\">92K</td><td class=\"num\">6.4%</td></tr><tr><td>Meet the team</td><td>Photo</td><td class=\"num\">41K</td><td class=\"num\">5.1%</td></tr><tr><td>Weekend offer</td><td>Story</td><td class=\"num\">38K</td><td class=\"num\">3.2%</td></tr></tbody></table></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">LinkedIn · Page analytics · 90 days</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Impressions</div><div class=\"mock-stat__value\">612K</div><span class=\"mock-up\">▲ +214%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Followers</div><div class=\"mock-stat__value\">+2,840</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Profile visits</div><div class=\"mock-stat__value\">9,120</div><span class=\"mock-up\">▲ +96%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Inbound leads</div><div class=\"mock-stat__value\">38</div><span class=\"mock-up\">▲ +27</span></div></div><svg class=\"mock-chart\" viewBox=\"0 0 640 160\" role=\"img\" aria-label=\"Weekly impressions (thousands)\"><rect x=\"17.0\" y=\"113.9\" width=\"30.4\" height=\"22.1\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"32.2\" y=\"154\" text-anchor=\"middle\">W1</text><rect x=\"69.3\" y=\"110.2\" width=\"30.4\" height=\"25.8\" rx=\"4\" fill=\"#cbb7e4\"/><rect x=\"121.7\" y=\"112.0\" width=\"30.4\" height=\"24.0\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"136.8\" y=\"154\" text-anchor=\"middle\">W3</text><rect x=\"174.0\" y=\"102.8\" width=\"30.4\" height=\"33.2\" rx=\"4\" fill=\"#cbb7e4\"/><rect x=\"226.3\" y=\"95.4\" width=\"30.4\" height=\"40.6\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"241.5\" y=\"154\" text-anchor=\"middle\">W5</text><rect x=\"278.7\" y=\"89.9\" width=\"30.4\" height=\"46.1\" rx=\"4\" fill=\"#cbb7e4\"/><rect x=\"331.0\" y=\"78.8\" width=\"30.4\" height=\"57.2\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"346.2\" y=\"154\" text-anchor=\"middle\">W7</text><rect x=\"383.3\" y=\"69.6\" width=\"30.4\" height=\"66.4\" rx=\"4\" fill=\"#cbb7e4\"/><rect x=\"435.7\" y=\"58.5\" width=\"30.4\" height=\"77.5\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"450.8\" y=\"154\" text-anchor=\"middle\">W9</text><rect x=\"488.0\" y=\"47.5\" width=\"30.4\" height=\"88.5\" rx=\"4\" fill=\"#8f2cf4\"/><rect x=\"540.3\" y=\"34.6\" width=\"30.4\" height=\"101.4\" rx=\"4\" fill=\"#8f2cf4\"/><text x=\"555.5\" y=\"154\" text-anchor=\"middle\">W11</text><rect x=\"592.7\" y=\"23.5\" width=\"30.4\" height=\"112.5\" rx=\"4\" fill=\"#8f2cf4\"/><text x=\"607.8\" y=\"154\" text-anchor=\"middle\">W12</text></svg></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock mk-post mk-post--LinkedIn\">\n\t<div class=\"mk-post__head\"><span class=\"mk-gbp__logo\">Y</span><div><p class=\"mk-post__brand\">Your Company</p><p class=\"mk-place__meta\">Sponsored</p></div><span class=\"mk-post__dots\" aria-hidden=\"true\">•••</span></div>\n\t<p class=\"mk-post__text\">How we cut onboarding time in half for a 40-person team, and what we’d do differently next time.</p>\n\t<div class=\"mk-post__img\" style=\"--h:230\"><span>Read the case study</span></div>\n\t<div class=\"mk-post__foot\"><div><p class=\"mk-place__meta\">yourbrand.com</p><p class=\"mk-post__headline\">Read the case study</p></div><span class=\"mk-post__cta\">Learn more</span></div>\n</figure>",
+        "alt": "<figure class=\"mk-story\" style=\"--h:320\">\n\t<div class=\"mk-story__bars\"><i></i><i></i><i></i></div>\n\t<div class=\"mk-story__head\"><span class=\"mk-gbp__logo\">Y</span><b>Your Brand</b><span>Sponsored</span></div>\n\t<p class=\"mk-story__title\">The new collection is here</p>\n\t<span class=\"mk-story__cta\">Shop now ›</span>\n</figure>"
+       }
+      ],
+      "links": [
+       {
+        "title": "Social Media Management",
+        "description": "Planning, posting and reporting across your channels.",
+        "url": "/social-media-management/",
+        "tool": "Hootsuite"
+       },
+       {
+        "title": "Content Creation",
+        "description": "Graphics, reels and short videos made for each platform.",
+        "url": "/social-content-creation/",
+        "tool": "Behance"
+       },
+       {
+        "title": "LinkedIn for B2B",
+        "description": "Company and founder content that builds authority.",
+        "url": "/linkedin-b2b/",
+        "tool": "LinkedIn"
+       },
+       {
+        "title": "Influencer Marketing",
+        "description": "Partnerships with creators your buyers already follow.",
+        "url": "/services/digital-marketing/social-media/influencer-marketing/",
+        "tool": "TikTok"
+       }
+      ],
+      "ctaText": "",
+      "ctaUrl": ""
+     },
+     {
+      "key": "email",
+      "tab": "Email & Automation",
+      "sub": "Nurture leads on autopilot",
+      "title": "Turn leads into customers <em>on autopilot</em>",
+      "lead": "Emails, automated journeys and CRM setups that follow up with every lead at the right moment.",
+      "text": "Welcome series, nurture flows and newsletters that keep leads warm until they’re ready to talk. Your CRM stays tidy, so sales always knows who to call next.",
+      "slides": [
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Klaviyo · Flow · Welcome series</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-flow\"><div class=\"mk-flow__step mk-flow__step--trigger\"><span class=\"mk-flow__icon\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-zap\"/></svg></span><div><p class=\"mk-flow__label\">Signs up for the guide</p><p class=\"mk-place__meta\">Form on /resources</p></div></div><div class=\"mk-flow__step mk-flow__step--email\"><span class=\"mk-flow__icon\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-mail\"/></svg></span><div><p class=\"mk-flow__label\">Welcome + your guide</p><p class=\"mk-place__meta\">Sent instantly · 61% open</p></div></div><div class=\"mk-flow__step mk-flow__step--wait\"><span class=\"mk-flow__icon\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-calendar\"/></svg></span><div><p class=\"mk-flow__label\">Wait 2 days</p><p class=\"mk-place__meta\"></p></div></div><div class=\"mk-flow__step mk-flow__step--split\"><span class=\"mk-flow__icon\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-swap\"/></svg></span><div><p class=\"mk-flow__label\">Opened the first email?</p><p class=\"mk-place__meta\">Yes → case study · No → reminder</p></div></div><div class=\"mk-flow__step mk-flow__step--email\"><span class=\"mk-flow__icon\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-mail\"/></svg></span><div><p class=\"mk-flow__label\">Case study: how Atlas grew 2x</p><p class=\"mk-place__meta\">9.4% click</p></div></div><div class=\"mk-flow__step mk-flow__step--crm\"><span class=\"mk-flow__icon\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-layers\"/></svg></span><div><p class=\"mk-flow__label\">Hand to sales in HubSpot</p><p class=\"mk-place__meta\">Lead score 60+</p></div></div></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Email campaigns · Last 30 days</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Campaign</th><th class=\"num\">Open</th><th class=\"num\">Click</th><th class=\"num\">Revenue</th></tr></thead><tbody><tr><td>Autumn guide</td><td class=\"num\">48%</td><td class=\"num\">6.1%</td><td class=\"num\">$12.4K</td></tr><tr><td>Abandoned cart</td><td class=\"num\">52%</td><td class=\"num\">11.8%</td><td class=\"num\">$18.9K</td></tr><tr><td>Welcome series</td><td class=\"num\">61%</td><td class=\"num\">9.4%</td><td class=\"num\">$9.2K</td></tr><tr><td>Win-back</td><td class=\"num\">34%</td><td class=\"num\">3.9%</td><td class=\"num\">$4.1K</td></tr></tbody></table></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Inbox</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-mail mk-mail--you\"><b>Your Brand</b><span class=\"mk-mail__subj\">Your autumn guide is here 🍂</span><span class=\"mk-mail__pre\">3 ideas to try this weekend…</span></div><div class=\"mk-mail\"><b>Newsletter</b><span class=\"mk-mail__subj\">Weekly digest</span><span class=\"mk-mail__pre\">Top stories this week…</span></div><div class=\"mk-mail mk-mail--you\"><b>Your Brand</b><span class=\"mk-mail__subj\">Still thinking it over?</span><span class=\"mk-mail__pre\">Your cart is saved for 48 hours…</span></div><div class=\"mk-mail\"><b>Bank</b><span class=\"mk-mail__subj\">Statement ready</span><span class=\"mk-mail__pre\">Your monthly statement…</span></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">HubSpot · Deals pipeline</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-kanban\"><div class=\"mk-kanban__col\"><p class=\"mk-kanban__head\">New lead <span>$84K</span></p><div class=\"mk-kanban__card\">Northwind Ltd<span class=\"mock-chip mock-chip--muted\">$12K</span></div><div class=\"mk-kanban__card\">Bluebay Clinic<span class=\"mock-chip mock-chip--muted\">$8K</span></div></div><div class=\"mk-kanban__col\"><p class=\"mk-kanban__head\">Qualified <span>$62K</span></p><div class=\"mk-kanban__card\">Atlas Foods<span class=\"mock-chip mock-chip--info\">$24K</span></div></div><div class=\"mk-kanban__col\"><p class=\"mk-kanban__head\">Proposal <span>$48K</span></p><div class=\"mk-kanban__card\">Crescent Hotels<span class=\"mock-chip mock-chip--warn\">$30K</span></div><div class=\"mk-kanban__card\">Orbit Labs<span class=\"mock-chip mock-chip--warn\">$18K</span></div></div><div class=\"mk-kanban__col\"><p class=\"mk-kanban__head\">Won <span>$91K</span></p><div class=\"mk-kanban__card\">Summit Group<span class=\"mock-chip mock-chip--ok\">$41K</span></div></div></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Contact record · Timeline</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-creator\"><span class=\"mk-creator__avatar\" style=\"--h:200\">S</span><div><p class=\"mk-gbp__name\">Sarah Ahmed</p><p class=\"mk-place__meta\">Head of Operations · Northwind Ltd</p></div><span class=\"mock-chip mock-chip--info\">Lead score 82</span></div>\n<ul class=\"mk-timeline\"><li><b>Today</b> Booked a demo from the pricing page</li><li><b>2 days ago</b> Opened “Case study: Atlas Foods” · clicked</li><li><b>5 days ago</b> Downloaded the operations checklist</li><li><b>9 days ago</b> First visit from LinkedIn ad</li></ul></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Lead scoring rules</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Action</th><th class=\"num\">Points</th></tr></thead><tbody><tr><td>Visited pricing page</td><td class=\"num\">+20</td></tr><tr><td>Booked a demo</td><td class=\"num\">+40</td></tr><tr><td>Opened 3+ emails</td><td class=\"num\">+10</td></tr><tr><td>Job title: Director or above</td><td class=\"num\">+15</td></tr><tr><td>Personal email address</td><td class=\"num\">−10</td></tr></tbody></table></div><p class=\"mock__heading\" style=\"margin-top:1rem\">Sales-ready at 70 points</p><div class=\"mock-bars\"><div class=\"mock-bar mock-bar--you\"><span>Ready for sales</span><em><i style=\"width:24%\"></i></em><span class=\"num\">24</span></div><div class=\"mock-bar\"><span>Warming up</span><em><i style=\"width:58%\"></i></em><span class=\"num\">58</span></div><div class=\"mock-bar\"><span>Early stage</span><em><i style=\"width:100%\"></i></em><span class=\"num\">100</span></div></div></div>\n</figure>"
+       }
+      ],
+      "links": [
+       {
+        "title": "Email Marketing",
+        "description": "Newsletters and campaigns people actually open.",
+        "url": "/services/digital-marketing/email-marketing/",
+        "tool": "Mailchimp"
+       },
+       {
+        "title": "Marketing Automation",
+        "description": "Welcome, nurture and follow-up flows that run on their own.",
+        "url": "/services/digital-marketing/marketing-automation/",
+        "tool": "Brevo"
+       },
+       {
+        "title": "CRM Setup",
+        "description": "HubSpot and other CRMs set up around how you sell.",
+        "url": "/services/digital-marketing/crm-setup/",
+        "tool": "HubSpot"
+       },
+       {
+        "title": "Lead Nurturing",
+        "description": "Sequences that warm up leads until they are ready to talk.",
+        "url": "/services/digital-marketing/lead-nurturing/",
+        "tool": "Gmail"
+       }
+      ],
+      "ctaText": "Explore email and automation",
+      "ctaUrl": "/services/digital-marketing/email-marketing/"
+     },
+     {
+      "key": "cro",
+      "tab": "CRO & Analytics",
+      "sub": "More leads from the same traffic",
+      "title": "Get more from the traffic <em>you already have</em>",
+      "lead": "Clean tracking, clear dashboards and steady testing that turn more of your visitors into enquiries.",
+      "text": "We find where visitors drop off using analytics, heatmaps and recordings, then test changes that remove friction. Small wins on key pages add up to more leads from the same traffic.",
+      "slides": [
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Optimizely · Pricing page test</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-ab\">\n\t<div class=\"mk-ab__v\"><p class=\"mk-ab__name\">A · Control</p><div class=\"mk-ab__page\"><span class=\"wf-line\"></span><span class=\"wf-line wf-line--short\"></span><span class=\"wf-btn\" style=\"background:#8a8191\">Start free trial</span></div><p class=\"mk-ab__rate\">3.1%</p><p class=\"mk-place__meta\">conversion rate</p></div>\n\t<div class=\"mk-ab__v mk-ab__v--win\"><p class=\"mk-ab__name\">B · Variant <span class=\"mock-chip mock-chip--ok\">Winner</span></p><div class=\"mk-ab__page\"><span class=\"wf-line\"></span><span class=\"wf-line wf-line--short\"></span><span class=\"wf-btn\">See plans and pricing</span></div><p class=\"mk-ab__rate\">4.6%</p><p class=\"mk-place__meta\">conversion rate</p></div>\n</div><div class=\"mock-stats mock-stats--3\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Uplift</div><div class=\"mock-stat__value\">+48%</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Confidence</div><div class=\"mock-stat__value\">97%</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Visitors</div><div class=\"mock-stat__value\">18,420</div></div></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Hotjar · Heatmap · Product page</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-heat\"><div class=\"mk-heat__page\"><span class=\"wf-line\" style=\"width:40%\"></span><span class=\"mk-heat__img\"></span><span class=\"wf-line\"></span><span class=\"wf-line wf-line--short\"></span><span class=\"wf-btn\">Add to cart</span><span class=\"wf-line\"></span><span class=\"wf-line\"></span><span class=\"wf-line wf-line--short\"></span></div><i class=\"mk-heat__spot\" style=\"--x:50%;--y:30%;--s:7rem\"></i><i class=\"mk-heat__spot\" style=\"--x:28%;--y:58%;--s:5rem\"></i><i class=\"mk-heat__spot mk-heat__spot--cool\" style=\"--x:62%;--y:82%;--s:6rem\"></i></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Looker Studio · Marketing dashboard</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-dash\"><div class=\"mock-stats\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Sessions</div><div class=\"mock-stat__value\">84.2K</div><span class=\"mock-up\">▲ +22%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Leads</div><div class=\"mock-stat__value\">1,284</div><span class=\"mock-up\">▲ +31%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Cost / lead</div><div class=\"mock-stat__value\">$34</div><span class=\"mock-up\">▲ −18%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Revenue</div><div class=\"mock-stat__value\">$412K</div><span class=\"mock-up\">▲ +27%</span></div></div><div class=\"mk-two mk-two--even\"><div><svg class=\"mock-chart\" viewBox=\"0 0 640 160\" role=\"img\" aria-label=\"Leads by month\"><defs><linearGradient id=\"g77370\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#8f2cf4\" stop-opacity=\"0.28\"/><stop offset=\"1\" stop-color=\"#8f2cf4\" stop-opacity=\"0\"/></linearGradient></defs><line x1=\"16\" x2=\"622\" y1=\"12.0\" y2=\"12.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"42.5\" y2=\"42.5\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"73.0\" y2=\"73.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"103.5\" y2=\"103.5\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"134.0\" y2=\"134.0\" stroke=\"#efeaf2\"/><path d=\"M16.0,82.9 L71.1,77.1 L126.2,74.2 L181.3,68.3 L236.4,64.7 L291.5,60.3 L346.5,53.7 L401.6,47.9 L456.7,45.0 L511.8,38.4 L566.9,31.8 L622.0,23.1 L622.0,134 L16.0,134 Z\" fill=\"url(#g77370)\"/><path d=\"M16.0,82.9 L71.1,77.1 L126.2,74.2 L181.3,68.3 L236.4,64.7 L291.5,60.3 L346.5,53.7 L401.6,47.9 L456.7,45.0 L511.8,38.4 L566.9,31.8 L622.0,23.1\" fill=\"none\" stroke=\"#8f2cf4\" stroke-width=\"2.5\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"622.0\" cy=\"23.1\" r=\"4\" fill=\"#fff\" stroke=\"#8f2cf4\" stroke-width=\"2.5\"/><text x=\"16.0\" y=\"154\" text-anchor=\"middle\">Jan</text><text x=\"126.2\" y=\"154\" text-anchor=\"middle\">Mar</text><text x=\"236.4\" y=\"154\" text-anchor=\"middle\">May</text><text x=\"346.5\" y=\"154\" text-anchor=\"middle\">Jul</text><text x=\"456.7\" y=\"154\" text-anchor=\"middle\">Sep</text><text x=\"566.9\" y=\"154\" text-anchor=\"middle\">Nov</text><text x=\"622.0\" y=\"154\" text-anchor=\"middle\">Dec</text></svg><div class=\"mock-legend\"><span><i style=\"background:#8f2cf4\"></i>Leads</span></div></div><div><div class=\"mock-bars\"><div class=\"mock-bar mock-bar--you\"><span>Organic</span><em><i style=\"width:100%\"></i></em><span class=\"num\">512</span></div><div class=\"mock-bar\"><span>Google Ads</span><em><i style=\"width:74%\"></i></em><span class=\"num\">381</span></div><div class=\"mock-bar\"><span>LinkedIn</span><em><i style=\"width:38%\"></i></em><span class=\"num\">196</span></div><div class=\"mock-bar\"><span>Email</span><em><i style=\"width:30%\"></i></em><span class=\"num\">154</span></div><div class=\"mock-bar\"><span>Direct</span><em><i style=\"width:8%\"></i></em><span class=\"num\">41</span></div></div></div></div></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">GA4 · Checkout funnel</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-funnel\"><div class=\"mk-funnel__step\" style=\"--w:100%\"><span>Viewed product</span><b>12,480</b></div><div class=\"mk-funnel__step\" style=\"--w:62%\"><span>Added to cart</span><b>3,120</b></div><div class=\"mk-funnel__step\" style=\"--w:44%\"><span>Started checkout</span><b>1,870</b></div><div class=\"mk-funnel__step\" style=\"--w:30%\"><span>Purchased</span><b>1,120</b></div></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Google Tag Manager · Tags</span></div>\n\t<div class=\"mock__body\"><ul class=\"mock-list\"><li><span><b>GA4 · Configuration</b><br><span class=\"mk-place__meta\">Trigger: All pages</span></span><span class=\"mock-chip mock-chip--ok\">Firing</span></li><li><span><b>GA4 · generate_lead</b><br><span class=\"mk-place__meta\">Trigger: Form submit</span></span><span class=\"mock-chip mock-chip--ok\">Firing</span></li><li><span><b>Google Ads · Conversion</b><br><span class=\"mk-place__meta\">Trigger: Thank-you page</span></span><span class=\"mock-chip mock-chip--ok\">Firing</span></li><li><span><b>Meta · Lead (CAPI)</b><br><span class=\"mk-place__meta\">Trigger: Form submit</span></span><span class=\"mock-chip mock-chip--ok\">Firing</span></li><li><span><b>LinkedIn Insight</b><br><span class=\"mk-place__meta\">Trigger: All pages</span></span><span class=\"mock-chip mock-chip--warn\">Consent needed</span></li><li><span><b>Old UA tag</b><br><span class=\"mk-place__meta\">Trigger: All pages</span></span><span class=\"mock-chip mock-chip--bad\">Removed</span></li></ul></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">GA4 · Key events</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Event</th><th class=\"num\">Count</th><th class=\"num\">Value</th></tr></thead><tbody><tr><td>generate_lead</td><td class=\"num\">1,284</td><td class=\"num\">$64.2K</td></tr><tr><td>book_call</td><td class=\"num\">412</td><td class=\"num\">$41.2K</td></tr><tr><td>purchase</td><td class=\"num\">2,906</td><td class=\"num\">$212K</td></tr><tr><td>phone_click</td><td class=\"num\">918</td><td class=\"num\">—</td></tr></tbody></table></div></div>\n</figure>"
+       }
+      ],
+      "links": [
+       {
+        "title": "Conversion Rate Optimisation",
+        "description": "Find and fix what stops visitors becoming leads.",
+        "url": "/services/digital-marketing/conversion-rate-optimisation/",
+        "tool": "Hotjar"
+       },
+       {
+        "title": "GA4 and Tracking Setup",
+        "description": "Accurate analytics and conversion tracking you can trust.",
+        "url": "/ga4-tracking-setup/",
+        "tool": "Google Analytics"
+       },
+       {
+        "title": "Reporting Dashboards",
+        "description": "Live Looker Studio dashboards for the numbers that matter.",
+        "url": "/services/digital-marketing/reporting-dashboards/",
+        "tool": "Looker"
+       },
+       {
+        "title": "A/B Testing",
+        "description": "Test pages, offers and forms to learn what converts.",
+        "url": "/services/digital-marketing/ab-testing/",
+        "tool": "PostHog"
+       }
+      ],
+      "ctaText": "Explore CRO and analytics",
+      "ctaUrl": "/services/digital-marketing/conversion-rate-optimisation/"
+     },
+     {
+      "key": "design",
+      "tab": "Design & Branding",
+      "sub": "Look as good as you are",
+      "title": "Design that builds trust <em>at first glance</em>",
+      "lead": "Websites, interfaces and brand identities designed to look premium and make the next step obvious.",
+      "text": "From logo and brand guidelines to website and app screens, we design a look that feels premium and makes the next step obvious, with files your team can use every day.",
+      "slides": [
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Brand guidelines · Overview</span></div>\n\t<div class=\"mock__body\"><div class=\"bb\"><div class=\"bb__logo\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\"><path d=\"M8 32V8l24 24V8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><b>Northwind</b></div>\n<div class=\"bb__side\"><p class=\"mock__heading\">Colour</p><div class=\"mk-swatches\"><span class=\"mk-swatch\" style=\"background:#14213d\"><b>#14213d</b></span><span class=\"mk-swatch\" style=\"background:#1f6feb\"><b>#1f6feb</b></span><span class=\"mk-swatch\" style=\"background:#ffb703\"><b>#ffb703</b></span><span class=\"mk-swatch\" style=\"background:#f4f1ea\"><b>#f4f1ea</b></span><span class=\"mk-swatch\" style=\"background:#0b0f19\"><b>#0b0f19</b></span></div><p class=\"mock__heading\">Type</p><div class=\"mk-type\"><span class=\"mk-type__big\">Aa</span><div><p class=\"mk-type__name\">Headline · Bold</p><p class=\"mk-place__meta\">Body · Regular</p></div></div></div></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Logo concepts · Round 1</span></div>\n\t<div class=\"mock__body\"><div class=\"lg-tiles\"><div class=\"lg-tile\" style=\"background:#3d1257;color:#fff\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\"><path d=\"M8 32V8l24 24V8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><b>Northwind</b><span>Monogram</span></div><div class=\"lg-tile\" style=\"background:#f1e6fb;color:#3d1257\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\"><circle cx=\"20\" cy=\"20\" r=\"14\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"4\"/><path d=\"M20 6v28M6 20h28\" stroke=\"currentColor\" stroke-width=\"3\"/></svg><b>Northwind</b><span>Compass</span></div><div class=\"lg-tile\" style=\"background:#c43aa6;color:#fff\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\"><path d=\"M6 30 20 8l14 22\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linejoin=\"round\"/><circle cx=\"20\" cy=\"26\" r=\"3.5\" fill=\"currentColor\"/></svg><b>Northwind</b><span>Peak</span></div></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock mk-browser\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mk-browser__url\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-key\"/></svg> yourbrand.com/free-design</span></div>\n\t<div class=\"mk-browser__body\"><div class=\"lp\"><div class=\"lp__left\"><p class=\"wf-kicker\">Limited spots this month</p><p class=\"wf-title\">Get your free kitchen design</p><span class=\"wf-line\"></span><span class=\"wf-line wf-line--short\"></span><div class=\"lp__ticks\"><span>✓ 3D design in 48 hours</span><span>✓ No obligation</span><span>✓ 4.9★ from 300+ reviews</span></div></div>\n<div class=\"lp__form\"><b>Book your design</b><span></span><span></span><span></span><i>Get my free design</i></div></div><div class=\"wf-logos\"><span></span><span></span><span></span><span></span><span></span></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Brand kit · Social templates</span></div>\n\t<div class=\"mock__body\"><p class=\"mock__heading\">Colours</p><div class=\"mk-swatches\"><span class=\"mk-swatch\" style=\"background:#3d1257\"><b>#3d1257</b></span><span class=\"mk-swatch\" style=\"background:#8f2cf4\"><b>#8f2cf4</b></span><span class=\"mk-swatch\" style=\"background:#c43aa6\"><b>#c43aa6</b></span><span class=\"mk-swatch\" style=\"background:#f6f2ee\"><b>#f6f2ee</b></span><span class=\"mk-swatch\" style=\"background:#22102f\"><b>#22102f</b></span></div>\n<p class=\"mock__heading\">Type</p><div class=\"mk-type\"><span class=\"mk-type__big\">Aa</span><div><p class=\"mk-type__name\">Schibsted Grotesk · Bold</p><p class=\"mk-place__meta\">Headlines and hooks</p><p class=\"mk-type__name\" style=\"margin-top:.4rem;font-weight:400\">Rubik · Regular</p><p class=\"mk-place__meta\">Captions and body text</p></div></div>\n<p class=\"mock__heading\">Templates</p><div class=\"mk-tpls\"><span style=\"--h:280\">Tip</span><span style=\"--h:320\">Quote</span><span style=\"--h:20\">Offer</span><span style=\"--h:200\">Stat</span></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">User flow · Book a demo</span></div>\n\t<div class=\"mock__body\"><div class=\"uf\"><div class=\"uf__node uf__node--start\">Landing page</div><div class=\"uf__node uf__node--screen\">Pick a date</div><div class=\"uf__node uf__node--decision\">Logged in?</div><div class=\"uf__node uf__node--screen\">Confirm details</div><div class=\"uf__node uf__node--end\">Booked</div></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Brand in use</span></div>\n\t<div class=\"mock__body\"><div class=\"bi\"><div class=\"bi__card\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\"><path d=\"M8 32V8l24 24V8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><b>Northwind</b><span>Sarah Ahmed · Head of Operations</span></div>\n<div class=\"bi__app\"><span><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\"><path d=\"M8 32V8l24 24V8\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span><b>Northwind</b></div>\n<div class=\"bi__social\"><span>We’re hiring</span></div></div></div>\n</figure>"
+       }
+      ],
+      "links": [
+       {
+        "title": "Website Design",
+        "description": "Modern, conversion-focused website designs.",
+        "url": "/services/design/website-design/",
+        "tool": "Figma"
+       },
+       {
+        "title": "UI / UX Design",
+        "description": "Clear, easy-to-use interfaces for web and mobile apps.",
+        "url": "/services/design/ui-ux-design/",
+        "tool": "Sketch"
+       },
+       {
+        "title": "Brand Identity",
+        "description": "Logos, colours and type that make you memorable.",
+        "url": "/services/design/brand-identity/",
+        "tool": "Dribbble"
+       },
+       {
+        "title": "Landing Page Design",
+        "description": "Focused pages built for ads, launches and offers.",
+        "url": "/services/design/landing-page-design/",
+        "tool": "Framer"
+       }
+      ],
+      "ctaText": "",
+      "ctaUrl": ""
+     },
+     {
+      "key": "web",
+      "tab": "Websites",
+      "sub": "Fast sites that convert",
+      "title": "Websites built to load fast and <em>convert</em>",
+      "lead": "Custom websites, CMS builds, migrations and care plans from developers who understand marketing.",
+      "text": "Fast, secure websites on WordPress, Shopify or custom code, built with SEO and conversion in mind from day one. After launch we keep them updated, backed up and improving.",
+      "slides": [
+       {
+        "main": "<figure class=\"mock mk-browser\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mk-browser__url\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-key\"/></svg> yourcompany.com</span></div>\n\t<div class=\"mk-browser__body\"><div class=\"wf-nav\"><b>Riverside Clinic</b><span></span><span></span><span></span><i>Book a visit</i></div>\n<div class=\"wf-heroimg\" style=\"--h:200\"><div><p class=\"wf-title wf-title--light\">Clinic care that fits around your life</p><span class=\"wf-line wf-line--light\"></span><span class=\"wf-line wf-line--light wf-line--short\"></span><span class=\"wf-btn wf-btn--light\">Book a visit</span></div><span class=\"wf-heroimg__pic\"></span></div>\n<div class=\"wf-logos\"><span></span><span></span><span></span><span></span><span></span></div>\n<div class=\"wf-cards\"><span></span><span></span><span></span></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">WordPress · Block editor</span></div>\n\t<div class=\"mock__body\"><div class=\"wpe\"><div class=\"wpe__side\"><b>Blocks</b><span>Hero</span><span>Services grid</span><span>Testimonials</span><span>FAQ</span><span>Call to action</span></div>\n<div class=\"wpe__canvas\"><div class=\"wpe__block wpe__block--on\"><b>Hero</b><span class=\"wf-line\"></span><span class=\"wf-line wf-line--short\"></span></div><div class=\"wpe__block\"><b>Services grid</b><div class=\"wf-cards\"><span></span><span></span><span></span></div></div><div class=\"wpe__block\"><b>FAQ</b><span class=\"wf-line\"></span></div></div></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Shopify · Store overview</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Sales today</div><div class=\"mock-stat__value\">$8,412</div><span class=\"mock-up\">▲ +18%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Orders</div><div class=\"mock-stat__value\">124</div><span class=\"mock-up\">▲ +22%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Conversion</div><div class=\"mock-stat__value\">3.4%</div><span class=\"mock-up\">▲ +0.6 pts</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Speed score</div><div class=\"mock-stat__value\">92</div><span class=\"mock-up\">▲ from 41</span></div></div><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Product</th><th class=\"num\">Stock</th><th class=\"num\">Sales</th></tr></thead><tbody><tr><td>Linen shirt</td><td class=\"num\">42</td><td class=\"num\">$3,120</td></tr><tr><td>Wide trousers</td><td class=\"num\">18</td><td class=\"num\">$2,480</td></tr><tr><td>Canvas tote</td><td class=\"num\">96</td><td class=\"num\">$1,330</td></tr></tbody></table></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Website care · Monthly report</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Uptime</div><div class=\"mock-stat__value\">99.98%</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Updates applied</div><div class=\"mock-stat__value\">37</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Backups</div><div class=\"mock-stat__value\">30 / 30</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Threats blocked</div><div class=\"mock-stat__value\">1,204</div></div></div><p class=\"mock__heading\">Uptime · Last 30 days</p><div class=\"up\"><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"down\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i><i class=\"\"></i></div><ul class=\"mock-list\"><li><span>WordPress core 6.8 → 6.8.1</span><span class=\"mock-chip mock-chip--ok\">Updated</span></li><li><span>14 plugins updated</span><span class=\"mock-chip mock-chip--ok\">Updated</span></li><li><span>Contact form spam rule</span><span class=\"mock-chip mock-chip--info\">Added</span></li></ul></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Redirect map · 1,284 URLs</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Old URL</th><th>New URL</th><th>Status</th></tr></thead><tbody><tr><td>/services.php?id=12</td><td>/services/seo/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr><tr><td>/blog/2019/05/seo-tips</td><td>/articles/seo-tips/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr><tr><td>/about-us.html</td><td>/about/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr><tr><td>/old-landing</td><td>/services/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr><tr><td>/products/item-445</td><td>/shop/linen-shirt/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr></tbody></table></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">PageSpeed Insights · Mobile</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-rings\"><div class=\"mk-ring\"><svg viewBox=\"0 0 56 56\" aria-hidden=\"true\"><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"#e3f6ec\" stroke=\"#cdeedb\" stroke-width=\"5\"/><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"none\" stroke=\"#16a35b\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-dasharray=\"132.7 138.2\" transform=\"rotate(-90 28 28)\"/></svg><b>96</b><span>Performance</span></div><div class=\"mk-ring\"><svg viewBox=\"0 0 56 56\" aria-hidden=\"true\"><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"#e3f6ec\" stroke=\"#cdeedb\" stroke-width=\"5\"/><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"none\" stroke=\"#16a35b\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-dasharray=\"138.2 138.2\" transform=\"rotate(-90 28 28)\"/></svg><b>100</b><span>SEO</span></div><div class=\"mk-ring\"><svg viewBox=\"0 0 56 56\" aria-hidden=\"true\"><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"#e3f6ec\" stroke=\"#cdeedb\" stroke-width=\"5\"/><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"none\" stroke=\"#16a35b\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-dasharray=\"129.9 138.2\" transform=\"rotate(-90 28 28)\"/></svg><b>94</b><span>Accessibility</span></div><div class=\"mk-ring\"><svg viewBox=\"0 0 56 56\" aria-hidden=\"true\"><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"#e3f6ec\" stroke=\"#cdeedb\" stroke-width=\"5\"/><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"none\" stroke=\"#16a35b\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-dasharray=\"138.2 138.2\" transform=\"rotate(-90 28 28)\"/></svg><b>100</b><span>Best practices</span></div></div><p class=\"mock__heading\">Core Web Vitals · Mobile</p><ul class=\"mock-list\"><li><span>Largest Contentful Paint</span><span><span class=\"mock-flat\">4.1s →</span> <span class=\"mock-chip mock-chip--ok\">1.8s</span></span></li><li><span>Interaction to Next Paint</span><span><span class=\"mock-flat\">380ms →</span> <span class=\"mock-chip mock-chip--ok\">120ms</span></span></li><li><span>Cumulative Layout Shift</span><span><span class=\"mock-flat\">0.28 →</span> <span class=\"mock-chip mock-chip--ok\">0.03</span></span></li></ul></div>\n</figure>"
+       }
+      ],
+      "links": [
+       {
+        "title": "Website Development",
+        "description": "Fast, conversion-focused websites built to grow with you.",
+        "url": "/services/website-development/",
+        "tool": "HTML5"
+       },
+       {
+        "title": "WordPress Development",
+        "description": "Custom WordPress themes and sites your team can update.",
+        "url": "/services/website-development/wordpress/",
+        "tool": "WordPress"
+       },
+       {
+        "title": "Shopify Development",
+        "description": "Online stores that are fast, flexible and easy to run.",
+        "url": "/shopify-development/",
+        "tool": "Shopify"
+       },
+       {
+        "title": "Drupal and Joomla",
+        "description": "Builds, upgrades and support for Drupal and Joomla sites.",
+        "url": "/services/website-development/drupal/",
+        "tool": "Drupal"
+       },
+       {
+        "title": "Website Migration",
+        "description": "Move platforms without losing traffic, rankings or data.",
+        "url": "/services/website-migration/",
+        "tool": "Google Search Console"
+       },
+       {
+        "title": "Website Maintenance",
+        "description": "Updates, backups, security and small changes, every month.",
+        "url": "/website-maintenance/",
+        "tool": "Cloudflare"
+       }
+      ],
+      "ctaText": "Explore website development",
+      "ctaUrl": "/services/website-development/"
+     },
+     {
+      "key": "apps",
+      "tab": "Apps & Software",
+      "sub": "Web apps, mobile apps and SaaS",
+      "title": "Apps and platforms <em>built properly</em>",
+      "lead": "Web apps, mobile apps, SaaS products and integrations, built in Laravel and modern JavaScript.",
+      "text": "Web apps, mobile apps and SaaS products planned in short sprints, so you see working software every two weeks. We handle design, build, testing and the move to production.",
+      "slides": [
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Sprint 6 · Board</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-kanban\"><div class=\"mk-kanban__col\"><p class=\"mk-kanban__head\">To do <span>2</span></p><div class=\"mk-kanban__card\">Invoice export<span class=\"mock-chip mock-chip--muted\">API</span></div><div class=\"mk-kanban__card\">Team roles<span class=\"mock-chip mock-chip--muted\">UI</span></div></div><div class=\"mk-kanban__col\"><p class=\"mk-kanban__head\">In progress <span>2</span></p><div class=\"mk-kanban__card\">Stripe billing<span class=\"mock-chip mock-chip--info\">API</span></div><div class=\"mk-kanban__card\">Dashboard charts<span class=\"mock-chip mock-chip--info\">UI</span></div></div><div class=\"mk-kanban__col\"><p class=\"mk-kanban__head\">Review <span>1</span></p><div class=\"mk-kanban__card\">Password reset<span class=\"mock-chip mock-chip--warn\">Auth</span></div></div><div class=\"mk-kanban__col\"><p class=\"mk-kanban__head\">Done <span>2</span></p><div class=\"mk-kanban__card\">Onboarding flow<span class=\"mock-chip mock-chip--ok\">UI</span></div><div class=\"mk-kanban__card\">Audit log<span class=\"mock-chip mock-chip--ok\">API</span></div></div></div></div>\n</figure>",
+        "alt": "<div class=\"phones\"><figure class=\"phone\" style=\"--h:280\"><span class=\"phone__notch\"></span><div class=\"phone__head\"><b>Today</b></div><div class=\"phone__body\"><div class=\"ph-row\"><span class=\"ph-thumb\" style=\"--h:280\"></span><div><b>Morning run</b><i></i></div><em>5.2 km</em></div><div class=\"ph-row\"><span class=\"ph-thumb\" style=\"--h:310\"></span><div><b>Strength</b><i></i></div><em>45 min</em></div><div class=\"ph-row\"><span class=\"ph-thumb\" style=\"--h:340\"></span><div><b>Yoga flow</b><i></i></div><em>30 min</em></div><div class=\"ph-row\"><span class=\"ph-thumb\" style=\"--h:370\"></span><div><b>Cycling</b><i></i></div><em>18 km</em></div></div><div class=\"phone__tab\"><i></i><i></i><i></i><i></i></div></figure><figure class=\"phone\" style=\"--h:280\"><span class=\"phone__notch\"></span><div class=\"phone__head\"><b>Progress</b></div><div class=\"phone__body\"><div class=\"ph-ring\" style=\"--h:280\"><b>78%</b><span>Weekly goal</span></div><div class=\"ph-tiles\"><span><b>8,412</b>Steps</span><span><b>1h 42m</b>Active</span></div></div><div class=\"phone__tab\"><i></i><i></i><i></i><i></i></div></figure></div>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">GET /api/v1/orders/4821</span><span class=\"mock__tag\">API</span></div>\n\t<div class=\"mock__body\"><pre class=\"mock-code\"><span class=\"p\">{</span>\n  <span class=\"k\">\"id\"</span>: <span class=\"s\">4821</span>,\n  <span class=\"k\">\"status\"</span>: <span class=\"s\">\"shipped\"</span>,\n  <span class=\"k\">\"customer\"</span>: <span class=\"p\">{</span> <span class=\"k\">\"name\"</span>: <span class=\"s\">\"Sarah Ahmed\"</span> <span class=\"p\">}</span>,\n  <span class=\"k\">\"items\"</span>: <span class=\"s\">3</span>,\n  <span class=\"k\">\"total\"</span>: <span class=\"s\">\"148.00\"</span>,\n  <span class=\"k\">\"tracking_url\"</span>: <span class=\"s\">\"https://track.example/4821\"</span>\n<span class=\"p\">}</span></pre><p class=\"mock__heading\" style=\"margin-top:.75rem\">Response · 200 OK · 84 ms</p></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Integration map</span></div>\n\t<div class=\"mock__body\"><svg class=\"mock-cluster\" viewBox=\"0 0 540 230\" role=\"img\" aria-label=\"Your API connecting website, app, CRM, ERP, payments and warehouse\"><line x1=\"250\" y1=\"100\" x2=\"70\" y2=\"40\" stroke=\"#d9c6f2\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><line x1=\"250\" y1=\"100\" x2=\"70\" y2=\"160\" stroke=\"#d9c6f2\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><line x1=\"250\" y1=\"100\" x2=\"430\" y2=\"30\" stroke=\"#d9c6f2\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><line x1=\"250\" y1=\"100\" x2=\"470\" y2=\"100\" stroke=\"#d9c6f2\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><line x1=\"250\" y1=\"100\" x2=\"430\" y2=\"170\" stroke=\"#d9c6f2\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><line x1=\"250\" y1=\"100\" x2=\"300\" y2=\"200\" stroke=\"#d9c6f2\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><g><rect x=\"18\" y=\"25\" width=\"104\" height=\"30\" rx=\"15\" fill=\"#fff\" stroke=\"#e7e1ea\"/><text x=\"70\" y=\"44\" text-anchor=\"middle\">Website</text></g><g><rect x=\"18\" y=\"145\" width=\"104\" height=\"30\" rx=\"15\" fill=\"#fff\" stroke=\"#e7e1ea\"/><text x=\"70\" y=\"164\" text-anchor=\"middle\">Mobile app</text></g><g><rect x=\"378\" y=\"15\" width=\"104\" height=\"30\" rx=\"15\" fill=\"#fff\" stroke=\"#e7e1ea\"/><text x=\"430\" y=\"34\" text-anchor=\"middle\">CRM</text></g><g><rect x=\"418\" y=\"85\" width=\"104\" height=\"30\" rx=\"15\" fill=\"#fff\" stroke=\"#e7e1ea\"/><text x=\"470\" y=\"104\" text-anchor=\"middle\">ERP</text></g><g><rect x=\"378\" y=\"155\" width=\"104\" height=\"30\" rx=\"15\" fill=\"#fff\" stroke=\"#e7e1ea\"/><text x=\"430\" y=\"174\" text-anchor=\"middle\">Payments</text></g><g><rect x=\"248\" y=\"185\" width=\"104\" height=\"30\" rx=\"15\" fill=\"#fff\" stroke=\"#e7e1ea\"/><text x=\"300\" y=\"204\" text-anchor=\"middle\">Warehouse</text></g><rect x=\"190\" y=\"75\" width=\"120\" height=\"50\" rx=\"14\" fill=\"#3d1257\"/><text x=\"250\" y=\"97\" text-anchor=\"middle\" style=\"fill:#fff;font-weight:600\">Your API</text><text x=\"250\" y=\"113\" text-anchor=\"middle\" style=\"fill:#d9b6ff\">REST · secure</text></svg></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Your dedicated team</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-creator\"><span class=\"mk-creator__avatar mk-creator__avatar--sm\" style=\"--h:260\">A</span><div><p class=\"mk-review__name\">Senior Laravel developer</p><p class=\"mk-place__meta\">8 years · PHP, Vue</p></div><span class=\"mock-chip mock-chip--ok\">Available</span></div><div class=\"mk-creator\"><span class=\"mk-creator__avatar mk-creator__avatar--sm\" style=\"--h:200\">R</span><div><p class=\"mk-review__name\">Full-stack developer</p><p class=\"mk-place__meta\">6 years · Laravel, React</p></div><span class=\"mock-chip mock-chip--ok\">Available</span></div><div class=\"mk-creator\"><span class=\"mk-creator__avatar mk-creator__avatar--sm\" style=\"--h:330\">M</span><div><p class=\"mk-review__name\">QA engineer</p><p class=\"mk-place__meta\">5 years · Automated testing</p></div><span class=\"mock-chip mock-chip--ok\">Available</span></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Your app · AI summary</span></div>\n\t<div class=\"mock__body\"><div class=\"ai-feat\"><div class=\"ai-feat__doc\"><b>Support ticket #8812</b><span class=\"wf-line\"></span><span class=\"wf-line\"></span><span class=\"wf-line wf-line--short\"></span><span class=\"wf-line\"></span><span class=\"wf-line wf-line--short\"></span></div>\n<div class=\"ai-feat__sum\"><p class=\"ai-feat__tag\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-sparkle\"/></svg> AI summary</p><p>Customer can’t export invoices since the last update. Affects 3 users. Likely cause: new permission setting. Suggested reply drafted.</p><span class=\"wf-btn\">Use suggested reply</span></div></div></div>\n</figure>"
+       }
+      ],
+      "links": [
+       {
+        "title": "Laravel Development",
+        "description": "Custom web apps, portals and dashboards built in Laravel.",
+        "url": "/services/website-development/laravel/",
+        "tool": "Laravel"
+       },
+       {
+        "title": "Mobile App Development",
+        "description": "iOS and Android apps for your customers or your team.",
+        "url": "/mobile-app-development/",
+        "tool": "Flutter"
+       },
+       {
+        "title": "SaaS Development",
+        "description": "From MVP to scalable product, built for growth.",
+        "url": "/services/website-development/laravel/saas-development/",
+        "tool": "Stripe"
+       },
+       {
+        "title": "API Development",
+        "description": "Secure APIs and integrations that connect your systems.",
+        "url": "/services/website-development/laravel/laravel-api-development/",
+        "tool": "Postman"
+       },
+       {
+        "title": "eCommerce Development",
+        "description": "Custom stores and checkout flows built to scale.",
+        "url": "/services/website-development/laravel/laravel-ecommerce-development/",
+        "tool": "WooCommerce"
+       },
+       {
+        "title": "Hire Developers",
+        "description": "Dedicated Laravel developers who join your team.",
+        "url": "/services/website-development/laravel/hire-laravel-developers/",
+        "tool": "GitHub"
+       }
+      ],
+      "ctaText": "Explore app development",
+      "ctaUrl": "/services/website-development/laravel/"
+     },
+     {
+      "key": "ai",
+      "tab": "Agentic AI Development",
+      "sub": "AI agents that do real work",
+      "title": "AI agents that <em>do real work</em>",
+      "lead": "Custom AI agents, assistants and automations that handle real tasks in your business, built safely on top of your data and tools.",
+      "text": "Assistants and agents that answer customers, qualify leads and take repetitive work off your team. They use your own data, ask a person when unsure and keep a log of what they did.",
+      "slides": [
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Agent run · Weekly sales report</span></div>\n\t<div class=\"mock__body\"><ol class=\"ag\"><li class=\"ag__step ag__step--ok\"><span class=\"ag__icon\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-search\"/></svg></span><div><p class=\"ag__label\">Read new deals from HubSpot</p><p class=\"mk-place__meta\">42 deals updated this week</p></div><span class=\"mock-chip mock-chip--ok\">Done</span></li><li class=\"ag__step ag__step--ok\"><span class=\"ag__icon\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-chart\"/></svg></span><div><p class=\"ag__label\">Pull revenue from Stripe</p><p class=\"mk-place__meta\">$128.4K collected</p></div><span class=\"mock-chip mock-chip--ok\">Done</span></li><li class=\"ag__step ag__step--warn\"><span class=\"ag__icon\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-layers\"/></svg></span><div><p class=\"ag__label\">Compare with last week and targets</p><p class=\"mk-place__meta\">3 deals at risk found</p></div><span class=\"mock-chip mock-chip--warn\">Flagged</span></li><li class=\"ag__step ag__step--ok\"><span class=\"ag__icon\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pen\"/></svg></span><div><p class=\"ag__label\">Draft the report and next steps</p><p class=\"mk-place__meta\">1-page summary written</p></div><span class=\"mock-chip mock-chip--ok\">Done</span></li><li class=\"ag__step ag__step--info\"><span class=\"ag__icon\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-users\"/></svg></span><div><p class=\"ag__label\">Ask manager to approve</p><p class=\"mk-place__meta\">Waiting for approval</p></div><span class=\"mock-chip mock-chip--info\">Needs you</span></li><li class=\"ag__step ag__step--muted\"><span class=\"ag__icon\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-mail\"/></svg></span><div><p class=\"ag__label\">Send to the sales team</p><p class=\"mk-place__meta\">Scheduled for 9:00</p></div><span class=\"mock-chip mock-chip--muted\">Next</span></li></ol></div>\n</figure>",
+        "alt": "<figure class=\"mock cw\">\n\t<div class=\"cw__head\"><span class=\"mk-gbp__logo\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-bot\"/></svg></span><div><p class=\"mk-post__brand\">Riverside Clinic assistant</p><p class=\"cw__status\">● Online · replies instantly</p></div></div>\n\t<div class=\"cw__body\"><div class=\"cw__msg cw__msg--bot\">Hi! I’m the Riverside Clinic assistant. How can I help?</div><div class=\"cw__msg cw__msg--me\">Can I book a check-up this Saturday?</div><div class=\"cw__msg cw__msg--bot\">Yes, 10:30 and 14:00 are free. Shall I book one?</div><div class=\"cw__msg cw__msg--me\">10:30 please</div><div class=\"cw__msg cw__msg--bot\">Done! You’re booked for Saturday at 10:30. ✅</div></div>\n\t<div class=\"cw__input\"><span>Type a message…</span><i><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></i></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Knowledge sources</span></div>\n\t<div class=\"mock__body\"><ul class=\"mock-list\"><li><span><b>Google Drive</b> <span class=\"mk-place__meta\">1,284 docs</span></span><span class=\"mock-chip mock-chip--ok\">Synced</span></li><li><span><b>Notion</b> <span class=\"mk-place__meta\">412 pages</span></span><span class=\"mock-chip mock-chip--ok\">Synced</span></li><li><span><b>Zendesk</b> <span class=\"mk-place__meta\">18,940 tickets</span></span><span class=\"mock-chip mock-chip--ok\">Synced</span></li><li><span><b>SharePoint</b> <span class=\"mk-place__meta\">3,210 files</span></span><span class=\"mock-chip mock-chip--warn\">Syncing</span></li><li><span><b>HR folder</b> <span class=\"mk-place__meta\">Restricted</span></span><span class=\"mock-chip mock-chip--muted\">Excluded</span></li></ul></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Invoice processing · Before and after</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Step</th><th>Before</th><th>With AI</th></tr></thead><tbody><tr><td>Read invoice and extract data</td><td>6 min</td><td><span class=\"mock-chip mock-chip--ok\">8 sec</span></td></tr><tr><td>Match to purchase order</td><td>4 min</td><td><span class=\"mock-chip mock-chip--ok\">Auto</span></td></tr><tr><td>Enter into accounting system</td><td>3 min</td><td><span class=\"mock-chip mock-chip--ok\">Auto</span></td></tr><tr><td>Exceptions to review</td><td>All</td><td><span class=\"mock-chip mock-chip--info\">7%</span></td></tr></tbody></table></div><div class=\"mock-stats mock-stats--3\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Hours saved / month</div><div class=\"mock-stat__value\">112</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Accuracy</div><div class=\"mock-stat__value\">99.2%</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Cost per invoice</div><div class=\"mock-stat__value\">−84%</div></div></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">summarise.py</span><span class=\"mock__tag\">Code</span></div>\n\t<div class=\"mock__body\"><pre class=\"ce\"><span class=\"ce__line\"><i>1</i><span class=\"k\">import</span> anthropic</span><span class=\"ce__line\"><i>2</i></span><span class=\"ce__line\"><i>3</i>client = anthropic.<span class=\"f\">Anthropic</span>()</span><span class=\"ce__line\"><i>4</i></span><span class=\"ce__line\"><i>5</i><span class=\"k\">def</span> <span class=\"f\">summarise_ticket</span>(text):</span><span class=\"ce__line\"><i>6</i>  msg = client.messages.<span class=\"f\">create</span>(</span><span class=\"ce__line\"><i>7</i>    model=<span class=\"s\">\"claude-sonnet-5-5\"</span>,</span><span class=\"ce__line\"><i>8</i>    max_tokens=<span class=\"s\">300</span>,</span><span class=\"ce__line\"><i>9</i>    messages=[{<span class=\"s\">\"role\"</span>: <span class=\"s\">\"user\"</span>, <span class=\"s\">\"content\"</span>: <span class=\"s\">f\"Summarise: {text}\"</span>}],</span><span class=\"ce__line\"><i>10</i>  )</span><span class=\"ce__line\"><i>11</i>  <span class=\"k\">return</span> msg.content[<span class=\"s\">0</span>].text</span></pre></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Business case · Support triage agent</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th></th><th>Today</th><th>With AI</th></tr></thead><tbody><tr><td>Tickets triaged / day</td><td>320</td><td>320</td></tr><tr><td>Time per ticket</td><td>3 min</td><td>20 sec</td></tr><tr><td>Hours / month</td><td>352</td><td>39</td></tr><tr><td>First response time</td><td>4 hrs</td><td>2 min</td></tr></tbody></table></div><div class=\"mock-stats\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Payback</div><div class=\"mock-stat__value\">3 months</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Hours freed / month</div><div class=\"mock-stat__value\">313</div></div></div></div>\n</figure>"
+       }
+      ],
+      "links": [
+       {
+        "title": "AI Agent Development",
+        "description": "Custom agents that research, decide and act across your tools.",
+        "url": "/ai-agent-development/",
+        "tool": "LangChain"
+       },
+       {
+        "title": "AI Chatbots and Assistants",
+        "description": "Website and support assistants that answer, qualify and book.",
+        "url": "/services/ai-development/ai-chatbots/",
+        "tool": "WhatsApp"
+       },
+       {
+        "title": "AI Workflow Automation",
+        "description": "Hand repetitive work like data entry and reporting to AI.",
+        "url": "/ai-workflow-automation/",
+        "tool": "n8n"
+       },
+       {
+        "title": "AI Knowledge Assistants",
+        "description": "Search and answer from your documents, policies and data.",
+        "url": "/ai-knowledge-assistants/",
+        "tool": "Notion"
+       },
+       {
+        "title": "LLM Integration",
+        "description": "Add Claude, GPT or Gemini features into your product.",
+        "url": "/services/ai-development/llm-integration/",
+        "tool": "Claude"
+       },
+       {
+        "title": "AI Strategy and Consulting",
+        "description": "Find where AI saves time and money before you build.",
+        "url": "/services/ai-development/ai-consulting/",
+        "tool": "Anthropic"
+       }
+      ],
+      "ctaText": "",
+      "ctaUrl": ""
+     },
+     {
+      "key": "audits",
+      "tab": "Audits and Planning",
+      "sub": "Know what to fix first",
+      "title": "Know what to <em>fix first</em>",
+      "lead": "Not sure where to start? An audit or a marketing plan gives you a clear, prioritised list.",
+      "text": "A clear review of your website, SEO, ads or marketing plan, with every issue ranked by impact. You get a prioritised action list you can hand to your team, or to us.",
+      "slides": [
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Website audit · yourcompany.com</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-rings mk-rings--4\"><div class=\"mk-ring\"><svg viewBox=\"0 0 56 56\" aria-hidden=\"true\"><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"none\" stroke=\"#ece6f0\" stroke-width=\"5\"/><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"none\" stroke=\"#e0a21b\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-dasharray=\"88.5 138.2\" transform=\"rotate(-90 28 28)\"/></svg><b style=\"color:#e0a21b\">64</b><span>SEO</span></div><div class=\"mk-ring\"><svg viewBox=\"0 0 56 56\" aria-hidden=\"true\"><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"none\" stroke=\"#ece6f0\" stroke-width=\"5\"/><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"none\" stroke=\"#d9516f\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-dasharray=\"66.4 138.2\" transform=\"rotate(-90 28 28)\"/></svg><b style=\"color:#d9516f\">48</b><span>Speed</span></div><div class=\"mk-ring\"><svg viewBox=\"0 0 56 56\" aria-hidden=\"true\"><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"none\" stroke=\"#ece6f0\" stroke-width=\"5\"/><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"none\" stroke=\"#e0a21b\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-dasharray=\"98.1 138.2\" transform=\"rotate(-90 28 28)\"/></svg><b style=\"color:#e0a21b\">71</b><span>UX</span></div><div class=\"mk-ring\"><svg viewBox=\"0 0 56 56\" aria-hidden=\"true\"><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"none\" stroke=\"#ece6f0\" stroke-width=\"5\"/><circle cx=\"28\" cy=\"28\" r=\"22\" fill=\"none\" stroke=\"#e0a21b\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-dasharray=\"76.0 138.2\" transform=\"rotate(-90 28 28)\"/></svg><b style=\"color:#e0a21b\">55</b><span>Tracking</span></div></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Top issues to fix first</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Issue</th><th>Priority</th><th>Impact</th></tr></thead><tbody><tr><td>Slow mobile pages (LCP 4.8s)</td><td><span class=\"mock-chip mock-chip--warn\">High</span></td><td>Leads</td></tr><tr><td>Missing tracking on forms</td><td><span class=\"mock-chip mock-chip--warn\">High</span></td><td>Reporting</td></tr><tr><td>Duplicate page titles</td><td><span class=\"mock-chip mock-chip--info\">Medium</span></td><td>Rankings</td></tr><tr><td>No schema markup</td><td><span class=\"mock-chip mock-chip--muted\">Low</span></td><td>AI search</td></tr></tbody></table></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Content audit · 412 URLs</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Page</th><th class=\"num\">Traffic</th><th>Action</th></tr></thead><tbody><tr><td>/blog/seo-tips-2019</td><td class=\"num\">1,240</td><td><span class=\"mock-chip mock-chip--info\">Refresh</span></td></tr><tr><td>/blog/what-is-seo</td><td class=\"num\">86</td><td><span class=\"mock-chip mock-chip--warn\">Merge</span></td></tr><tr><td>/blog/company-picnic</td><td class=\"num\">4</td><td><span class=\"mock-chip mock-chip--bad\">Remove</span></td></tr><tr><td>/guides/local-seo</td><td class=\"num\">3,980</td><td><span class=\"mock-chip mock-chip--ok\">Keep</span></td></tr><tr><td>/blog/seo-vs-ppc</td><td class=\"num\">612</td><td><span class=\"mock-chip mock-chip--info\">Refresh</span></td></tr></tbody></table></div><div class=\"mock-bars\"><div class=\"mock-bar mock-bar--you\"><span>Keep</span><em><i style=\"width:38%\"></i></em><span class=\"num\">156</span></div><div class=\"mock-bar\"><span>Refresh</span><em><i style=\"width:30%\"></i></em><span class=\"num\">124</span></div><div class=\"mock-bar\"><span>Merge</span><em><i style=\"width:18%\"></i></em><span class=\"num\">74</span></div><div class=\"mock-bar\"><span>Remove</span><em><i style=\"width:14%\"></i></em><span class=\"num\">58</span></div></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Ads audit · Wasted spend found</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats mock-stats--3\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Wasted spend / month</div><div class=\"mock-stat__value\">$4,180</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Campaigns reviewed</div><div class=\"mock-stat__value\">18</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Quick fixes</div><div class=\"mock-stat__value\">27</div></div></div><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Finding</th><th class=\"num\">Monthly waste</th></tr></thead><tbody><tr><td>Irrelevant search terms</td><td class=\"num\">$1,640</td></tr><tr><td>Duplicate targeting across campaigns</td><td class=\"num\">$980</td></tr><tr><td>Ads running at night with no conversions</td><td class=\"num\">$720</td></tr><tr><td>Broken conversion tracking</td><td class=\"num\">—</td></tr></tbody></table></div></div>\n</figure>"
+       },
+       {
+        "main": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Marketing plan · Budget by channel</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-bars\"><div class=\"mock-bar mock-bar--you\"><span>SEO and content</span><em><i style=\"width:100%\"></i></em><span class=\"num\">35%</span></div><div class=\"mock-bar\"><span>Google Ads</span><em><i style=\"width:80%\"></i></em><span class=\"num\">28%</span></div><div class=\"mock-bar\"><span>LinkedIn Ads</span><em><i style=\"width:46%\"></i></em><span class=\"num\">16%</span></div><div class=\"mock-bar\"><span>Email and automation</span><em><i style=\"width:31%\"></i></em><span class=\"num\">11%</span></div><div class=\"mock-bar\"><span>Website and CRO</span><em><i style=\"width:29%\"></i></em><span class=\"num\">10%</span></div></div><div class=\"mock-stats mock-stats--3\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Monthly budget</div><div class=\"mock-stat__value\">$18K</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Target leads</div><div class=\"mock-stat__value\">220</div></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Target cost / lead</div><div class=\"mock-stat__value\">$82</div></div></div></div>\n</figure>",
+        "alt": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">AI opportunity map</span></div>\n\t<div class=\"mock__body\"><svg class=\"mock-chart\" viewBox=\"0 0 520 250\" role=\"img\" aria-label=\"AI opportunities by value and effort\"><rect x=\"40\" y=\"20\" width=\"230\" height=\"115\" rx=\"8\" fill=\"#f1e6fb\"/><text x=\"48\" y=\"38\" style=\"font-weight:600;fill:#4a1a72\">Quick wins</text><line x1=\"40\" y1=\"135\" x2=\"500\" y2=\"135\" stroke=\"#efeaf2\"/><line x1=\"270\" y1=\"20\" x2=\"270\" y2=\"235\" stroke=\"#efeaf2\"/><g><circle cx=\"399\" cy=\"71\" r=\"9\" fill=\"#8f2cf4\"/><text x=\"411\" y=\"75\">Invoice processing</text></g><g><circle cx=\"362\" cy=\"100\" r=\"9\" fill=\"#8f2cf4\"/><text x=\"374\" y=\"104\">Support triage</text></g><g><circle cx=\"293\" cy=\"84\" r=\"7\" fill=\"#cbb7e4\"/><text x=\"305\" y=\"88\">Sales reports</text></g><g><circle cx=\"325\" cy=\"146\" r=\"7\" fill=\"#cbb7e4\"/><text x=\"337\" y=\"150\">Proposal drafts</text></g><g><circle cx=\"224\" cy=\"192\" r=\"7\" fill=\"#cbb7e4\"/><text x=\"236\" y=\"196\">Forecasting</text></g><g><circle cx=\"380\" cy=\"158\" r=\"7\" fill=\"#cbb7e4\"/><text x=\"392\" y=\"162\">Chat assistant</text></g><text x=\"270\" y=\"248\" text-anchor=\"middle\">Effort →</text><text x=\"12\" y=\"130\" transform=\"rotate(-90 12 130)\">Value →</text></svg></div>\n</figure>"
+       }
+      ],
+      "links": [
+       {
+        "title": "Marketing Plan",
+        "description": "A clear roadmap for steady growth and lead generation.",
+        "url": "/audits/marketing-plan/",
+        "tool": "Google Sheets"
+       },
+       {
+        "title": "Website Audit",
+        "description": "Find the technical, SEO, UX and conversion issues holding you back.",
+        "url": "/audits/website-audit/",
+        "tool": "Lighthouse"
+       },
+       {
+        "title": "SEO Audit",
+        "description": "See why you are not ranking and what to fix first.",
+        "url": "/audits/seo-audit/",
+        "tool": "Semrush"
+       },
+       {
+        "title": "GEO Audit",
+        "description": "Check how AI tools see and describe your brand.",
+        "url": "/audits/geo-audit/",
+        "tool": "Perplexity"
+       },
+       {
+        "title": "Content Audit",
+        "description": "Uncover content gaps, quick wins and pages to improve.",
+        "url": "/audits/content-audit/",
+        "tool": "Google Search Console"
+       },
+       {
+        "title": "Performance Marketing Audit",
+        "description": "Cut wasted ad spend and improve campaign results.",
+        "url": "/audits/google-ads-audit/",
+        "tool": "Google Ads"
+       }
+      ],
+      "ctaText": "See all audits",
+      "ctaUrl": "/audits/website-audit/"
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/packages",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Ways to <em>work with us</em>",
+    "lead": "Start small or go all in. Every option comes with a clear scope, a fixed price or monthly fee, and one point of contact.",
+    "items": [
+     {
+      "name": "Audit first",
+      "for": "Not sure where to start",
+      "text": "We review your website, marketing or ads and give you a ranked list of fixes.",
+      "ticks": [
+       "Fixed price",
+       "Ready in 1–2 weeks",
+       "Video walkthrough",
+       "Yours to keep, even if we don’t work together"
+      ],
+      "featured": false,
+      "badge": "",
+      "buttonText": "See our audits",
+      "buttonUrl": "/audits/"
+     },
+     {
+      "name": "Monthly partnership",
+      "for": "Ongoing growth",
+      "text": "A team that runs your SEO, ads, content or CRO every month against targets we agree.",
+      "ticks": [
+       "90-day plan before we start",
+       "Senior specialists on your account",
+       "Monthly report tied to enquiries",
+       "No long lock-in contracts"
+      ],
+      "featured": true,
+      "badge": "Most popular",
+      "buttonText": "Talk to us",
+      "buttonUrl": "/contact/"
+     },
+     {
+      "name": "Project",
+      "for": "A clear piece of work",
+      "text": "A new website, app, store, brand or AI agent, delivered in short sprints.",
+      "ticks": [
+       "Fixed scope and price",
+       "Weekly progress demos",
+       "Launch support included",
+       "Training for your team"
+      ],
+      "featured": false,
+      "badge": "",
+      "buttonText": "Get a quote",
+      "buttonUrl": "/contact/"
+     }
+    ],
+    "note": ""
+   }
+  },
+  {
+   "name": "intella/compare",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "One team instead of <em>many hires</em>",
+    "lead": "How working with us compares with building an in-house team or juggling freelancers.",
+    "corner": "What you get",
+    "columns": [
+     "Intella Digital",
+     "In-house team",
+     "Freelancers"
+    ],
+    "rows": [
+     {
+      "label": "Time to get started",
+      "cells": [
+       "1–2 weeks",
+       "3–6 months to hire",
+       "Varies"
+      ]
+     },
+     {
+      "label": "Skills under one roof",
+      "cells": [
+       "SEO, ads, design, dev, AI",
+       "Usually 1–2",
+       "Usually 1"
+      ]
+     },
+     {
+      "label": "Senior specialists",
+      "cells": [
+       "yes",
+       "If you can afford them",
+       "Sometimes"
+      ]
+     },
+     {
+      "label": "One point of contact",
+      "cells": [
+       "yes",
+       "yes",
+       "no"
+      ]
+     },
+     {
+      "label": "Plan and targets agreed up front",
+      "cells": [
+       "yes",
+       "Up to you",
+       "Rarely"
+      ]
+     },
+     {
+      "label": "Monthly report tied to enquiries",
+      "cells": [
+       "yes",
+       "Up to you",
+       "Rarely"
+      ]
+     },
+     {
+      "label": "Holidays and sick days covered",
+      "cells": [
+       "yes",
+       "no",
+       "no"
+      ]
+     },
+     {
+      "label": "Scale up or down month to month",
+      "cells": [
+       "yes",
+       "no",
+       "Sometimes"
+      ]
+     }
+    ],
+    "note": ""
+   }
+  },
+  {
+   "name": "intella/home-process",
+   "attrs": {
+    "title": "From first call to <em>real results</em>",
+    "lead": "A simple, transparent process, so you always know what’s happening, what’s next and what we need from you.",
+    "steps": [
+     {
+      "when": "Day 1",
+      "title": "Discovery call",
+      "tab": "Discovery call",
+      "icon": "chat",
+      "text": "A free 30-minute call. We learn about your business, your goals, your budget and what you’ve already tried, and tell you honestly whether we’re the right fit.",
+      "get": [
+       "A short written summary of the call",
+       "Our first thoughts on where the quick wins are"
+      ],
+      "need": [
+       "30 minutes and an open conversation"
+      ]
+     },
+     {
+      "when": "Week 1",
+      "title": "Audit",
+      "tab": "Audit",
+      "icon": "search",
+      "text": "We look under the hood: your website, search rankings, AI visibility, ads, analytics and your top competitors. Every issue is ranked by how much it’s costing you.",
+      "get": [
+       "Audit findings ranked by impact",
+       "A plain-English walkthrough video"
+      ],
+      "need": [
+       "Read-only access to analytics and ad accounts"
+      ]
+     },
+     {
+      "when": "Week 2",
+      "title": "90-day plan and targets",
+      "tab": "90-day plan and targets",
+      "icon": "target",
+      "text": "We turn the audit into a plan: what we’ll do, in what order, and why. We agree the targets together, so we both know what success looks like.",
+      "get": [
+       "A 90-day roadmap",
+       "Agreed targets and how we’ll measure them",
+       "A fixed monthly fee, no surprises"
+      ],
+      "need": [
+       "Review the plan and sign it off"
+      ]
+     },
+     {
+      "when": "Weeks 2–3",
+      "title": "Kick-off and setup",
+      "tab": "Kick-off and setup",
+      "icon": "users",
+      "text": "You meet your team and your single point of contact. We set up a shared workspace and fix tracking first, so every result from here on is measured properly.",
+      "get": [
+       "Kick-off call with your team",
+       "Shared project board",
+       "Tracking and reporting set up"
+      ],
+      "need": [
+       "One person on your side we can talk to"
+      ]
+     },
+     {
+      "when": "Weeks 3–8",
+      "title": "Build and launch",
+      "tab": "Build and launch",
+      "icon": "code",
+      "text": "Marketing and development work side by side: pages, content, campaigns and fixes go live in planned sprints. You see everything before it launches.",
+      "get": [
+       "A short update every week",
+       "Review rounds before anything goes live",
+       "A launch checklist, signed off together"
+      ],
+      "need": [
+       "Feedback within the agreed review window"
+      ]
+     },
+     {
+      "when": "Every month",
+      "title": "Measure and improve",
+      "tab": "Measure and improve",
+      "icon": "chart",
+      "text": "A plain-English report tied to enquiries and sales, and a call to walk you through it. We test, learn and refresh the plan every quarter.",
+      "get": [
+       "Monthly report and review call",
+       "New tests and improvements each month",
+       "An updated plan every 90 days"
+      ],
+      "need": [
+       "30 minutes a month for the review call"
+      ]
+     }
+    ],
+    "getLabel": "What you get",
+    "needLabel": "What we need from you",
+    "endText": "It all starts with step one: a free, no-pressure call.",
+    "buttonText": "Book your discovery call",
+    "buttonUrl": "/contact/"
+   }
+  },
+  {
+   "name": "intella/home-industries",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Experience across <em>many industries</em>",
+    "lead": "We bring what worked in one industry to the next.",
+    "sectors": [
+     {
+      "image": "media:assets/images/industries/clinics.jpg",
+      "name": "Clinics & healthcare"
+     },
+     {
+      "image": "media:assets/images/industries/law.jpg",
+      "name": "Law & professional services"
+     },
+     {
+      "image": "media:assets/images/industries/ecommerce.jpg",
+      "name": "E-commerce & retail"
+     },
+     {
+      "image": "media:assets/images/industries/realestate.jpg",
+      "name": "Real estate"
+     },
+     {
+      "image": "media:assets/images/industries/software.jpg",
+      "name": "SaaS & software"
+     },
+     {
+      "image": "media:assets/images/industries/education.jpg",
+      "name": "Education & training"
+     },
+     {
+      "image": "media:assets/images/industries/hotel.jpg",
+      "name": "Hotels & travel"
+     },
+     {
+      "image": "media:assets/images/industries/restaurant.jpg",
+      "name": "Restaurants & food"
+     },
+     {
+      "image": "media:assets/images/industries/finance.jpg",
+      "name": "Finance & accounting"
+     },
+     {
+      "image": "media:assets/images/industries/construction.jpg",
+      "name": "Construction"
+     },
+     {
+      "image": "media:assets/images/industries/beauty.jpg",
+      "name": "Beauty & wellness"
+     },
+     {
+      "image": "media:assets/images/industries/trades.jpg",
+      "name": "Home services & trades"
+     }
+    ],
+    "stats": [],
+    "resultsTitle": "",
+    "results": [],
+    "linkText": "",
+    "linkUrl": "",
+    "trustTitle": "",
+    "trust": []
+   }
+  },
+  {
+   "name": "intella/tools",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "The platforms we know <em>inside out</em>",
+    "lead": "We use these every day to plan, build and grow. Hover over a logo to see its name.",
+    "tools": [
+     "Google",
+     "Google Ads",
+     "Google Analytics",
+     "Google Search Console",
+     "Google Maps",
+     "Google Sheets",
+     "Meta",
+     "Instagram",
+     "LinkedIn",
+     "YouTube",
+     "TikTok",
+     "WhatsApp",
+     "Gemini",
+     "Perplexity",
+     "Claude",
+     "Semrush",
+     "Hotjar",
+     "Looker Studio",
+     "HubSpot",
+     "Mailchimp",
+     "Brevo",
+     "Shopify",
+     "WooCommerce",
+     "Stripe",
+     "WordPress",
+     "Drupal",
+     "Laravel",
+     "Flutter",
+     "Framer",
+     "Figma",
+     "n8n",
+     "Cloudflare",
+     "Lighthouse",
+     "GitHub",
+     "Notion"
+    ]
+   }
+  },
+  {
+   "name": "intella/quote-strip",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "What our <em>clients</em> say",
+    "plainAccent": true,
+    "buttonText": "",
+    "buttonUrl": "",
+    "people": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu",
+     "post:testimonial:Sarah Whitfield",
+     "post:testimonial:Omar Haddad",
+     "post:testimonial:Laura Bennett",
+     "post:testimonial:Daniel Fischer",
+     "post:testimonial:Priya Raman",
+     "post:testimonial:James Holloway",
+     "post:testimonial:Fatima Al-Mansouri",
+     "post:testimonial:Michael Turner"
+    ],
+    "cases": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "Can I hire you for just one service?",
+      "answer": "Yes. Many clients start with one service, such as SEO or a new website, and add more later. You only pay for what you need."
+     },
+     {
+      "question": "Which service should I start with?",
+      "answer": "It depends on your goals and where you are today. If you’re not sure, start with a free call or an audit and we’ll recommend the first steps."
+     },
+     {
+      "question": "How much do your services cost?",
+      "answer": "It depends on what you need. After a free discovery call we send a fixed quote for projects, or a clear monthly fee for ongoing marketing."
+     },
+     {
+      "question": "Do marketing and development really work as one team?",
+      "answer": "Yes. Our marketers and developers plan together and share the same goals, so changes like new landing pages or speed fixes don’t get stuck between suppliers."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/talk",
+   "attrs": {
+    "background": "white",
+    "look": "",
+    "left": false,
+    "title": "Not sure what you need? <em>Let’s talk.</em>",
+    "lead": "Tell us where you want to be in a year. We’ll recommend the right mix of services on a free 30-minute call.",
+    "buttons": [
+     {
+      "text": "Schedule a free call",
+      "url": "/contact/",
+      "style": "primary"
+     },
+     {
+      "text": "Email us",
+      "url": "mailto:contact@intelladigital.com",
+      "style": "outline"
+     }
+    ],
+    "contact": true,
+    "people": [
+     {
+      "image": "media:assets/images/team/lets-talk.webp",
+      "size": ""
+     }
+    ],
+    "shots": [],
+    "noteReply": "",
+    "noteSkillsTitle": "",
+    "noteSkills": ""
+   }
+  }
+ ]
+}

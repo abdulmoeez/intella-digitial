@@ -1,0 +1,102 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/contact-hero",
+	"title": "Contact hero with form",
+	"category": "intella",
+	"icon": "email-alt",
+	"description": "Page title, ways to reach us and the enquiry form.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading (H1)"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "ways",
+				"type": "repeater",
+				"label": "Ways to reach us",
+				"itemName": "way",
+				"itemLabel": "label",
+				"fields": [
+					{
+						"key": "icon",
+						"type": "text",
+						"label": "Icon"
+					},
+					{
+						"key": "label",
+						"type": "text",
+						"label": "Label"
+					},
+					{
+						"key": "value",
+						"type": "text",
+						"label": "Text"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "notes",
+				"type": "list",
+				"label": "Ticked notes",
+				"default": []
+			},
+			{
+				"key": "formTitle",
+				"type": "text",
+				"label": "Form heading",
+				"panel": "Form"
+			},
+			{
+				"key": "formSub",
+				"type": "text",
+				"label": "Form subheading",
+				"panel": "Form"
+			},
+			{
+				"key": "services",
+				"type": "list",
+				"label": "Service options",
+				"panel": "Form",
+				"default": []
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text",
+				"panel": "Form"
+			},
+			{
+				"key": "trust",
+				"type": "list",
+				"label": "Reassurance points",
+				"panel": "Form",
+				"default": []
+			},
+			{
+				"key": "note",
+				"type": "text",
+				"label": "Small print",
+				"panel": "Form"
+			}
+		]
+	}
+}

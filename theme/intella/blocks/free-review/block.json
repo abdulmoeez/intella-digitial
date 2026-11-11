@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/free-review",
+	"title": "Free review offer",
+	"category": "intella",
+	"icon": "video-alt2",
+	"description": "Dark offer panel with a checklist and a short form (website + email). Enquiries arrive under Leads.",
+	"supports": { "html": false },
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"section": "cream",
+		"fields": [
+			{ "key": "title", "type": "inline", "label": "Heading", "default": "Find out what's <em>holding your site back</em>" },
+			{ "key": "lead", "type": "textarea", "label": "Intro" },
+			{ "key": "checks", "type": "list", "label": "Checklist", "default": [] },
+			{ "key": "formTitle", "type": "text", "label": "Form heading", "default": "Get your free review", "panel": "Form" },
+			{ "key": "formSub", "type": "text", "label": "Form subheading", "default": "Your website and email is all we need.", "panel": "Form" },
+			{ "key": "buttonText", "type": "text", "label": "Button text", "default": "Get my free review", "panel": "Form" },
+			{ "key": "trust", "type": "list", "label": "Reassurance points (under the button)", "default": [], "panel": "Form" }
+		]
+	}
+}

@@ -1,0 +1,161 @@
+{
+ "title": "Healthcare SEO Services",
+ "path": "/services/digital-marketing/seo/healthcare-seo/",
+ "seo": {
+  "title": "Healthcare SEO Services | SEO for clinics, practices and health brands | Intella Digital",
+  "description": "Healthcare and medical SEO services for clinics, dental practices and health brands: trusted content, local SEO, doctor profiles and patient enquiries."
+ },
+ "blocks": [
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Healthcare SEO services that bring in new patients",
+    "html": "<section class=\"page-hero\" aria-labelledby=\"page-title\">\n\t\t<div class=\"container page-hero__inner\">\n\t\t\t<div>\n\t\t\t\t<nav class=\"breadcrumb\" aria-label=\"Breadcrumb\"><ol><li><a href=\"/\">Home</a></li><li><a href=\"/services/\">Services</a></li><li><a href=\"/services/digital-marketing/seo/\">SEO</a></li><li aria-current=\"page\">Healthcare SEO</li></ol></nav>\n\t\t\t\t<h1 class=\"page-hero__title\" id=\"page-title\">Healthcare SEO services that bring in <span class=\"accent\">new patients</span></h1>\n\t\t\t\t<p class=\"page-hero__lead\">Patients search before they book. We help clinics, practices and health brands show up for the right searches, with content that earns trust and pages that make booking easy.</p>\n\t\t\t\t<ul class=\"note-list\" role=\"list\">\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Medical content reviewed for accuracy</li>\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Local SEO for every clinic location</li>\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Bookings and calls tracked</li>\n\t\t\t\t</ul>\n\t\t\t\t<div class=\"hero__actions\">\n\t\t\t\t\t<a class=\"button button--primary button--lg\" href=\"#proposal\">Request a proposal <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t\t<a class=\"button button--outline button--lg\" href=\"#who\">See who we help</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"page-hero__visual\"><figure class=\"mock mk-browser\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mk-browser__url\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-key\"/></svg> yourclinic.com/dental-implants</span></div>\n\t<div class=\"mk-browser__body\"><div class=\"wf-hero\"><p class=\"wf-kicker\">Reviewed by Dr. Sara Khan, BDS</p><p class=\"wf-title\">Dental implants in Dubai Marina</p><span class=\"wf-line\"></span><span class=\"wf-line wf-line--short\"></span><span class=\"wf-btn\">Book a consultation</span></div><div class=\"wf-cards\"><span></span><span></span><span></span></div><div class=\"wf-reviews\"><span><span class=\"mk-stars\"><span aria-hidden=\"true\">★★★★★</span></span></span><span><span class=\"mk-stars\"><span aria-hidden=\"true\">★★★★★</span></span></span><span><span class=\"mk-stars\"><span aria-hidden=\"true\">★★★★★</span></span></span></div><div class=\"wf-faq\"><span></span><span></span><span></span></div></div>\n</figure></div>\n\t\t</div>\n\t</section>",
+    "css": "healthcare-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/signs",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Signs your clinic’s SEO <em>needs work</em>",
+    "lead": "If any of these sound familiar, patients are probably choosing a competitor.",
+    "items": [
+     "Competitors appear above you for your main treatments",
+     "Your treatment pages are short or out of date",
+     "Doctor profiles don’t show qualifications or reviews",
+     "You rank near one clinic but not your other locations",
+     "You can’t tell how many bookings come from Google",
+     "Your website is slow or hard to use on a phone"
+    ],
+    "icon": "sparkle",
+    "asideTitle": "Get a free clinic review",
+    "asideText": "We’ll check how you rank for your top treatments and send you three quick wins.",
+    "buttonText": "Book a free call",
+    "buttonUrl": "#proposal",
+    "photo": 0,
+    "photoAlt": "",
+    "bubble": "",
+    "shortPhoto": false
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Medical SEO for every kind of practice",
+    "html": "<section class=\"section section--cream\" id=\"who\" aria-labelledby=\"h-52\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-52\">Medical SEO for <span class=\"accent\">every kind of practice</span></h2>\n\t\t\t\t<p class=\"section-lead\">Each type of practice has its own searches and rules.</p>\n\t\t\t</div>\n\t\t\t<div class=\"tabs tabs--pills\" data-tabs>\n\t\t\t\t<div class=\"tabs__list\" role=\"tablist\" aria-label=\"Practice types\">\n\t\t\t\t\t<button class=\"tabs__pill\" type=\"button\" role=\"tab\" id=\"tabs-53-tab-0\" aria-controls=\"tabs-53-panel-0\" aria-selected=\"true\">Clinics</button>\n\t\t\t\t\t<button class=\"tabs__pill\" type=\"button\" role=\"tab\" id=\"tabs-53-tab-1\" aria-controls=\"tabs-53-panel-1\" aria-selected=\"false\">Dental</button>\n\t\t\t\t\t<button class=\"tabs__pill\" type=\"button\" role=\"tab\" id=\"tabs-53-tab-2\" aria-controls=\"tabs-53-panel-2\" aria-selected=\"false\">Specialists</button>\n\t\t\t\t\t<button class=\"tabs__pill\" type=\"button\" role=\"tab\" id=\"tabs-53-tab-3\" aria-controls=\"tabs-53-panel-3\" aria-selected=\"false\">Health brands</button>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"tabs__panels\">\n\t\t\t\t\t<div class=\"tabs__panel tabs__panel--wide\" role=\"tabpanel\" id=\"tabs-53-panel-0\" aria-labelledby=\"tabs-53-tab-0\" tabindex=\"0\">\n\t\t\t\t\t\t<div class=\"tabs__panel-text\">\n\t\t\t\t\t\t\t<h3 class=\"tabs__panel-title\">Clinics and medical centres</h3>\n\t\t\t\t\t\t\t<p>Treatment pages, doctor profiles and local SEO for each location, so patients find the right clinic and book.</p>\n\t\t\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Treatment and condition pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Doctor profiles with credentials</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Local SEO for every location</li></ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"tabs__panel-visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Google Maps · “dentist near me”</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-search\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-search\"/></svg>dentist near me</div><svg class=\"mk-map\" viewBox=\"0 0 400 200\" role=\"img\" aria-label=\"Map with business pins\"><rect width=\"400\" height=\"200\" fill=\"#ece8e1\"/><path d=\"M0 60 C120 50 200 90 400 70\" stroke=\"#fff\" stroke-width=\"10\" fill=\"none\"/><path d=\"M60 0 C80 90 140 140 120 200\" stroke=\"#fff\" stroke-width=\"8\" fill=\"none\"/><path d=\"M0 150 C150 160 260 130 400 170\" stroke=\"#fff\" stroke-width=\"7\" fill=\"none\"/><path d=\"M280 0 L300 200\" stroke=\"#fff\" stroke-width=\"6\" fill=\"none\"/><rect x=\"190\" y=\"140\" width=\"60\" height=\"40\" rx=\"6\" fill=\"#d7ecd9\"/><rect x=\"310\" y=\"20\" width=\"70\" height=\"36\" rx=\"6\" fill=\"#d7ecd9\"/><g transform=\"translate(150 70)\"><path d=\"M0 0c-9-13-13-19-13-25a13 13 0 0 1 26 0c0 6-4 12-13 25z\" fill=\"#8f2cf4\"/><text x=\"0\" y=\"-21\" text-anchor=\"middle\" style=\"fill:#fff;font-size:11px;font-weight:700\">★</text></g><g transform=\"translate(250 120)\"><path d=\"M0 0c-9-13-13-19-13-25a13 13 0 0 1 26 0c0 6-4 12-13 25z\" fill=\"#c43a5a\"/><text x=\"0\" y=\"-21\" text-anchor=\"middle\" style=\"fill:#fff;font-size:11px;font-weight:700\">2</text></g><g transform=\"translate(90 140)\"><path d=\"M0 0c-9-13-13-19-13-25a13 13 0 0 1 26 0c0 6-4 12-13 25z\" fill=\"#c43a5a\"/><text x=\"0\" y=\"-21\" text-anchor=\"middle\" style=\"fill:#fff;font-size:11px;font-weight:700\">3</text></g></svg><div class=\"mk-place mk-place--you\"><div><p class=\"mk-place__name\">Your Business</p><p class=\"mk-place__meta\"><span class=\"mk-stars\"><b>4.9</b> <span aria-hidden=\"true\">★★★★★</span></span> (312) · Dentist</p><p class=\"mk-place__meta\">Open · Closes 7 pm</p></div><div class=\"mk-place__btns\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-browser\"/></svg></span><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pin\"/></svg></span></div></div><div class=\"mk-place\"><div><p class=\"mk-place__name\">Competitor Dental</p><p class=\"mk-place__meta\"><span class=\"mk-stars\"><b>4.6</b> <span aria-hidden=\"true\">★★★★★</span></span> (128) · Dentist</p><p class=\"mk-place__meta\">Open · Closes 6 pm</p></div><div class=\"mk-place__btns\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-browser\"/></svg></span><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pin\"/></svg></span></div></div><div class=\"mk-place\"><div><p class=\"mk-place__name\">Another Clinic</p><p class=\"mk-place__meta\"><span class=\"mk-stars\"><b>4.4</b> <span aria-hidden=\"true\">★★★★★</span></span> (86) · Dentist</p><p class=\"mk-place__meta\">Closed · Opens 9 am</p></div><div class=\"mk-place__btns\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-browser\"/></svg></span><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pin\"/></svg></span></div></div></div>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"tabs__panel tabs__panel--wide\" role=\"tabpanel\" id=\"tabs-53-panel-1\" aria-labelledby=\"tabs-53-tab-1\" tabindex=\"0\">\n\t\t\t\t\t\t<div class=\"tabs__panel-text\">\n\t\t\t\t\t\t\t<h3 class=\"tabs__panel-title\">Dental SEO</h3>\n\t\t\t\t\t\t\t<p>Dental patients compare prices, reviews and locations. We build pages for each treatment and help you win the map pack.</p>\n\t\t\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Treatment pages: implants, aligners, whitening</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Reviews and before-and-after galleries</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Emergency dentist searches</li></ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"tabs__panel-visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Reviews · Google</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats mock-stats--3\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Average rating</div><div class=\"mock-stat__value\">4.9</div><span class=\"mock-up\">▲ from 4.2</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">New reviews / month</div><div class=\"mock-stat__value\">38</div><span class=\"mock-up\">▲ +29</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Reply rate</div><div class=\"mock-stat__value\">100%</div><span class=\"mock-up\">▲ from 12%</span></div></div><div class=\"mk-review\"><div class=\"mk-review__head\"><span class=\"mk-avatar\">S</span><div><p class=\"mk-review__name\">Sara K.</p><p class=\"mk-place__meta\"><span class=\"mk-stars\"><span aria-hidden=\"true\">★★★★★</span></span> · 2 days ago</p></div></div><p>Friendly team and spotless clinic. They explained every step and the price upfront.</p><p class=\"mk-review__reply\"><b>Response from the owner</b> Thank you, we’re glad the visit went well!</p></div><div class=\"mk-review\"><div class=\"mk-review__head\"><span class=\"mk-avatar\">O</span><div><p class=\"mk-review__name\">Omar H.</p><p class=\"mk-place__meta\"><span class=\"mk-stars\"><span aria-hidden=\"true\">★★★★★</span></span> · 1 week ago</p></div></div><p>Booked online the same day. No waiting, and the follow-up call was a nice touch.</p><p class=\"mk-review__reply\"><b>Response from the owner</b> Thank you, we’re glad the visit went well!</p></div></div>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"tabs__panel tabs__panel--wide\" role=\"tabpanel\" id=\"tabs-53-panel-2\" aria-labelledby=\"tabs-53-tab-2\" tabindex=\"0\">\n\t\t\t\t\t\t<div class=\"tabs__panel-text\">\n\t\t\t\t\t\t\t<h3 class=\"tabs__panel-title\">Specialist practices</h3>\n\t\t\t\t\t\t\t<p>Dermatology, physiotherapy, fertility, cosmetic and more. We match content to the questions patients ask before they choose.</p>\n\t\t\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Condition and procedure guides</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Cost and recovery FAQs</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Referral and enquiry tracking</li></ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"tabs__panel-visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Patient questions · Example</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Question</th><th class=\"num\">Searches</th></tr></thead><tbody><tr><td>how long does physio take to work</td><td class=\"num\">1,300</td></tr><tr><td>laser hair removal cost</td><td class=\"num\">6,600</td></tr><tr><td>ivf success rates by age</td><td class=\"num\">2,900</td></tr></tbody></table></div></div>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"tabs__panel tabs__panel--wide\" role=\"tabpanel\" id=\"tabs-53-panel-3\" aria-labelledby=\"tabs-53-tab-3\" tabindex=\"0\">\n\t\t\t\t\t\t<div class=\"tabs__panel-text\">\n\t\t\t\t\t\t\t<h3 class=\"tabs__panel-title\">Health and wellness brands</h3>\n\t\t\t\t\t\t\t<p>Supplements, devices and digital health services need careful claims and strong trust signals to rank.</p>\n\t\t\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Product and category pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Evidence-led content</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Claims reviewed before publishing</li></ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"tabs__panel-visual\"><div class=\"wf-hero\"><p class=\"wf-kicker\">Shop › Women › Supplements</p><p class=\"wf-title\">Women’s supplements</p><span class=\"wf-line\"></span><span class=\"wf-line wf-line--short\"></span></div><div class=\"mk-filters\"><span>Frame shape ▾</span><span>Colour ▾</span><span>Price ▾</span><span>Polarised</span></div><div class=\"mk-products\"><div class=\"mk-product\"><span class=\"mk-product__img\" style=\"--h:270\"></span><p class=\"mk-product__name\">Aviator Gold</p><p class=\"mk-product__price\">$189</p></div><div class=\"mk-product\"><span class=\"mk-product__img\" style=\"--h:30\"></span><p class=\"mk-product__name\">Round Tortoise</p><p class=\"mk-product__price\">$159</p></div><div class=\"mk-product\"><span class=\"mk-product__img\" style=\"--h:300\"></span><p class=\"mk-product__name\">Cat-eye Black</p><p class=\"mk-product__price\">$175</p></div></div></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "healthcare-seo",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Health content patients can trust",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-54\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-54\">Health content patients <span class=\"accent\">can trust</span></h2>\n\t\t\t\t<p class=\"section-lead\">Google holds health content to a higher standard. So do we.</p>\n\t\t\t</div>\n\t\t\t<div class=\"dodont\">\n\t\t\t\t<div class=\"dodont__col dodont__col--do\"><h3 class=\"dodont__title\">What we do</h3><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Have content reviewed by a qualified professional</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Show author and reviewer credentials</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Cite trusted medical sources</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Keep treatment pages up to date</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Follow advertising rules in your market</li></ul></div>\n\t\t\t\t<div class=\"dodont__col dodont__col--dont\"><h3 class=\"dodont__title\">What we never do</h3><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Promise outcomes or cures</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Publish medical advice without review</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Use patient details or photos without consent</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Copy content from other clinics</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Buy fake reviews</li></ul></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "healthcare-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "From search to booked appointment",
+    "html": "<section class=\"section section--cream process\" aria-labelledby=\"process-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"process-title\">From search to <span class=\"accent\">booked appointment</span></h2>\n\t\t\t\t<p class=\"section-lead\">A plan that starts with the treatments that matter most to your practice.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"steps-row\" role=\"list\">\n\t\t\t\t<li class=\"steps-row__item\">\n\t\t\t\t\t<span class=\"steps-row__num\">01</span>\n\t\t\t\t\t<h3 class=\"steps-row__title\">Practice review</h3>\n\t\t\t\t\t<p>Your rankings, profiles, reviews and competitors for each location and treatment.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"steps-row__item\">\n\t\t\t\t\t<span class=\"steps-row__num\">02</span>\n\t\t\t\t\t<h3 class=\"steps-row__title\">Fix the basics</h3>\n\t\t\t\t\t<p>Google Business Profiles, site speed and booking paths.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"steps-row__item\">\n\t\t\t\t\t<span class=\"steps-row__num\">03</span>\n\t\t\t\t\t<h3 class=\"steps-row__title\">Treatment content</h3>\n\t\t\t\t\t<p>Pages for your key treatments, reviewed by your clinicians.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"steps-row__item\">\n\t\t\t\t\t<span class=\"steps-row__num\">04</span>\n\t\t\t\t\t<h3 class=\"steps-row__title\">Track bookings</h3>\n\t\t\t\t\t<p>Calls, forms and online bookings tracked and reported monthly.</p>\n\t\t\t\t</li>\n\t\t\t</ol>\n\t\t</div>\n\t</section>",
+    "css": "healthcare-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Healthcare SEO questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What are healthcare SEO services?",
+      "answer": "SEO for clinics, practices and health brands: treatment and condition content, doctor profiles, local SEO, technical fixes and booking tracking."
+     },
+     {
+      "question": "Do you do SEO for dentists?",
+      "answer": "Yes. Dental SEO is one of the most common requests we get: treatment pages, reviews and map pack rankings for each practice."
+     },
+     {
+      "question": "Who writes the medical content?",
+      "answer": "Specialist health writers, with every page reviewed and approved by a qualified person at your practice."
+     },
+     {
+      "question": "Do you handle patient data?",
+      "answer": "No. Our work doesn’t need patient records. Forms and tracking are set up so no health data is sent to analytics tools."
+     },
+     {
+      "question": "Can you help with several clinic locations?",
+      "answer": "Yes. We manage pages, profiles and reporting for each location."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/get-in-touch",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Help more patients <em>find your practice</em>",
+    "lead": "Tell us about your practice and the treatments you want to grow. We’ll reply with a plan and a quote.",
+    "people": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ],
+    "formTitle": "Request a proposal",
+    "messageHint": "Which treatments and locations matter most? *",
+    "service": "healthcare-seo",
+    "buttonText": "Send message",
+    "trust": [
+     "Your details stay private",
+     "No spam, ever",
+     "Free 30-minute call"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Healthcare SEO works best <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "pin",
+      "title": "Local SEO",
+      "url": "/services/digital-marketing/local-seo/",
+      "text": "Win the map pack and local searches in the areas you serve."
+     },
+     {
+      "icon": "pen",
+      "title": "SEO Content Writing",
+      "url": "/services/digital-marketing/seo/seo-content-writing/",
+      "text": "Pages and articles written to rank and to convert."
+     },
+     {
+      "icon": "search",
+      "title": "SEO Services",
+      "url": "/services/digital-marketing/seo/",
+      "text": "The full SEO service: technical, content, links and reporting."
+     }
+    ]
+   }
+  }
+ ]
+}

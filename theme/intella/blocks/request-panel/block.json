@@ -1,0 +1,80 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/request-panel",
+	"title": "Request panel (form)",
+	"category": "intella",
+	"icon": "feedback",
+	"description": "“What happens next” steps beside a short request form. Enquiries arrive under Leads.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "steps",
+				"type": "repeater",
+				"label": "What happens next",
+				"itemName": "step",
+				"fields": [
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Title"
+					},
+					{
+						"key": "text",
+						"type": "text",
+						"label": "Text"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "formTitle",
+				"type": "text",
+				"label": "Form heading",
+				"panel": "Form"
+			},
+			{
+				"key": "messageHint",
+				"type": "text",
+				"label": "Message box hint",
+				"panel": "Form"
+			},
+			{
+				"key": "service",
+				"type": "text",
+				"label": "Service (saved with the lead)",
+				"panel": "Form",
+				"help": "e.g. wordpress-seo"
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text",
+				"panel": "Form"
+			},
+			{
+				"key": "trust",
+				"type": "list",
+				"label": "Reassurance points",
+				"panel": "Form",
+				"default": []
+			}
+		],
+		"section": "cream"
+	}
+}

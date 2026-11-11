@@ -1,0 +1,132 @@
+/* service-hero: section styles, split from the prototype CSS (Code/frontend/assets/css) by bin/import/css_split.py. */
+
+.contact-form__row {
+	display: grid;
+	gap: var(--space-lg);
+}
+@media (min-width: 40rem) {
+	.contact-form__row {
+		grid-template-columns: 1fr 1fr;
+		gap: var(--space-md);
+	}
+}
+.hp-field {
+	position: absolute;
+	inset-inline-start: -9999px;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+}
+.page-hero {
+	padding-block: var(--space-2xl) var(--space-section);
+}
+.page-hero__inner {
+	display: grid;
+	gap: var(--space-2xl);
+	align-items: start;
+}
+.page-hero__title {
+	font-size: clamp(2.25rem, 1.5rem + 2.6vw, 3.6rem);
+	line-height: 1.04;
+}
+.page-hero__lead {
+	max-width: 34rem;
+	margin-block-start: var(--space-lg);
+	font-size: var(--text-md);
+	line-height: 1.65;
+}
+@media (min-width: 64rem) {
+	.page-hero {
+		padding-block-start: 5rem;
+	}
+	.page-hero__inner {
+		grid-template-columns: 1fr 1.05fr;
+		gap: 5rem;
+	}
+}
+.note-list {
+	display: grid;
+	gap: 0.55rem;
+	margin-block-start: var(--space-xl);
+	padding-block-start: var(--space-xl);
+	border-block-start: 1px solid var(--color-cream-deep);
+	color: var(--color-ink);
+
+	& li {
+		display: flex;
+		align-items: flex-start;
+		gap: 0.7rem;
+	}
+
+	& svg {
+		width: 1.1rem;
+		margin-block-start: 0.2rem;
+		color: var(--color-success);
+		flex: none;
+	}
+}
+.breadcrumb {
+	margin-block-end: var(--space-lg);
+	font-size: var(--text-sm);
+	contain: inline-size; 
+
+	
+	& ol {
+		display: flex;
+		flex-wrap: nowrap;
+		align-items: baseline;
+		min-width: 0;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		white-space: nowrap;
+	}
+
+	& li {
+		flex: 0 0 auto;
+		min-width: 0;
+		color: var(--color-muted);
+
+		& + li::before {
+			content: "/";
+			margin-inline: 0.4rem;
+			color: #c9c0cf;
+		}
+	}
+
+	& li:last-child,
+	& li:nth-last-child(2) {
+		flex: 0 1 auto;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	
+	& li:nth-last-child(2):not(:first-child) {
+		flex-shrink: 1000;
+		min-width: 5em;
+	}
+
+	& a {
+		color: var(--color-text);
+
+		&:hover {
+			color: var(--color-accent);
+		}
+	}
+
+	& [aria-current="page"] {
+		color: var(--color-ink);
+	}
+}
+@media (max-width: 640px) {
+	.breadcrumb li + li::before {
+		margin-inline: 0.3rem;
+	}
+	.breadcrumb li:not(:first-child):not(:nth-last-child(-n + 2)) {
+		display: none;
+	}
+	.breadcrumb li:nth-last-child(2):not(:nth-child(2))::before {
+		content: "/\2009…\2009/";
+	}
+}

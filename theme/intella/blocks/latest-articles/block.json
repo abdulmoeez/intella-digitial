@@ -1,0 +1,40 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/latest-articles",
+	"title": "Latest articles",
+	"category": "intella",
+	"icon": "admin-post",
+	"description": "The newest blog posts as cards (pulled in automatically).",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text"
+			},
+			{
+				"key": "buttonUrl",
+				"type": "url",
+				"label": "Button link"
+			},
+			{
+				"key": "count",
+				"type": "number",
+				"label": "How many",
+				"default": 3
+			}
+		],
+		"section": "cream"
+	}
+}

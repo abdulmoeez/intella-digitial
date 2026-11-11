@@ -1,0 +1,73 @@
+/* related-services: section styles, split from the prototype CSS (Code/frontend/assets/css) by bin/import/css_split.py. */
+
+.link-grid {
+	display: grid;
+	gap: var(--space-md);
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.link-card {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	gap: var(--space-sm);
+	height: 100%;
+	padding: 1.6rem 1.5rem;
+	border: 1px solid var(--color-line);
+	border-radius: var(--radius-lg);
+	background: var(--color-paper);
+	box-shadow: var(--shadow-card);
+	transition: transform 250ms ease, border-color var(--transition);
+
+	&:hover {
+		transform: translateY(-3px);
+		border-color: #d9c6f2;
+	}
+
+	&:focus-within {
+		border-color: var(--color-accent);
+	}
+}
+.link-card__title {
+	margin-block-start: var(--space-xs);
+	font-size: var(--text-xl);
+	letter-spacing: -0.02em;
+
+	
+	& a::after {
+		content: "";
+		position: absolute;
+		inset: 0;
+		border-radius: inherit;
+	}
+}
+.link-card__text {
+	flex: 1;
+}
+.link-card__more {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.45rem;
+	color: var(--color-ink);
+	font-weight: var(--weight-semibold);
+
+	& svg {
+		width: 0.95rem;
+		color: var(--color-accent);
+		transition: transform var(--transition);
+	}
+}
+.link-card:hover .link-card__more svg {
+	transform: translateX(3px);
+}
+@media (min-width: 40rem) {
+	.link-grid {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+.link-grid--3 {
+	@media (min-width: 64rem) {
+		grid-template-columns: repeat(3, 1fr);
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/why-intella",
+	"title": "Why Intella",
+	"category": "intella",
+	"icon": "awards",
+	"description": "Reasons to choose us on the left; key facts and/or a client quote on the right.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{ "key": "title", "type": "inline", "label": "Heading" },
+			{ "key": "items", "type": "repeater", "label": "Reasons", "fields": [
+				{ "key": "title", "type": "text", "label": "Title" },
+				{ "key": "text", "type": "textarea", "label": "Text" }
+			], "default": [] },
+			{ "key": "facts", "type": "repeater", "label": "Key facts", "panel": "Right side", "fields": [
+				{ "key": "value", "type": "text", "label": "Number" },
+				{ "key": "label", "type": "text", "label": "Label" }
+			], "default": [] },
+			{ "key": "bigFacts", "type": "toggle", "label": "Large facts", "default": true, "panel": "Right side" },
+			{ "key": "quote", "type": "posts", "label": "Client quote", "postType": "testimonial", "help": "Tick one testimonial, or none.", "default": [], "panel": "Right side" }
+		],
+		"section": "cream"
+	}
+}

@@ -1,0 +1,203 @@
+/* get-in-touch: section styles, split from the prototype CSS (Code/frontend/assets/css) by bin/import/css_split.py. */
+
+.person {
+	display: flex;
+	align-items: center;
+	gap: 0.9rem;
+
+	& img {
+		width: 4rem;
+		height: 4rem;
+		border-radius: 50%;
+		object-fit: cover;
+		flex: none;
+	}
+}
+.person__name {
+	color: var(--color-ink);
+	font-weight: var(--weight-medium);
+}
+.person__role {
+	color: var(--color-text);
+	font-size: var(--text-sm);
+}
+.hp-field {
+	position: absolute;
+	inset-inline-start: -9999px;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
+}
+.cta-panel {
+	display: grid;
+	gap: var(--space-2xl);
+	align-items: center;
+	padding: var(--space-2xl) var(--space-lg);
+	border-radius: var(--radius-xl);
+	background:
+		radial-gradient(60% 80% at 0% 100%, rgb(143 44 244 / 0.22), transparent 70%),
+		radial-gradient(50% 60% at 100% 0%, rgb(196 58 166 / 0.12), transparent 70%),
+		linear-gradient(150deg, #3a1653 0%, #2f1145 55%, #28103b 100%);
+	color: var(--color-on-dark-muted);
+	box-shadow: 0 40px 80px -48px rgb(42 12 61 / 0.6);
+}
+.cta-panel__title {
+	margin-block-start: var(--space-sm);
+	color: var(--color-on-dark);
+	font-size: clamp(1.9rem, 1.4rem + 1.8vw, 2.75rem);
+}
+.cta-panel__lead {
+	max-width: 30rem;
+	margin-block-start: var(--space-md);
+	color: rgb(255 255 255 / 0.75);
+	font-size: var(--text-md);
+	line-height: 1.6;
+}
+.quote-slider {
+	margin-block-start: var(--space-2xl);
+	padding-block-start: var(--space-xl);
+	border-block-start: 1px solid rgb(255 255 255 / 0.12);
+	max-width: 31rem;
+}
+.quote-slider__slides {
+	display: grid;
+}
+.quote-slide {
+	grid-area: 1 / 1;
+	margin: 0;
+	opacity: 0;
+	visibility: hidden;
+	transform: translateY(6px);
+	transition: opacity 450ms ease, transform 450ms ease, visibility 450ms;
+
+	&.is-active {
+		opacity: 1;
+		visibility: visible;
+		transform: none;
+	}
+
+	& blockquote {
+		color: var(--color-on-dark);
+		font-size: var(--text-md);
+		line-height: 1.65;
+	}
+
+	& .person {
+		margin-block-start: var(--space-lg);
+	}
+
+	& .person img {
+		width: 3.25rem;
+		height: 3.25rem;
+		border: 2px solid rgb(255 255 255 / 0.18);
+	}
+
+	& .person__name {
+		color: var(--color-highlight-light);
+		font-weight: var(--weight-semibold);
+	}
+
+	& .person__role {
+		color: rgb(255 255 255 / 0.6);
+	}
+}
+.quote-slider__dots {
+	display: flex;
+	gap: 0.5rem;
+	margin-block-start: var(--space-lg);
+}
+.quote-slider__dot {
+	width: 0.6rem;
+	height: 0.6rem;
+	padding: 0;
+	border: 0;
+	border-radius: var(--radius-pill);
+	background: rgb(255 255 255 / 0.3);
+	transition: width var(--transition), background-color var(--transition);
+
+	&.is-active {
+		width: 1.6rem;
+		background: var(--color-on-dark);
+	}
+}
+.cta-form {
+	display: grid;
+	gap: 0.85rem;
+}
+.cta-form__title {
+	margin-block-end: 0.25rem;
+	color: var(--color-on-dark);
+	font-family: var(--font-heading);
+	font-size: var(--text-xl);
+	font-weight: var(--weight-bold);
+	letter-spacing: -0.02em;
+}
+.cta-form .field__input {
+	min-height: 3.25rem;
+	padding-inline: 1.2rem;
+	border: 1px solid transparent;
+	border-radius: var(--radius-md);
+	background-color: rgb(255 255 255 / 0.96);
+	color: var(--color-ink);
+	font-size: 0.97rem;
+
+	&::placeholder {
+		color: #8d8497;
+	}
+
+	&:focus {
+		border-color: var(--color-highlight-light);
+		box-shadow: 0 0 0 4px rgb(217 182 255 / 0.3);
+	}
+}
+.cta-form textarea.field__input {
+	min-height: 7.5rem;
+	padding-block: 0.9rem;
+}
+.cta-form .field.has-error .field__input {
+	border-color: #ff9bb5;
+	background-color: #fff5f8;
+}
+.cta-form .field__error {
+	color: #ffc2d1;
+	font-size: 0.8125rem;
+}
+.cta-form .form-status {
+	background: rgb(255 255 255 / 0.1);
+	color: #ffd0dc;
+}
+.cta-form__submit {
+	min-height: 3.4rem;
+	margin-block-start: 0.25rem;
+	border: 0;
+	background: linear-gradient(135deg, #9a3cf6 0%, var(--color-accent) 45%, #7420d6 100%);
+	color: var(--color-on-dark);
+	font-family: var(--font-heading);
+	font-size: 1.0625rem;
+	font-weight: var(--weight-semibold);
+	box-shadow: 0 18px 36px -14px rgb(143 44 244 / 0.7);
+
+	&:hover {
+		transform: translateY(-1px);
+		box-shadow: 0 22px 40px -14px rgb(143 44 244 / 0.8);
+	}
+}
+.cta-form .form-trust {
+	color: rgb(255 255 255 / 0.7);
+
+	& svg {
+		color: #6fe0a3;
+	}
+}
+@media (min-width: 40rem) {
+	.cta-panel {
+		padding: 3.5rem 3rem;
+	}
+}
+@media (min-width: 64rem) {
+	.cta-panel {
+		grid-template-columns: 1fr 1fr;
+		gap: 5rem;
+		padding: 4.5rem 5rem;
+	}
+}

@@ -1,0 +1,111 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/home-services",
+	"title": "Services by line (tabs)",
+	"category": "intella",
+	"icon": "index-card",
+	"description": "One tab per service line, each with its services.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/tabs",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text"
+			},
+			{
+				"key": "buttonUrl",
+				"type": "url",
+				"label": "Button link"
+			},
+			{
+				"key": "tabs",
+				"type": "repeater",
+				"label": "Tabs",
+				"itemName": "tab",
+				"itemLabel": "tab",
+				"panel": "Tabs",
+				"fields": [
+					{
+						"key": "tab",
+						"type": "text",
+						"label": "Tab label"
+					},
+					{
+						"key": "title",
+						"type": "inline",
+						"label": "Heading"
+					},
+					{
+						"key": "lead",
+						"type": "textarea",
+						"label": "Intro"
+					},
+					{
+						"key": "text",
+						"type": "textarea",
+						"label": "Text"
+					},
+					{
+						"key": "links",
+						"type": "repeater",
+						"label": "Services",
+						"itemName": "service",
+						"fields": [
+							{
+								"key": "title",
+								"type": "text",
+								"label": "Name"
+							},
+							{
+								"key": "description",
+								"type": "text",
+								"label": "Description"
+							},
+							{
+								"key": "url",
+								"type": "url",
+								"label": "Link"
+							},
+							{
+								"key": "tool",
+								"type": "text",
+								"label": "Tool logo",
+								"help": "e.g. Google, Shopify"
+							}
+						],
+						"default": []
+					},
+					{
+						"key": "ctaText",
+						"type": "text",
+						"label": "Button text"
+					},
+					{
+						"key": "ctaUrl",
+						"type": "url",
+						"label": "Button link"
+					}
+				],
+				"default": []
+			}
+		],
+		"section": "cream"
+	}
+}

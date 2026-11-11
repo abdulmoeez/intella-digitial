@@ -48,14 +48,25 @@ Paths, database name and port live in `bin/config.sh`. To override one on your m
 Delete `wordpress/` and `.env.local`, drop the database
 (`/Applications/XAMPP/xamppfiles/bin/mysql -uroot -e "DROP DATABASE intella_v2"`), then run `bin/setup.sh`.
 
-## Custom blocks (build step)
-Section blocks are native WordPress blocks. Their source is in `theme/intella/src/blocks/` and WordPress loads the
-compiled copy in `theme/intella/build/blocks/`. Node 22 is already installed (via nvm).
+## Section blocks
+Each page section is a block in `theme/intella/blocks/<name>/` (`block.json`, `render.php`, `style.css`). No npm
+or build step: save a file and refresh. In the editor, select a section and edit its content in the right sidebar.
+
+Blocks used across the service pages: Hero with short form, Problems and fixes, Signs you need this (checklist or
+numbered strips), Fixed-scope offer, Case study, Why Intella, Testimonials (editorial spread), Request panel,
+Related services, Get in touch, FAQ and Client logos. Testimonials and client logos come from their own admin
+screens, so one edit updates every page.
+
+## Importing the prototype pages
+The pages built in `Code/frontend` are moved into WordPress with the kit in `bin/import/` (see CONVENTIONS.md,
+section 15). To rebuild everything the import covers so far:
 ```bash
-cd theme/intella && npm install
+cd bin/import && python3 urls.py && python3 extract_site.py && python3 extract_tools.py && python3 extract_pages.py && python3 css_split.py && cd ../..
 ```
-Then, while working on blocks, keep `npm run start` running (it rebuilds on save). Run `npm run build` before
-committing. Global CSS and JS in `theme/intella/assets/` need no build.
+```bash
+bin/wp --user=intella-admin eval-file bin/import/import.php settings shared menus pages
+```
+Run it as an administrator (`--user`), or SVG logos are refused. It updates what's there; it never deletes.
 
 ## Deploying (git push → git pull on the VPS)
 Design changes are theme files, so deploying is just moving code. Content (pages, posts, settings, uploads) lives
@@ -73,4 +84,4 @@ in the live database and is never touched by a deploy.
 
 **One-time server setup:** clone the repo on the VPS outside the web root, install WordPress and WP-CLI there,
 and create `bin/.deploy.env` (git-ignored) with `WP_PATH="/path/to/wordpress"` (the folder with `wp-config.php`).
-If you build blocks, run `npm run build` locally and commit `build/`; the server never needs Node.
+There is no build step, so the server never needs Node.

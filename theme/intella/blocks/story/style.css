@@ -1,0 +1,41 @@
+/* story: section styles, split from the prototype CSS (Code/frontend/assets/css) by bin/import/css_split.py. */
+
+.story {
+	display: grid;
+	gap: var(--space-xl);
+}
+.story__body {
+	display: grid;
+	gap: var(--space-md);
+	font-size: var(--text-md);
+	line-height: 1.7;
+}
+.mission {
+	margin-block-start: var(--space-3xl);
+	padding: var(--space-2xl) var(--space-lg);
+	border-radius: var(--radius-xl);
+	background: var(--gradient-plum);
+}
+.mission__text {
+	max-width: 52rem;
+	color: var(--color-on-dark);
+	font-family: var(--font-heading);
+	font-size: var(--text-2xl);
+	font-weight: var(--weight-semibold);
+	letter-spacing: -0.02em;
+	line-height: 1.3;
+}
+@media (min-width: 40rem) {
+	.mission {
+		padding: 3rem;
+	}
+}
+@media (min-width: 64rem) {
+	.story {
+		grid-template-columns: 0.9fr 1.1fr;
+		gap: 5rem;
+	}
+	.mission {
+		padding: 3.5rem 4.5rem;
+	}
+}

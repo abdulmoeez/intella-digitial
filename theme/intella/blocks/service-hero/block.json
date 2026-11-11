@@ -1,0 +1,94 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/service-hero",
+	"title": "Service hero with form",
+	"category": "intella",
+	"icon": "cover-image",
+	"description": "Breadcrumb, H1, intro and ticked notes beside a short proposal form.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "crumbs",
+				"type": "repeater",
+				"label": "Breadcrumb",
+				"itemName": "link",
+				"itemLabel": "label",
+				"help": "The last one is the current page (no link needed).",
+				"fields": [
+					{
+						"key": "label",
+						"type": "text",
+						"label": "Label"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading (H1)"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "notes",
+				"type": "list",
+				"label": "Ticked notes",
+				"default": []
+			},
+			{
+				"key": "formTitle",
+				"type": "text",
+				"label": "Form heading",
+				"default": "Request a proposal",
+				"panel": "Form"
+			},
+			{
+				"key": "formSub",
+				"type": "text",
+				"label": "Form subheading",
+				"panel": "Form"
+			},
+			{
+				"key": "messageHint",
+				"type": "text",
+				"label": "Message box hint",
+				"panel": "Form"
+			},
+			{
+				"key": "service",
+				"type": "text",
+				"label": "Service (saved with the lead)",
+				"panel": "Form"
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text",
+				"default": "Request a proposal",
+				"panel": "Form"
+			},
+			{
+				"key": "trust",
+				"type": "list",
+				"label": "Reassurance points",
+				"panel": "Form",
+				"default": []
+			}
+		]
+	}
+}

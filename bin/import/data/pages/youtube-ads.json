@@ -1,0 +1,416 @@
+{
+ "title": "YouTube Ads Management",
+ "path": "/services/digital-marketing/performance-marketing/youtube-ads/",
+ "seo": {
+  "title": "YouTube Ads Management | YouTube Advertising Agency | Intella Digital",
+  "description": "YouTube ads management: in-stream, Shorts and Demand Gen campaigns that build awareness and drive action, with tracking and clear reporting."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Services",
+      "url": "/services/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "YouTube Ads",
+      "url": ""
+     }
+    ],
+    "title": "YouTube ads management that <em>drives action</em>",
+    "lead": "Video campaigns on YouTube that reach the right people, keep them watching and bring them back to buy.",
+    "buttonText": "Get a free YouTube review",
+    "formLabel": "Get a free YouTube review",
+    "service": "youtube-ads",
+    "notes": [
+     "Hooks in the first five seconds",
+     "Shorts, in-stream and Demand Gen",
+     "Tracked to leads and sales"
+    ],
+    "sliderLabel": "Common YouTube Ads problems",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "Skipped after five seconds",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">In-stream video</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Watched past 5 seconds</span><b>18%</b></li><li class=\"ok\"><span>After a new opening</span><b>41%</b></li></ul></div>",
+      "photo": "media:assets/images/people-cut/developer.webp",
+      "fix": "Videos with the hook and brand in the first five seconds.",
+      "look": "skip"
+     },
+     {
+      "kicker": "",
+      "title": "Views that never turn into leads",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Last month</p><ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:100%\"><span>Views</span><b>100</b></li><li style=\"--w:6%\"><span>Site visits</span><b>6</b></li><li style=\"--w:2%\"><span>Leads</span><b>1</b></li></ul></div>",
+      "photo": 0,
+      "fix": "Demand Gen campaigns and remarketing to viewers.",
+      "look": "views"
+     },
+     {
+      "kicker": "",
+      "title": "Ads on kids’ channels and apps",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Where your ads showed</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"ok\"><span>Relevant channels</span><b>46%</b></li><li class=\"no\"><span>Kids’ content</span><b>31%</b></li><li class=\"no\"><span>Mobile games</span><b>23%</b></li></ul></div>",
+      "photo": 0,
+      "fix": "Placement exclusions and content controls.",
+      "look": "where"
+     },
+     {
+      "kicker": "",
+      "title": "No Shorts creative",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Placements</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"ok\"><span>In-stream</span><b>Running</b></li><li class=\"no\"><span>Shorts</span><b>No video</b></li></ul></div>",
+      "photo": "media:assets/images/people-cut/phone-c.webp",
+      "fix": "Vertical videos made for Shorts.",
+      "look": "shorts"
+     }
+    ],
+    "tools": "",
+    "visual": "",
+    "look": "cmhero cmhero--pm"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Every kind of YouTube campaign",
+    "html": "<section class=\"section section--white pmtypes\" aria-labelledby=\"h-113\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-113\">Every kind of <span class=\"accent\">YouTube campaign</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a format to see when it works and what it brings.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmet\" data-tabs>\n\t\t\t\t<div class=\"cmet__tabs\" role=\"tablist\" aria-label=\"YouTube Ads campaign types\"><button class=\"cmet__tab cmet--1\" type=\"button\" role=\"tab\" id=\"ty-112-t-instream\" aria-controls=\"ty-112-instream\" aria-selected=\"true\"><span class=\"cmet__n\">01</span><b>In-stream ads</b></button><button class=\"cmet__tab cmet--2\" type=\"button\" role=\"tab\" id=\"ty-112-t-shorts\" aria-controls=\"ty-112-shorts\" aria-selected=\"false\"><span class=\"cmet__n\">02</span><b>Shorts ads</b></button><button class=\"cmet__tab cmet--3\" type=\"button\" role=\"tab\" id=\"ty-112-t-demandgen\" aria-controls=\"ty-112-demandgen\" aria-selected=\"false\"><span class=\"cmet__n\">03</span><b>Demand Gen</b></button><button class=\"cmet__tab cmet--4\" type=\"button\" role=\"tab\" id=\"ty-112-t-remarketing\" aria-controls=\"ty-112-remarketing\" aria-selected=\"false\"><span class=\"cmet__n\">04</span><b>Video remarketing</b></button></div>\n\t\t\t\t<div class=\"cmet__panels\"><div class=\"cmet__panel cmet--1\" role=\"tabpanel\" id=\"ty-112-instream\" aria-labelledby=\"ty-112-t-instream\">\n\t\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t\t<p class=\"cmet__k\">1 of 4</p>\n\t\t\t\t\t\t\t<h3>In-stream ads</h3>\n\t\t\t\t\t\t\t<p class=\"cmet__what\">Skippable ads before and during videos.</p>\n\t\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>When it works best</dt><dd>For reaching new people with a story.</dd></div>\n\t\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>What it brings</dt><dd>Awareness and viewers to retarget.</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">In-stream</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Views</span><b>210,000</b></li><li><span>Cost per view</span><b>$0.03</b></li><li><span>Watched to end</span><b>24%</b></li></ul></div></div>\n\t\t\t\t\t</div><div class=\"cmet__panel cmet--2\" role=\"tabpanel\" id=\"ty-112-shorts\" aria-labelledby=\"ty-112-t-shorts\">\n\t\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t\t<p class=\"cmet__k\">2 of 4</p>\n\t\t\t\t\t\t\t<h3>Shorts ads</h3>\n\t\t\t\t\t\t\t<p class=\"cmet__what\">Vertical ads between Shorts.</p>\n\t\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>When it works best</dt><dd>For younger audiences and quick hooks.</dd></div>\n\t\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>What it brings</dt><dd>Cheap reach on mobile.</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Shorts</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Views</span><b>480,000</b></li><li><span>Clicks</span><b>3,100</b></li></ul></div></div>\n\t\t\t\t\t</div><div class=\"cmet__panel cmet--3\" role=\"tabpanel\" id=\"ty-112-demandgen\" aria-labelledby=\"ty-112-t-demandgen\">\n\t\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t\t<p class=\"cmet__k\">3 of 4</p>\n\t\t\t\t\t\t\t<h3>Demand Gen</h3>\n\t\t\t\t\t\t\t<p class=\"cmet__what\">Video and image ads across YouTube, Discover and Gmail, built to drive action.</p>\n\t\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>When it works best</dt><dd>When you want leads or sales from video.</dd></div>\n\t\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>What it brings</dt><dd>Conversions, not just views.</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Demand Gen</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Leads</span><b>214</b></li><li class=tot><span>Cost per lead</span><b>$46</b></li></ul></div></div>\n\t\t\t\t\t</div><div class=\"cmet__panel cmet--4\" role=\"tabpanel\" id=\"ty-112-remarketing\" aria-labelledby=\"ty-112-t-remarketing\">\n\t\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t\t<p class=\"cmet__k\">4 of 4</p>\n\t\t\t\t\t\t\t<h3>Video remarketing</h3>\n\t\t\t\t\t\t\t<p class=\"cmet__what\">Ads for people who watched your videos or visited your site.</p>\n\t\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>When it works best</dt><dd>When you have viewers to bring back.</dd></div>\n\t\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>What it brings</dt><dd>Cheaper leads from warm audiences.</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Audiences</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Watched 50%</span><b>42,000</b></li><li><span>Visited site</span><b>8,600</b></li></ul></div></div>\n\t\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t\t<div class=\"cmedge__band pmband\"><p class=\"cmedge__bh\">How we look after every account</p><ol role=\"list\"><li><span class=\"cmedge__bn\">01</span><b>A specialist who knows your account</b><p>One YouTube specialist, not a rotating team.</p></li><li><span class=\"cmedge__bn\">02</span><b>Tracking you can trust</b><p>Every conversion tested, and matched to your CRM or store.</p></li><li><span class=\"cmedge__bn\">03</span><b>New ads every month</b><p>Written and designed in-house, and tested properly.</p></li><li><span class=\"cmedge__bn\">04</span><b>Reports in leads and sales</b><p>Cost per lead, cost per sale and return on ad spend.</p></li></ol></div>\n\t\t</div>\n\t</section>",
+    "css": "youtube-ads",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Why YouTube ads <em>get skipped</em>",
+    "lead": "What we see in most YouTube accounts.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "",
+      "problem": "The brand and message arrive after the skip button.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Videos re-cut with the hook and brand in the first five seconds.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Ads show on kids’ channels and mobile games.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Placement exclusions and content suitability settings.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Campaigns bought for views, not results.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Demand Gen and conversion-focused campaigns.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Nobody follows up with viewers.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Remarketing to viewers on YouTube, Google and Meta.",
+      "afterTitle": "",
+      "after": []
+     }
+    ],
+    "visual": "",
+    "alt": false
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we run your YouTube Ads",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-115\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-115\">How we run <span class=\"accent\">your YouTube Ads</span></h2>\n\t\t\t\t<p class=\"section-lead\">The same clear rhythm on every account, run by people you can talk to, so you always know what’s happening and why.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrun\">\n\t\t\t\t<ol class=\"pmrun__steps\" role=\"list\"><li class=\"pmrun__s pmrun__s--1\">\n\t\t\t\t\t<p class=\"pmrun__when\">Week 1</p>\n\t\t\t\t\t<div class=\"pmrun__c\">\n\t\t\t\t\t\t<h3>Audit and goals</h3>\n\t\t\t\t\t\t<p>We go through your YouTube Ads account, tracking and landing pages, and work out what it really brings in today.</p>\n\t\t\t\t\t\t<ul class=\"pmrun__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Spend, campaigns and search terms reviewed line by line</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tracking checked against your CRM or store</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing pages tested on phone and desktop</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A written audit with a 90-day plan</li></ul>\n\t\t\t\t\t\t<p class=\"pmrun__you\"><b>Your part:</b> A 45-minute kick-off call about your customers, margins and what a good lead is worth.</p>\n\t\t\t\t\t</div>\n\t\t\t\t</li><li class=\"pmrun__s pmrun__s--2\">\n\t\t\t\t\t<p class=\"pmrun__when\">Week 2</p>\n\t\t\t\t\t<div class=\"pmrun__c\">\n\t\t\t\t\t\t<h3>Tracking and setup</h3>\n\t\t\t\t\t\t<p>Conversion tracking and audiences set up, placements checked.</p>\n\t\t\t\t\t\t<ul class=\"pmrun__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Conversion actions set up and tested</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Values for each lead or sale agreed with you</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Dashboards connected to your data</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Account structure planned</li></ul>\n\t\t\t\t\t\t<p class=\"pmrun__you\"><b>Your part:</b> Give us access to your ad account, analytics and website tags.</p>\n\t\t\t\t\t</div>\n\t\t\t\t</li><li class=\"pmrun__s pmrun__s--3\">\n\t\t\t\t\t<p class=\"pmrun__when\">Weeks 3–4</p>\n\t\t\t\t\t<div class=\"pmrun__c\">\n\t\t\t\t\t\t<h3>Launch</h3>\n\t\t\t\t\t\t<p>The new campaign structure, audiences, ads and landing pages go live, with budgets agreed in writing.</p>\n\t\t\t\t\t\t<ul class=\"pmrun__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New campaigns built next to the old ones, then switched over</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ads written and designed in-house</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing pages built or improved by our web team</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Budgets and targets agreed before anything goes live</li></ul>\n\t\t\t\t\t\t<p class=\"pmrun__you\"><b>Your part:</b> Approve the ads, the pages and the budget. Nothing launches without your OK.</p>\n\t\t\t\t\t</div>\n\t\t\t\t</li><li class=\"pmrun__s pmrun__s--4\">\n\t\t\t\t\t<p class=\"pmrun__when\">Every week</p>\n\t\t\t\t\t<div class=\"pmrun__c\">\n\t\t\t\t\t\t<h3>Optimise</h3>\n\t\t\t\t\t\t<p>Placements, audiences, bids and new video tests.</p>\n\t\t\t\t\t\t<ul class=\"pmrun__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Wasted spend cut</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Bids and budgets moved to what works</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> One test at a time, so we know what made the difference</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A short written update every week</li></ul>\n\t\t\t\t\t\t<p class=\"pmrun__you\"><b>Your part:</b> Tell us about leads that turned into customers, or didn’t.</p>\n\t\t\t\t\t</div>\n\t\t\t\t</li><li class=\"pmrun__s pmrun__s--5\">\n\t\t\t\t\t<p class=\"pmrun__when\">Every month</p>\n\t\t\t\t\t<div class=\"pmrun__c\">\n\t\t\t\t\t\t<h3>Report and plan</h3>\n\t\t\t\t\t\t<p>A plain-English report on leads, sales and cost per result, what we learned and what we’ll test next.</p>\n\t\t\t\t\t\t<ul class=\"pmrun__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A report you can forward to your boss</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> What worked, what didn’t and why</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> The plan and budget for next month</li></ul>\n\t\t\t\t\t\t<p class=\"pmrun__you\"><b>Your part:</b> A 30-minute call with your specialist. Bring questions, and anyone else who should hear it.</p>\n\t\t\t\t\t</div>\n\t\t\t\t</li></ol>\n\t\t\t\t<div class=\"pmrun__pic\" style=\"--n:4\" role=\"group\" aria-label=\"The people who run your account\"><figure class=\"pmrun__f\" style=\"--d:0s\">\n\t\t\t\t\t\t<img src=\"{{media:assets/images/team/team-3.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t\t<figcaption><b>YouTube Ads specialist</b>One named person plans, builds and optimises your campaigns, from the first audit to every monthly report.</figcaption>\n\t\t\t\t\t</figure><figure class=\"pmrun__f\" style=\"--d:5s\">\n\t\t\t\t\t\t<img src=\"{{media:assets/images/team/owner-call.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t\t<figcaption><b>Dedicated account manager</b>Your day-to-day contact for questions, approvals, budgets and the monthly call. Replies within one working day.</figcaption>\n\t\t\t\t\t</figure><figure class=\"pmrun__f\" style=\"--d:10s\">\n\t\t\t\t\t\t<img src=\"{{media:assets/images/team/owner-results.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t\t<figcaption><b>Tracking and analytics engineer</b>Sets up and tests conversion tracking, offline conversions and your dashboard, and checks it every month.</figcaption>\n\t\t\t\t\t</figure><figure class=\"pmrun__f\" style=\"--d:15s\">\n\t\t\t\t\t\t<img src=\"{{media:assets/images/team/team.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t\t<figcaption><b>Creative and web team</b>Designs new ads every month and builds the landing pages your ads send people to.</figcaption>\n\t\t\t\t\t</figure></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "youtube-ads",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What you get every month",
+    "html": "<section class=\"section section--cream pmmonthly\" aria-labelledby=\"h-116\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-116\">What you get <span class=\"accent\">every month</span></h2>\n\t\t\t\t<p class=\"section-lead\">Clear work, clear reporting and a specialist you can talk to.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"ccols\" role=\"list\"><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-target\"/></svg></span><h3 class=\"ccol__title\">Campaign work</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Placement checks and exclusions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Audience and bid changes</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New video cuts and tests</li></ul></li><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pen\"/></svg></span><h3 class=\"ccol__title\">Ads and pages</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New ads written and designed every month</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing page recommendations, or pages built by our web team</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Structured tests, one change at a time</li></ul></li><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-chart\"/></svg></span><h3 class=\"ccol__title\">Reporting and calls</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A live dashboard, updated daily</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A monthly report in plain English</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A monthly call with your specialist</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Exploratory calls whenever you plan something new</li></ul></li></ul>\n\t\t\t<div class=\"pmcall\">\n\t\t\t\t<div class=\"pmcall__top\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/team-2.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t<div class=\"pmcall__txt\">\n\t\t\t\t\t\t<h3>Not sure what your YouTube Ads account needs? Talk to us before you decide.</h3>\n\t\t\t\t\t\t<p>Choosing an agency is a big decision, and a sales pitch tells you very little. So before you sign anything, we do real work on your account for free. You judge us on what we find and how we explain it, and you keep the findings either way.</p>\n\t\t\t\t\t\t<ul class=\"pmcall__list\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> No obligation</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Read-only access is enough</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> We sign NDAs</li></ul>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<p class=\"pmcall__sh\">What we do before you hire us</p>\n\t\t\t\t<ol class=\"pmcall__steps\" role=\"list\"><li><span class=\"pmcall__n\">01</span><h4>A free account review</h4><p>With read-only access, a specialist goes through the last 90 days of your YouTube Ads account: spend, campaigns, search terms, tracking and landing pages.</p></li><li><span class=\"pmcall__n\">02</span><h4>An exploratory call</h4><p>Thirty to forty-five minutes about your customers, margins and sales cycle, and what a good lead is worth to you. We share what we found in your account.</p></li><li><span class=\"pmcall__n\">03</span><h4>A tracking check</h4><p>We test your main conversions, so we both know whether the numbers in your account can be trusted before anyone plans around them.</p></li><li><span class=\"pmcall__n\">04</span><h4>A written summary</h4><p>What’s working, where money is leaking and the first five things we’d change. It’s yours to keep, whether or not you hire us.</p></li><li><span class=\"pmcall__n\">05</span><h4>A 90-day plan and fixed quote</h4><p>What we’d do month by month, what we expect it to change, and a fixed monthly fee. Never a percentage of your ad spend.</p></li><li><span class=\"pmcall__n\">06</span><h4>Meet your specialist</h4><p>Talk to the person who would run your account, not just a salesperson, and ask them anything before you decide.</p></li></ol>\n\t\t\t\t<div class=\"pmcall__go\">\n\t\t\t\t\t<a class=\"button button--primary button--lg\" href=\"#proposal\">Book an exploratory call <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t\t<p>Free, 30 minutes. If we don’t think we can help, we’ll tell you.</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "youtube-ads",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/case-study",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "look": "cmcase cmcase--pm cmcase--yt",
+    "kicker": "Case study · YouTube Ads",
+    "title": "How Calder Clinics filled a new clinic <em>with YouTube and search</em>",
+    "client": "Calder Clinics",
+    "clientInfo": "· Private clinics · YouTube, Demand Gen and search",
+    "steps": [
+     {
+      "title": "The challenge",
+      "text": "A new location nobody had heard of, and a video agency’s ad that people skipped."
+     },
+     {
+      "title": "What we did",
+      "text": "Re-cut the video with a five-second hook, local targeting and remarketing to viewers through search."
+     },
+     {
+      "title": "The outcome",
+      "text": "Bookings at the new clinic reached the group average in four months."
+     }
+    ],
+    "buttonText": "Read the case study",
+    "buttonUrl": "/case-studies/",
+    "stats": [
+     {
+      "value": "41%",
+      "label": "watched past 5 seconds"
+     },
+     {
+      "value": "+82%",
+      "label": "booked consultations"
+     },
+     {
+      "value": "$0.03",
+      "label": "cost per view"
+     },
+     {
+      "value": "4",
+      "label": "months to target"
+     }
+    ],
+    "chartTitle": "Bookings at the new clinic, per month",
+    "bars": [
+     {
+      "height": 21,
+      "label": "Month 1: 12"
+     },
+     {
+      "height": 34,
+      "label": "Month 2: 20"
+     },
+     {
+      "height": 53,
+      "label": "Month 3: 31"
+     },
+     {
+      "height": 76,
+      "label": "Month 4: 44"
+     },
+     {
+      "height": 90,
+      "label": "Month 5: 52"
+     },
+     {
+      "height": 100,
+      "label": "Month 6: 58"
+     }
+    ],
+    "axisStart": "Month 1",
+    "axisEnd": "Month 6"
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu",
+     "post:testimonial:Alex Barsuk"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How to choose a YouTube Ads agency",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-120\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-120\">How to choose a <span class=\"accent\">YouTube Ads agency</span></h2>\n\t\t\t\t<p class=\"section-lead\">What to expect from a good agency, what to avoid, and the questions worth asking before you hand over your budget.</p>\n\t\t\t</div>\n\t\t\t<div class=\"dodont\">\n\t\t\t\t<div class=\"dodont__col dodont__col--do\"><h3 class=\"dodont__title\">What you get with us</h3><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ads run in your account. You own it, the data and the history</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Conversion tracking is checked and tested before we scale spend</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly reports in leads, sales and cost per result, not just clicks</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A named specialist who knows your account, not a rotating team</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A written plan for the first 90 days before we start</li></ul></div>\n\t\t\t\t<div class=\"dodont__col dodont__col--dont\"><h3 class=\"dodont__title\">What we never do</h3><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Lock you into long contracts or keep your account if you leave</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Take a hidden cut of your ad spend</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Report impressions and clicks as if they were results</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Promise rankings, results or approval from the platform</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Change budgets or targeting without telling you</li></ul></div>\n\t\t\t</div>\n\t\t\t<div class=\"pmq\">\n\t\t\t\t<h3 class=\"pmq__h\">Questions to ask any YouTube Ads agency</h3>\n\t\t\t\t<p class=\"pmq__lead\">Ask every agency you speak to, including us. The answers tell you more than any proposal.</p>\n\t\t\t\t<ol class=\"pmq__list\" role=\"list\"><li><span class=\"pmq__n\">Q1</span><h3>Who will manage my account day to day?</h3><p><b>Why ask:</b> Many agencies sell with senior people and hand the work to juniors. You want to know who makes the changes, and how much experience they have.</p></li><li><span class=\"pmq__n\">Q2</span><h3>Will the account be in my name, and do I keep it if we part ways?</h3><p><b>Why ask:</b> Your account history is valuable. If the agency owns the account, you can lose years of data and learning when you leave.</p></li><li><span class=\"pmq__n\">Q3</span><h3>How do you charge, and do you take a percentage of ad spend?</h3><p><b>Why ask:</b> A percentage of spend rewards spending more, not spending well. Know exactly what you pay and what it covers.</p></li><li><span class=\"pmq__n\">Q4</span><h3>How will you check our conversion tracking before spending more?</h3><p><b>Why ask:</b> If tracking is wrong, every bid and every report is wrong too. A good agency checks it first.</p></li><li><span class=\"pmq__n\">Q5</span><h3>What will you report on each month?</h3><p><b>Why ask:</b> Clicks and impressions are easy to grow. Ask for leads, sales, cost per result and what changed.</p></li><li><span class=\"pmq__n\">Q6</span><h3>What exactly happens in the first 90 days?</h3><p><b>Why ask:</b> A clear plan shows they have looked at your account. A vague answer usually means a template.</p></li><li><span class=\"pmq__n\">Q7</span><h3>Can you show results for a business like ours?</h3><p><b>Why ask:</b> Results in your industry, or with a similar sales cycle and budget, tell you far more than a list of logos.</p></li><li><span class=\"pmq__n\">Q8</span><h3>What is the notice period, and is there a minimum term?</h3><p><b>Why ask:</b> Long lock-ins protect the agency, not you. Good agencies keep clients because of results.</p></li></ol>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "youtube-ads",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/why-intella",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "A YouTube Ads agency that <em>counts sales, not clicks</em>",
+    "items": [
+     {
+      "title": "Tracking before spend",
+      "text": "We check every conversion fires before we scale a single campaign."
+     },
+     {
+      "title": "One team, every platform",
+      "text": "Search, social, video and marketplaces planned together, not in silos."
+     },
+     {
+      "title": "Your accounts, your data",
+      "text": "Ads run in accounts you own. You keep everything if you ever leave."
+     },
+     {
+      "title": "We build the landing pages too",
+      "text": "Our web team builds and tests the pages your ads send people to."
+     }
+    ],
+    "facts": [
+     {
+      "value": "10",
+      "label": "ad platforms we manage"
+     },
+     {
+      "value": "100%",
+      "label": "of accounts owned by our clients"
+     },
+     {
+      "value": "48 h",
+      "label": "to a written audit of your account"
+     }
+    ],
+    "bigFacts": true,
+    "quote": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "YouTube Ads questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "How do I manage YouTube ads?",
+      "answer": "YouTube ads are run from a Google Ads account linked to your YouTube channel. You choose a campaign type, upload your video to YouTube, set targeting and budget, and track results in Google Ads."
+     },
+     {
+      "question": "How much do YouTube ads cost?",
+      "answer": "You usually pay per view or per conversion. Views often cost a few cents. We set budgets based on what a lead or sale is worth to you."
+     },
+     {
+      "question": "Do you make the videos?",
+      "answer": "We can re-cut existing footage for YouTube and Shorts, or produce simple new videos with our design team."
+     },
+     {
+      "question": "How much does YouTube Ads management cost?",
+      "answer": "We charge a fixed monthly management fee on top of your ad spend, quoted after a free call. It depends on the size of the account and the work involved. We never take a hidden cut of your YouTube Ads spend."
+     },
+     {
+      "question": "Do I keep my YouTube Ads account if I leave?",
+      "answer": "Yes. Your ads run in an account you own. You keep the account, the data and all the history."
+     },
+     {
+      "question": "How soon will I see results?",
+      "answer": "Most accounts see improvements in the first month from fixing tracking and cutting waste. It usually takes two to three months of testing to settle at a good cost per result."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Make YouTube <em>bring in leads</em>",
+    "lead": "Give us read-only access and we’ll show you who your videos really reach.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "What do you sell, and do you have videos already?",
+    "service": "youtube-ads",
+    "buttonText": "Request my free account review",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "YouTube Ads works best <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "search",
+      "title": "Google Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/",
+      "text": "Search, Performance Max and display."
+     },
+     {
+      "icon": "pen",
+      "title": "Ad Creative",
+      "url": "/services/digital-marketing/performance-marketing/ad-creative/",
+      "text": "Video, UGC and static ads."
+     },
+     {
+      "icon": "chart",
+      "title": "Performance Marketing Audit",
+      "url": "/audits/google-ads-audit/",
+      "text": "A full audit of your ad accounts and tracking."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,217 @@
+/* home-services: section styles, split from the prototype CSS (Code/frontend/assets/css) by bin/import/css_split.py. */
+
+.wwd {
+	margin-block-start: var(--space-xl);
+}
+.wwd__tabs {
+	display: flex;
+	gap: 0.25rem 1.4rem;
+	overflow-x: auto;
+	border-block-end: 1px solid var(--color-cream-deep);
+	scrollbar-width: none;
+
+	&::-webkit-scrollbar {
+		display: none;
+	}
+}
+.wwd__tab {
+	flex: none;
+	margin-block-end: -1px;
+	padding: 0.75rem 0.1rem;
+	border: 0;
+	border-block-end: 2px solid transparent;
+	background: none;
+	color: var(--color-muted);
+	font: inherit;
+	font-size: var(--text-sm);
+	white-space: nowrap;
+	cursor: pointer;
+	transition: color var(--transition), border-color var(--transition);
+
+	&:hover {
+		color: var(--color-ink);
+	}
+
+	&[aria-selected="true"] {
+		border-block-end-color: var(--color-ink);
+		color: var(--color-ink);
+	}
+
+	&:focus-visible {
+		outline: 2px solid var(--color-accent);
+		outline-offset: 2px;
+	}
+}
+.wwd__panel {
+	display: grid;
+	gap: var(--space-xl);
+	padding-block-start: var(--space-xl);
+
+	&[hidden] {
+		display: none;
+	}
+
+	.wwd.is-enhanced &:not([hidden]) {
+		animation: wwd-in 350ms ease;
+	}
+}
+.wwd:not(.is-enhanced) .wwd__tabs {
+	display: none;
+}
+.wwd:not(.is-enhanced) .wwd__panel[hidden] {
+	display: grid;
+}
+.wwd__title {
+	font-size: clamp(1.6rem, 1.2rem + 1.4vw, 2.3rem);
+	line-height: 1.1;
+	letter-spacing: -0.02em;
+}
+.wwd__lead {
+	margin-block-start: var(--space-sm);
+	color: var(--color-ink);
+	font-size: var(--text-md);
+	line-height: 1.55;
+}
+.wwd__text {
+	margin-block: var(--space-sm) var(--space-lg);
+	color: var(--color-muted);
+	line-height: 1.65;
+}
+.wwd__links {
+	display: grid;
+	gap: 0.5rem;
+	align-content: start;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.wwd__link {
+	display: flex;
+	align-items: center;
+	gap: 0.85rem;
+	padding: 0.75rem 0.9rem;
+	border-radius: var(--radius-md);
+	background: var(--color-paper);
+	color: var(--color-text);
+	text-decoration: none;
+	transition: box-shadow 250ms ease, transform 250ms ease;
+
+	& > span {
+		display: grid;
+		flex: 1;
+		gap: 0.1rem;
+		min-width: 0;
+	}
+
+	& b {
+		color: var(--color-ink);
+		font-weight: var(--weight-semibold);
+	}
+
+	& small {
+		color: var(--color-muted);
+		font-size: var(--text-sm);
+		line-height: 1.4;
+	}
+
+	& > svg {
+		flex: none;
+		width: 1rem;
+		height: 1rem;
+		color: var(--color-accent);
+		transition: transform var(--transition);
+	}
+
+	&:hover,
+	&:focus-visible {
+		box-shadow: 0 14px 30px -20px rgb(42 12 61 / 0.4), 0 0 0 1px rgb(143 44 244 / 0.2);
+		transform: translateY(-2px);
+
+		& b {
+			color: var(--color-accent);
+		}
+
+		& > svg {
+			transform: translateX(3px);
+		}
+	}
+}
+.wwd__link .svc-link__logo {
+	display: grid;
+	flex: none;
+	place-items: center;
+	width: 2.4rem;
+	height: 2.4rem;
+	border-radius: 0.7rem;
+	background: var(--color-cream);
+
+	& svg {
+		width: 1.3rem;
+		height: 1.3rem;
+	}
+}
+@media (min-width: 48rem) {
+	.wwd__links {
+		grid-template-columns: 1fr 1fr;
+	}
+}
+@media (min-width: 64rem) {
+	.wwd__panel {
+		grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+		gap: clamp(2rem, 1rem + 3vw, 4rem);
+		align-items: start;
+	}
+}
+.services .section-head--split {
+	align-items: start;
+
+	& > div:last-child {
+		display: flex;
+		flex-direction: column;
+	}
+
+	& .button {
+		align-self: flex-end;
+	}
+}
+.services .wwd {
+	margin-block-start: clamp(2.5rem, 2rem + 2vw, 4rem);
+}
+.section.services {
+	padding-block-end: clamp(5rem, 4rem + 4vw, 8rem);
+}
+.wwd__cta {
+	display: flex;
+	justify-content: center;
+	padding-block-start: var(--space-sm);
+}
+@media (min-width: 64rem) {
+	.wwd__cta {
+		grid-column: 1 / -1;
+	}
+}
+.wwd__panel {
+	padding-block-start: clamp(2.5rem, 2rem + 2vw, 3.5rem);
+}
+.wwd__title .accent {
+	display: block;
+}
+.svc-link__logo {
+	display: grid;
+	flex: none;
+	place-items: center;
+	width: 2.5rem;
+	height: 2.5rem;
+	border-radius: 0.75rem;
+	background: var(--color-paper);
+	box-shadow: 0 0 0 1px rgb(74 24 112 / 0.08);
+
+	& svg {
+		width: 1.35rem;
+		height: 1.35rem;
+	}
+}
+@keyframes wwd-in {
+	from { opacity: 0; transform: translateY(6px); }
+	to { opacity: 1; transform: none; }
+}

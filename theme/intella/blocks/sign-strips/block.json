@@ -1,0 +1,31 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/sign-strips",
+	"title": "Signs you need this (numbered strips)",
+	"category": "intella",
+	"icon": "editor-ol",
+	"description": "Numbered strips that open one at a time as you scroll, each with text and an optional example picture, then a closing note with a button.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/scroll-accordions",
+	"intella": {
+		"fields": [
+			{ "key": "title", "type": "inline", "label": "Heading" },
+			{ "key": "lead", "type": "textarea", "label": "Intro" },
+			{ "key": "items", "type": "repeater", "label": "Strips", "fields": [
+				{ "key": "title", "type": "text", "label": "Title" },
+				{ "key": "text", "type": "textarea", "label": "Text", "help": "Leave a blank line between paragraphs." },
+				{ "key": "picture", "type": "code", "label": "Example picture (HTML, optional)" }
+			], "default": [] },
+			{ "key": "noteTitle", "type": "text", "label": "Closing note title", "panel": "Closing note" },
+			{ "key": "noteText", "type": "textarea", "label": "Closing note text", "panel": "Closing note" },
+			{ "key": "buttonText", "type": "text", "label": "Button text", "panel": "Closing note" },
+			{ "key": "buttonUrl", "type": "url", "label": "Button link", "default": "#proposal", "panel": "Closing note" }
+		],
+		"section": "cream"
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/hero-short-form",
+	"title": "Hero with short form",
+	"category": "intella",
+	"icon": "cover-image",
+	"description": "Page title, intro and a two-field form (website + work email), with a slider or picture beside it.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/carousels",
+	"intella": {
+		"help": "Slides: the title and the text under it are plain fields; the small data card is HTML (admins only).",
+		"fields": [
+			{ "key": "crumbs", "type": "repeater", "label": "Breadcrumb", "help": "The last item is this page (no link needed).", "fields": [
+				{ "key": "label", "type": "text", "label": "Label" },
+				{ "key": "url", "type": "url", "label": "Link" }
+			], "default": [] },
+			{ "key": "title", "type": "inline", "label": "Page title (H1)", "help": "Wrap the highlighted words in <em>…</em>." },
+			{ "key": "lead", "type": "textarea", "label": "Intro" },
+			{ "key": "buttonText", "type": "text", "label": "Button text", "default": "Get a free review", "panel": "Form" },
+			{ "key": "formLabel", "type": "text", "label": "Form name for screen readers", "help": "Usually the same as the button text.", "panel": "Form" },
+			{ "key": "service", "type": "text", "label": "Service (saved with the lead)", "help": "e.g. google-ads", "panel": "Form" },
+			{ "key": "notes", "type": "list", "label": "Ticked notes under the form", "default": [] },
+			{ "key": "sliderLabel", "type": "text", "label": "Slider name for screen readers", "panel": "Slider" },
+			{ "key": "fixLabel", "type": "text", "label": "Label above each slide’s answer", "default": "How we fix it", "panel": "Slider" },
+			{ "key": "slides", "type": "repeater", "label": "Slides", "panel": "Slider", "fields": [
+				{ "key": "kicker", "type": "text", "label": "Small label above the title (optional)" },
+				{ "key": "title", "type": "text", "label": "Title" },
+				{ "key": "card", "type": "code", "label": "Data card (HTML)" },
+				{ "key": "photo", "type": "image", "label": "Cut-out photo (optional)" },
+				{ "key": "fix", "type": "textarea", "label": "Answer" },
+				{ "key": "look", "type": "text", "label": "Slide style", "help": "Design variant, e.g. waste, track, pmax." }
+			], "default": [] },
+			{ "key": "tools", "type": "code", "label": "Tool badges (HTML, optional)", "panel": "Picture" },
+			{ "key": "visual", "type": "code", "label": "Picture instead of a slider (HTML)", "help": "Used only when there are no slides.", "panel": "Picture" },
+			{ "key": "look", "type": "text", "label": "Hero style", "default": "cmhero cmhero--pm", "help": "Design classes, e.g. “cmhero cmhero--pm cmhero--job”.", "panel": "Style" }
+		]
+	}
+}

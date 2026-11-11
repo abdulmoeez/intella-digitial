@@ -1,0 +1,34 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/testimonials-spread",
+	"title": "Testimonials (editorial spread)",
+	"category": "intella",
+	"icon": "format-quote",
+	"description": "One large quote at a time with the person's photo, role and project; tabs underneath switch between people.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/tabs",
+	"intella": {
+		"help": "Quotes, photos, roles and projects come from Testimonials in the admin, so a change there updates every page.",
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading",
+				"default": "What it’s like to <em>work with us</em>"
+			},
+			{
+				"key": "people",
+				"type": "posts",
+				"label": "Testimonials",
+				"postType": "testimonial",
+				"help": "Tick them in the order to show. None ticked = all, in their admin order.",
+				"default": []
+			}
+		]
+	}
+}

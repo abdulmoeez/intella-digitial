@@ -1,0 +1,501 @@
+{
+ "title": "Google Ads Conversion Tracking Setup",
+ "path": "/services/digital-marketing/performance-marketing/google-ads/conversion-tracking/",
+ "seo": {
+  "title": "Google Ads Conversion Tracking Setup | Done and Tested | Intella Digital",
+  "description": "Google Ads conversion tracking set up and tested: forms, calls, purchases, enhanced conversions and offline conversions from your CRM, with a test report."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "Google Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/"
+     },
+     {
+      "label": "Conversion Tracking",
+      "url": ""
+     }
+    ],
+    "title": "Google Ads conversion tracking, <em>set up and tested</em>",
+    "lead": "We set up every conversion in Google Ads, from forms and calls to purchases and offline sales, then test each one and give you a report that proves it works.",
+    "buttonText": "Get my tracking checked",
+    "formLabel": "Get my tracking checked",
+    "service": "google-ads-conversion-tracking",
+    "notes": [
+     "Forms, calls, purchases and CRM sales",
+     "Enhanced conversions included",
+     "A test report for every action"
+    ],
+    "sliderLabel": "Common Google Ads Conversion Tracking problems",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "Conversions counted twice",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Leads, last 30 days</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Google Ads</span><b>212</b></li><li class=\"ok\"><span>Your CRM</span><b>104</b></li><li class=\"no\"><span>Difference</span><b>+104%</b></li></ul><p class=\"cmhc__note\">The Google tag and a GA4 import both count the same form</p></div>",
+      "photo": 0,
+      "fix": "One source of truth for every action, tested before we switch it on.",
+      "look": "double"
+     },
+     {
+      "kicker": "",
+      "title": "Phone calls nobody counts",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Where your leads come from</p><ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:62%\"><span>Phone calls</span><b>62% of leads</b></li><li style=\"--w:38%\"><span>Form fills</span><b>38% of leads</b></li><li style=\"--w:3%\"><span>Calls tracked in Google Ads</span><b>None</b></li></ul><p class=\"cmhc__note\">Google can’t learn from leads it never sees</p></div>",
+      "photo": 0,
+      "fix": "Calls from ads and from your website tracked, with a minimum call length.",
+      "look": "calls"
+     },
+     {
+      "kicker": "",
+      "title": "Tracking broke after a redesign",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Conversions per week</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"ok\"><span>Before the new site</span><b>48</b></li><li class=\"no\"><span>Since launch</span><b>0</b></li><li class=\"no\"><span>Tag status</span><b>Not firing</b></li></ul><p class=\"cmhc__note\">Smart bidding has been flying blind for six weeks</p></div>",
+      "photo": 0,
+      "fix": "Tags rebuilt in Tag Manager and tested on the new site, with an alert if they stop.",
+      "look": "broken"
+     },
+     {
+      "kicker": "",
+      "title": "Every lead counts the same",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Leads this quarter</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"ok\"><span>Leads in Google Ads</span><b>180</b></li><li class=\"no\"><span>Qualified by sales</span><b>41</b></li><li class=\"no\"><span>Became customers</span><b>9</b></li></ul><p class=\"cmhc__note\">Google is optimising for form fills, not sales</p></div>",
+      "photo": 0,
+      "fix": "Offline conversions from your CRM, so Google learns which leads became customers.",
+      "look": "quality"
+     }
+    ],
+    "tools": "<ul class=\"pmtools\" role=\"list\" aria-label=\"Tools we work in\"><li class=\"pmtools__i pmtools__i--1\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><g stroke-width=\"11\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M21 10 9.5 30\" stroke=\"#FBBC04\"/><path d=\"M21 10 34 33\" stroke=\"#4285F4\"/></g><circle cx=\"11\" cy=\"35\" r=\"6\" fill=\"#34A853\"/></svg><span>Google Ads</span></li><li class=\"pmtools__i pmtools__i--2\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><rect x=\"10\" y=\"10\" width=\"28\" height=\"28\" rx=\"5\" transform=\"rotate(45 24 24)\" fill=\"#4285F4\"/><path d=\"M24 4.2 9.9 18.3a8 8 0 0 0 0 11.4L24 43.8l4.6-4.6L14.5 24 28.6 9.8z\" fill=\"#8AB4F8\"/><circle cx=\"24\" cy=\"24\" r=\"4.5\" fill=\"#fff\"/></svg><span>Google Tag Manager</span></li><li class=\"pmtools__i pmtools__i--3\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><rect x=\"29\" y=\"5\" width=\"11\" height=\"38\" rx=\"5.5\" fill=\"#F9AB00\"/><rect x=\"16\" y=\"18\" width=\"11\" height=\"25\" rx=\"5.5\" fill=\"#E37400\"/><circle cx=\"9.5\" cy=\"37.5\" r=\"5.5\" fill=\"#E37400\"/></svg><span>Google Analytics 4</span></li></ul>",
+    "visual": "",
+    "look": "cmhero cmhero--pm cmhero--job"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/sign-strips",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Signs your Google Ads tracking <em>needs fixing</em>",
+    "lead": "If any of these are true, Google is learning from the wrong numbers.",
+    "items": [
+     {
+      "title": "“Conversion tracking setup is incomplete”",
+      "text": "Google Ads shows this warning when it hasn’t seen a conversion for a while or can’t find your tag. Usually the tag is missing, never fires, or fires on the wrong page, so smart bidding has nothing to learn from.",
+      "picture": ""
+     },
+     {
+      "title": "More conversions in Google than in your CRM",
+      "text": "If Google Ads reports 200 leads and your CRM shows 110, something is counting twice: often the Google tag and an imported GA4 goal, or a thank-you page that reloads. Google then bids for leads that don’t exist.",
+      "picture": ""
+     },
+     {
+      "title": "Conversions dropped to zero after a site change",
+      "text": "A redesign, a new theme, a new form plugin or a cookie banner can quietly break tags. Campaigns keep spending while bidding loses its signal, and costs climb within days.",
+      "picture": ""
+     },
+     {
+      "title": "Phone calls aren’t counted",
+      "text": "For many businesses half the leads come by phone. Without call tracking, the campaigns that drive calls look as if they don’t work, and Google moves budget away from them.",
+      "picture": ""
+     },
+     {
+      "title": "Purchases with the wrong value, or counted twice",
+      "text": "Missing values, the wrong currency or no transaction ID make your return on ad spend wrong, and value-based bidding starts chasing the wrong orders.",
+      "picture": ""
+     },
+     {
+      "title": "No idea which leads became customers",
+      "text": "Every form fill counts the same, so Google finds more people who fill in forms, not more people who buy. Offline conversions from your CRM fix that.",
+      "picture": ""
+     }
+    ],
+    "noteTitle": "Bad tracking costs more than bad ads",
+    "noteText": "Smart bidding optimises towards whatever you tell it is a conversion. Fix the tracking, and every other change you make starts working better.",
+    "buttonText": "Get this fixed",
+    "buttonUrl": "#proposal"
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Google Ads Conversion Tracking, <em>done properly</em>",
+    "lead": "One fixed-scope project, quoted after a short call. No retainer needed.",
+    "name": "Google Ads conversion tracking setup",
+    "price": "Fixed price, quoted after a 30-minute call",
+    "items": [
+     "An audit of every existing conversion action",
+     "Conversions set up with Google Tag Manager or the Google tag",
+     "Enhanced conversions for web or for leads",
+     "Call tracking from ads and from your website",
+     "Purchase values and transaction IDs (no double counting)",
+     "GA4 linked, with the right conversions imported",
+     "Offline conversions from HubSpot, Salesforce or your CRM",
+     "A test report with screenshots"
+    ],
+    "delivery": "Usually done in 5 to 10 working days",
+    "buttonText": "Request a quote",
+    "buttonUrl": "#proposal",
+    "visual": "<ul class=\"pmagents\" role=\"list\"><li class=\"pmagent\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/support-agent.jpg}}\" alt=\"\" width=\"1600\" height=\"1600\" loading=\"lazy\">\n\t\t\t\t\t<div><b>Talk to a real person</b><p>Questions during the setup? Call or email us and a person answers, not a ticket queue.</p></div>\n\t\t\t\t</li><li class=\"pmagent\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/team-3.jpg}}\" alt=\"\" width=\"1600\" height=\"1600\" loading=\"lazy\">\n\t\t\t\t\t<div><b>One named specialist</b><p>The same person audits, builds and tests your tracking, so nothing gets lost between people.</p></div>\n\t\t\t\t</li><li class=\"pmagent\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/owner-call.jpg}}\" alt=\"\" width=\"1600\" height=\"1600\" loading=\"lazy\">\n\t\t\t\t\t<div><b>Help after site changes</b><p>Launching a new page, form or cookie banner? Tell us and we’ll tell you what to re-test.</p></div>\n\t\t\t\t</li></ul>"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Set up, then tested on real actions",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-150\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-150\">Set up, then <span class=\"accent\">tested on real actions</span></h2>\n\t\t\t\t<p class=\"section-lead\">Five steps over about two weeks. You see what we found and approve the plan before we build anything.</p>\n\t\t\t</div>\n\n\t\t\t<ol class=\"pmsds\" role=\"list\" data-acc><li class=\"pmsd js-acc is-open\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"true\" aria-controls=\"pmsd-1\"><span class=\"pmsd__when\">Step 1 · Days 1–2</span><span class=\"pmsd__t\">Audit</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-1\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We go through every conversion action in Google Ads, every tag and trigger in Tag Manager and every key event in GA4, and compare the numbers with your CRM or store for the same period.</p><p class=\"pmsd__get\"><b>You get:</b> A short audit of what’s broken and why.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Conversion actions, goals and counting settings reviewed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tags, triggers and consent mode checked in Tag Manager</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Google Ads numbers compared with your CRM or store</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Duplicates, gaps and broken tags listed</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-2\"><span class=\"pmsd__when\">Step 2 · Days 3–5</span><span class=\"pmsd__t\">Plan</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-2\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>Together we decide what counts as a conversion, what each one is worth and which one Google should bid towards. Most setups skip this step, and it decides what smart bidding learns.</p><p class=\"pmsd__get\"><b>You get:</b> A one-page conversion map to sign off.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Primary and secondary conversions agreed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A value for each lead type or purchase</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Counting set to one or every, per action</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A tracking plan you approve before we build</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-3\"><span class=\"pmsd__when\">Step 3 · Days 5–8</span><span class=\"pmsd__t\">Set up</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-3\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We build the tracking in Tag Manager or with the Google tag, add enhanced conversions and call tracking, and connect your CRM so sales flow back to Google Ads.</p><p class=\"pmsd__get\"><b>You get:</b> Tracking built in your own accounts.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tags fired on the real action, not the page view</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Enhanced conversions for web or for leads</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Call tracking from ads and from your website</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Click IDs captured with every lead for offline conversions</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-4\"><span class=\"pmsd__when\">Step 4 · Days 8–9</span><span class=\"pmsd__t\">Test</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-4\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We submit real test forms, make test calls and place test orders, then check each one arrives in Google Ads once, with the right value. Anything that fails is fixed and tested again.</p><p class=\"pmsd__get\"><b>You get:</b> Screenshots of every test conversion.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Every action tested on desktop and phone</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tag Assistant and Google Ads diagnostics checked</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Values, currency and transaction IDs verified</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Consent mode behaviour checked</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-5\"><span class=\"pmsd__when\">Step 5 · Day 10</span><span class=\"pmsd__t\">Hand over</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-5\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We walk you through what changed, hand over the test report, and check the numbers again two weeks later, once real conversions have come in.</p><p class=\"pmsd__get\"><b>You get:</b> The test report, yours to keep.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A 30-minute walkthrough with your team</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> The test report and conversion map</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A follow-up check after two weeks</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Notes on what to check after site changes</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li></ol>\n\t\t</div>\n\t</section>",
+    "css": "google-ads-conversion-tracking",
+    "modules": [
+     "@intella/scroll-accordions"
+    ]
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Why Google Ads tracking <em>goes wrong</em>",
+    "lead": "A handful of problems cause most broken tracking. Here is what each one looks like inside the account, and how we fix it.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "Conversions counted twice",
+      "problem": "The Google tag and an imported GA4 goal both count the same form, so Google Ads reports twice the real number.",
+      "beforeTitle": "Conversion actions",
+      "before": [
+       {
+        "label": "Google tag: Lead",
+        "value": "106",
+        "tone": "warn"
+       },
+       {
+        "label": "GA4 import: generate_lead",
+        "value": "106",
+        "tone": "bad"
+       }
+      ],
+      "fix": "One source of truth for each action, with the duplicate set to secondary so it no longer affects bidding.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Primary: Lead",
+        "value": "106",
+        "tone": "ok"
+       },
+       {
+        "label": "GA4 import",
+        "value": "Secondary",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Fired on page views, not actions",
+      "problem": "The thank-you page can be reached from bookmarks, emails or a refresh, and every visit counts as a lead.",
+      "beforeTitle": "Thank-you page",
+      "before": [
+       {
+        "label": "Real form submits",
+        "value": "64",
+        "tone": "ok"
+       },
+       {
+        "label": "Counted as conversions",
+        "value": "131",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Conversions fired on the actual form submit, with a check that the form really sent.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Real form submits",
+        "value": "64",
+        "tone": "ok"
+       },
+       {
+        "label": "Counted as conversions",
+        "value": "64",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Broken by a redesign",
+      "problem": "Tracking broke when the website was redesigned, and nobody noticed for weeks.",
+      "beforeTitle": "Conversions per week",
+      "before": [
+       {
+        "label": "Before launch",
+        "value": "52",
+        "tone": "ok"
+       },
+       {
+        "label": "After launch",
+        "value": "0",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Tags rebuilt in Tag Manager and tested on the new site, with an alert if conversions stop.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Conversions per week",
+        "value": "49",
+        "tone": "ok"
+       },
+       {
+        "label": "Alert if zero for 48 hours",
+        "value": "On",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Every lead counts the same",
+      "problem": "A student asking for a quote counts the same as a company ready to buy, so Google finds more of whoever fills in forms fastest.",
+      "beforeTitle": "Leads this month",
+      "before": [
+       {
+        "label": "Form leads",
+        "value": "180",
+        "tone": "ok"
+       },
+       {
+        "label": "Became customers",
+        "value": "9",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Offline conversions from your CRM, so Google learns which leads became customers.",
+      "afterTitle": "After 60 days",
+      "after": [
+       {
+        "label": "Form leads",
+        "value": "142",
+        "tone": "warn"
+       },
+       {
+        "label": "Became customers",
+        "value": "23",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Wrong purchase values",
+      "problem": "Purchase values are missing, in the wrong currency or include tax and shipping, so return on ad spend is wrong.",
+      "beforeTitle": "Revenue last month",
+      "before": [
+       {
+        "label": "Your store",
+        "value": "$84,200",
+        "tone": "ok"
+       },
+       {
+        "label": "Google Ads",
+        "value": "$131,900",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Values, currency and transaction IDs passed correctly from your store, and matched to your real revenue.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Your store",
+        "value": "$84,200",
+        "tone": "ok"
+       },
+       {
+        "label": "Google Ads",
+        "value": "$82,600",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Calls not tracked",
+      "problem": "Calls from ads and from the website aren’t counted, so call-driven campaigns look as if they don’t work.",
+      "beforeTitle": "Leads tracked",
+      "before": [
+       {
+        "label": "Forms",
+        "value": "38",
+        "tone": "ok"
+       },
+       {
+        "label": "Phone calls",
+        "value": "0",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Call assets and website call tracking, with a minimum call length agreed with you.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Forms",
+        "value": "38",
+        "tone": "ok"
+       },
+       {
+        "label": "Phone calls over 60 seconds",
+        "value": "57",
+        "tone": "ok"
+       }
+      ]
+     }
+    ],
+    "visual": "",
+    "alt": true
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your tracking test report",
+    "html": "<section class=\"section section--cream pmreport\" aria-labelledby=\"h-152\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-152\">Your <span class=\"accent\">tracking test report</span></h2>\n\t\t\t\t<p class=\"section-lead\">Six to nine pages you keep, so anyone on your team, or a future agency, can check the setup and keep it working.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrd__dl\">\n\t\t\t\t<a class=\"button button--primary button--lg\" href=\"{{media:assets/samples/google-ads-conversion-tracking-sample-report.pdf}}\" download>Download a sample report <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t<p>A real report layout with example data, so you know exactly what you’ll receive.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrv\">\n\t\t\t\t<ol class=\"pmrv__list\" role=\"list\"><li><span class=\"pmrv__n\">01</span><div><h3>Conversion map <small>1 page</small></h3><p>Every conversion action on one page: what triggers it, where it’s set up, what it’s worth, whether it’s primary or secondary, and how it’s counted.</p></div></li><li><span class=\"pmrv__n\">02</span><div><h3>Test results <small>2–4 pages</small></h3><p>For each action, a screenshot of the test conversion arriving in Google Ads, when we tested it, the device we used and the value recorded.</p></div></li><li><span class=\"pmrv__n\">03</span><div><h3>Changes made <small>1–2 pages</small></h3><p>A plain list of every tag, trigger, variable and setting we added, changed or removed in Google Ads, Tag Manager and GA4, with the reason for each.</p></div></li><li><span class=\"pmrv__n\">04</span><div><h3>Before and after <small>1 page</small></h3><p>Conversions in Google Ads compared with your CRM or store for the same period, before and after the fix, so you can see how close the numbers now are.</p></div></li><li><span class=\"pmrv__n\">05</span><div><h3>Keeping it working <small>1 page</small></h3><p>A short checklist for your team or developer: what to test after website changes, new forms or a new cookie banner, and the alert we set up to warn you if conversions stop.</p></div></li></ol>\n\t\t\t\t<a class=\"pmrv__pic\" href=\"{{media:assets/samples/google-ads-conversion-tracking-sample-report.pdf}}\" aria-label=\"Open the sample report (PDF)\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--3\" src=\"{{media:assets/samples/google-ads-conversion-tracking-sample-report-3.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--2\" src=\"{{media:assets/samples/google-ads-conversion-tracking-sample-report-2.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--1\" src=\"{{media:assets/samples/google-ads-conversion-tracking-sample-report-1.jpg}}\" alt=\"Cover of the sample report\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<span class=\"pmrv__tag\">Sample · example data</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "google-ads-conversion-tracking",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Alex Barsuk",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ]
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Google Ads Conversion Tracking questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "How do I set up conversion tracking in Google Ads?",
+      "answer": "Create a conversion action in Google Ads, add the Google tag or a Tag Manager tag that fires when the action happens (a form submit, call or purchase), then test it. Enhanced conversions and offline conversions improve accuracy further."
+     },
+     {
+      "question": "Why is my Google Ads conversion tracking not working?",
+      "answer": "The most common causes are a tag that doesn’t fire on the real action, a broken trigger after a website change, consent settings blocking tags, or conversions counted twice through both the Google tag and GA4."
+     },
+     {
+      "question": "What does “conversion tracking setup is incomplete” mean?",
+      "answer": "Google hasn’t received a conversion recently, or can’t find the tag on your site. It usually means the tag is missing, broken or never fires."
+     },
+     {
+      "question": "Do I need enhanced conversions?",
+      "answer": "For most advertisers, yes. Enhanced conversions send hashed first-party data, such as email addresses, so Google can match more conversions despite cookie limits."
+     },
+     {
+      "question": "How do I import offline conversions from my CRM?",
+      "answer": "Capture the Google click ID (GCLID) with each lead, then upload the lead’s outcome from your CRM to Google Ads. HubSpot and Salesforce can do this automatically."
+     },
+     {
+      "question": "Should I import GA4 conversions or use the Google Ads tag?",
+      "answer": "Usually the Google Ads tag for primary conversions, because it’s faster and more accurate for bidding. GA4 conversions can be imported as secondary."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Get your Google Ads tracking <em>right, and proven</em>",
+    "lead": "Give us read-only access to Google Ads and Tag Manager. We’ll tell you what’s wrong and quote the fix.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "What should count as a conversion for you? Forms, calls, purchases?",
+    "service": "google-ads-conversion-tracking",
+    "buttonText": "Request a quote",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Related <em>services</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "search",
+      "title": "Google Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/",
+      "text": "Search, Performance Max and display."
+     },
+     {
+      "icon": "layers",
+      "title": "Server-Side Tracking",
+      "url": "/services/digital-marketing/performance-marketing/server-side-tracking/",
+      "text": "Tracking that survives ad blockers and browsers."
+     },
+     {
+      "icon": "browser",
+      "title": "Landing Pages for Ads",
+      "url": "/services/digital-marketing/performance-marketing/landing-pages/",
+      "text": "Pages built for the ad, and tested."
+     }
+    ]
+   }
+  }
+ ]
+}

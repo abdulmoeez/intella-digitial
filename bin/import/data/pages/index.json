@@ -1,0 +1,1531 @@
+{
+ "title": "Home",
+ "path": "/",
+ "seo": {
+  "title": "Intella Digital | Marketing and websites that bring in real customers",
+  "description": "Intella Digital helps growing businesses rank higher on Google, show up in AI answers, run ads that bring qualified leads and build fast websites and apps that turn visitors into enquiries."
+ },
+ "blocks": [
+  {
+   "name": "intella/home-hero",
+   "attrs": {
+    "title": "Marketing and websites that bring in <em>real customers</em>",
+    "lead": "We help growing businesses rank higher on Google, show up in AI answers, run ads that attract qualified leads, and build fast websites that turn visitors into enquiries.",
+    "buttons": [
+     {
+      "text": "Talk to an expert",
+      "url": "#contact",
+      "style": "primary"
+     },
+     {
+      "text": "See our work",
+      "url": "#work",
+      "style": "outline"
+     }
+    ],
+    "cards": [
+     {
+      "icon": "search",
+      "title": "SEO & content",
+      "url": "/services/digital-marketing/seo/",
+      "text": "Page-1 rankings that bring in steady enquiries.",
+      "tags": [
+       "Technical SEO",
+       "Content",
+       "Local SEO"
+      ],
+      "tools": [
+       "Semrush",
+       "Search Console",
+       "Maps",
+       "Google"
+      ]
+     },
+     {
+      "icon": "sparkle",
+      "title": "AI search (GEO)",
+      "url": "/services/digital-marketing/geo/",
+      "text": "Get named when buyers ask ChatGPT, Gemini and Perplexity.",
+      "tags": [
+       "AI visibility",
+       "Entities",
+       "Citations"
+      ],
+      "tools": [
+       "Gemini",
+       "Perplexity",
+       "Claude",
+       "Google"
+      ]
+     },
+     {
+      "icon": "megaphone",
+      "title": "Paid ads",
+      "url": "/services/digital-marketing/performance-marketing/",
+      "text": "Google, Meta and LinkedIn ads that lower your cost per lead.",
+      "tags": [
+       "Google Ads",
+       "Meta Ads",
+       "LinkedIn Ads"
+      ],
+      "tools": [
+       "Google Ads",
+       "Meta",
+       "LinkedIn",
+       "YouTube",
+       "TikTok"
+      ]
+     },
+     {
+      "icon": "share",
+      "title": "Social media",
+      "url": "/social-media-management/",
+      "text": "Content and community that build an audience that buys.",
+      "tags": [
+       "Strategy",
+       "Content",
+       "Community"
+      ],
+      "tools": [
+       "Instagram",
+       "TikTok",
+       "YouTube",
+       "LinkedIn",
+       "Hootsuite"
+      ]
+     },
+     {
+      "icon": "mail",
+      "title": "Email & automation",
+      "url": "/services/digital-marketing/email-marketing/",
+      "text": "Emails and flows that nurture leads while you sleep.",
+      "tags": [
+       "Newsletters",
+       "Flows",
+       "CRM"
+      ],
+      "tools": [
+       "Mailchimp",
+       "HubSpot",
+       "Brevo",
+       "Gmail"
+      ]
+     },
+     {
+      "icon": "chart",
+      "title": "CRO & analytics",
+      "url": "/services/digital-marketing/conversion-rate-optimisation/",
+      "text": "More leads from the traffic you already have.",
+      "tags": [
+       "A/B testing",
+       "GA4",
+       "Dashboards"
+      ],
+      "tools": [
+       "GA4",
+       "Hotjar",
+       "PostHog",
+       "Looker Studio",
+       "Sheets"
+      ]
+     },
+     {
+      "icon": "palette",
+      "title": "Design & branding",
+      "url": "/services/design/brand-identity/",
+      "text": "A brand and design that look as good as your work.",
+      "tags": [
+       "Logo",
+       "Brand guide",
+       "UI/UX"
+      ],
+      "tools": [
+       "Figma",
+       "Framer",
+       "Sketch",
+       "Dribbble",
+       "Behance"
+      ]
+     },
+     {
+      "icon": "code",
+      "title": "Websites",
+      "url": "/services/website-development/",
+      "text": "Fast websites on WordPress, Shopify or custom code.",
+      "tags": [
+       "WordPress",
+       "Shopify",
+       "Migrations"
+      ],
+      "tools": [
+       "WordPress",
+       "Shopify",
+       "WooCommerce",
+       "HTML5"
+      ]
+     },
+     {
+      "icon": "phone",
+      "title": "Apps & software",
+      "url": "/services/#apps",
+      "text": "Web apps, mobile apps and SaaS, built in short sprints.",
+      "tags": [
+       "Laravel",
+       "Mobile apps",
+       "SaaS"
+      ],
+      "tools": [
+       "Laravel",
+       "Flutter",
+       "GitHub",
+       "Stripe",
+       "Postman"
+      ]
+     },
+     {
+      "icon": "bot",
+      "title": "AI agents",
+      "url": "/ai-agent-development/",
+      "text": "AI agents and automations that take work off your team.",
+      "tags": [
+       "Agents",
+       "Chatbots",
+       "Automation"
+      ],
+      "tools": [
+       "n8n",
+       "LangChain",
+       "Claude",
+       "WhatsApp"
+      ]
+     },
+     {
+      "icon": "check",
+      "title": "Audits & planning",
+      "url": "/audits/",
+      "text": "Know what to fix first with an audit or a marketing plan.",
+      "tags": [
+       "Website audit",
+       "SEO audit",
+       "Marketing plan"
+      ],
+      "tools": [
+       "Lighthouse",
+       "Search Console",
+       "Cloudflare"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we've helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": true
+   }
+  },
+  {
+   "name": "intella/home-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "services",
+    "title": "One team for every part of <em>your growth</em>",
+    "lead": "Marketing brings the right people to you. Design and CRO turn visits into enquiries. Development builds the website and apps behind it, and AI takes the busywork off your team. Pick one service or let us handle it all.",
+    "buttonText": "See all services",
+    "buttonUrl": "/services/",
+    "tabs": [
+     {
+      "tab": "SEO and Content",
+      "title": "Get found on Google and in <em>AI answers</em>",
+      "lead": "Rank for the searches your buyers make, show up when they ask AI tools, and win their trust with useful content.",
+      "text": "We start with a technical check-up, then build pages around the questions your buyers actually ask. Every month you see which keywords moved, which pages brought enquiries and what we’re doing next.",
+      "links": [
+       {
+        "title": "SEO",
+        "description": "Rank on page 1 for the searches your buyers make.",
+        "url": "/services/digital-marketing/seo/",
+        "tool": "Google"
+       },
+       {
+        "title": "GEO / AI search",
+        "description": "Get recommended in ChatGPT, Gemini and AI Overviews.",
+        "url": "/services/digital-marketing/geo/",
+        "tool": "Gemini"
+       },
+       {
+        "title": "Content Marketing",
+        "description": "Articles and pages that answer buyers and earn links.",
+        "url": "/services/digital-marketing/content-marketing/",
+        "tool": "WordPress"
+       },
+       {
+        "title": "Local SEO",
+        "description": "Win the map pack and local searches in the areas you serve.",
+        "url": "/services/digital-marketing/local-seo/",
+        "tool": "Google Maps"
+       },
+       {
+        "title": "eCommerce SEO",
+        "description": "Category and product pages that rank and sell.",
+        "url": "/services/digital-marketing/ecommerce-seo/",
+        "tool": "Shopify"
+       },
+       {
+        "title": "Link Building",
+        "description": "Earn links from relevant, trusted websites.",
+        "url": "/services/digital-marketing/link-building/",
+        "tool": "Semrush"
+       }
+      ],
+      "ctaText": "Explore SEO and Content",
+      "ctaUrl": "/services/#seo"
+     },
+     {
+      "tab": "Performance Marketing",
+      "title": "Paid ads that bring in <em>real leads</em>",
+      "lead": "Campaigns on Google, YouTube, LinkedIn, Facebook and Instagram, tracked all the way to enquiries and sales.",
+      "text": "We set up tracking first, so every lead and sale is counted. Then we test ads and audiences each week, cut what doesn’t work and move budget to the campaigns that bring in customers.",
+      "links": [
+       {
+        "title": "Google Ads",
+        "description": "Search, display and remarketing campaigns for high-intent leads.",
+        "url": "/services/digital-marketing/performance-marketing/google-ads/",
+        "tool": "Google Ads"
+       },
+       {
+        "title": "Google Shopping Ads",
+        "description": "Product ads that put your catalogue in front of buyers.",
+        "url": "/services/digital-marketing/performance-marketing/google-shopping-ads/",
+        "tool": "Google"
+       },
+       {
+        "title": "YouTube Ads",
+        "description": "Video campaigns that build awareness and drive action.",
+        "url": "/services/digital-marketing/performance-marketing/youtube-ads/",
+        "tool": "YouTube"
+       },
+       {
+        "title": "LinkedIn Ads",
+        "description": "Reach decision makers by role, company and industry.",
+        "url": "/services/digital-marketing/performance-marketing/linkedin-ads/",
+        "tool": "LinkedIn"
+       },
+       {
+        "title": "Meta Ads",
+        "description": "Facebook campaigns that build awareness and drive enquiries.",
+        "url": "/services/digital-marketing/performance-marketing/facebook-ads/",
+        "tool": "Meta"
+       },
+       {
+        "title": "Instagram Ads",
+        "description": "Targeted campaigns that grow visibility and win customers.",
+        "url": "/services/digital-marketing/performance-marketing/instagram-ads/",
+        "tool": "Instagram"
+       }
+      ],
+      "ctaText": "Explore Performance Marketing",
+      "ctaUrl": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "tab": "Social Media",
+      "title": "Social media that builds <em>real audiences</em>",
+      "lead": "Consistent, on-brand social content and campaigns that grow your audience and turn followers into customers.",
+      "text": "A content plan built around your audience, posts made in-house and a community that gets replies the same day. We report on reach, clicks and enquiries, not just likes.",
+      "links": [
+       {
+        "title": "Social Media Management",
+        "description": "Planning, posting and reporting across your channels.",
+        "url": "/social-media-management/",
+        "tool": "Hootsuite"
+       },
+       {
+        "title": "Content Creation",
+        "description": "Graphics, reels and short videos made for each platform.",
+        "url": "/social-content-creation/",
+        "tool": "Behance"
+       },
+       {
+        "title": "LinkedIn for B2B",
+        "description": "Company and founder content that builds authority.",
+        "url": "/linkedin-b2b/",
+        "tool": "LinkedIn"
+       },
+       {
+        "title": "Influencer Marketing",
+        "description": "Partnerships with creators your buyers already follow.",
+        "url": "/services/digital-marketing/social-media/influencer-marketing/",
+        "tool": "TikTok"
+       }
+      ],
+      "ctaText": "Explore Social Media",
+      "ctaUrl": "/services/#social"
+     },
+     {
+      "tab": "Email & Automation",
+      "title": "Turn leads into customers <em>on autopilot</em>",
+      "lead": "Emails, automated journeys and CRM setups that follow up with every lead at the right moment.",
+      "text": "Welcome series, nurture flows and newsletters that keep leads warm until they’re ready to talk. Your CRM stays tidy, so sales always knows who to call next.",
+      "links": [
+       {
+        "title": "Email Marketing",
+        "description": "Newsletters and campaigns people actually open.",
+        "url": "/services/digital-marketing/email-marketing/",
+        "tool": "Mailchimp"
+       },
+       {
+        "title": "Marketing Automation",
+        "description": "Welcome, nurture and follow-up flows that run on their own.",
+        "url": "/services/digital-marketing/marketing-automation/",
+        "tool": "Brevo"
+       },
+       {
+        "title": "CRM Setup",
+        "description": "HubSpot and other CRMs set up around how you sell.",
+        "url": "/services/digital-marketing/crm-setup/",
+        "tool": "HubSpot"
+       },
+       {
+        "title": "Lead Nurturing",
+        "description": "Sequences that warm up leads until they are ready to talk.",
+        "url": "/services/digital-marketing/lead-nurturing/",
+        "tool": "Gmail"
+       }
+      ],
+      "ctaText": "Explore Email & Automation",
+      "ctaUrl": "/services/#email"
+     },
+     {
+      "tab": "CRO & Analytics",
+      "title": "Get more from the traffic <em>you already have</em>",
+      "lead": "Clean tracking, clear dashboards and steady testing that turn more of your visitors into enquiries.",
+      "text": "We find where visitors drop off using analytics, heatmaps and recordings, then test changes that remove friction. Small wins on key pages add up to more leads from the same traffic.",
+      "links": [
+       {
+        "title": "Conversion Rate Optimisation",
+        "description": "Find and fix what stops visitors becoming leads.",
+        "url": "/services/digital-marketing/conversion-rate-optimisation/",
+        "tool": "Hotjar"
+       },
+       {
+        "title": "GA4 and Tracking Setup",
+        "description": "Accurate analytics and conversion tracking you can trust.",
+        "url": "/ga4-tracking-setup/",
+        "tool": "Google Analytics"
+       },
+       {
+        "title": "Reporting Dashboards",
+        "description": "Live Looker Studio dashboards for the numbers that matter.",
+        "url": "/services/digital-marketing/reporting-dashboards/",
+        "tool": "Looker"
+       },
+       {
+        "title": "A/B Testing",
+        "description": "Test pages, offers and forms to learn what converts.",
+        "url": "/services/digital-marketing/ab-testing/",
+        "tool": "PostHog"
+       }
+      ],
+      "ctaText": "Explore CRO & Analytics",
+      "ctaUrl": "/services/#cro"
+     },
+     {
+      "tab": "Design & Branding",
+      "title": "Design that builds trust <em>at first glance</em>",
+      "lead": "Websites, interfaces and brand identities designed to look premium and make the next step obvious.",
+      "text": "From logo and brand guidelines to website and app screens, we design a look that feels premium and makes the next step obvious, with files your team can use every day.",
+      "links": [
+       {
+        "title": "Website Design",
+        "description": "Modern, conversion-focused website designs.",
+        "url": "/services/design/website-design/",
+        "tool": "Figma"
+       },
+       {
+        "title": "UI / UX Design",
+        "description": "Clear, easy-to-use interfaces for web and mobile apps.",
+        "url": "/services/design/ui-ux-design/",
+        "tool": "Sketch"
+       },
+       {
+        "title": "Brand Identity",
+        "description": "Logos, colours and type that make you memorable.",
+        "url": "/services/design/brand-identity/",
+        "tool": "Dribbble"
+       },
+       {
+        "title": "Landing Page Design",
+        "description": "Focused pages built for ads, launches and offers.",
+        "url": "/services/design/landing-page-design/",
+        "tool": "Framer"
+       }
+      ],
+      "ctaText": "Explore Design & Branding",
+      "ctaUrl": "/services/#design"
+     },
+     {
+      "tab": "Websites",
+      "title": "Websites built to load fast and <em>convert</em>",
+      "lead": "Custom websites, CMS builds, migrations and care plans from developers who understand marketing.",
+      "text": "Fast, secure websites on WordPress, Shopify or custom code, built with SEO and conversion in mind from day one. After launch we keep them updated, backed up and improving.",
+      "links": [
+       {
+        "title": "Website Development",
+        "description": "Fast, conversion-focused websites built to grow with you.",
+        "url": "/services/website-development/",
+        "tool": "HTML5"
+       },
+       {
+        "title": "WordPress Development",
+        "description": "Custom WordPress themes and sites your team can update.",
+        "url": "/services/website-development/wordpress/",
+        "tool": "WordPress"
+       },
+       {
+        "title": "Shopify Development",
+        "description": "Online stores that are fast, flexible and easy to run.",
+        "url": "/shopify-development/",
+        "tool": "Shopify"
+       },
+       {
+        "title": "Drupal and Joomla",
+        "description": "Builds, upgrades and support for Drupal and Joomla sites.",
+        "url": "/services/website-development/drupal/",
+        "tool": "Drupal"
+       },
+       {
+        "title": "Website Migration",
+        "description": "Move platforms without losing traffic, rankings or data.",
+        "url": "/services/website-migration/",
+        "tool": "Google Search Console"
+       },
+       {
+        "title": "Website Maintenance",
+        "description": "Updates, backups, security and small changes, every month.",
+        "url": "/website-maintenance/",
+        "tool": "Cloudflare"
+       }
+      ],
+      "ctaText": "Explore Websites",
+      "ctaUrl": "/services/website-development/"
+     },
+     {
+      "tab": "Apps & Software",
+      "title": "Apps and platforms <em>built properly</em>",
+      "lead": "Web apps, mobile apps, SaaS products and integrations, built in Laravel and modern JavaScript.",
+      "text": "Web apps, mobile apps and SaaS products planned in short sprints, so you see working software every two weeks. We handle design, build, testing and the move to production.",
+      "links": [
+       {
+        "title": "Laravel Development",
+        "description": "Custom web apps, portals and dashboards built in Laravel.",
+        "url": "/services/website-development/laravel/",
+        "tool": "Laravel"
+       },
+       {
+        "title": "Mobile App Development",
+        "description": "iOS and Android apps for your customers or your team.",
+        "url": "/mobile-app-development/",
+        "tool": "Flutter"
+       },
+       {
+        "title": "SaaS Development",
+        "description": "From MVP to scalable product, built for growth.",
+        "url": "/services/website-development/laravel/saas-development/",
+        "tool": "Stripe"
+       },
+       {
+        "title": "API Development",
+        "description": "Secure APIs and integrations that connect your systems.",
+        "url": "/services/website-development/laravel/laravel-api-development/",
+        "tool": "Postman"
+       },
+       {
+        "title": "eCommerce Development",
+        "description": "Custom stores and checkout flows built to scale.",
+        "url": "/services/website-development/laravel/laravel-ecommerce-development/",
+        "tool": "WooCommerce"
+       },
+       {
+        "title": "Hire Developers",
+        "description": "Dedicated Laravel developers who join your team.",
+        "url": "/services/website-development/laravel/hire-laravel-developers/",
+        "tool": "GitHub"
+       }
+      ],
+      "ctaText": "Explore Apps & Software",
+      "ctaUrl": "/services/#apps"
+     },
+     {
+      "tab": "Agentic AI Development",
+      "title": "AI agents that <em>do real work</em>",
+      "lead": "Custom AI agents, assistants and automations that handle real tasks in your business, built safely on top of your data and tools.",
+      "text": "Assistants and agents that answer customers, qualify leads and take repetitive work off your team. They use your own data, ask a person when unsure and keep a log of what they did.",
+      "links": [
+       {
+        "title": "AI Agent Development",
+        "description": "Custom agents that research, decide and act across your tools.",
+        "url": "/ai-agent-development/",
+        "tool": "LangChain"
+       },
+       {
+        "title": "AI Chatbots and Assistants",
+        "description": "Website and support assistants that answer, qualify and book.",
+        "url": "/services/ai-development/ai-chatbots/",
+        "tool": "WhatsApp"
+       },
+       {
+        "title": "AI Workflow Automation",
+        "description": "Hand repetitive work like data entry and reporting to AI.",
+        "url": "/ai-workflow-automation/",
+        "tool": "n8n"
+       },
+       {
+        "title": "AI Knowledge Assistants",
+        "description": "Search and answer from your documents, policies and data.",
+        "url": "/ai-knowledge-assistants/",
+        "tool": "Notion"
+       },
+       {
+        "title": "LLM Integration",
+        "description": "Add Claude, GPT or Gemini features into your product.",
+        "url": "/services/ai-development/llm-integration/",
+        "tool": "Claude"
+       },
+       {
+        "title": "AI Strategy and Consulting",
+        "description": "Find where AI saves time and money before you build.",
+        "url": "/services/ai-development/ai-consulting/",
+        "tool": "Anthropic"
+       }
+      ],
+      "ctaText": "Explore Agentic AI Development",
+      "ctaUrl": "/services/#ai"
+     },
+     {
+      "tab": "Audits and Planning",
+      "title": "Know what to <em>fix first</em>",
+      "lead": "Not sure where to start? An audit or a marketing plan gives you a clear, prioritised list.",
+      "text": "A clear review of your website, SEO, ads or marketing plan, with every issue ranked by impact. You get a prioritised action list you can hand to your team, or to us.",
+      "links": [
+       {
+        "title": "Marketing Plan",
+        "description": "A clear roadmap for steady growth and lead generation.",
+        "url": "/audits/marketing-plan/",
+        "tool": "Google Sheets"
+       },
+       {
+        "title": "Website Audit",
+        "description": "Find the technical, SEO, UX and conversion issues holding you back.",
+        "url": "/audits/website-audit/",
+        "tool": "Lighthouse"
+       },
+       {
+        "title": "SEO Audit",
+        "description": "See why you are not ranking and what to fix first.",
+        "url": "/audits/seo-audit/",
+        "tool": "Semrush"
+       },
+       {
+        "title": "GEO Audit",
+        "description": "Check how AI tools see and describe your brand.",
+        "url": "/audits/geo-audit/",
+        "tool": "Perplexity"
+       },
+       {
+        "title": "Content Audit",
+        "description": "Uncover content gaps, quick wins and pages to improve.",
+        "url": "/audits/content-audit/",
+        "tool": "Google Search Console"
+       },
+       {
+        "title": "Performance Marketing Audit",
+        "description": "Cut wasted ad spend and improve campaign results.",
+        "url": "/audits/google-ads-audit/",
+        "tool": "Google Ads"
+       }
+      ],
+      "ctaText": "Explore Audits and Planning",
+      "ctaUrl": "/audits/"
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/home-audience",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Ready to grow, but <em>stretched thin?</em>",
+    "lead": "Most of our clients are ambitious teams of 5 to 50 people. They know their marketing and website should bring in more, but they don’t have the people, the skills or the time to make it happen. That’s the gap we fill.",
+    "buttonText": "Let’s fix that",
+    "buttonUrl": "#contact",
+    "tiles": [
+     {
+      "clips": [
+       {
+        "video": "media:assets/video/owner-packing.mp4",
+        "poster": "media:assets/video/owner-packing.webp"
+       },
+       {
+        "video": "media:assets/video/owner-baker.mp4",
+        "poster": "media:assets/video/owner-baker.webp"
+       },
+       {
+        "video": "media:assets/video/owner-florists.mp4",
+        "poster": "media:assets/video/owner-florists.webp"
+       }
+      ]
+     },
+     {
+      "clips": [
+       {
+        "video": "media:assets/video/owner-call-laptop.mp4",
+        "poster": "media:assets/video/owner-call-laptop.webp"
+       },
+       {
+        "video": "media:assets/video/owner-meeting.mp4",
+        "poster": "media:assets/video/owner-meeting.webp"
+       },
+       {
+        "video": "media:assets/video/owner-tablet.mp4",
+        "poster": "media:assets/video/owner-tablet.webp"
+       }
+      ]
+     },
+     {
+      "clips": [
+       {
+        "video": "media:assets/video/owner-open-sign.mp4",
+        "poster": "media:assets/video/owner-open-sign.webp"
+       },
+       {
+        "video": "media:assets/video/owner-florist-laugh.mp4",
+        "poster": "media:assets/video/owner-florist-laugh.webp"
+       }
+      ]
+     },
+     {
+      "clips": [
+       {
+        "video": "media:assets/video/owner-call-desk.mp4",
+        "poster": "media:assets/video/owner-call-desk.webp"
+       },
+       {
+        "video": "media:assets/video/owner-desks.mp4",
+        "poster": "media:assets/video/owner-desks.webp"
+       },
+       {
+        "video": "media:assets/video/owner-cafe.mp4",
+        "poster": "media:assets/video/owner-cafe.webp"
+       }
+      ]
+     }
+    ],
+    "chips": [
+     {
+      "title": "Your 90-day plan is ready",
+      "text": "Sent by your Intella team"
+     },
+     {
+      "title": "New enquiry",
+      "text": "From your website form"
+     }
+    ],
+    "steps": [
+     {
+      "problem": "No one to do the work",
+      "answer": "A ready team from week one: strategists, writers, designers and developers, without hiring a department."
+     },
+     {
+      "problem": "No in-house expertise",
+      "answer": "Specialists in SEO, AI search, ads, CRO and development who do this every day, for businesses like yours."
+     },
+     {
+      "problem": "No clear plan",
+      "answer": "A 90-day plan before any work starts, so you know what we’ll do, in what order, and why."
+     },
+     {
+      "problem": "No one owns the results",
+      "answer": "Targets we agree together and a plain-English report every month, tied to enquiries and sales."
+     }
+    ],
+    "toolsTitle": "The platforms we know <em>inside out</em>",
+    "toolsLead": "From Google and Meta to HubSpot, Shopify and the newest AI assistants, we use these every day to plan, build and grow. Hover over a logo to see its name.",
+    "tools": [
+     "Google",
+     "Google Ads",
+     "Google Analytics",
+     "Google Search Console",
+     "Google Maps",
+     "Google Sheets",
+     "Meta",
+     "Instagram",
+     "LinkedIn",
+     "YouTube",
+     "TikTok",
+     "WhatsApp",
+     "Gemini",
+     "Perplexity",
+     "Claude",
+     "Semrush",
+     "Hotjar",
+     "Looker Studio",
+     "HubSpot",
+     "Mailchimp",
+     "Brevo",
+     "Shopify",
+     "WooCommerce",
+     "Stripe",
+     "WordPress",
+     "Drupal",
+     "Laravel",
+     "Flutter",
+     "Framer",
+     "Figma",
+     "n8n",
+     "Cloudflare",
+     "Lighthouse",
+     "GitHub",
+     "Notion"
+    ]
+   }
+  },
+  {
+   "name": "intella/home-work",
+   "attrs": {
+    "background": "cream",
+    "anchor": "work",
+    "title": "Work we’re <em>proud</em> of",
+    "buttonText": "View portfolio",
+    "buttonUrl": "/portfolio/",
+    "finderLabel": "Find work like yours, by",
+    "finder": [
+     {
+      "tab": "Outcome",
+      "chips": [
+       {
+        "label": "More leads",
+        "url": "pages/case-studies.html?outcome=more-leads",
+        "count": "3"
+       },
+       {
+        "label": "More sales",
+        "url": "pages/case-studies.html?outcome=more-sales",
+        "count": "1"
+       },
+       {
+        "label": "More traffic",
+        "url": "pages/case-studies.html?outcome=more-traffic",
+        "count": "3"
+       },
+       {
+        "label": "Better user experience",
+        "url": "pages/case-studies.html?outcome=better-experience",
+        "count": "3"
+       },
+       {
+        "label": "Lower costs",
+        "url": "pages/case-studies.html?outcome=lower-costs",
+        "count": "2"
+       },
+       {
+        "label": "Time saved",
+        "url": "pages/case-studies.html?outcome=time-saved",
+        "count": "2"
+       }
+      ]
+     },
+     {
+      "tab": "Type of work",
+      "chips": [
+       {
+        "label": "Web development",
+        "url": "pages/case-studies.html?service=web",
+        "count": "5"
+       },
+       {
+        "label": "E-commerce",
+        "url": "pages/case-studies.html?service=shop",
+        "count": "1"
+       },
+       {
+        "label": "Design",
+        "url": "pages/case-studies.html?service=design",
+        "count": "3"
+       },
+       {
+        "label": "SEO and GEO",
+        "url": "pages/case-studies.html?service=seo",
+        "count": "2"
+       },
+       {
+        "label": "Performance marketing",
+        "url": "pages/case-studies.html?service=ads",
+        "count": "1"
+       },
+       {
+        "label": "Audits",
+        "url": "pages/case-studies.html?service=audit",
+        "count": "1"
+       }
+      ]
+     },
+     {
+      "tab": "Industry",
+      "chips": [
+       {
+        "label": "Fashion and retail",
+        "url": "pages/case-studies.html?industry=fashion-and-retail",
+        "count": "1"
+       },
+       {
+        "label": "Healthcare",
+        "url": "pages/case-studies.html?industry=healthcare",
+        "count": "1"
+       },
+       {
+        "label": "Home services",
+        "url": "pages/case-studies.html?industry=home-services",
+        "count": "1"
+       },
+       {
+        "label": "Logistics",
+        "url": "pages/case-studies.html?industry=logistics",
+        "count": "1"
+       },
+       {
+        "label": "Professional services",
+        "url": "pages/case-studies.html?industry=professional-services",
+        "count": "2"
+       },
+       {
+        "label": "SaaS and software",
+        "url": "pages/case-studies.html?industry=saas-and-software",
+        "count": "2"
+       },
+       {
+        "label": "Sports technology",
+        "url": "pages/case-studies.html?industry=sports-technology",
+        "count": "1"
+       },
+       {
+        "label": "Real estate",
+        "url": "pages/case-studies.html?industry=real-estate",
+        "count": ""
+       },
+       {
+        "label": "Education and training",
+        "url": "pages/case-studies.html?industry=education-and-training",
+        "count": ""
+       },
+       {
+        "label": "Hospitality and travel",
+        "url": "pages/case-studies.html?industry=hospitality-and-travel",
+        "count": ""
+       },
+       {
+        "label": "Finance and fintech",
+        "url": "pages/case-studies.html?industry=finance-and-fintech",
+        "count": ""
+       },
+       {
+        "label": "Construction and manufacturing",
+        "url": "pages/case-studies.html?industry=construction-and-manufacturing",
+        "count": ""
+       }
+      ]
+     }
+    ],
+    "allText": "All 9 case studies",
+    "allUrl": "/case-studies/",
+    "work": [
+     {
+      "image": "media:assets/images/work/health-wellbeing-website.png",
+      "alt": "Health and wellbeing website shown on a laptop",
+      "tag": "Website",
+      "title": "Health & wellbeing website",
+      "text": "A calm, mobile-first site built to turn visits into bookings."
+     },
+     {
+      "image": "media:assets/images/work/healthcare-staffing-platform.png",
+      "alt": "Healthcare staffing platform sign-up page on a laptop",
+      "tag": "Web app",
+      "title": "Healthcare staffing platform",
+      "text": "A clear sign-up flow that helps dental clinics fill shifts fast."
+     },
+     {
+      "image": "media:assets/images/work/automotive-mobile-app.png",
+      "alt": "Automotive mobile app on a phone",
+      "tag": "Mobile app",
+      "title": "Automotive mobile app",
+      "text": "A fast, simple app experience for drivers on the go."
+     }
+    ],
+    "cases": [
+     {
+      "tag": "Case study",
+      "title": "Cupello",
+      "text": "Modernising football coaching technology with a faster, more usable platform.",
+      "linkText": "Read the case study",
+      "url": "/case-studies/cupello-modernizing-football-coaching-technology/"
+     },
+     {
+      "tag": "Case study",
+      "title": "The Other Glasses",
+      "text": "A luxury eyewear e-commerce experience, designed and built end to end.",
+      "linkText": "Read the case study",
+      "url": "/case-studies/the-other-glasses-luxury-eyewear-e-commerce-experience-intella-digital/"
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/testimonials",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "What our <em>clients</em> say",
+    "lead": "Founders, marketers and managers who trusted us with their website, ads and growth.<br> Here is what working with one team feels like, in their own words.",
+    "spotlight": [
+     "post:testimonial:Andra-Simina Mocanu",
+     "post:testimonial:Priya Nair",
+     "post:testimonial:Omar Haddad",
+     "post:testimonial:Sofia Marin",
+     "post:testimonial:Hannah Lee",
+     "post:testimonial:Daniel Reyes",
+     "post:testimonial:Leila Ahmadi",
+     "post:testimonial:Tom Becker",
+     "post:testimonial:Arjun Mehta",
+     "post:testimonial:Marcus Hill",
+     "post:testimonial:Emma Collins",
+     "post:testimonial:Amara Okafor",
+     "post:testimonial:Lucas Moreau"
+    ],
+    "cards": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:James Whitaker",
+     "post:testimonial:Ravi Menon",
+     "post:testimonial:Nadia Karim",
+     "post:testimonial:Ben Walsh",
+     "post:testimonial:Sara Fontaine",
+     "post:testimonial:Kenji Ono",
+     "post:testimonial:Laura Pérez",
+     "post:testimonial:Yusuf Ali"
+    ]
+   }
+  },
+  {
+   "name": "intella/free-review",
+   "attrs": {
+    "background": "cream",
+    "anchor": "free-review",
+    "title": "Find out what's <em>holding your site back</em>",
+    "lead": "Send us your website. We'll record a short video walking through your speed, SEO, AI visibility and conversion gaps, with the fixes we'd make first.",
+    "checks": [
+     "Speed and Core Web Vitals",
+     "SEO and AI search visibility",
+     "Conversion and tracking gaps"
+    ],
+    "formTitle": "Get your free review",
+    "formSub": "Your website and email is all we need.",
+    "buttonText": "Get my free review",
+    "trust": [
+     "Video walkthrough",
+     "No sales pitch",
+     "Clear list of fixes"
+    ]
+   }
+  },
+  {
+   "name": "intella/home-process",
+   "attrs": {
+    "title": "From first call to <em>real results</em>",
+    "lead": "A simple, transparent process, so you always know what’s happening, what’s next and what we need from you.",
+    "steps": [
+     {
+      "when": "Day 1",
+      "title": "Discovery call",
+      "tab": "Discovery call",
+      "icon": "chat",
+      "text": "A free 30-minute call. We learn about your business, your goals, your budget and what you’ve already tried, and tell you honestly whether we’re the right fit.",
+      "get": [
+       "A short written summary of the call",
+       "Our first thoughts on where the quick wins are"
+      ],
+      "need": [
+       "30 minutes and an open conversation"
+      ]
+     },
+     {
+      "when": "Week 1",
+      "title": "Audit",
+      "tab": "Audit",
+      "icon": "search",
+      "text": "We look under the hood: your website, search rankings, AI visibility, ads, analytics and your top competitors. Every issue is ranked by how much it’s costing you.",
+      "get": [
+       "Audit findings ranked by impact",
+       "A plain-English walkthrough video"
+      ],
+      "need": [
+       "Read-only access to analytics and ad accounts"
+      ]
+     },
+     {
+      "when": "Week 2",
+      "title": "90-day plan and targets",
+      "tab": "90-day plan and targets",
+      "icon": "target",
+      "text": "We turn the audit into a plan: what we’ll do, in what order, and why. We agree the targets together, so we both know what success looks like.",
+      "get": [
+       "A 90-day roadmap",
+       "Agreed targets and how we’ll measure them",
+       "A fixed monthly fee, no surprises"
+      ],
+      "need": [
+       "Review the plan and sign it off"
+      ]
+     },
+     {
+      "when": "Weeks 2–3",
+      "title": "Kick-off and setup",
+      "tab": "Kick-off and setup",
+      "icon": "users",
+      "text": "You meet your team and your single point of contact. We set up a shared workspace and fix tracking first, so every result from here on is measured properly.",
+      "get": [
+       "Kick-off call with your team",
+       "Shared project board",
+       "Tracking and reporting set up"
+      ],
+      "need": [
+       "One person on your side we can talk to"
+      ]
+     },
+     {
+      "when": "Weeks 3–8",
+      "title": "Build and launch",
+      "tab": "Build and launch",
+      "icon": "code",
+      "text": "Marketing and development work side by side: pages, content, campaigns and fixes go live in planned sprints. You see everything before it launches.",
+      "get": [
+       "A short update every week",
+       "Review rounds before anything goes live",
+       "A launch checklist, signed off together"
+      ],
+      "need": [
+       "Feedback within the agreed review window"
+      ]
+     },
+     {
+      "when": "Every month",
+      "title": "Measure and improve",
+      "tab": "Measure and improve",
+      "icon": "chart",
+      "text": "A plain-English report tied to enquiries and sales, and a call to walk you through it. We test, learn and refresh the plan every quarter.",
+      "get": [
+       "Monthly report and review call",
+       "New tests and improvements each month",
+       "An updated plan every 90 days"
+      ],
+      "need": [
+       "30 minutes a month for the review call"
+      ]
+     }
+    ],
+    "getLabel": "What you get",
+    "needLabel": "What we need from you",
+    "endText": "It all starts with step one: a free, no-pressure call.",
+    "buttonText": "Book your discovery call",
+    "buttonUrl": "/contact/"
+   }
+  },
+  {
+   "name": "intella/home-why",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "An agency that works like <em>your own team</em>",
+    "lead": "We keep things simple: senior people, honest advice and work that is measured by the enquiries it brings in.",
+    "buttonText": "Talk to an expert",
+    "buttonUrl": "#contact",
+    "photos": [
+     {
+      "image": "media:assets/images/team/team.jpg",
+      "alt": "A team gathered around a laptop, discussing work together"
+     },
+     {
+      "image": "media:assets/images/team/team-2.jpg",
+      "alt": "Four colleagues looking at a laptop together in a bright office"
+     },
+     {
+      "image": "media:assets/images/team/team-3.jpg",
+      "alt": "Two colleagues working side by side at a computer"
+     }
+    ],
+    "cards": [
+     {
+      "icon": "user",
+      "title": "One team, both skills",
+      "text": "Marketing and development under one roof, so nothing gets lost between agencies.",
+      "dark": true
+     },
+     {
+      "icon": "sparkle",
+      "title": "Ready for AI search",
+      "text": "We optimise for Google and for the AI assistants your customers now ask.",
+      "dark": false
+     },
+     {
+      "icon": "chart",
+      "title": "Reporting you can read",
+      "text": "Clear monthly reports that tie the work to enquiries, not vanity metrics.",
+      "dark": false
+     },
+     {
+      "icon": "key",
+      "title": "You own everything",
+      "text": "Your website, ad accounts, data and content always stay in your name.",
+      "dark": true
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/home-industries",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Experience across <em>many industries</em>",
+    "lead": "From clinics and law firms to online stores and software companies, we bring what worked in one industry to the next.",
+    "bigTitle": true,
+    "sectors": [
+     {
+      "image": "media:assets/images/industries/clinics.jpg",
+      "name": "Clinics & healthcare"
+     },
+     {
+      "image": "media:assets/images/industries/law.jpg",
+      "name": "Law & professional services"
+     },
+     {
+      "image": "media:assets/images/industries/ecommerce.jpg",
+      "name": "E-commerce & retail"
+     },
+     {
+      "image": "media:assets/images/industries/realestate.jpg",
+      "name": "Real estate"
+     },
+     {
+      "image": "media:assets/images/industries/software.jpg",
+      "name": "SaaS & software"
+     },
+     {
+      "image": "media:assets/images/industries/education.jpg",
+      "name": "Education & training"
+     },
+     {
+      "image": "media:assets/images/industries/hotel.jpg",
+      "name": "Hotels & travel"
+     },
+     {
+      "image": "media:assets/images/industries/restaurant.jpg",
+      "name": "Restaurants & food"
+     },
+     {
+      "image": "media:assets/images/industries/finance.jpg",
+      "name": "Finance & accounting"
+     },
+     {
+      "image": "media:assets/images/industries/construction.jpg",
+      "name": "Construction"
+     },
+     {
+      "image": "media:assets/images/industries/beauty.jpg",
+      "name": "Beauty & wellness"
+     },
+     {
+      "image": "media:assets/images/industries/trades.jpg",
+      "name": "Home services & trades"
+     }
+    ],
+    "stats": [
+     {
+      "number": "150",
+      "suffix": "+",
+      "label": "Projects delivered",
+      "note": "Websites, apps, campaigns and audits"
+     },
+     {
+      "number": "12",
+      "suffix": "",
+      "label": "Countries served",
+      "note": "From the Gulf to Europe, the US and Australia"
+     },
+     {
+      "number": "4.9",
+      "suffix": "/5",
+      "label": "Average client rating",
+      "note": "From reviews after every project"
+     },
+     {
+      "number": "3",
+      "suffix": "+ yrs",
+      "label": "Average client relationship",
+      "note": "Clients stay because the work keeps paying off"
+     }
+    ],
+    "resultsTitle": "Outcomes we’ve delivered",
+    "results": [
+     {
+      "icon": "trend",
+      "value": "+212%",
+      "label": "organic traffic in 9 months",
+      "who": "Clinic group, healthcare"
+     },
+     {
+      "icon": "target",
+      "value": "3.4×",
+      "label": "return on ad spend",
+      "who": "Online store, fashion and retail"
+     },
+     {
+      "icon": "chart",
+      "value": "−38%",
+      "label": "cost per lead",
+      "who": "Law firm, professional services"
+     },
+     {
+      "icon": "zap",
+      "value": "2.1×",
+      "label": "more demo requests",
+      "who": "B2B software, SaaS"
+     },
+     {
+      "icon": "search",
+      "value": "#1",
+      "label": "Google ranking for 40+ buyer keywords",
+      "who": "Accounting firm, finance"
+     },
+     {
+      "icon": "cart",
+      "value": "+64%",
+      "label": "online sales year on year",
+      "who": "Home goods store, eCommerce"
+     },
+     {
+      "icon": "bot",
+      "value": "27%",
+      "label": "of leads now come from AI search",
+      "who": "Software company, SaaS"
+     },
+     {
+      "icon": "zap",
+      "value": "0.9s",
+      "label": "page load, down from 4.8s",
+      "who": "Hotel group, hospitality"
+     },
+     {
+      "icon": "mail",
+      "value": "41%",
+      "label": "email open rate across flows",
+      "who": "Skincare brand, beauty"
+     },
+     {
+      "icon": "users",
+      "value": "+180%",
+      "label": "qualified leads per month",
+      "who": "Builder, construction"
+     },
+     {
+      "icon": "phone",
+      "value": "4.8★",
+      "label": "app store rating at launch",
+      "who": "Fitness app, health"
+     },
+     {
+      "icon": "swap",
+      "value": "+52%",
+      "label": "checkout conversion rate",
+      "who": "Furniture store, eCommerce"
+     },
+     {
+      "icon": "pin",
+      "value": "3×",
+      "label": "calls from Google Maps",
+      "who": "Dental clinic, healthcare"
+     },
+     {
+      "icon": "megaphone",
+      "value": "−45%",
+      "label": "cost per acquisition",
+      "who": "Language school, education"
+     },
+     {
+      "icon": "layers",
+      "value": "6 weeks",
+      "label": "from brief to new website live",
+      "who": "Logistics company, transport"
+     },
+     {
+      "icon": "share",
+      "value": "+320%",
+      "label": "social reach in 6 months",
+      "who": "Restaurant group, food and drink"
+     }
+    ],
+    "linkText": "See the case studies",
+    "linkUrl": "/case-studies/",
+    "trustTitle": "Why clients trust us",
+    "trust": [
+     {
+      "icon": "users",
+      "title": "Senior specialists on every project",
+      "text": "The people you meet are the people who do the work."
+     },
+     {
+      "icon": "chat",
+      "title": "One point of contact",
+      "text": "One person who knows your business and answers your questions."
+     },
+     {
+      "icon": "chart",
+      "title": "Plain-English reporting",
+      "text": "A monthly report tied to enquiries and sales, not vanity numbers."
+     },
+     {
+      "icon": "key",
+      "title": "You own everything",
+      "text": "Your website, ad accounts, data and code stay in your name."
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/latest-articles",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Ideas to help you <em>grow</em>",
+    "buttonText": "All articles",
+    "buttonUrl": "/articles/",
+    "count": 3
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Questions, <em>answered</em>",
+    "lead": "Can’t find what you’re looking for? Ask us directly on a free call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What does Intella Digital do?",
+      "answer": "We are a digital agency for growing businesses. We run SEO, AI search (GEO), content and paid ads, and we design and build websites, web apps and mobile apps."
+     },
+     {
+      "question": "How much do your services cost?",
+      "answer": "It depends on what you need. After a free discovery call we send a fixed quote for projects, or a clear monthly fee for ongoing marketing, so you know the cost before any work starts."
+     },
+     {
+      "question": "How long until we see results?",
+      "answer": "Paid ads can start bringing enquiries soon after launch. SEO and AI search build over a few months. We agree realistic milestones in your 90-day plan and report on them every month."
+     },
+     {
+      "question": "Can you work with our existing website?",
+      "answer": "Yes. We start with an audit of your current site and improve what is there. If a rebuild makes more sense, we explain why and migrate it without losing your rankings."
+     },
+     {
+      "question": "What is GEO, and do I need it?",
+      "answer": "GEO (generative engine optimisation) helps your business get mentioned in AI answers from ChatGPT, Gemini and Google’s AI Overviews. If your buyers research with AI assistants, it is worth doing alongside SEO."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/home-contact",
+   "attrs": {
+    "background": "cream",
+    "anchor": "contact",
+    "title": "Let's talk about <em>your growth</em>",
+    "lead": "Tell us a little about your business and what you want to achieve. We'll reply with next steps and a time for a free strategy call.",
+    "ways": [
+     {
+      "icon": "mail",
+      "label": "Email us",
+      "value": "contact@intelladigital.com",
+      "url": "mailto:contact@intelladigital.com"
+     },
+     {
+      "icon": "calendar",
+      "label": "Prefer to talk?",
+      "value": "Schedule a free 30-minute call",
+      "url": "/contact/"
+     }
+    ],
+    "cards": [
+     {
+      "style": "reply",
+      "bubbles": [
+       "Hi there! Thanks for reaching out.",
+       "A real person on our team reads every message and replies within one working day."
+      ],
+      "image": "media:assets/images/people-cut/phone-c.webp",
+      "note": "No bots, no call centre. You talk to the people who do the work."
+     },
+     {
+      "style": "plan",
+      "bubbles": [
+       "Before any work starts, we sit down with you and map out a 90-day plan.",
+       "You agree the targets with us, so we both know what success looks like."
+      ],
+      "image": "media:assets/images/people-cut/laptop-a.webp",
+      "note": "A clear plan first. No surprises, no hidden extras."
+     },
+     {
+      "style": "report",
+      "bubbles": [
+       "Every month you get a short report in plain English.",
+       "Then a call to walk you through it: what worked, what didn’t, what’s next."
+      ],
+      "image": "media:assets/images/people-cut/man-smile.webp",
+      "note": "One point of contact who knows your business."
+     }
+    ],
+    "formTitle": "Tell us about your project",
+    "formSub": "Takes about 2 minutes. No obligation.",
+    "services": [
+     "SEO and AI search",
+     "Content marketing",
+     "Paid ads (Google, Meta, LinkedIn)",
+     "Social media",
+     "Email and marketing automation",
+     "CRO and analytics",
+     "Design and branding",
+     "Website design or development",
+     "Web or mobile app",
+     "Agentic AI development",
+     "An audit or marketing plan",
+     "Not sure yet"
+    ],
+    "buttonText": "Request a proposal",
+    "trust": [
+     "Your details stay private",
+     "No spam, ever",
+     "Free 30-minute call"
+    ]
+   }
+  }
+ ]
+}

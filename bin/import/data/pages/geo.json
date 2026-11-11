@@ -1,0 +1,185 @@
+{
+ "title": "AI SEO Services and GEO",
+ "path": "/services/digital-marketing/geo/",
+ "seo": {
+  "title": "AI SEO Services and GEO | Get recommended in AI answers | Intella Digital",
+  "description": "AI SEO and generative engine optimisation (GEO) services: help your business get mentioned and recommended in ChatGPT, Gemini, Perplexity and Google AI Overviews."
+ },
+ "blocks": [
+  {
+   "name": "intella/service-hero",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Services",
+      "url": "/services/"
+     },
+     {
+      "label": "GEO",
+      "url": ""
+     }
+    ],
+    "title": "AI SEO services that get you recommended in <em>AI answers</em>",
+    "lead": "More buyers now ask ChatGPT, Gemini and Google’s AI Overviews for recommendations. Generative engine optimisation (GEO) helps your business show up in those answers, with content and signals AI tools can understand and trust.",
+    "notes": [
+     "Built on strong SEO foundations",
+     "Content and structure AI tools can quote",
+     "Clear reporting on AI visibility"
+    ],
+    "formTitle": "Request a proposal",
+    "formSub": "Tell us your goals. We'll reply with a plan and a quote.",
+    "messageHint": "Which questions should AI tools recommend you for?",
+    "service": "geo",
+    "buttonText": "Request a proposal",
+    "trust": [
+     "Your details stay private",
+     "No spam, ever",
+     "Free 30-minute call"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Search is turning into conversations",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"why-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"story\">\n\t\t\t\t<div>\n\t\t\t\t\t<h2 class=\"section-title\" id=\"why-title\">Search is turning into <span class=\"accent\">conversations</span></h2>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"story__body\">\n\t\t\t\t\t<p>People no longer just type keywords and scan a list of links. They ask full questions and get a single, written answer, often with a short list of recommended businesses.</p>\n\t\t\t\t\t<p>If your brand isn’t part of that answer, you can miss the buyer completely, even if you rank well in traditional search.</p>\n\t\t\t\t\t<p>GEO makes your expertise easy for AI tools to find, understand and quote, so you are part of the conversation when buyers ask about your services.</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<ul class=\"tilt-grid tilt-grid--3 why-points\" role=\"list\">\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-sparkle\"/></svg></span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Be part of the answer</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">Help AI assistants mention your business when buyers ask about your services.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-users\"/></svg></span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Questions, not keywords</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">We plan content around the real questions buyers ask, in the way they ask them.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-search\"/></svg></span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Stronger SEO too</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">Clear, well-structured content helps you in traditional search results as well.</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</section>",
+    "css": "geo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "From invisible to recommended",
+    "html": "<section class=\"section section--cream showcase\" aria-labelledby=\"showcase-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"showcase-title\">From invisible to <span class=\"accent\">recommended</span></h2>\n\t\t\t\t<p class=\"section-lead\">We track the questions your buyers ask AI tools and report how often your brand is part of the answer, and the visits and leads that follow.</p>\n\t\t\t</div>\n\t\t\t<div class=\"showcase__grid\">\n\t\t\t\t<div class=\"showcase__main\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">AI visibility tracker · 20 buyer questions</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Questions where you are mentioned</div><div class=\"mock-stat__value\">14 / 20</div><span class=\"mock-up\">▲ from 3</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">ChatGPT</div><div class=\"mock-stat__value\">12</div><span class=\"mock-up\">▲ +9</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Gemini</div><div class=\"mock-stat__value\">10</div><span class=\"mock-up\">▲ +8</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Perplexity</div><div class=\"mock-stat__value\">13</div><span class=\"mock-up\">▲ +10</span></div></div><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Buyer question</th><th>ChatGPT</th><th>Gemini</th><th>Perplexity</th><th>AI Overviews</th></tr></thead><tbody><tr><td>Best SEO agency for small businesses</td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td><td><span class=\"mock-no\" aria-label=\"Not mentioned\">–</span></td></tr><tr><td>Who can build a Laravel web app?</td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td><td><span class=\"mock-no\" aria-label=\"Not mentioned\">–</span></td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td></tr><tr><td>How much does a WordPress website cost?</td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td></tr><tr><td>Recommended agency for Google Ads audits</td><td><span class=\"mock-no\" aria-label=\"Not mentioned\">–</span></td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td><td><span class=\"mock-no\" aria-label=\"Not mentioned\">–</span></td></tr><tr><td>Which agency helps with AI search (GEO)?</td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td><td><span class=\"mock-no\" aria-label=\"Not mentioned\">–</span></td><td><span class=\"mock-yes\" aria-label=\"Mentioned\">✓</span></td></tr></tbody></table></div></div>\n</figure></div>\n\t\t\t\t<div class=\"showcase__side\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Share of AI answers · Your market</span></div>\n\t<div class=\"mock__body\"><p class=\"mock__heading\">How often each brand is recommended</p><div class=\"mock-bars\"><div class=\"mock-bar mock-bar--you\"><span>Your brand</span><em><i style=\"width:70%\"></i></em><span class=\"num\">70%</span></div><div class=\"mock-bar\"><span>Competitor A</span><em><i style=\"width:45%\"></i></em><span class=\"num\">45%</span></div><div class=\"mock-bar\"><span>Competitor B</span><em><i style=\"width:30%\"></i></em><span class=\"num\">30%</span></div><div class=\"mock-bar\"><span>Competitor C</span><em><i style=\"width:15%\"></i></em><span class=\"num\">15%</span></div></div><p class=\"mock__heading\" style=\"margin-top:1.1rem\">Visits from AI tools (GA4)</p><svg class=\"mock-chart\" viewBox=\"0 0 640 150\" role=\"img\" aria-label=\"Monthly visits from AI tools\"><rect x=\"17.0\" y=\"118.2\" width=\"30.4\" height=\"7.8\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"32.2\" y=\"144\" text-anchor=\"middle\">Jan</text><rect x=\"69.3\" y=\"115.3\" width=\"30.4\" height=\"10.7\" rx=\"4\" fill=\"#cbb7e4\"/><rect x=\"121.7\" y=\"112.3\" width=\"30.4\" height=\"13.7\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"136.8\" y=\"144\" text-anchor=\"middle\">Mar</text><rect x=\"174.0\" y=\"108.4\" width=\"30.4\" height=\"17.6\" rx=\"4\" fill=\"#cbb7e4\"/><rect x=\"226.3\" y=\"102.5\" width=\"30.4\" height=\"23.5\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"241.5\" y=\"144\" text-anchor=\"middle\">May</text><rect x=\"278.7\" y=\"94.7\" width=\"30.4\" height=\"31.3\" rx=\"4\" fill=\"#cbb7e4\"/><rect x=\"331.0\" y=\"85.0\" width=\"30.4\" height=\"41.0\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"346.2\" y=\"144\" text-anchor=\"middle\">Jul</text><rect x=\"383.3\" y=\"75.2\" width=\"30.4\" height=\"50.8\" rx=\"4\" fill=\"#cbb7e4\"/><rect x=\"435.7\" y=\"63.5\" width=\"30.4\" height=\"62.5\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"450.8\" y=\"144\" text-anchor=\"middle\">Sep</text><rect x=\"488.0\" y=\"51.7\" width=\"30.4\" height=\"74.3\" rx=\"4\" fill=\"#8f2cf4\"/><rect x=\"540.3\" y=\"38.1\" width=\"30.4\" height=\"87.9\" rx=\"4\" fill=\"#8f2cf4\"/><text x=\"555.5\" y=\"144\" text-anchor=\"middle\">Nov</text><rect x=\"592.7\" y=\"22.4\" width=\"30.4\" height=\"103.6\" rx=\"4\" fill=\"#8f2cf4\"/><text x=\"607.8\" y=\"144\" text-anchor=\"middle\">Dec</text></svg></div>\n</figure></div>\n\t\t\t</div>\n\t\t\t<ul class=\"outcomes\" role=\"list\"><li><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-sparkle\"/></svg></span><div><h3 class=\"outcome__title\">Named in more AI answers</h3><p>Your brand recommended for the questions that matter.</p></div></li><li><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-trend\"/></svg></span><div><h3 class=\"outcome__title\">Traffic from AI tools</h3><p>Visits from ChatGPT, Perplexity and Gemini tracked in GA4.</p></div></li><li><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-users\"/></svg></span><div><h3 class=\"outcome__title\">Ahead of competitors</h3><p>A bigger share of AI recommendations in your market.</p></div></li></ul>\n\t\t</div>\n\t</section>",
+    "css": "geo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What goes into AI visibility",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"included-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head\">\n\t\t\t\t<h2 class=\"section-title\" id=\"included-title\">What goes into <span class=\"accent\">AI visibility</span></h2>\n\t\t\t\t<p class=\"section-lead\">GEO is still evolving, so we focus on the groundwork that helps AI tools trust and cite your content.</p>\n\t\t\t</div>\n\t\t\t<div class=\"service-card\">\n\t\t\t\t<ul class=\"service-card__list service-card__list--3\" role=\"list\">\n\t\t\t\t\t\t<li class=\"service-item\">\n\t\t\t\t\t\t\t<svg class=\"service-item__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-chart\"/></svg>\n\t\t\t\t\t\t\t<div><h3 class=\"service-item__title\">AI visibility audit</h3><p class=\"service-item__text\">How AI tools describe your brand and competitors today, and where you’re missing.</p></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"service-item\">\n\t\t\t\t\t\t\t<svg class=\"service-item__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-users\"/></svg>\n\t\t\t\t\t\t\t<div><h3 class=\"service-item__title\">Question research</h3><p class=\"service-item__text\">The conversational questions your buyers ask AI assistants about your services.</p></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"service-item\">\n\t\t\t\t\t\t\t<svg class=\"service-item__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pen\"/></svg>\n\t\t\t\t\t\t\t<div><h3 class=\"service-item__title\">Answer-ready content</h3><p class=\"service-item__text\">Clear pages, FAQs and guides that answer those questions directly.</p></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"service-item\">\n\t\t\t\t\t\t\t<svg class=\"service-item__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-code\"/></svg>\n\t\t\t\t\t\t\t<div><h3 class=\"service-item__title\">Structured data</h3><p class=\"service-item__text\">Schema markup that helps machines understand your business, services and content.</p></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"service-item\">\n\t\t\t\t\t\t\t<svg class=\"service-item__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-layers\"/></svg>\n\t\t\t\t\t\t\t<div><h3 class=\"service-item__title\">Entity and brand signals</h3><p class=\"service-item__text\">Consistent information about your business across your site and trusted sources.</p></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"service-item\">\n\t\t\t\t\t\t\t<svg class=\"service-item__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-trend\"/></svg>\n\t\t\t\t\t\t\t<div><h3 class=\"service-item__title\">Measurement</h3><p class=\"service-item__text\">Tracking of AI mentions, referral traffic from AI tools and the enquiries they bring.</p></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"audit-row\">\n\t\t\t\t<p><strong>Works well with</strong> GEO builds on the same foundations as SEO and content.</p>\n\t\t\t\t<ul class=\"audit-row__chips\" role=\"list\"><li><a class=\"chip\" href=\"/services/digital-marketing/seo/\">SEO</a></li><li><a class=\"chip\" href=\"/services/digital-marketing/content-marketing/\">Content marketing</a></li><li><a class=\"chip\" href=\"/audits/website-audit/\">Website audit</a></li></ul>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "geo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we get you into AI answers",
+    "html": "<section class=\"section section--white methods\" aria-labelledby=\"methods-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"methods-title\">How we get you into <span class=\"accent\">AI answers</span></h2>\n\t\t\t\t<p class=\"section-lead\">GEO is new, so we stick to what helps AI tools find, understand and trust your brand, and we measure every step.</p>\n\t\t\t</div>\n\t\t\t<div class=\"feature-row\">\n\t\t\t\t<div class=\"feature-row__text\">\n\t\t\t\t\t<h3 class=\"feature-row__title\">We start with what buyers actually ask</h3>\n\t\t\t\t\t<p>We collect the full, conversational questions people ask AI assistants about your services and group them by intent.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Prompt research across AI tools</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Grouped by buying intent</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Gaps compared with competitors</li></ul>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"feature-row__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Question research · Conversational prompts</span></div>\n\t<div class=\"mock__body\"><ul class=\"mock-list\"><li><span>“Which agency can help my clinic get more patients online?”</span><span class=\"mock-chip mock-chip--info\">High intent</span></li><li><span>“Is GEO worth it for a small business?”</span><span class=\"mock-chip mock-chip--muted\">Research</span></li><li><span>“Compare SEO agencies for e-commerce brands”</span><span class=\"mock-chip mock-chip--warn\">Comparison</span></li><li><span>“How long does SEO take to show results?”</span><span class=\"mock-chip mock-chip--muted\">Research</span></li><li><span>“Best agency to build a booking website”</span><span class=\"mock-chip mock-chip--info\">High intent</span></li></ul></div>\n</figure></div>\n\t\t\t</div>\n\t\t\t<div class=\"feature-row feature-row--flip\">\n\t\t\t\t<div class=\"feature-row__text\">\n\t\t\t\t\t<h3 class=\"feature-row__title\">Content AI tools can quote</h3>\n\t\t\t\t\t<p>Clear, well-structured pages that answer those questions directly make it easy for AI tools to cite and recommend you.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Direct answers and FAQs</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Expert, up-to-date facts</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Trusted third-party mentions</li></ul>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"feature-row__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">AI assistant · Answer preview</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-chat\">\n\t<div class=\"mock-chat__q\">Which agencies can help a small clinic get more patients from Google and AI search?</div>\n\t<div class=\"mock-chat__a\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-sparkle\"/></svg></span><div>Here are a few agencies that specialise in this:\n\t\t<ol><li><span class=\"mock-brand\">Your Brand</span>: SEO, AI search and websites for clinics, with clear monthly reporting.</li><li>Competitor A: local SEO and paid ads.</li><li>Competitor B: content marketing.</li></ol>\n\t\t<div class=\"mock-cites\"><span class=\"mock-cite mock-cite--you\">yourbrand.com</span><span class=\"mock-cite\">clutch.co</span><span class=\"mock-cite\">g2.com</span></div></div></div>\n</div></div>\n</figure></div>\n\t\t\t</div>\n\t\t\t<div class=\"feature-row\">\n\t\t\t\t<div class=\"feature-row__text\">\n\t\t\t\t\t<h3 class=\"feature-row__title\">Help machines understand your business</h3>\n\t\t\t\t\t<p>Schema markup tells search engines and AI tools exactly who you are, what you offer and where you work.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Organisation and service schema</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> FAQ and article markup</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Consistent brand details everywhere</li></ul>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"feature-row__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Structured data · JSON-LD</span><span class=\"mock__tag\">Code</span></div>\n\t<div class=\"mock__body\"><pre class=\"mock-code\"><span class=\"p\">{</span>\n  <span class=\"k\">\"@context\"</span>: <span class=\"s\">\"https://schema.org\"</span>,\n  <span class=\"k\">\"@type\"</span>: <span class=\"s\">\"ProfessionalService\"</span>,\n  <span class=\"k\">\"name\"</span>: <span class=\"s\">\"Your Brand\"</span>,\n  <span class=\"k\">\"areaServed\"</span>: <span class=\"s\">\"Worldwide\"</span>,\n  <span class=\"k\">\"knowsAbout\"</span>: [<span class=\"s\">\"SEO\"</span>, <span class=\"s\">\"GEO\"</span>, <span class=\"s\">\"Web development\"</span>],\n  <span class=\"k\">\"sameAs\"</span>: [<span class=\"s\">\"https://www.linkedin.com/company/yourbrand\"</span>],\n  <span class=\"k\">\"aggregateRating\"</span>: <span class=\"p\">{</span> <span class=\"k\">\"ratingValue\"</span>: <span class=\"s\">\"4.9\"</span> <span class=\"p\">}</span>\n<span class=\"p\">}</span></pre></div>\n</figure></div>\n\t\t\t</div>\n\t\t\t<div class=\"feature-row feature-row--flip\">\n\t\t\t\t<div class=\"feature-row__text\">\n\t\t\t\t\t<h3 class=\"feature-row__title\">Visits and leads from AI tools</h3>\n\t\t\t\t\t<p>We separate AI referral traffic in GA4 and track the enquiries it brings, alongside regular AI visibility checks.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> AI referral tracking in GA4</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly visibility checks</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Leads attributed to AI search</li></ul>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"feature-row__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">GA4 · Traffic from AI tools</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-bars\"><div class=\"mock-bar mock-bar--you\"><span>chatgpt.com</span><em><i style=\"width:100%\"></i></em><span class=\"num\">1,240</span></div><div class=\"mock-bar\"><span>perplexity.ai</span><em><i style=\"width:52%\"></i></em><span class=\"num\">640</span></div><div class=\"mock-bar\"><span>gemini.google.com</span><em><i style=\"width:34%\"></i></em><span class=\"num\">420</span></div><div class=\"mock-bar\"><span>copilot.microsoft.com</span><em><i style=\"width:15%\"></i></em><span class=\"num\">190</span></div></div><p class=\"mock__heading\" style=\"margin-top:1.1rem\">Leads from AI referrals</p><div class=\"mock-stats mock-stats--3\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Leads</div><div class=\"mock-stat__value\">58</div><span class=\"mock-up\">▲ +41</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Conversion rate</div><div class=\"mock-stat__value\">2.3%</div><span class=\"mock-up\">▲ +0.9 pts</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Avg. engagement</div><div class=\"mock-stat__value\">2m 48s</div><span class=\"mock-up\">▲ +35%</span></div></div></div>\n</figure></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "geo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we get you into AI answers",
+    "html": "<section class=\"section section--cream process\" aria-labelledby=\"process-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"process-title\">How we get you into <span class=\"accent\">AI answers</span></h2>\n\t\t\t\t<p class=\"section-lead\">A practical process, from understanding where you stand today to tracking what changes.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"tilt-grid\" role=\"list\">\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"tilt-card__num\" aria-hidden=\"true\">01</span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Audit</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">We check how AI tools talk about your brand and which questions you’re missing from.</p>\n\t\t\t\t\t<ul class=\"tick-list\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> AI visibility check</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Competitor comparison</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Technical readiness</li></ul>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"tilt-card__num\" aria-hidden=\"true\">02</span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Research and plan</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">We map the questions your buyers ask and plan the content and fixes to answer them.</p>\n\t\t\t\t\t<ul class=\"tick-list\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Question mapping</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content plan</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Priority list</li></ul>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"tilt-card__num\" aria-hidden=\"true\">03</span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Create and structure</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">We publish answer-ready content and add the structure AI tools rely on.</p>\n\t\t\t\t\t<ul class=\"tick-list\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New and improved pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Schema markup</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Brand consistency</li></ul>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"tilt-card__num\" aria-hidden=\"true\">04</span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Measure and refine</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">We track mentions and AI referral traffic, report monthly and keep refining.</p>\n\t\t\t\t\t<ul class=\"tick-list\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> AI mention tracking</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly reports</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ongoing updates</li></ul>\n\t\t\t\t</li>\n\t\t\t</ol>\n\t\t</div>\n\t</section>",
+    "css": "geo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Where we track your visibility",
+    "html": "<section class=\"section section--cream section--flush-top toolkit\" aria-labelledby=\"tools-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"toolkit__inner\">\n\t\t\t\t<div>\n\t\t\t\t\t<h2 class=\"toolkit__title\" id=\"tools-title\">Where we track <span class=\"accent\">your visibility</span></h2>\n\t\t\t\t</div>\n\t\t\t\t<ul class=\"toolkit__list\" role=\"list\"><li class=\"tool\">ChatGPT</li><li class=\"tool\">Google Gemini</li><li class=\"tool\">Perplexity</li><li class=\"tool\">Google AI Overviews</li><li class=\"tool\">Microsoft Copilot</li><li class=\"tool\">Claude</li><li class=\"tool\">Schema.org</li><li class=\"tool\">Google Analytics 4</li></ul>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "geo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "GEO built on solid SEO",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"choose-title\">\n\t\t<div class=\"container why\">\n\t\t\t<div>\n\t\t\t\t<h2 class=\"section-title\" id=\"choose-title\">GEO built on <span class=\"accent\">solid SEO</span></h2>\n\t\t\t\t<p class=\"section-lead\">AI tools lean on the same signals as search engines: clear content, a healthy website and a trusted brand. We work on all three.</p>\n\t\t\t\t<div class=\"why__actions\">\n\t\t\t\t\t<a class=\"button button--primary button--lg\" href=\"#proposal\">Request a proposal <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<ul class=\"bento\" role=\"list\">\n\t\t\t\t<li class=\"bento__card bento__card--dark\">\n\t\t\t\t\t<span class=\"icon-tile icon-tile--dark\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-search\"/></svg></span>\n\t\t\t\t\t<h3 class=\"bento__title\">SEO and GEO together</h3>\n\t\t\t\t\t<p>One plan for search results and AI answers, so the work supports both.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"bento__card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-code\"/></svg></span>\n\t\t\t\t\t<h3 class=\"bento__title\">Technical work done in-house</h3>\n\t\t\t\t\t<p>Our developers handle schema, speed and site structure, not just the advice.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"bento__card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-chart\"/></svg></span>\n\t\t\t\t\t<h3 class=\"bento__title\">Honest reporting</h3>\n\t\t\t\t\t<p>GEO is new, so we’re clear about what can and can’t be measured yet.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"bento__card bento__card--dark\">\n\t\t\t\t\t<span class=\"icon-tile icon-tile--dark\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-key\"/></svg></span>\n\t\t\t\t\t<h3 class=\"bento__title\">You own everything</h3>\n\t\t\t\t\t<p>Your content, accounts and data always stay in your name.</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</section>",
+    "css": "geo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What our clients say",
+    "html": "<section class=\"section section--white section--flush-top\" aria-label=\"What our clients say\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"quote-strip\">\n\t\t\t\t<div class=\"quote-row quote-row--two\">\n\t\t\t\t\t<figure class=\"quote-card quote-card--dark\">\n\t\t\t\t\t\t<blockquote><p>“The team exceeded our expectations from start to finish. They built a modern, high-performing platform that has helped us better engage our customers and confidently showcase our product.”</p></blockquote>\n\t\t\t\t\t\t<figcaption class=\"person\">\n\t\t\t\t\t\t\t<img src=\"{{media:assets/images/people/david-clarke.jpg}}\" width=\"300\" height=\"300\" alt=\"\" loading=\"lazy\">\n\t\t\t\t\t\t\t<div><p class=\"person__name\">David Clarke</p><p class=\"person__role\">CEO &amp; Founder, Cupello</p></div>\n\t\t\t\t\t\t</figcaption>\n\t\t\t\t\t</figure>\n\t\t\t\t\t<figure class=\"quote-card\">\n\t\t\t\t\t\t<blockquote><p>“Intella Digital delivered a website that perfectly captured our brand and vision. Their attention to detail, responsiveness, and ability to turn ideas into reality made the entire process smooth and enjoyable.”</p></blockquote>\n\t\t\t\t\t\t<figcaption class=\"person\">\n\t\t\t\t\t\t\t<img src=\"{{media:assets/images/people/andra-simina-mocanu.jpg}}\" width=\"300\" height=\"300\" alt=\"\" loading=\"lazy\">\n\t\t\t\t\t\t\t<div><p class=\"person__name\">Andra-Simina Mocanu</p><p class=\"person__role\">CEO &amp; Founder, The Other Glasses</p></div>\n\t\t\t\t\t\t</figcaption>\n\t\t\t\t\t</figure>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "geo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "GEO questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What is GEO?",
+      "answer": "GEO stands for generative engine optimisation. It’s the work of helping your business get mentioned and recommended in answers from AI tools like ChatGPT, Gemini, Perplexity and Google’s AI Overviews."
+     },
+     {
+      "question": "Is GEO different from SEO?",
+      "answer": "They overlap a lot. SEO focuses on ranking in search results; GEO focuses on being quoted in AI answers. Strong SEO foundations make GEO work better, so we usually plan them together."
+     },
+     {
+      "question": "Can you guarantee my business will appear in ChatGPT?",
+      "answer": "No. AI tools decide their own answers, and they change often. We focus on the things that make you more likely to be included, and we report honestly on what we see."
+     },
+     {
+      "question": "How do you measure GEO results?",
+      "answer": "We track how often AI tools mention your brand for your key questions, visits that come from AI tools, and the enquiries those visits bring. Measurement in this area is still developing, and we’ll be clear about its limits."
+     },
+     {
+      "question": "Do I need GEO if my SEO is already good?",
+      "answer": "Good SEO is a great start. If your buyers research with AI assistants, GEO helps make sure your brand is part of those answers too."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/talk",
+   "attrs": {
+    "background": "white",
+    "look": "violet",
+    "left": false,
+    "title": "See how AI tools talk about <em>your brand</em>",
+    "lead": "Book a free 30-minute call. We’ll show you where you appear in AI answers today and what we’d do first.",
+    "buttons": [
+     {
+      "text": "Schedule a free call",
+      "url": "/contact/",
+      "style": "primary"
+     },
+     {
+      "text": "Email us",
+      "url": "mailto:contact@intelladigital.com",
+      "style": "outline"
+     }
+    ],
+    "contact": true,
+    "people": [
+     {
+      "image": "media:assets/images/people-cut/phone-b.webp",
+      "size": ""
+     }
+    ],
+    "shots": [],
+    "noteReply": "",
+    "noteSkillsTitle": "",
+    "noteSkills": ""
+   }
+  }
+ ]
+}

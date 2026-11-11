@@ -1,48 +1,93 @@
-/*
- * Design tokens.
- * Colours, font families, font sizes and spacing are defined in theme.json (so the editor offers the same
- * options) and given short names here. All other CSS uses these names, never raw values.
- * The values are placeholders until the redesign in Design/version 2/ is approved.
- */
+/* Design tokens: the only place raw colour, font, spacing and radius values live.
+   Source: Design/version 3/homepage.png */
 
 :root {
-	/* Colour */
-	--color-ink: var(--wp--preset--color--ink);
-	--color-paper: var(--wp--preset--color--paper);
-	--color-mist: var(--wp--preset--color--mist);
-	--color-accent: var(--wp--preset--color--accent);
-	--color-accent-dark: var(--wp--preset--color--accent-dark);
-	--color-text: var(--color-ink);
-	--color-background: var(--color-paper);
-	--color-focus: var(--color-accent);
+	/* Colours */
+	--color-ink: #22102f;          /* headings */
+	--color-text: #554b62;         /* body copy */
+	--color-muted: #7d7489;        /* small print, captions */
+	--color-paper: #ffffff;
+	--color-cream: #f6f2ee;        /* warm off-white page background */
+	--color-cream-deep: #efe9e3;   /* borders on cream */
+	--color-line: #e7e1ea;         /* hairlines on white */
+	--color-lavender: #f1e6fb;     /* icon tiles, soft cards */
+	--color-lavender-soft: #ede3f7;
+	--color-lavender-faint: #f7f1fd;  /* subtle call-to-action cards */
+	--color-lavender-line: #e6d8f6;   /* their border */
+	--color-cream-light: #fcfaf8;     /* menu sidebar */
+	--color-accent: #8f2cf4;       /* violet: kickers, icons */
+	--color-accent-pink: #c43aa6;  /* end of the italic gradient */
+	--color-plum: #3d1257;         /* dark cards */
+	--color-plum-deep: #2a0c3d;    /* footer */
+	--color-btn-top: #4a1a72;
+	--color-btn-bottom: #33104f;
+	--color-success: #16a35b;
+	--color-danger: #c42d4f;
+	--color-danger-soft: #fdf1f4;
+	--color-on-dark: #ffffff;
+	--color-on-dark-muted: rgb(255 255 255 / 0.72);
+	--color-highlight-light: #d9b6ff; /* italic accent on dark panels */
+	--color-highlight-pink: #f59ad6;
 
-	/* Type */
-	--font-body: var(--wp--preset--font-family--body);
-	--font-heading: var(--wp--preset--font-family--heading);
-	--text-sm: var(--wp--preset--font-size--small);
-	--text-base: var(--wp--preset--font-size--base);
-	--text-lg: var(--wp--preset--font-size--large);
-	--text-xl: var(--wp--preset--font-size--x-large);
-	--text-2xl: var(--wp--preset--font-size--xx-large);
-	--leading-tight: 1.15;
-	--leading-normal: 1.6;
+	--gradient-accent: linear-gradient(90deg, var(--color-accent) 0%, var(--color-accent-pink) 100%);
+	--gradient-accent-dark: linear-gradient(90deg, var(--color-highlight-light) 0%, var(--color-highlight-pink) 100%);
+	--gradient-button: linear-gradient(180deg, var(--color-btn-top) 0%, var(--color-btn-bottom) 100%);
+	--gradient-plum: linear-gradient(160deg, #4a1870 0%, #2f0d45 100%);
 
-	/* Space */
-	--space-xs: var(--wp--preset--spacing--20);
-	--space-s: var(--wp--preset--spacing--30);
-	--space-m: var(--wp--preset--spacing--40);
-	--space-l: var(--wp--preset--spacing--50);
-	--space-xl: var(--wp--preset--spacing--60);
+	/* Fonts */
+	--font-heading: "Schibsted Grotesk", "Helvetica Neue", Arial, sans-serif;
+	--font-body: "Rubik", "Helvetica Neue", Arial, sans-serif;
+	--font-accent: "Playfair Display", Georgia, serif;
+
+	/* Font weights (match the design: bold headings and accents, semi-bold buttons) */
+	--weight-regular: 400;
+	--weight-medium: 500;
+	--weight-semibold: 600;
+	--weight-bold: 700;
+
+	/* Type scale (fluid) */
+	--text-xs: 0.8125rem;   /* 13px */
+	--text-sm: 0.875rem;    /* 14px */
+	--text-base: 1rem;      /* 16px */
+	--text-md: 1.125rem;    /* 18px */
+	--text-lg: clamp(1.125rem, 1rem + 0.4vw, 1.375rem);
+	--text-xl: clamp(1.25rem, 1.1rem + 0.5vw, 1.5rem);
+	--text-2xl: clamp(1.75rem, 1.3rem + 1.6vw, 2.25rem);
+	--text-h2: clamp(2.125rem, 1.5rem + 2.4vw, 3.25rem);
+	--text-h1: clamp(2.5rem, 1.6rem + 3.4vw, 4.25rem);
+
+	/* Spacing */
+	--space-2xs: 0.25rem;
+	--space-xs: 0.5rem;
+	--space-sm: 0.75rem;
+	--space-md: 1rem;
+	--space-lg: 1.5rem;
+	--space-xl: 2rem;
+	--space-2xl: 3rem;
+	--space-3xl: 4rem;
+	--space-section: clamp(4rem, 2.5rem + 6vw, 8rem);
 
 	/* Layout */
-	--container-max: 75rem;
-	--container-gutter: 1rem;
-	--content-max: 48rem;
+	--container: 78.125rem;  /* 1250px */
+	--gutter: 1rem;
 
-	/* Shape and motion */
-	--radius-s: 0.5rem;
-	--radius-m: 1rem;
+	/* Radii */
+	--radius-sm: 0.625rem;
+	--radius-md: 1rem;
+	--radius-lg: 1.375rem;
+	--radius-xl: 2rem;
 	--radius-pill: 999px;
-	--shadow-card: 0 0.5rem 1.5rem rgb(14 10 26 / 0.08);
-	--transition-fast: 150ms ease;
+
+	/* Shadows */
+	--shadow-card: 0 1px 2px rgb(34 16 47 / 0.04), 0 18px 40px -18px rgb(34 16 47 / 0.18);
+	--shadow-float: 0 30px 60px -24px rgb(42 12 61 / 0.35);
+	--shadow-button: 0 14px 28px -10px rgb(51 16 79 / 0.55);
+
+	--transition: 180ms ease;
+}
+
+@media (min-width: 40rem) {
+	:root {
+		--gutter: 1.5rem;
+	}
 }

@@ -1,0 +1,109 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/home-process",
+	"title": "Process timeline",
+	"category": "intella",
+	"icon": "editor-ol",
+	"description": "Dark section with a step-by-step timeline that moves on by itself.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/journey",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "getLabel",
+				"type": "text",
+				"label": "“What you get” label",
+				"default": "What you get",
+				"panel": "Steps"
+			},
+			{
+				"key": "needLabel",
+				"type": "text",
+				"label": "“What we need” label",
+				"default": "What we need from you",
+				"panel": "Steps"
+			},
+			{
+				"key": "steps",
+				"type": "repeater",
+				"label": "Steps",
+				"itemName": "step",
+				"itemLabel": "tab",
+				"panel": "Steps",
+				"fields": [
+					{
+						"key": "when",
+						"type": "text",
+						"label": "When"
+					},
+					{
+						"key": "tab",
+						"type": "text",
+						"label": "Short title (timeline)"
+					},
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Title (card)"
+					},
+					{
+						"key": "icon",
+						"type": "text",
+						"label": "Icon"
+					},
+					{
+						"key": "text",
+						"type": "textarea",
+						"label": "Text"
+					},
+					{
+						"key": "get",
+						"type": "list",
+						"label": "What you get",
+						"default": []
+					},
+					{
+						"key": "need",
+						"type": "list",
+						"label": "What we need from you",
+						"default": []
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "endText",
+				"type": "text",
+				"label": "Closing line",
+				"panel": "Closing"
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text",
+				"panel": "Closing"
+			},
+			{
+				"key": "buttonUrl",
+				"type": "url",
+				"label": "Button link",
+				"panel": "Closing"
+			}
+		]
+	}
+}

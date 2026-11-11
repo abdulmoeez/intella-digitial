@@ -1,0 +1,71 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/get-in-touch",
+	"title": "Get in touch (testimonials + form)",
+	"category": "intella",
+	"icon": "email",
+	"description": "Closing panel: heading and rotating testimonials beside the proposal form.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/quote-sliders",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "people",
+				"type": "posts",
+				"label": "Testimonials",
+				"postType": "testimonial",
+				"help": "Rotate one at a time. None ticked = the first two.",
+				"default": []
+			},
+			{
+				"key": "formTitle",
+				"type": "text",
+				"label": "Form heading",
+				"default": "Request a proposal",
+				"panel": "Form"
+			},
+			{
+				"key": "messageHint",
+				"type": "text",
+				"label": "Message box hint",
+				"panel": "Form"
+			},
+			{
+				"key": "service",
+				"type": "text",
+				"label": "Service (saved with the lead)",
+				"panel": "Form"
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text",
+				"default": "Send message",
+				"panel": "Form"
+			},
+			{
+				"key": "trust",
+				"type": "list",
+				"label": "Reassurance points",
+				"panel": "Form",
+				"default": []
+			}
+		],
+		"section": "cream"
+	}
+}

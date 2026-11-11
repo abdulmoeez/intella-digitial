@@ -1,0 +1,88 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/faq",
+	"title": "FAQ",
+	"category": "intella",
+	"icon": "editor-help",
+	"description": "Questions and answers beside a heading and a contact button. Also adds FAQPage structured data.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading",
+				"default": "Questions, <em>answered</em>"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro",
+				"default": "Can’t find your answer? Ask us on a free 30-minute call."
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text",
+				"default": "Contact us"
+			},
+			{
+				"key": "buttonUrl",
+				"type": "url",
+				"label": "Button link",
+				"default": "/contact/"
+			},
+			{
+				"key": "buttonStyle",
+				"type": "select",
+				"label": "Button style",
+				"options": [
+					{
+						"label": "Outline",
+						"value": "outline"
+					},
+					{
+						"label": "Filled (with arrow)",
+						"value": "primary"
+					}
+				],
+				"default": "outline"
+			},
+			{
+				"key": "items",
+				"type": "repeater",
+				"label": "Questions",
+				"itemName": "question",
+				"itemLabel": "question",
+				"fields": [
+					{
+						"key": "question",
+						"type": "text",
+						"label": "Question"
+					},
+					{
+						"key": "answer",
+						"type": "textarea",
+						"label": "Answer",
+						"rows": 4
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "schema",
+				"type": "toggle",
+				"label": "Add FAQPage structured data",
+				"help": "Leave on, unless another FAQ on the same page already adds it.",
+				"default": true,
+				"panel": "Section"
+			}
+		],
+		"section": "white"
+	}
+}

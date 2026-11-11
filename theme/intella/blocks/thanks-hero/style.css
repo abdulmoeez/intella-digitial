@@ -1,0 +1,79 @@
+/* thanks-hero: section styles, split from the prototype CSS (Code/frontend/assets/css) by bin/import/css_split.py. */
+
+.hero__actions {
+	display: flex;
+	flex-wrap: wrap;
+	gap: var(--space-sm);
+	margin-block-start: var(--space-xl);
+}
+.page-hero {
+	padding-block: var(--space-2xl) var(--space-section);
+}
+.page-hero__title {
+	font-size: clamp(2.25rem, 1.5rem + 2.6vw, 3.6rem);
+	line-height: 1.04;
+}
+.page-hero__lead {
+	max-width: 34rem;
+	margin-block-start: var(--space-lg);
+	font-size: var(--text-md);
+	line-height: 1.65;
+}
+@media (min-width: 64rem) {
+	.page-hero {
+		padding-block-start: 5rem;
+	}
+}
+.page-hero--center {
+	text-align: center;
+
+	& .page-hero__lead {
+		margin-inline: auto;
+	}
+
+	& .breadcrumb ol,
+	& .hero__actions,
+	& .chip-row {
+		justify-content: center;
+	}
+}
+.thanks-hero {
+	padding-block-end: var(--space-3xl);
+}
+.success-badge {
+	display: inline-grid;
+	place-items: center;
+	width: 4.5rem;
+	height: 4.5rem;
+	margin-block-end: var(--space-lg);
+	border-radius: 50%;
+	background: var(--gradient-button);
+	color: var(--color-on-dark);
+	box-shadow: 0 0 0 10px var(--color-lavender), 0 20px 40px -16px rgb(51 16 79 / 0.6);
+	animation: badge-pop 500ms cubic-bezier(0.34, 1.56, 0.64, 1) both;
+
+	& svg {
+		width: 2rem;
+	}
+}
+.thanks-hero__urgent {
+	margin-block-start: var(--space-xl);
+	color: var(--color-muted);
+	font-size: var(--text-sm);
+
+	& a {
+		color: var(--color-ink);
+		text-decoration: underline;
+		text-underline-offset: 3px;
+
+		&:hover {
+			color: var(--color-accent);
+		}
+	}
+}
+@keyframes badge-pop {
+	from {
+		opacity: 0;
+		transform: scale(0.6);
+	}
+}

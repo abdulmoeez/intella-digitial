@@ -1,0 +1,255 @@
+{
+ "testimonial": [
+  {
+   "name": "Andra-Simina Mocanu",
+   "role": "CEO & Founder, The Other Glasses",
+   "quote": "“Intella Digital delivered a website that perfectly captured our brand and vision. Their attention to detail, responsiveness, and ability to turn ideas into reality made the entire process smooth and enjoyable.”",
+   "photo": "assets/images/people/andra-simina-mocanu.jpg",
+   "placeholder": false,
+   "project": "eCommerce design and build"
+  },
+  {
+   "name": "Priya Nair",
+   "role": "Founder, Bloom Dental Studio",
+   "quote": "“Within a few months we went from barely showing up on Google to getting steady booking requests every week. They explain everything in plain language.”",
+   "photo": "assets/images/people/placeholder-4.svg",
+   "placeholder": true
+  },
+  {
+   "name": "Omar Haddad",
+   "role": "Operations Director, Haddad Logistics",
+   "quote": "“We’d been burnt by two agencies before. Intella gave us a clear plan, hit the dates they promised and sent a report each month that our board could read in five minutes.”",
+   "photo": "assets/images/people/placeholder-5.svg",
+   "placeholder": true,
+   "short_quote": "“They built our customer portal and then helped us market it. Having one team that understands both the product and the marketing saved us months.”"
+  },
+  {
+   "name": "Sofia Marin",
+   "role": "Owner, Marin Bakery Co.",
+   "quote": "“Our new website finally looks like us, and people now find us on Google Maps when they search for cakes nearby. The team explained every step in plain language.”",
+   "photo": "assets/images/people/examples/example-1.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Hannah Lee",
+   "role": "Marketing Lead, Brightpath Learning",
+   "quote": "“They rebuilt our course pages and set up tracking we can actually understand. Our weekly marketing meetings got a lot shorter.”",
+   "photo": "assets/images/people/examples/example-2.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Daniel Reyes",
+   "role": "Founder, Reyes Home Services",
+   "quote": "“Google Ads used to feel like a black box. Now I know which calls come from which ads, and we stopped paying for clicks that never turned into jobs.”",
+   "photo": "assets/images/people/examples/example-3.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Leila Ahmadi",
+   "role": "Co-founder, Nook Interiors",
+   "quote": "“The Shopify store they built is fast and easy for us to update. Our customers keep telling us how simple the checkout is.”",
+   "photo": "assets/images/people/examples/example-4.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Tom Becker",
+   "role": "Product Manager, Fleetwise",
+   "quote": "“They built our customer portal in short sprints, so we saw working software every two weeks. No surprises and no jargon.”",
+   "photo": "assets/images/people/examples/example-5.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Arjun Mehta",
+   "role": "Director, Mehta Accounting",
+   "quote": "“We wanted to show up when people ask AI tools for an accountant. Intella gave us a clear plan and kept us updated every month.”",
+   "photo": "assets/images/people/examples/example-6.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Marcus Hill",
+   "role": "CEO, Hill & Co Consulting",
+   "quote": "“One team looks after our website, LinkedIn and email. It feels like having an in-house marketing department without the overheads.”",
+   "photo": "assets/images/people/examples/example-7.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Emma Collins",
+   "role": "Practice Manager, Riverside Clinic",
+   "quote": "“Booking requests now come through the website instead of the phone, which has freed up our reception team.”",
+   "photo": "assets/images/people/examples/example-8.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Amara Okafor",
+   "role": "Founder, Kora Skincare",
+   "quote": "“From the brand refresh to Instagram ads, everything finally looks and sounds like one brand. Working with them is easy.”",
+   "photo": "assets/images/people/examples/example-9.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Lucas Moreau",
+   "role": "Head of Sales, Vantage SaaS",
+   "quote": "“The CRO work on our pricing page was eye-opening. Small changes, tested properly, made a real difference to sign-ups.”",
+   "photo": "assets/images/people/examples/example-10.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "David Clarke",
+   "role": "CEO & Founder, Cupello",
+   "quote": "“The team exceeded our expectations from start to finish. They built a modern, high-performing platform that has helped us better engage our customers and confidently showcase our product.”",
+   "photo": "assets/images/people/david-clarke.jpg",
+   "placeholder": false,
+   "project": "Web app design and build"
+  },
+  {
+   "name": "James Whitaker",
+   "role": "Managing Director, Whitaker Legal",
+   "quote": "“We had worked with two agencies before. Intella was the first to connect our ad spend to real enquiries, and their reports are clear enough to share with our partners.”",
+   "photo": "assets/images/people/placeholder-1.svg",
+   "placeholder": true
+  },
+  {
+   "name": "Ravi Menon",
+   "role": "Head of Growth, Ledgerly",
+   "quote": "“They helped us show up in AI answers for the questions our buyers actually ask. The first agency we have worked with that truly understands GEO.”",
+   "photo": "assets/images/people/placeholder-2.svg",
+   "placeholder": true
+  },
+  {
+   "name": "Nadia Karim",
+   "role": "Operations Director, Harbour Clinics",
+   "quote": "“Our booking forms were losing people halfway. Intella rebuilt them, tested two versions, and enquiries went up within the first month.”",
+   "photo": "",
+   "placeholder": true
+  },
+  {
+   "name": "Ben Walsh",
+   "role": "Co-founder, Tidewater Coffee",
+   "quote": "“They set up our email flows and a proper welcome series. It now runs quietly in the background and brings in repeat orders every week.”",
+   "photo": "",
+   "placeholder": true
+  },
+  {
+   "name": "Sara Fontaine",
+   "role": "Marketing Manager, Northpoint Logistics",
+   "quote": "“Clear plan, honest advice and no jargon. They told us what not to spend money on, which saved us more than their fee.”",
+   "photo": "",
+   "placeholder": true
+  },
+  {
+   "name": "Kenji Ono",
+   "role": "Product Lead, Shiftwise",
+   "quote": "“The app they built for our field staff is simple and fast. Our team actually uses it, which was never true of the last one.”",
+   "photo": "",
+   "placeholder": true
+  },
+  {
+   "name": "Laura Pérez",
+   "role": "Owner, Casa Verde Interiors",
+   "quote": "“Our new website finally looks like the work we do. Clients mention it on calls, and the Instagram ads bring in the right people.”",
+   "photo": "",
+   "placeholder": true
+  },
+  {
+   "name": "Yusuf Ali",
+   "role": "CEO, Brightpath Tutors",
+   "quote": "“Monthly reports that tie every pound we spend to sign-ups. For the first time I know which channels are worth keeping.”",
+   "photo": "",
+   "placeholder": true
+  },
+  {
+   "name": "Sarah Whitfield",
+   "role": "Practice Manager, dental clinic group",
+   "quote": "“Within three months our enquiry form went from a trickle to something we actually had to staff. They explained every change in plain language, which made it easy to say yes.”",
+   "photo": "assets/images/people/examples/example-2.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Laura Bennett",
+   "role": "Founder, homeware brand",
+   "quote": "“Our new Shopify store loads in under two seconds and the checkout finally works on phones. Sales from mobile have been our biggest win this year.”",
+   "photo": "assets/images/people/examples/example-4.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Daniel Fischer",
+   "role": "Head of Operations, SaaS company",
+   "quote": "“The AI assistant they built answers most of our customer questions overnight. Our support team now spends its time on the cases that need a person.”",
+   "photo": "assets/images/people/examples/example-7.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Priya Raman",
+   "role": "Marketing Lead, home services company",
+   "quote": "“They rebuilt our Google Ads account from scratch and cut out the spend that wasn’t working. We now get more qualified calls for less money.”",
+   "photo": "assets/images/people/examples/example-8.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "James Holloway",
+   "role": "CTO, property management company",
+   "quote": "“Clear, quick and honest. When something wasn’t worth doing they told us, which is rare. The Laravel portal they built has run without a hitch.”",
+   "photo": "assets/images/people/examples/example-5.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Fatima Al-Mansouri",
+   "role": "E-commerce Manager, fashion retailer",
+   "quote": "“Our rankings had dropped after a redesign by another team. Intella found the cause in a week and we were back on page one within two months.”",
+   "photo": "assets/images/people/examples/example-9.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Michael Turner",
+   "role": "Co-founder, fitness studio chain",
+   "quote": "“Design, development and marketing all in one place saved us so much back and forth. The new brand and site went live on time and looked better than we pictured.”",
+   "photo": "assets/images/people/examples/example-10.jpg",
+   "placeholder": true
+  },
+  {
+   "name": "Alex Barsuk",
+   "role": "Director of Product Design, Pacaso",
+   "quote": "The recommendations were developer-friendly, and the level of detail uncovered simply wasn’t possible through automated website auditing tools alone. Every issue was clearly explained, along with its impact and the recommended solution.",
+   "photo": "assets/images/people/alex-barsuk.jpg",
+   "placeholder": false,
+   "project": "Technical SEO audit"
+  }
+ ],
+ "client": [
+  {
+   "name": "Client logo 1",
+   "logo": "assets/images/clients/client-1.svg",
+   "placeholder": true
+  },
+  {
+   "name": "Client logo 2",
+   "logo": "assets/images/clients/client-2.svg",
+   "placeholder": true
+  },
+  {
+   "name": "Client logo 3",
+   "logo": "assets/images/clients/client-3.svg",
+   "placeholder": true
+  },
+  {
+   "name": "Client logo 4",
+   "logo": "assets/images/clients/client-4.svg",
+   "placeholder": true
+  },
+  {
+   "name": "Client logo 5",
+   "logo": "assets/images/clients/client-5.svg",
+   "placeholder": true
+  },
+  {
+   "name": "Client logo 6",
+   "logo": "assets/images/clients/client-6.svg",
+   "placeholder": true
+  },
+  {
+   "name": "Client logo 7",
+   "logo": "assets/images/clients/client-7.svg",
+   "placeholder": true
+  }
+ ]
+}

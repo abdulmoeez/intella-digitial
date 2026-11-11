@@ -1,0 +1,189 @@
+/* not-found: section styles, split from the prototype CSS (Code/frontend/assets/css) by bin/import/css_split.py. */
+
+.filter-search {
+	display: flex;
+	flex: 1 1 14rem;
+	align-items: center;
+	gap: 0.5rem;
+	min-width: 0;
+	padding: 0.2rem 0.25rem 0.2rem 0.85rem;
+	border: 1px solid var(--color-line);
+	border-radius: var(--radius-pill);
+	background: var(--color-paper);
+	transition: border-color var(--transition), box-shadow var(--transition);
+
+	&:focus-within {
+		border-color: var(--color-accent);
+		box-shadow: 0 0 0 4px rgb(143 44 244 / 0.12);
+	}
+
+	& .filter-search__close[hidden] {
+		display: none;
+	}
+
+	& > svg {
+		flex: none;
+		width: 1.05rem;
+		height: 1.05rem;
+		color: var(--color-muted);
+	}
+
+	& input {
+		flex: 1;
+		min-width: 0;
+		min-height: 2rem;
+		padding: 0.45rem 0;
+		border: 0;
+		background: transparent;
+		color: var(--color-ink);
+		font: inherit;
+		font-size: var(--text-sm);
+		outline: none;
+	}
+
+	& input::-webkit-search-cancel-button {
+		display: none;
+	}
+}
+.nf {
+	position: relative;
+	overflow: hidden;
+	padding-block: var(--space-2xl) clamp(3rem, 2rem + 4vw, 5rem);
+	background:
+		radial-gradient(60% 50% at 50% 0%, rgb(143 44 244 / 0.08), transparent 70%),
+		var(--color-cream);
+	text-align: center;
+}
+.nf__inner {
+	display: grid;
+	justify-items: center;
+}
+.nf__code {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: clamp(0.25rem, 1vw, 0.75rem);
+	margin-block-end: var(--space-lg);
+	color: var(--color-ink);
+	font-family: var(--font-heading);
+	font-size: clamp(6rem, 3rem + 14vw, 11rem);
+	font-weight: var(--weight-bold);
+	line-height: 0.9;
+	letter-spacing: -0.04em;
+
+	& span {
+		background: var(--gradient-accent);
+		-webkit-background-clip: text;
+		background-clip: text;
+		color: transparent;
+	}
+}
+.nf__glass {
+	width: 0.85em;
+	height: 0.85em;
+	color: var(--color-ink);
+	animation: nf-search 4s ease-in-out infinite;
+	transform-origin: 43% 43%;
+}
+@media (prefers-reduced-motion: reduce) {
+	.nf__glass {
+		animation: none;
+	}
+}
+.nf__title {
+	max-width: 40rem;
+	font-size: clamp(2rem, 1.4rem + 2.4vw, 3.2rem);
+	line-height: 1.08;
+}
+.nf__lead {
+	max-width: 34rem;
+	margin-block-start: var(--space-md);
+	color: var(--color-muted);
+	font-size: var(--text-md);
+	line-height: 1.6;
+}
+.nf__actions {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: var(--space-sm);
+	margin-block-start: var(--space-xl);
+}
+.nf__search {
+	position: relative;
+	width: min(100%, 34rem);
+	margin-block-start: var(--space-xl);
+	text-align: start;
+}
+.nf__search-box {
+	padding: 0.35rem 0.4rem 0.35rem 1.1rem;
+	background: var(--color-paper);
+	box-shadow: 0 18px 40px -26px rgb(42 12 61 / 0.45);
+
+	& input {
+		min-height: 2.6rem;
+		font-size: var(--text-base);
+	}
+}
+.nf__results {
+	display: grid;
+	gap: 0.15rem;
+	margin: 0.6rem 0 0;
+	padding: 0.4rem;
+	border-radius: var(--radius-lg);
+	background: var(--color-paper);
+	box-shadow: 0 24px 50px -28px rgb(42 12 61 / 0.45), 0 0 0 1px rgb(74 24 112 / 0.06);
+	list-style: none;
+
+	&[hidden] {
+		display: none;
+	}
+
+	& a {
+		display: grid;
+		gap: 0.1rem;
+		padding: 0.6rem 0.8rem;
+		border-radius: var(--radius-md);
+		color: var(--color-text);
+		text-decoration: none;
+
+		&:hover,
+		&:focus-visible {
+			background: var(--color-lavender-faint);
+
+			& b {
+				color: var(--color-accent);
+			}
+		}
+	}
+
+	& b {
+		color: var(--color-ink);
+		font-weight: var(--weight-semibold);
+	}
+
+	& span {
+		overflow: hidden;
+		color: var(--color-muted);
+		font-size: var(--text-sm);
+		white-space: nowrap;
+		text-overflow: ellipsis;
+	}
+}
+.nf__sitemap {
+	margin-block-start: var(--space-sm);
+	color: var(--color-muted);
+	font-size: var(--text-sm);
+	text-align: center;
+
+	& a {
+		color: var(--color-accent);
+		font-weight: var(--weight-semibold);
+	}
+}
+@keyframes nf-search {
+	0%, 100% { transform: rotate(0deg) translate(0, 0); }
+	25% { transform: rotate(-10deg) translate(-4%, -2%); }
+	50% { transform: rotate(4deg) translate(3%, 2%); }
+	75% { transform: rotate(-4deg) translate(-2%, 3%); }
+}

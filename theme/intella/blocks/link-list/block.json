@@ -1,0 +1,48 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/link-list",
+	"title": "Link list",
+	"category": "intella",
+	"icon": "admin-links",
+	"description": "A heading and a list of links with short descriptions.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "text",
+				"label": "Heading"
+			},
+			{
+				"key": "links",
+				"type": "repeater",
+				"label": "Links",
+				"itemName": "link",
+				"fields": [
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Title"
+					},
+					{
+						"key": "description",
+						"type": "text",
+						"label": "Description"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					}
+				],
+				"default": []
+			}
+		],
+		"section": "white"
+	}
+}

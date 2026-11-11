@@ -1,0 +1,149 @@
+{
+ "title": "Enterprise SEO Services",
+ "path": "/services/digital-marketing/seo/enterprise-seo/",
+ "seo": {
+  "title": "Enterprise SEO Services | SEO for large websites and teams | Intella Digital",
+  "description": "Enterprise SEO services for large websites: crawl and indexing at scale, governance across teams, international roll-outs and reporting for leadership."
+ },
+ "blocks": [
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Enterprise SEO services for large, complex websites",
+    "html": "<section class=\"page-hero\" aria-labelledby=\"page-title\">\n\t\t<div class=\"container page-hero__inner\">\n\t\t\t<div>\n\t\t\t\t<nav class=\"breadcrumb\" aria-label=\"Breadcrumb\"><ol><li><a href=\"/\">Home</a></li><li><a href=\"/services/\">Services</a></li><li><a href=\"/services/digital-marketing/seo/\">SEO</a></li><li aria-current=\"page\">Enterprise SEO</li></ol></nav>\n\t\t\t\t<h1 class=\"page-hero__title\" id=\"page-title\">Enterprise SEO services for <span class=\"accent\">large, complex websites</span></h1>\n\t\t\t\t<p class=\"page-hero__lead\">Thousands of pages, several teams and many markets. We bring structure to SEO at scale: clear priorities, rules every team can follow, and reporting leadership can act on.</p>\n\t\t\t\t<ul class=\"note-list\" role=\"list\">\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Crawl and indexing for large sites</li>\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> SEO rules built into your releases</li>\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Reporting for leadership</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\n\t\t\t<!-- Validated in assets/js/main.js; the WordPress handler must repeat the checks on the server. -->\n\t\t\t<form class=\"form-card form-compact\" id=\"proposal\" action=\"thank-you.html\" method=\"post\" data-validate data-success=\"thank-you.html\">\n\t\t\t\t<div class=\"form-head\">\n\t\t\t\t\t<div><h2 class=\"form-head__title\">Request a proposal</h2><p class=\"form-head__sub\">Tell us your goals. We’ll reply with a plan and a quote.</p></div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"form-row\">\n\t\t\t\t<div class=\"field\">\n\t\t\t\t\t<label class=\"visually-hidden\" for=\"p-name\">Name</label>\n\t\t\t\t\t<input class=\"field__input\" id=\"p-name\" name=\"name\" type=\"text\" placeholder=\"Name\" required autocomplete=\"name\" data-error-required=\"Enter your name.\">\n\t\t\t\t</div>\n\t\t\t\t<div class=\"field\">\n\t\t\t\t\t<label class=\"visually-hidden\" for=\"p-email\">Email address</label>\n\t\t\t\t\t<input class=\"field__input\" id=\"p-email\" name=\"email\" type=\"email\" placeholder=\"Email address\" required autocomplete=\"email\" data-error-required=\"Enter your email address.\" data-error-format=\"Enter a valid email address, like name@company.com.\">\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"form-row\">\n\t\t\t\t<div class=\"field\">\n\t\t\t\t\t<label class=\"visually-hidden\" for=\"p-phone\">Phone number (optional)</label>\n\t\t\t\t\t<input class=\"field__input\" id=\"p-phone\" name=\"phone\" type=\"tel\" inputmode=\"tel\" placeholder=\"Phone (optional)\" autocomplete=\"tel\" data-validate-phone data-error-format=\"Enter a valid phone number: 6 to 14 digits.\">\n\t\t\t\t</div>\n\t\t\t\t<div class=\"field\">\n\t\t\t\t\t<label class=\"visually-hidden\" for=\"p-website\">Website URL (optional)</label>\n\t\t\t\t\t<input class=\"field__input\" id=\"p-website\" name=\"website\" type=\"text\" inputmode=\"url\" placeholder=\"Website (optional)\" autocomplete=\"url\" data-validate-url data-error-format=\"Enter a valid web address, like yourcompany.com.\">\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"field\">\n\t\t\t\t\t<label class=\"visually-hidden\" for=\"p-message\">Message</label>\n\t\t\t\t\t<textarea class=\"field__input\" id=\"p-message\" name=\"message\" rows=\"3\" placeholder=\"How large is your site, and how many teams work on it?\" required minlength=\"10\" data-error-required=\"Tell us a little about what you need.\" data-error-short=\"Add a little more detail (at least 10 characters).\"></textarea>\n\t\t\t\t</div>\n\t\t\t\t<input type=\"hidden\" name=\"service\" value=\"enterprise-seo\">\n\t\t\t\t<div class=\"hp-field\" aria-hidden=\"true\"><label for=\"p-company\">Leave this empty</label><input id=\"p-company\" name=\"company_hp\" type=\"text\" tabindex=\"-1\" autocomplete=\"off\"></div>\n\t\t\t\t<p class=\"form-status\" role=\"alert\" data-form-status hidden></p>\n\t\t\t\t<button class=\"button button--primary button--lg button--block\" type=\"submit\" data-submit><span data-submit-label>Request a proposal</span> <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></button>\n\t\t\t\t<ul class=\"form-trust\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Your details stay private</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> No spam, ever</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Free 30-minute call</li></ul>\n\t\t\t</form>\n\t\t</div>\n\t</section>",
+    "css": "enterprise-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "SEO that works at enterprise scale",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-46\">\n\t\t<div class=\"container why\">\n\t\t\t<div>\n\t\t\t\t<h2 class=\"section-title\" id=\"h-46\">SEO that works <span class=\"accent\">at enterprise scale</span></h2>\n\t\t\t\t<p class=\"section-lead\">Big sites need more than good advice. They need SEO built into how the business works.</p>\n\t\t\t\t<div class=\"why__actions\"><a class=\"button button--primary button--lg\" href=\"#proposal\">Request a proposal <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a></div>\n\t\t\t</div>\n\t\t\t<ul class=\"bento\" role=\"list\">\n\t\t\t\t<li class=\"bento__card bento__card--dark\">\n\t\t\t\t\t<span class=\"icon-tile icon-tile--dark\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-layers\"/></svg></span>\n\t\t\t\t\t<h3 class=\"bento__title\">Scale</h3>\n\t\t\t\t\t<p>We work with sites from thousands to millions of pages, with crawl and indexing plans to match.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"bento__card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-users\"/></svg></span>\n\t\t\t\t\t<h3 class=\"bento__title\">Governance</h3>\n\t\t\t\t\t<p>SEO rules and checklists for every team that touches the website.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"bento__card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-code\"/></svg></span>\n\t\t\t\t\t<h3 class=\"bento__title\">Engineering</h3>\n\t\t\t\t\t<p>Our developers write tickets your engineers can pick up, and review releases.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"bento__card bento__card--dark\">\n\t\t\t\t\t<span class=\"icon-tile icon-tile--dark\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-chart\"/></svg></span>\n\t\t\t\t\t<h3 class=\"bento__title\">Reporting</h3>\n\t\t\t\t\t<p>Dashboards and quarterly reviews tied to revenue and market share.</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</section>",
+    "css": "enterprise-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Enterprise SEO metrics",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-47\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-47\">Enterprise SEO <span class=\"accent\">metrics</span></h2>\n\t\t\t\t<p class=\"section-lead\">The numbers leadership cares about, broken down by market and section.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"metrics\" role=\"list\"><li class=\"metric\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-trend\"/></svg></span><h3 class=\"metric__name\">Share of search</h3><p>Your visibility against competitors for your key topics.</p></li><li class=\"metric\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-layers\"/></svg></span><h3 class=\"metric__name\">Index coverage</h3><p>How much of your site is indexed, by section and template.</p></li><li class=\"metric\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-target\"/></svg></span><h3 class=\"metric__name\">Revenue from search</h3><p>Leads and sales from organic, by market and product line.</p></li><li class=\"metric\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-zap\"/></svg></span><h3 class=\"metric__name\">Release health</h3><p>SEO issues caught before and after each release.</p></li></ul>\n\t\t</div>\n\t</section>",
+    "css": "enterprise-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Enterprise SEO vs a standard SEO service",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-48\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-48\">Enterprise SEO vs <span class=\"accent\">a standard SEO service</span></h2>\n\t\t\t\t<p class=\"section-lead\">What changes when a website gets big.</p>\n\t\t\t</div>\n\t\t\t<div class=\"compare\">\n\t\t\t\t<div class=\"compare__scroll\">\n\t\t\t\t\t<table class=\"compare__table\">\n\t\t\t\t\t\t<thead><tr><th scope=\"col\"><span class=\"visually-hidden\">Feature</span></th><th scope=\"col\" class=\"compare__us\">Enterprise SEO</th><th scope=\"col\">Standard SEO</th><th scope=\"col\">In-house only</th></tr></thead>\n\t\t\t\t\t\t<tbody><tr><th scope=\"row\">Crawl and indexing plans for large sites</th><td class=\"compare__us\"><span class=\"compare__yes\" aria-label=\"Yes\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg></span></td><td><span class=\"compare__no\" aria-label=\"No\">–</span></td><td>Depends</td></tr><tr><th scope=\"row\">SEO rules for every team</th><td class=\"compare__us\"><span class=\"compare__yes\" aria-label=\"Yes\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg></span></td><td><span class=\"compare__no\" aria-label=\"No\">–</span></td><td>Often missing</td></tr><tr><th scope=\"row\">Release reviews with engineering</th><td class=\"compare__us\"><span class=\"compare__yes\" aria-label=\"Yes\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg></span></td><td><span class=\"compare__no\" aria-label=\"No\">–</span></td><td>Sometimes</td></tr><tr><th scope=\"row\">Many markets and languages</th><td class=\"compare__us\"><span class=\"compare__yes\" aria-label=\"Yes\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg></span></td><td>Limited</td><td>Depends</td></tr><tr><th scope=\"row\">Leadership reporting</th><td class=\"compare__us\"><span class=\"compare__yes\" aria-label=\"Yes\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg></span></td><td>Basic</td><td>Time-consuming</td></tr><tr><th scope=\"row\">Senior specialists on the account</th><td class=\"compare__us\"><span class=\"compare__yes\" aria-label=\"Yes\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg></span></td><td>Varies</td><td><span class=\"compare__no\" aria-label=\"No\">–</span></td></tr></tbody>\n\t\t\t\t\t</table>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "enterprise-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "The first 90 days",
+    "html": "<section class=\"section section--cream process\" aria-labelledby=\"process-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"timeline-wrap\">\n\t\t\t\t<div>\n\t\t\t<div class=\"section-head\">\n\t\t\t\t<h2 class=\"section-title\" id=\"process-title\">The first <span class=\"accent\">90 days</span></h2>\n\t\t\t\t<p class=\"section-lead\">We start with the biggest risks and the biggest opportunities.</p>\n\t\t\t</div>\n\t\t\t\t\t<ol class=\"timeline\" role=\"list\">\n\t\t\t\t\t<li class=\"timeline__item\">\n\t\t\t\t\t\t<span class=\"timeline__when\">Month 1</span>\n\t\t\t\t\t\t<h3 class=\"timeline__title\">Discovery and audit</h3>\n\t\t\t\t\t\t<p>Stakeholder interviews, a large-scale crawl and a review of your data and tools.</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"timeline__item\">\n\t\t\t\t\t\t<span class=\"timeline__when\">Month 2</span>\n\t\t\t\t\t\t<h3 class=\"timeline__title\">Roadmap and governance</h3>\n\t\t\t\t\t\t<p>A prioritised roadmap and SEO rules for content, product and engineering teams.</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"timeline__item\">\n\t\t\t\t\t\t<span class=\"timeline__when\">Month 3</span>\n\t\t\t\t\t\t<h3 class=\"timeline__title\">Delivery starts</h3>\n\t\t\t\t\t\t<p>First fixes shipped, dashboards live and a regular rhythm with each team.</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"timeline__item\">\n\t\t\t\t\t\t<span class=\"timeline__when\">Every quarter</span>\n\t\t\t\t\t\t<h3 class=\"timeline__title\">Review with leadership</h3>\n\t\t\t\t\t\t<p>Results, market share and the next quarter’s priorities.</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t</ol>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "enterprise-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Enterprise SEO questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What are enterprise SEO services?",
+      "answer": "SEO for large organisations and websites: crawl and indexing at scale, governance across teams, international SEO, engineering support and leadership reporting."
+     },
+     {
+      "question": "How large does a site need to be?",
+      "answer": "There’s no fixed number. It’s about complexity: many pages, templates, teams or markets."
+     },
+     {
+      "question": "Can you work with our in-house SEO team?",
+      "answer": "Yes. We often support an in-house lead with extra specialists, engineering reviews and reporting."
+     },
+     {
+      "question": "Which platforms do you work with?",
+      "answer": "Most enterprise CMS and eCommerce platforms, plus custom and headless builds."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/talk",
+   "attrs": {
+    "background": "white",
+    "look": "mark",
+    "left": false,
+    "title": "Talk to an <em>enterprise SEO</em> specialist",
+    "lead": "Book a free 30-minute call. We’ll talk through your site, your teams and where SEO could grow fastest.",
+    "buttons": [
+     {
+      "text": "Request a proposal",
+      "url": "#proposal",
+      "style": "primary"
+     },
+     {
+      "text": "Email us",
+      "url": "mailto:contact@intelladigital.com",
+      "style": "outline"
+     }
+    ],
+    "contact": true,
+    "people": [
+     {
+      "image": "media:assets/images/people-cut/suit.webp",
+      "size": ""
+     }
+    ],
+    "shots": [],
+    "noteReply": "",
+    "noteSkillsTitle": "",
+    "noteSkills": ""
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Enterprise SEO works best <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "zap",
+      "title": "Technical SEO Audit",
+      "url": "/audits/website-audit/technical-seo-audit/",
+      "text": "A deep check of crawling, rendering, indexing and speed."
+     },
+     {
+      "icon": "share",
+      "title": "International SEO",
+      "url": "/services/digital-marketing/seo/international-seo/",
+      "text": "Rank in every country and language you sell in."
+     },
+     {
+      "icon": "chat",
+      "title": "SEO Consulting",
+      "url": "/services/digital-marketing/seo/seo-consulting/",
+      "text": "Strategy and advice for teams that do the work in-house."
+     }
+    ]
+   }
+  }
+ ]
+}

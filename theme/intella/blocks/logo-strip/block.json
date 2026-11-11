@@ -1,0 +1,38 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/logo-strip",
+	"title": "Client logos",
+	"category": "intella",
+	"icon": "images-alt2",
+	"description": "A strip of client logos that scrolls in a loop.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "label",
+				"type": "text",
+				"label": "Label",
+				"default": "Companies we’ve helped grow"
+			},
+			{
+				"key": "clients",
+				"type": "posts",
+				"label": "Clients",
+				"postType": "client",
+				"help": "Logos come from Clients in the admin menu. Tick the ones to show; none ticked = all.",
+				"default": []
+			},
+			{
+				"key": "marquee",
+				"type": "toggle",
+				"label": "Scroll in a loop",
+				"default": true
+			}
+		]
+	}
+}

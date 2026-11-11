@@ -1,0 +1,164 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/home-work",
+	"title": "Selected work",
+	"category": "intella",
+	"icon": "portfolio",
+	"description": "Case study finder, work cards and case study cards.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/tabs",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text"
+			},
+			{
+				"key": "buttonUrl",
+				"type": "url",
+				"label": "Button link"
+			},
+			{
+				"key": "finderLabel",
+				"type": "text",
+				"label": "Finder label",
+				"panel": "Finder"
+			},
+			{
+				"key": "finder",
+				"type": "repeater",
+				"label": "Finder tabs",
+				"itemName": "tab",
+				"itemLabel": "tab",
+				"panel": "Finder",
+				"fields": [
+					{
+						"key": "tab",
+						"type": "text",
+						"label": "Tab"
+					},
+					{
+						"key": "chips",
+						"type": "repeater",
+						"label": "Links",
+						"itemName": "link",
+						"itemLabel": "label",
+						"fields": [
+							{
+								"key": "label",
+								"type": "text",
+								"label": "Label"
+							},
+							{
+								"key": "url",
+								"type": "url",
+								"label": "Link"
+							},
+							{
+								"key": "count",
+								"type": "text",
+								"label": "Count"
+							}
+						],
+						"default": []
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "allText",
+				"type": "text",
+				"label": "“All case studies” link text",
+				"panel": "Finder"
+			},
+			{
+				"key": "allUrl",
+				"type": "url",
+				"label": "“All case studies” link",
+				"panel": "Finder"
+			},
+			{
+				"key": "work",
+				"type": "repeater",
+				"label": "Work cards",
+				"itemName": "card",
+				"panel": "Work cards",
+				"fields": [
+					{
+						"key": "image",
+						"type": "image",
+						"label": "Image"
+					},
+					{
+						"key": "alt",
+						"type": "text",
+						"label": "Image description"
+					},
+					{
+						"key": "tag",
+						"type": "text",
+						"label": "Tag"
+					},
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Title"
+					},
+					{
+						"key": "text",
+						"type": "textarea",
+						"label": "Text"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "cases",
+				"type": "repeater",
+				"label": "Case study cards",
+				"itemName": "case study",
+				"panel": "Case study cards",
+				"fields": [
+					{
+						"key": "tag",
+						"type": "text",
+						"label": "Tag"
+					},
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Title"
+					},
+					{
+						"key": "text",
+						"type": "textarea",
+						"label": "Text"
+					},
+					{
+						"key": "linkText",
+						"type": "text",
+						"label": "Link text"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					}
+				],
+				"default": []
+			}
+		],
+		"section": "cream"
+	}
+}

@@ -1,0 +1,144 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/goals",
+	"title": "Start with your goal",
+	"category": "intella",
+	"icon": "flag",
+	"description": "Goal cards; each opens a short plan with steps, what to expect and the services used.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/goals",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "inline",
+				"label": "Intro"
+			},
+			{
+				"key": "goals",
+				"type": "repeater",
+				"label": "Goals",
+				"itemName": "goal",
+				"panel": "Goals",
+				"fields": [
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Goal"
+					},
+					{
+						"key": "key",
+						"type": "text",
+						"label": "Short ID",
+						"help": "e.g. leads (used in the page address)"
+					},
+					{
+						"key": "color",
+						"type": "select",
+						"label": "Colour",
+						"options": [
+							"violet",
+							"pink",
+							"teal",
+							"orange",
+							"blue",
+							"amber"
+						],
+						"default": "violet"
+					},
+					{
+						"key": "text",
+						"type": "textarea",
+						"label": "Text"
+					},
+					{
+						"key": "fit",
+						"type": "text",
+						"label": "“We’d use” line"
+					},
+					{
+						"key": "steps",
+						"type": "repeater",
+						"label": "Plan steps",
+						"itemName": "step",
+						"fields": [
+							{
+								"key": "when",
+								"type": "text",
+								"label": "When"
+							},
+							{
+								"key": "title",
+								"type": "text",
+								"label": "Title"
+							},
+							{
+								"key": "text",
+								"type": "textarea",
+								"label": "Text"
+							}
+						],
+						"default": []
+					},
+					{
+						"key": "expect",
+						"type": "text",
+						"label": "What to expect"
+					},
+					{
+						"key": "services",
+						"type": "repeater",
+						"label": "Services in the plan",
+						"itemName": "service",
+						"itemLabel": "label",
+						"fields": [
+							{
+								"key": "label",
+								"type": "text",
+								"label": "Name"
+							},
+							{
+								"key": "url",
+								"type": "url",
+								"label": "Link"
+							}
+						],
+						"default": []
+					},
+					{
+						"key": "primaryText",
+						"type": "text",
+						"label": "Main button"
+					},
+					{
+						"key": "primaryUrl",
+						"type": "url",
+						"label": "Main button link"
+					},
+					{
+						"key": "secondaryText",
+						"type": "text",
+						"label": "Second button"
+					},
+					{
+						"key": "secondaryUrl",
+						"type": "url",
+						"label": "Second button link"
+					}
+				],
+				"default": []
+			}
+		],
+		"section": "cream"
+	}
+}

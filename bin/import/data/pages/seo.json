@@ -1,0 +1,185 @@
+{
+ "title": "SEO Services",
+ "path": "/services/digital-marketing/seo/",
+ "seo": {
+  "title": "SEO Services | Rank on page 1 and win more enquiries | Intella Digital",
+  "description": "SEO services for growing businesses: technical SEO, on-page optimisation, content and local SEO that bring steady, qualified enquiries from Google."
+ },
+ "blocks": [
+  {
+   "name": "intella/service-hero",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Services",
+      "url": "/services/"
+     },
+     {
+      "label": "SEO",
+      "url": ""
+     }
+    ],
+    "title": "SEO services that bring in <em>real enquiries</em>",
+    "lead": "We help growing businesses rank on page 1 for the searches their buyers make, then turn that traffic into calls, bookings and sales. Technical fixes, better pages and content, all tied to the enquiries they bring in.",
+    "notes": [
+     "Technical, on-page, content and local SEO in one plan",
+     "Monthly reporting in plain language",
+     "No long lock-in contracts"
+    ],
+    "formTitle": "Request a proposal",
+    "formSub": "Tell us your goals. We'll reply with a plan and a quote.",
+    "messageHint": "Which searches do you want to rank for?",
+    "service": "seo",
+    "buttonText": "Request a proposal",
+    "trust": [
+     "Your details stay private",
+     "No spam, ever",
+     "Free 30-minute call"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Be found when buyers are ready to act",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"why-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"story\">\n\t\t\t\t<div>\n\t\t\t\t\t<h2 class=\"section-title\" id=\"why-title\">Be found when buyers are <span class=\"accent\">ready to act</span></h2>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"story__body\">\n\t\t\t\t\t<p>When someone searches for what you sell, they already have a need. Ranking for those searches puts you in front of buyers at the exact moment they are choosing who to call.</p>\n\t\t\t\t\t<p>Unlike ads, good rankings keep working when you stop spending. Every page that ranks becomes an asset that brings in visitors month after month.</p>\n\t\t\t\t\t<p>But traffic on its own doesn’t pay the bills. We focus on the searches that lead to enquiries, and on making sure your pages turn visitors into leads.</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<ul class=\"tilt-grid tilt-grid--3 why-points\" role=\"list\">\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-search\"/></svg></span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Intent, not just traffic</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">We target the searches people make when they’re ready to buy, not vanity keywords.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-layers\"/></svg></span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">A site Google can trust</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">Fast, crawlable, well-structured pages give every piece of content a better chance to rank.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-trend\"/></svg></span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Growth that compounds</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">Rankings build on each other, so results grow over time instead of stopping when spend stops.</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</section>",
+    "css": "seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What SEO growth looks like",
+    "html": "<section class=\"section section--cream showcase\" aria-labelledby=\"showcase-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"showcase-title\">What SEO growth <span class=\"accent\">looks like</span></h2>\n\t\t\t\t<p class=\"section-lead\">More clicks from Google, more visitors from search, and more of them turning into enquiries. This is the kind of report you get from us every month.</p>\n\t\t\t</div>\n\t\t\t<div class=\"showcase__grid\">\n\t\t\t\t<div class=\"showcase__main\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Search Console · Performance · Last 12 months</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Total clicks</div><div class=\"mock-stat__value\">48.2K</div><span class=\"mock-up\">▲ +212%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Impressions</div><div class=\"mock-stat__value\">1.9M</div><span class=\"mock-up\">▲ +185%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Average CTR</div><div class=\"mock-stat__value\">2.5%</div><span class=\"mock-up\">▲ +0.6 pts</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Average position</div><div class=\"mock-stat__value\">8.4</div><span class=\"mock-up\">▲ from 21.6</span></div></div><svg class=\"mock-chart\" viewBox=\"0 0 640 210\" role=\"img\" aria-label=\"Clicks and impressions growing over 12 months\"><defs><linearGradient id=\"g34600\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#8f2cf4\" stop-opacity=\"0.28\"/><stop offset=\"1\" stop-color=\"#8f2cf4\" stop-opacity=\"0\"/></linearGradient></defs><line x1=\"16\" x2=\"622\" y1=\"12.0\" y2=\"12.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"55.0\" y2=\"55.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"98.0\" y2=\"98.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"141.0\" y2=\"141.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"184.0\" y2=\"184.0\" stroke=\"#efeaf2\"/><path d=\"M16.0,149.3 L71.1,146.4 L126.2,147.8 L181.3,140.6 L236.4,134.8 L291.5,129.0 L346.5,117.4 L401.6,108.7 L456.7,100.0 L511.8,85.5 L566.9,71.1 L622.0,59.5 L622.0,184 L16.0,184 Z\" fill=\"url(#g34600)\"/><path d=\"M16.0,149.3 L71.1,146.4 L126.2,147.8 L181.3,140.6 L236.4,134.8 L291.5,129.0 L346.5,117.4 L401.6,108.7 L456.7,100.0 L511.8,85.5 L566.9,71.1 L622.0,59.5\" fill=\"none\" stroke=\"#8f2cf4\" stroke-width=\"2.5\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"622.0\" cy=\"59.5\" r=\"4\" fill=\"#fff\" stroke=\"#8f2cf4\" stroke-width=\"2.5\"/><path d=\"M16.0,126.1 L71.1,120.3 L126.2,117.4 L181.3,108.7 L236.4,100.0 L291.5,97.1 L346.5,82.7 L401.6,74.0 L456.7,65.3 L511.8,50.8 L566.9,42.1 L622.0,27.6\" fill=\"none\" stroke=\"#c43aa6\" stroke-width=\"2.5\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"622.0\" cy=\"27.6\" r=\"4\" fill=\"#fff\" stroke=\"#c43aa6\" stroke-width=\"2.5\"/><text x=\"16.0\" y=\"204\" text-anchor=\"middle\">Jan</text><text x=\"126.2\" y=\"204\" text-anchor=\"middle\">Mar</text><text x=\"236.4\" y=\"204\" text-anchor=\"middle\">May</text><text x=\"346.5\" y=\"204\" text-anchor=\"middle\">Jul</text><text x=\"456.7\" y=\"204\" text-anchor=\"middle\">Sep</text><text x=\"566.9\" y=\"204\" text-anchor=\"middle\">Nov</text><text x=\"622.0\" y=\"204\" text-anchor=\"middle\">Dec</text></svg><div class=\"mock-legend\"><span><i style=\"background:#8f2cf4\"></i>Clicks</span><span><i style=\"background:#c43aa6\"></i>Impressions (scaled)</span></div></div>\n</figure></div>\n\t\t\t\t<div class=\"showcase__side\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">GA4 · Organic search</span></div>\n\t<div class=\"mock__body\"><p class=\"mock__heading\">Organic sessions and leads</p><div class=\"mock-stats mock-stats--3\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Sessions</div><div class=\"mock-stat__value\">31.4K</div><span class=\"mock-up\">▲ +168%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Leads</div><div class=\"mock-stat__value\">412</div><span class=\"mock-up\">▲ +240%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Conversion rate</div><div class=\"mock-stat__value\">1.3%</div><span class=\"mock-up\">▲ +0.3 pts</span></div></div><svg class=\"mock-chart\" viewBox=\"0 0 640 190\" role=\"img\" aria-label=\"Monthly organic sessions\"><rect x=\"17.0\" y=\"127.7\" width=\"30.4\" height=\"38.3\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"32.2\" y=\"184\" text-anchor=\"middle\">Jan</text><rect x=\"69.3\" y=\"124.2\" width=\"30.4\" height=\"41.8\" rx=\"4\" fill=\"#cbb7e4\"/><rect x=\"121.7\" y=\"120.7\" width=\"30.4\" height=\"45.3\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"136.8\" y=\"184\" text-anchor=\"middle\">Mar</text><rect x=\"174.0\" y=\"113.8\" width=\"30.4\" height=\"52.2\" rx=\"4\" fill=\"#cbb7e4\"/><rect x=\"226.3\" y=\"110.3\" width=\"30.4\" height=\"55.7\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"241.5\" y=\"184\" text-anchor=\"middle\">May</text><rect x=\"278.7\" y=\"99.8\" width=\"30.4\" height=\"66.2\" rx=\"4\" fill=\"#cbb7e4\"/><rect x=\"331.0\" y=\"89.4\" width=\"30.4\" height=\"76.6\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"346.2\" y=\"184\" text-anchor=\"middle\">Jul</text><rect x=\"383.3\" y=\"78.9\" width=\"30.4\" height=\"87.1\" rx=\"4\" fill=\"#cbb7e4\"/><rect x=\"435.7\" y=\"65.0\" width=\"30.4\" height=\"101.0\" rx=\"4\" fill=\"#cbb7e4\"/><text x=\"450.8\" y=\"184\" text-anchor=\"middle\">Sep</text><rect x=\"488.0\" y=\"51.1\" width=\"30.4\" height=\"114.9\" rx=\"4\" fill=\"#8f2cf4\"/><rect x=\"540.3\" y=\"40.6\" width=\"30.4\" height=\"125.4\" rx=\"4\" fill=\"#8f2cf4\"/><text x=\"555.5\" y=\"184\" text-anchor=\"middle\">Nov</text><rect x=\"592.7\" y=\"26.7\" width=\"30.4\" height=\"139.3\" rx=\"4\" fill=\"#8f2cf4\"/><text x=\"607.8\" y=\"184\" text-anchor=\"middle\">Dec</text></svg></div>\n</figure></div>\n\t\t\t</div>\n\t\t\t<ul class=\"outcomes\" role=\"list\"><li><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-trend\"/></svg></span><div><h3 class=\"outcome__title\">More qualified traffic</h3><p>Visitors who searched for what you sell, not random clicks.</p></div></li><li><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-target\"/></svg></span><div><h3 class=\"outcome__title\">Higher rankings for money keywords</h3><p>Page 1 positions for the searches that bring enquiries.</p></div></li><li><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-chart\"/></svg></span><div><h3 class=\"outcome__title\">Leads you can trace</h3><p>Every enquiry from search tracked in GA4 and your CRM.</p></div></li></ul>\n\t\t</div>\n\t</section>",
+    "css": "seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Everything your site needs to rank",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"included-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head\">\n\t\t\t\t<h2 class=\"section-title\" id=\"included-title\">Everything your site needs to <span class=\"accent\">rank</span></h2>\n\t\t\t\t<p class=\"section-lead\">Every SEO plan is built around your goals, but these are the areas we usually work on.</p>\n\t\t\t</div>\n\t\t\t<div class=\"service-card\">\n\t\t\t\t<ul class=\"service-card__list service-card__list--3\" role=\"list\">\n\t\t\t\t\t\t<li class=\"service-item\">\n\t\t\t\t\t\t\t<svg class=\"service-item__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-code\"/></svg>\n\t\t\t\t\t\t\t<div><h3 class=\"service-item__title\">Technical SEO</h3><p class=\"service-item__text\">Crawling, indexing, site speed, Core Web Vitals, redirects and structured data.</p></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"service-item\">\n\t\t\t\t\t\t\t<svg class=\"service-item__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-search\"/></svg>\n\t\t\t\t\t\t\t<div><h3 class=\"service-item__title\">Keyword research</h3><p class=\"service-item__text\">The searches your buyers make, mapped to the pages that should win them.</p></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"service-item\">\n\t\t\t\t\t\t\t<svg class=\"service-item__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-browser\"/></svg>\n\t\t\t\t\t\t\t<div><h3 class=\"service-item__title\">On-page optimisation</h3><p class=\"service-item__text\">Titles, headings, copy and internal links that match what people are looking for.</p></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"service-item\">\n\t\t\t\t\t\t\t<svg class=\"service-item__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pen\"/></svg>\n\t\t\t\t\t\t\t<div><h3 class=\"service-item__title\">Content</h3><p class=\"service-item__text\">Service pages, guides and articles that answer questions and earn links.</p></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"service-item\">\n\t\t\t\t\t\t\t<svg class=\"service-item__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-users\"/></svg>\n\t\t\t\t\t\t\t<div><h3 class=\"service-item__title\">Local SEO</h3><p class=\"service-item__text\">Google Business Profile, local pages and reviews for businesses that serve an area.</p></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t<li class=\"service-item\">\n\t\t\t\t\t\t\t<svg class=\"service-item__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-chart\"/></svg>\n\t\t\t\t\t\t\t<div><h3 class=\"service-item__title\">Tracking and reporting</h3><p class=\"service-item__text\">Rankings, traffic and enquiries in a clear monthly report.</p></div>\n\t\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div class=\"audit-row\">\n\t\t\t\t<p><strong>Works well with</strong> SEO gets stronger alongside AI search and content.</p>\n\t\t\t\t<ul class=\"audit-row__chips\" role=\"list\"><li><a class=\"chip\" href=\"/services/digital-marketing/geo/\">GEO / AI search</a></li><li><a class=\"chip\" href=\"/services/digital-marketing/content-marketing/\">Content marketing</a></li><li><a class=\"chip\" href=\"/audits/website-audit/\">Website audit</a></li></ul>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we move you up the rankings",
+    "html": "<section class=\"section section--white methods\" aria-labelledby=\"methods-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"methods-title\">How we move you <span class=\"accent\">up the rankings</span></h2>\n\t\t\t\t<p class=\"section-lead\">The same tools and checks we use for every client, from the first audit to the monthly report.</p>\n\t\t\t</div>\n\t\t\t<div class=\"feature-row\">\n\t\t\t\t<div class=\"feature-row__text\">\n\t\t\t\t\t<h3 class=\"feature-row__title\">We find and fix what holds your site back</h3>\n\t\t\t\t\t<p>A full crawl of your site shows speed, indexing and structure problems. Our developers fix them, so the recommendations don’t sit in a report.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Crawl and Core Web Vitals review</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Prioritised fix list</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Fixes shipped by our developers</li></ul>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"feature-row__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Site audit · yourcompany.com</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-score\"><div class=\"mock-score__ring\"><svg viewBox=\"0 0 64 64\" aria-hidden=\"true\"><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"#ece6f0\" stroke-width=\"7\"/><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"#16a35b\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-dasharray=\"150.3 163.4\"/></svg><b>92</b></div><div class=\"mock-score__text\"><strong>Site health 92 / 100</strong>Up from 61 after the first month of fixes.</div></div><ul class=\"mock-list\"><li><span>Slow LCP on mobile templates</span><span class=\"mock-chip mock-chip--ok\">Fixed</span></li><li><span>148 broken internal links</span><span class=\"mock-chip mock-chip--ok\">Fixed</span></li><li><span>Duplicate title tags on 36 pages</span><span class=\"mock-chip mock-chip--ok\">Fixed</span></li><li><span>Missing schema on service pages</span><span class=\"mock-chip mock-chip--warn\">In progress</span></li><li><span>Orphan pages without internal links</span><span class=\"mock-chip mock-chip--muted\">Planned</span></li></ul></div>\n</figure></div>\n\t\t\t</div>\n\t\t\t<div class=\"feature-row feature-row--flip\">\n\t\t\t\t<div class=\"feature-row__text\">\n\t\t\t\t\t<h3 class=\"feature-row__title\">Every page gets a clear job</h3>\n\t\t\t\t\t<p>We map the searches your buyers make to the pages that should win them, so you stop competing with yourself and fill the gaps.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Search volume and difficulty</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> One main keyword per page</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Gaps turned into new pages</li></ul>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"feature-row__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Keyword map · Service pages</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Keyword</th><th class=\"num\">Volume</th><th>Difficulty</th><th>Target page</th></tr></thead><tbody><tr><td>dental implants cost</td><td class=\"num\">2,400</td><td><span class=\"mock-chip mock-chip--warn\">Medium</span></td><td>/dental-implants/</td></tr><tr><td>emergency dentist near me</td><td class=\"num\">6,600</td><td><span class=\"mock-chip mock-chip--bad\">High</span></td><td>/emergency-dentist/</td></tr><tr><td>invisalign price</td><td class=\"num\">1,900</td><td><span class=\"mock-chip mock-chip--ok\">Low</span></td><td>/invisalign/</td></tr><tr><td>teeth whitening clinic</td><td class=\"num\">1,300</td><td><span class=\"mock-chip mock-chip--ok\">Low</span></td><td>/teeth-whitening/</td></tr><tr><td>dental check up cost</td><td class=\"num\">880</td><td><span class=\"mock-chip mock-chip--ok\">Low</span></td><td>/check-ups/</td></tr></tbody></table></div></div>\n</figure></div>\n\t\t\t</div>\n\t\t\t<div class=\"feature-row\">\n\t\t\t\t<div class=\"feature-row__text\">\n\t\t\t\t\t<h3 class=\"feature-row__title\">Results people want to click</h3>\n\t\t\t\t\t<p>Better titles, descriptions and content make your result stand out and match what the searcher wants.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Titles and meta descriptions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content that answers the search</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Structured data for rich results</li></ul>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"feature-row__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Google search · Result preview</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-search\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-search\"/></svg>dental implants cost</div><div class=\"mock-serp mock-serp--win\"><span class=\"mock-serp__label\"><span class=\"mock-chip mock-chip--info\">Your page · #3, up from #24</span></span><div class=\"mock-serp__site\"><i>Y</i><span>Your Clinic · yourclinic.com › dental-implants</span></div><div class=\"mock-serp__title\">Dental Implants Cost in 2026: Prices, Finance and FAQs</div><div class=\"mock-serp__desc\">See clear prices for single and full-arch implants, what affects the cost, and finance options. Free consultation.</div></div><div class=\"mock-serp\"><div class=\"mock-serp__site\"><i>C</i><span>Competitor · competitor.com › implants</span></div><div class=\"mock-serp__title\">Dental implants | Competitor Dental</div><div class=\"mock-serp__desc\">Find out more about our dental implant treatments and book an appointment.</div></div></div>\n</figure></div>\n\t\t\t</div>\n\t\t\t<div class=\"feature-row feature-row--flip\">\n\t\t\t\t<div class=\"feature-row__text\">\n\t\t\t\t\t<h3 class=\"feature-row__title\">Progress you can see every week</h3>\n\t\t\t\t\t<p>We track your target keywords weekly and report the movement, so you always know what’s working.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Weekly rank tracking</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly report in plain language</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Next steps agreed each month</li></ul>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"feature-row__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Rank tracking · Weekly</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Keyword</th><th class=\"num\">Before</th><th class=\"num\">Now</th><th class=\"num\">Change</th></tr></thead><tbody><tr><td>dental implants cost</td><td class=\"num\"><span class=\"mock-pos\">24</span></td><td class=\"num\"><span class=\"mock-pos mock-pos--top\">3</span></td><td class=\"num\"><span class=\"mock-up\">▲ 21</span></td></tr><tr><td>invisalign price</td><td class=\"num\"><span class=\"mock-pos\">18</span></td><td class=\"num\"><span class=\"mock-pos mock-pos--top\">2</span></td><td class=\"num\"><span class=\"mock-up\">▲ 16</span></td></tr><tr><td>teeth whitening clinic</td><td class=\"num\"><span class=\"mock-pos\">31</span></td><td class=\"num\"><span class=\"mock-pos\">5</span></td><td class=\"num\"><span class=\"mock-up\">▲ 26</span></td></tr><tr><td>emergency dentist near me</td><td class=\"num\"><span class=\"mock-pos\">42</span></td><td class=\"num\"><span class=\"mock-pos\">9</span></td><td class=\"num\"><span class=\"mock-up\">▲ 33</span></td></tr><tr><td>dental check up cost</td><td class=\"num\"><span class=\"mock-pos\">15</span></td><td class=\"num\"><span class=\"mock-pos mock-pos--top\">1</span></td><td class=\"num\"><span class=\"mock-up\">▲ 14</span></td></tr></tbody></table></div></div>\n</figure></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "From audit to page 1",
+    "html": "<section class=\"section section--cream process\" aria-labelledby=\"process-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"process-title\">From audit to <span class=\"accent\">page 1</span></h2>\n\t\t\t\t<p class=\"section-lead\">A clear, step-by-step approach, so you always know what we’re doing and why.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"tilt-grid\" role=\"list\">\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"tilt-card__num\" aria-hidden=\"true\">01</span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Audit</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">We review your site, rankings and competitors to find what’s holding you back.</p>\n\t\t\t\t\t<ul class=\"tick-list\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Technical health check</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Keyword and competitor gaps</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Quick wins list</li></ul>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"tilt-card__num\" aria-hidden=\"true\">02</span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Strategy</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">We turn the findings into a prioritised plan tied to your business goals.</p>\n\t\t\t\t\t<ul class=\"tick-list\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Target keywords per page</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> 90-day roadmap</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Agreed success measures</li></ul>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"tilt-card__num\" aria-hidden=\"true\">03</span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Optimise and create</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">We fix the technical issues, improve key pages and publish new content.</p>\n\t\t\t\t\t<ul class=\"tick-list\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Technical fixes</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Page improvements</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New content and links</li></ul>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"tilt-card__num\" aria-hidden=\"true\">04</span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Measure and grow</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">We track rankings and enquiries, report every month and keep improving.</p>\n\t\t\t\t\t<ul class=\"tick-list\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly reports</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ongoing testing</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Plan updates</li></ul>\n\t\t\t\t</li>\n\t\t\t</ol>\n\t\t</div>\n\t</section>",
+    "css": "seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "The tools behind the results",
+    "html": "<section class=\"section section--cream section--flush-top toolkit\" aria-labelledby=\"tools-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"toolkit__inner\">\n\t\t\t\t<div>\n\t\t\t\t\t<h2 class=\"toolkit__title\" id=\"tools-title\">The tools behind <span class=\"accent\">the results</span></h2>\n\t\t\t\t</div>\n\t\t\t\t<ul class=\"toolkit__list\" role=\"list\"><li class=\"tool\">Semrush</li><li class=\"tool\">Ahrefs</li><li class=\"tool\">Google Search Console</li><li class=\"tool\">Google Analytics 4</li><li class=\"tool\">Screaming Frog</li><li class=\"tool\">PageSpeed Insights</li><li class=\"tool\">Looker Studio</li><li class=\"tool\">Google Business Profile</li></ul>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "SEO from a team that can also build",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"choose-title\">\n\t\t<div class=\"container why\">\n\t\t\t<div>\n\t\t\t\t<h2 class=\"section-title\" id=\"choose-title\">SEO from a team that can also <span class=\"accent\">build</span></h2>\n\t\t\t\t<p class=\"section-lead\">Many SEO recommendations need a developer. Ours don’t wait in a queue, because our developers are on the same team.</p>\n\t\t\t\t<div class=\"why__actions\">\n\t\t\t\t\t<a class=\"button button--primary button--lg\" href=\"#proposal\">Request a proposal <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<ul class=\"bento\" role=\"list\">\n\t\t\t\t<li class=\"bento__card bento__card--dark\">\n\t\t\t\t\t<span class=\"icon-tile icon-tile--dark\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-code\"/></svg></span>\n\t\t\t\t\t<h3 class=\"bento__title\">Fixes, not just reports</h3>\n\t\t\t\t\t<p>Our developers implement the technical changes, so recommendations actually go live.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"bento__card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-sparkle\"/></svg></span>\n\t\t\t\t\t<h3 class=\"bento__title\">Ready for AI search</h3>\n\t\t\t\t\t<p>We optimise for Google and for the AI assistants your buyers now use.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"bento__card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-chart\"/></svg></span>\n\t\t\t\t\t<h3 class=\"bento__title\">Reporting you can read</h3>\n\t\t\t\t\t<p>Clear monthly reports that tie the work to enquiries, not vanity metrics.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"bento__card bento__card--dark\">\n\t\t\t\t\t<span class=\"icon-tile icon-tile--dark\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-key\"/></svg></span>\n\t\t\t\t\t<h3 class=\"bento__title\">You own everything</h3>\n\t\t\t\t\t<p>Your content, accounts and data always stay in your name.</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</section>",
+    "css": "seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What our clients say",
+    "html": "<section class=\"section section--white section--flush-top\" aria-label=\"What our clients say\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"quote-strip\">\n\t\t\t\t<div class=\"quote-row quote-row--two\">\n\t\t\t\t\t<figure class=\"quote-card quote-card--dark\">\n\t\t\t\t\t\t<blockquote><p>“The team exceeded our expectations from start to finish. They built a modern, high-performing platform that has helped us better engage our customers and confidently showcase our product.”</p></blockquote>\n\t\t\t\t\t\t<figcaption class=\"person\">\n\t\t\t\t\t\t\t<img src=\"{{media:assets/images/people/david-clarke.jpg}}\" width=\"300\" height=\"300\" alt=\"\" loading=\"lazy\">\n\t\t\t\t\t\t\t<div><p class=\"person__name\">David Clarke</p><p class=\"person__role\">CEO &amp; Founder, Cupello</p></div>\n\t\t\t\t\t\t</figcaption>\n\t\t\t\t\t</figure>\n\t\t\t\t\t<figure class=\"quote-card\">\n\t\t\t\t\t\t<blockquote><p>“Intella Digital delivered a website that perfectly captured our brand and vision. Their attention to detail, responsiveness, and ability to turn ideas into reality made the entire process smooth and enjoyable.”</p></blockquote>\n\t\t\t\t\t\t<figcaption class=\"person\">\n\t\t\t\t\t\t\t<img src=\"{{media:assets/images/people/andra-simina-mocanu.jpg}}\" width=\"300\" height=\"300\" alt=\"\" loading=\"lazy\">\n\t\t\t\t\t\t\t<div><p class=\"person__name\">Andra-Simina Mocanu</p><p class=\"person__role\">CEO &amp; Founder, The Other Glasses</p></div>\n\t\t\t\t\t\t</figcaption>\n\t\t\t\t\t</figure>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "SEO questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "How long does SEO take to work?",
+      "answer": "SEO builds over time. Technical fixes and page improvements can show early movement, while competitive rankings usually take a few months. We agree realistic milestones in your plan and report on them every month."
+     },
+     {
+      "question": "Do you guarantee page 1 rankings?",
+      "answer": "No one can honestly guarantee rankings, because search engines decide them. What we can promise is a clear plan, steady work on the things that move rankings, and transparent reporting on the results."
+     },
+     {
+      "question": "Can you do SEO on our existing website?",
+      "answer": "Yes. We work with most platforms, including WordPress, Shopify and custom sites. If something can’t be fixed on your current setup, we’ll explain why and suggest options."
+     },
+     {
+      "question": "What is the difference between SEO and GEO?",
+      "answer": "SEO helps you rank in search results. GEO helps you get mentioned in AI answers from tools like ChatGPT and Google’s AI Overviews. They share a lot of groundwork, so we usually plan them together."
+     },
+     {
+      "question": "How much do your SEO services cost?",
+      "answer": "It depends on your goals and how competitive your market is. After a free call we send a clear monthly fee, so you know the cost before any work starts."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/talk",
+   "attrs": {
+    "background": "white",
+    "look": "light",
+    "left": false,
+    "title": "Find out what’s stopping you <em>ranking</em>",
+    "lead": "Book a free 30-minute call. We’ll look at your site and rankings and tell you what we’d fix first.",
+    "buttons": [
+     {
+      "text": "Schedule a free call",
+      "url": "/contact/",
+      "style": "primary"
+     },
+     {
+      "text": "Email us",
+      "url": "mailto:contact@intelladigital.com",
+      "style": "outline"
+     }
+    ],
+    "contact": true,
+    "people": [
+     {
+      "image": "media:assets/images/people-cut/developer.webp",
+      "size": ""
+     }
+    ],
+    "shots": [],
+    "noteReply": "",
+    "noteSkillsTitle": "",
+    "noteSkills": ""
+   }
+  }
+ ]
+}

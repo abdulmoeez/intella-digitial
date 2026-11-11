@@ -1,0 +1,490 @@
+{
+ "title": "Performance Max Agency",
+ "path": "/services/digital-marketing/performance-marketing/google-ads/performance-max/",
+ "seo": {
+  "title": "Performance Max Agency | Performance Max Management | Intella Digital",
+  "description": "Performance Max management: asset groups, feeds, audience signals, brand exclusions and honest channel reporting, for eCommerce and lead generation."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "Google Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/"
+     },
+     {
+      "label": "Performance Max Management",
+      "url": ""
+     }
+    ],
+    "title": "Performance Max that <em>finds new customers</em>",
+    "lead": "We set up and run Performance Max with brand exclusions, strong assets and honest reporting, so it brings new customers, not sales you’d have had anyway.",
+    "buttonText": "Get a Performance Max review",
+    "formLabel": "Get a Performance Max review",
+    "service": "performance-max",
+    "notes": [
+     "Brand searches excluded",
+     "Asset groups by product or audience",
+     "Reporting by channel"
+    ],
+    "sliderLabel": "Common Performance Max problems",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "Taking credit for your brand name",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Performance Max sales</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>From brand searches</span><b>41%</b></li><li class=\"no\"><span>From people new to you</span><b>23%</b></li><li class=\"ok\"><span>Reported return on ad spend</span><b>6.2x</b></li></ul><p class=\"cmhc__note\">Most “wins” came from people already looking for you</p></div>",
+      "photo": 0,
+      "fix": "Brand exclusions, with a separate low-cost brand campaign.",
+      "look": "brand"
+     },
+     {
+      "kicker": "",
+      "title": "Where does the money go?",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Spend by channel, last 30 days</p><ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:52%\"><span>Search and Shopping</span><b>52% of spend</b></li><li style=\"--w:31%\"><span>Display and Gmail</span><b>31% of spend</b></li><li style=\"--w:17%\"><span>YouTube</span><b>17% of spend</b></li></ul><p class=\"cmhc__note\">Display took a third of the budget, with 4% of sales</p></div>",
+      "photo": 0,
+      "fix": "A channel and search-category report every month, so nothing is hidden.",
+      "look": "channels"
+     },
+     {
+      "kicker": "",
+      "title": "Google made your video",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Assets</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Video</span><b>Auto-generated</b></li><li class=\"no\"><span>Images rated Low</span><b>9 of 15</b></li><li class=\"no\"><span>Headlines</span><b>Same in every group</b></li></ul><p class=\"cmhc__note\">Weak assets mean weak placements</p></div>",
+      "photo": 0,
+      "fix": "Real video, images and copy made by our creative team for each asset group.",
+      "look": "video"
+     },
+     {
+      "kicker": "",
+      "title": "One asset group for everything",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Asset groups</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Asset groups</span><b>1</b></li><li class=\"no\"><span>Products in it</span><b>1,840</b></li><li class=\"no\"><span>Top 20 products’ share of spend</span><b>78%</b></li></ul><p class=\"cmhc__note\">A few products take the whole budget</p></div>",
+      "photo": 0,
+      "fix": "Asset groups by product range, margin or audience, each with its own message.",
+      "look": "groups"
+     },
+     {
+      "kicker": "",
+      "title": "Lots of leads, few customers",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Leads this quarter</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"ok\"><span>Leads from Performance Max</span><b>420</b></li><li class=\"no\"><span>Spam or unqualified</span><b>61%</b></li><li class=\"no\"><span>Became customers</span><b>6</b></li></ul><p class=\"cmhc__note\">Google optimised for the easiest form fills</p></div>",
+      "photo": 0,
+      "fix": "Offline conversions and lead values from your CRM, so Google learns what a good lead is.",
+      "look": "leads"
+     }
+    ],
+    "tools": "<ul class=\"pmtools\" role=\"list\" aria-label=\"Tools we work in\"><li class=\"pmtools__i pmtools__i--1\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><g stroke-width=\"11\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M21 10 9.5 30\" stroke=\"#FBBC04\"/><path d=\"M21 10 34 33\" stroke=\"#4285F4\"/></g><circle cx=\"11\" cy=\"35\" r=\"6\" fill=\"#34A853\"/></svg><span>Google Ads</span></li><li class=\"pmtools__i pmtools__i--2\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><path d=\"M8 19h32l-3 21H11z\" fill=\"#4285F4\"/><path d=\"M6 19l5-11h26l5 11z\" fill=\"#34A853\"/><rect x=\"20\" y=\"28\" width=\"8\" height=\"12\" fill=\"#fff\"/></svg><span>Merchant Center</span></li><li class=\"pmtools__i pmtools__i--3\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><rect x=\"29\" y=\"5\" width=\"11\" height=\"38\" rx=\"5.5\" fill=\"#F9AB00\"/><rect x=\"16\" y=\"18\" width=\"11\" height=\"25\" rx=\"5.5\" fill=\"#E37400\"/><circle cx=\"9.5\" cy=\"37.5\" r=\"5.5\" fill=\"#E37400\"/></svg><span>Google Analytics 4</span></li></ul>",
+    "visual": "",
+    "look": "cmhero cmhero--pm cmhero--job"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/sign-strips",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Signs Performance Max <em>isn’t working for you</em>",
+    "lead": "Performance Max is powerful, but easy to misread. These are the signs we see most, and what is usually behind them.",
+    "items": [
+     {
+      "title": "Most of its sales come from your brand name",
+      "text": "By default, Performance Max can show for searches of your own brand. Those people were already looking for you, so the sales would mostly have come anyway, but Performance Max reports them as its own and its return on ad spend looks excellent.\n\nWe split results into brand and non-brand, add brand exclusions and move brand searches into a separate, low-cost Search campaign. You then see what Performance Max really adds, and its budget goes to finding new customers.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Performance Max sales: sample report\">\n\t<div class=\"pmrep__head\"><b>Performance Max sales</b><span>Last 30 days</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">From brand searches</span><span class=\"pmrep__s\">41%</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Reported return on ad spend</span><span class=\"pmrep__s\">6.2x</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Return without brand</span><span class=\"pmrep__s\">2.4x</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">New customers</span><span class=\"pmrep__s\">23%</span></li></ul>\n\t<p class=\"pmrep__foot\">Great on paper, mostly existing demand</p>\n</figure>"
+     },
+     {
+      "title": "One asset group for everything",
+      "text": "One asset group means one set of headlines, images and signals for every product and every audience. Google can’t tell a premium range from a clearance line, so the message is generic and a few products take most of the budget.\n\nWe build asset groups around product ranges, margins or audiences, each with its own copy, images, video and signals. Budget then follows the products and people that matter, not just the ones Google found first.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Asset groups: sample report\">\n\t<div class=\"pmrep__head\"><b>Asset groups</b><span>Today</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Asset groups</span><span class=\"pmrep__s\">1</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Products covered</span><span class=\"pmrep__s\">1,840</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Top 20 products’ share of spend</span><span class=\"pmrep__s\">78%</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Products with no clicks</span><span class=\"pmrep__s\">64%</span></li></ul>\n\t<p class=\"pmrep__foot\">A few products take the whole budget</p>\n</figure>"
+     },
+     {
+      "title": "No video, so Google makes its own",
+      "text": "If you don’t add a video, Google builds one from your images and text. These auto-generated videos rarely look like your brand, and they run on YouTube in front of the very people you want to impress.\n\nOur creative team makes short videos, images and copy for each asset group, sized for every placement. We test them against each other and replace the ones Google rates Low.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Assets: sample report\">\n\t<div class=\"pmrep__head\"><b>Assets</b><span>Asset ratings</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Video</span><span class=\"pmrep__s\">Auto-generated</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Images rated Low</span><span class=\"pmrep__s\">9 of 15</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Headlines rated Best</span><span class=\"pmrep__s\">1 of 15</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Logos</span><span class=\"pmrep__s\">Added</span></li></ul>\n\t<p class=\"pmrep__foot\">Weak assets mean weak placements</p>\n</figure>"
+     },
+     {
+      "title": "You can’t see which channels the money goes to",
+      "text": "Performance Max runs across Search, Shopping, YouTube, Display, Gmail and Maps, but the standard reports show one total. You can’t tell whether the budget goes to buyers on Search or to cheap Display placements.\n\nEach month you get spend and results by channel, the search categories it showed for and the placements behind them. When one channel wastes money, we change the assets, signals or exclusions that feed it.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Spend by channel: sample report\">\n\t<div class=\"pmrep__head\"><b>Spend by channel</b><span>Last 30 days</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Search and Shopping</span><span class=\"pmrep__s\">52%</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Display and Gmail</span><span class=\"pmrep__s\">31%</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">YouTube</span><span class=\"pmrep__s\">17%</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Sales from Display</span><span class=\"pmrep__s\">4%</span></li></ul>\n\t<p class=\"pmrep__foot\">A third of the budget, almost no sales</p>\n</figure>"
+     },
+     {
+      "title": "Lead campaigns bring poor leads",
+      "text": "For lead generation, Performance Max optimises for whatever you count as a conversion. If every form fill counts the same, it learns to find the cheapest form fills, which are often spam, students or people who will never buy.\n\nWe connect your CRM so Google learns which leads became customers, add lead values and filter out spam. Performance Max then aims for leads your sales team wants to call.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Leads this quarter: sample report\">\n\t<div class=\"pmrep__head\"><b>Leads this quarter</b><span>Performance Max</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Leads</span><span class=\"pmrep__s\">420</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Spam or unqualified</span><span class=\"pmrep__s\">61%</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Became customers</span><span class=\"pmrep__s\">6</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Cost per customer</span><span class=\"pmrep__s\">$2,310</span></li></ul>\n\t<p class=\"pmrep__foot\">Optimised for form fills, not sales</p>\n</figure>"
+     },
+     {
+      "title": "It competes with your Search campaigns",
+      "text": "Performance Max can take traffic from your own Search campaigns, often for your best keywords. Results move from one campaign to the other, costs rise and it’s hard to tell what’s working.\n\nWe set clear roles: Search for the keywords you want full control of, Performance Max for reach. Brand exclusions, negative keywords at account level and search themes keep the two from fighting.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Search vs Performance Max: sample report\">\n\t<div class=\"pmrep__head\"><b>Search vs Performance Max</b><span>Same keywords</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Keywords overlapping</span><span class=\"pmrep__s\">38</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Search impressions lost</span><span class=\"pmrep__s\">−27%</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Cost per sale, Search</span><span class=\"pmrep__s\">+19%</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Clear campaign roles</span><span class=\"pmrep__s\">No</span></li></ul>\n\t<p class=\"pmrep__foot\">Your campaigns bidding against each other</p>\n</figure>"
+     }
+    ],
+    "noteTitle": "Performance Max needs good inputs",
+    "noteText": "It’s only as good as the tracking, assets, feed and signals you give it. We look after all four, every month.",
+    "buttonText": "Get this fixed",
+    "buttonUrl": "#proposal"
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Performance Max Management, <em>done properly</em>",
+    "lead": "One fixed-scope project, quoted after a short call. No retainer needed.",
+    "name": "Performance Max setup and management",
+    "price": "Fixed price, quoted after a 30-minute call",
+    "items": [
+     "Brand exclusions and a separate brand campaign",
+     "Asset groups by product range or audience",
+     "Images, video and copy made by our team",
+     "Audience signals from your customer data",
+     "Feed improvements for retail",
+     "Lead values and offline conversions for lead generation",
+     "Channel and search category reports",
+     "New-customer goals where they fit"
+    ],
+    "delivery": "Setup in 2 weeks, then managed monthly",
+    "buttonText": "Request a quote",
+    "buttonUrl": "#proposal",
+    "visual": "<div class=\"pmhum\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/team.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t<div><p class=\"pmhum__t\">A specialist and a creative team</p><p>Your Performance Max specialist plans the campaigns and signals; our designers and video editors make the assets that feed them.</p><ul role=\"list\"><li>Assets made in-house</li><li>New creative every month</li><li>A monthly call</li></ul></div>\n\t\t\t\t</div><div class=\"pmsc pmch\">\n\t\t\t\t\t<div class=\"pmsc__top\"><div><p class=\"pmsc__t\">Where the budget goes</p><p class=\"pmsc__s\">Example account, before and after</p></div></div>\n\t\t\t\t\t<ul class=\"pmch__rows\" role=\"list\"><li><p>Before</p><div class=\"pmch__bar\"><i style=\"--w:41%;--c:#c0392b\" title=\"Brand search 41%\"></i><i style=\"--w:11%;--c:#1a5fd0\" title=\"Search 11%\"></i><i style=\"--w:9%;--c:#0d8a7e\" title=\"Shopping 9%\"></i><i style=\"--w:24%;--c:#c26a06\" title=\"Display 24%\"></i><i style=\"--w:7%;--c:#6d3fd8\" title=\"Gmail and Discover 7%\"></i><i style=\"--w:8%;--c:#c4306f\" title=\"YouTube 8%\"></i></div></li><li><p>After 90 days</p><div class=\"pmch__bar\"><i style=\"--w:31%;--c:#1a5fd0\" title=\"Search 31%\"></i><i style=\"--w:38%;--c:#0d8a7e\" title=\"Shopping 38%\"></i><i style=\"--w:18%;--c:#c4306f\" title=\"YouTube 18%\"></i><i style=\"--w:9%;--c:#c26a06\" title=\"Display 9%\"></i><i style=\"--w:4%;--c:#6d3fd8\" title=\"Gmail and Discover 4%\"></i></div></li></ul>\n\t\t\t\t\t<ul class=\"pmch__leg\" role=\"list\"><li><i style=\"--c:#c0392b\"></i>Brand search</li><li><i style=\"--c:#1a5fd0\"></i>Search</li><li><i style=\"--c:#0d8a7e\"></i>Shopping</li><li><i style=\"--c:#c26a06\"></i>Display</li><li><i style=\"--c:#6d3fd8\"></i>Gmail and Discover</li><li><i style=\"--c:#c4306f\"></i>YouTube</li></ul>\n\t\t\t\t\t<table class=\"pmch__tbl\"><thead><tr><th>Channel</th><th>Before</th><th>After 90 days</th></tr></thead><tbody><tr><th>Brand search</th><td>41%</td><td>0%</td></tr><tr><th>Search</th><td>11%</td><td>31%</td></tr><tr><th>Shopping</th><td>9%</td><td>38%</td></tr><tr><th>Display</th><td>24%</td><td>9%</td></tr><tr><th>Gmail and Discover</th><td>7%</td><td>4%</td></tr><tr><th>YouTube</th><td>8%</td><td>18%</td></tr></tbody></table>\n\t\t\t\t\t<p class=\"pmsc__note\">Brand searches moved to their own campaign, Display cut back, and the budget shifted to Shopping and Search, where new customers buy.</p>\n\t\t\t\t</div>"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we set it up and run it",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-206\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-206\">How we <span class=\"accent\">set it up and run it</span></h2>\n\t\t\t\t<p class=\"section-lead\">Good inputs first, then careful scaling. You see the plan and the first assets before anything goes live.</p>\n\t\t\t</div>\n\n\t\t\t<ol class=\"pmsds\" role=\"list\" data-acc><li class=\"pmsd js-acc is-open\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"true\" aria-controls=\"pmsd-1\"><span class=\"pmsd__when\">Step 1 · Week 1</span><span class=\"pmsd__t\">Audit</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-1\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We look at your current Performance Max results split by brand and non-brand, by channel and by product, and check the tracking, feed and assets that feed it. Most accounts have a few big leaks and a lot of missed potential.</p><p class=\"pmsd__get\"><b>You get:</b> A short audit with what to fix first.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Brand vs non-brand results split out</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Channel and placement report from your data</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Feed and Merchant Center checked</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Conversion goals and values reviewed</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-2\"><span class=\"pmsd__when\">Step 2 · Week 1</span><span class=\"pmsd__t\">Plan</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-2\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We plan the asset groups, the audience signals and the exclusions, and agree the goal: new customers, return on ad spend or qualified leads. Performance Max is only as good as the direction you give it.</p><p class=\"pmsd__get\"><b>You get:</b> A one-page campaign plan to approve.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Asset groups by range, margin or audience</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Audience signals from your customer lists</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Brand, URL and placement exclusions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Targets set from real results</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-3\"><span class=\"pmsd__when\">Step 3 · Week 2</span><span class=\"pmsd__t\">Build</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-3\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>Our creative team makes the images, videos and headlines for each asset group. We set up the campaigns, fix the feed and check every conversion before launch.</p><p class=\"pmsd__get\"><b>You get:</b> Campaigns ready to launch, with your sign-off.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Images and videos for every placement</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Headlines and descriptions per asset group</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Feed titles, images and labels improved</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Brand campaign set up alongside</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-4\"><span class=\"pmsd__when\">Step 4 · Weeks 3–6</span><span class=\"pmsd__t\">Learn</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-4\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>Performance Max needs a few weeks of steady data. We hold budgets and targets steady, watch the channel and search-category reports closely and step in only when something is clearly wrong.</p><p class=\"pmsd__get\"><b>You get:</b> A first-month report in plain English.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Budgets and targets held steady</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Weekly checks on spend by channel</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Search categories reviewed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Early asset ratings checked</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-5\"><span class=\"pmsd__when\">Step 5 · Every month</span><span class=\"pmsd__t\">Improve</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-5\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>Each month we replace weak assets, refine signals and exclusions, move budget between asset groups and campaigns, and add new creative. You get a report and a call.</p><p class=\"pmsd__get\"><b>You get:</b> Steady gains, month after month.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New images and videos for weak assets</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Budget moved to what works</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New-customer and value goals tested</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A monthly report and call</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li></ol>\n\t\t\t<div class=\"pmau__head\"><p class=\"pmau__kick\">What we manage</p><h3>Eight parts of Performance Max, <span class=\"accent\">managed every month</span></h3><p>For each part: why it matters, what we do, what we usually find when we take over an account and what we change.</p></div>\n\t\t\t<div class=\"pmau\" data-tabs>\n\t\t\t\t<div class=\"pmau__tabs\" role=\"tablist\" aria-orientation=\"vertical\" aria-label=\"Parts of Performance Max we manage\"><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-205-t0\" aria-controls=\"au-205-p0\" aria-selected=\"true\"><span>01</span>Brand and exclusions<em>6 tasks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-205-t1\" aria-controls=\"au-205-p1\" aria-selected=\"false\"><span>02</span>Asset groups<em>6 tasks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-205-t2\" aria-controls=\"au-205-p2\" aria-selected=\"false\"><span>03</span>Creative: images, video and copy<em>6 tasks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-205-t3\" aria-controls=\"au-205-p3\" aria-selected=\"false\"><span>04</span>Audience signals<em>6 tasks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-205-t4\" aria-controls=\"au-205-p4\" aria-selected=\"false\"><span>05</span>Product feed<em>6 tasks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-205-t5\" aria-controls=\"au-205-p5\" aria-selected=\"false\"><span>06</span>Conversion goals and values<em>6 tasks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-205-t6\" aria-controls=\"au-205-p6\" aria-selected=\"false\"><span>07</span>Search categories and placements<em>6 tasks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-205-t7\" aria-controls=\"au-205-p7\" aria-selected=\"false\"><span>08</span>Budgets and bidding<em>6 tasks · 4 common issues</em></button></div>\n\t\t\t\t<div class=\"pmau__panels\"><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-205-p0\" aria-labelledby=\"au-205-t0\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 1 of 8</p><h4>Brand and exclusions</h4><p class=\"pmau__why\">Without exclusions, Performance Max can spend on your brand name, your careers page or placements you’d never choose. Exclusions keep the budget on new customers.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Exclusions: sample report\">\n\t<div class=\"pmrep__head\"><b>Exclusions</b><span>When we took over</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Brand excluded</span><span class=\"pmrep__s\">No</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">URL exclusions</span><span class=\"pmrep__s\">None</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Account negatives</span><span class=\"pmrep__s\">0</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Placements reviewed</span><span class=\"pmrep__s\">Never</span></li></ul>\n\t<p class=\"pmrep__foot\">Budget going to the wrong places</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we do</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Brand exclusion lists</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A separate brand Search campaign</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> URL exclusions for blog, careers and support pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Account-level negative keywords</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Placement exclusions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Final URL expansion settings</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> 41% of spend on people searching for the brand</li><li><span aria-hidden=\"true\">!</span> Ads sending people to the careers page</li><li><span aria-hidden=\"true\">!</span> Final URL expansion on with no exclusions</li><li><span aria-hidden=\"true\">!</span> Ads in mobile games and parked domains</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Brand exclusions, with brand moved to a low-cost Search campaign</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> URL exclusions for pages that don’t sell</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Account-level negatives for job and free searches</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Monthly placement review</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-205-p1\" aria-labelledby=\"au-205-t1\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 2 of 8</p><h4>Asset groups</h4><p class=\"pmau__why\">Asset groups decide which message goes with which products or audiences. Too few, and every product gets the same generic ad; too many, and each one has too little data to learn.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Asset groups: sample report\">\n\t<div class=\"pmrep__head\"><b>Asset groups</b><span>Before vs after</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Asset groups</span><span class=\"pmrep__s\">1 → 6</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Products with clicks</span><span class=\"pmrep__s\">36% → 71%</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">High-margin share of spend</span><span class=\"pmrep__s\">22% → 48%</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Top 20 products’ share</span><span class=\"pmrep__s\">78% → 41%</span></li></ul>\n\t<p class=\"pmrep__foot\">Budget spread across what sells</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we do</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Asset groups by range, margin or audience</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Listing groups for retail</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Messages per asset group</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Search themes</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Budget share per group</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Groups that should be merged or split</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> One asset group for 1,840 products</li><li><span aria-hidden=\"true\">!</span> Best-sellers and clearance lines treated the same</li><li><span aria-hidden=\"true\">!</span> The same headlines in every group</li><li><span aria-hidden=\"true\">!</span> No search themes</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Groups by product range and margin</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> High-margin products in their own group</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A clear message for each group</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Search themes from your best Search keywords</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-205-p2\" aria-labelledby=\"au-205-t2\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 3 of 8</p><h4>Creative: images, video and copy</h4><p class=\"pmau__why\">Assets decide where your ads can show and how good they look there. Weak or missing assets push Performance Max into cheap placements and auto-generated video.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Assets: sample report\">\n\t<div class=\"pmrep__head\"><b>Assets</b><span>After our first refresh</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Video</span><span class=\"pmrep__s\">Made for you</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Images rated Good or Best</span><span class=\"pmrep__s\">12 of 15</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Headlines rated Best</span><span class=\"pmrep__s\">6</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Auto-generated assets</span><span class=\"pmrep__s\">Off</span></li></ul>\n\t<p class=\"pmrep__foot\">Better assets, better placements</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we do</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Images in every size</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Short videos for YouTube and Shorts</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Headlines and descriptions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Logos and brand guidelines</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Asset ratings and performance</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New creative each month</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Auto-generated video running on YouTube</li><li><span aria-hidden=\"true\">!</span> 9 of 15 images rated Low</li><li><span aria-hidden=\"true\">!</span> Headlines copied from the homepage</li><li><span aria-hidden=\"true\">!</span> No new assets for over a year</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Videos made by our team for each asset group</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> New images to replace Low-rated ones</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Headlines written for each range or audience</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A monthly creative refresh</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-205-p3\" aria-labelledby=\"au-205-t3\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 4 of 8</p><h4>Audience signals</h4><p class=\"pmau__why\">Signals tell Performance Max who to look for first. Without them it starts from scratch and takes longer to find the right people.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Audience signals: sample report\">\n\t<div class=\"pmrep__head\"><b>Audience signals</b><span>Per asset group</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Customer list</span><span class=\"pmrep__s\">Uploaded</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Website visitors</span><span class=\"pmrep__s\">Added</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Custom segments</span><span class=\"pmrep__s\">4</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">New-customer goal</span><span class=\"pmrep__s\">On</span></li></ul>\n\t<p class=\"pmrep__foot\">Google starts with the right people</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we do</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Customer lists</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Website visitor lists</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Custom segments from search terms</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Interests and life events</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Signals per asset group</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New-customer acquisition goals</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> No signals at all</li><li><span aria-hidden=\"true\">!</span> The same signal on every asset group</li><li><span aria-hidden=\"true\">!</span> Customer lists never uploaded</li><li><span aria-hidden=\"true\">!</span> No new-customer goal, so it chases repeat buyers</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Customer and visitor lists as signals</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Custom segments built from your best search terms</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Different signals per asset group</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> New-customer goals where they make sense</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-205-p4\" aria-labelledby=\"au-205-t4\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 5 of 8</p><h4>Product feed</h4><p class=\"pmau__why\">For retail, the feed is the ad. Titles, images, prices and labels decide which searches your products show for and how they look.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Product feed: sample report\">\n\t<div class=\"pmrep__head\"><b>Product feed</b><span>Merchant Center</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Products</span><span class=\"pmrep__s\">1,840</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Disapproved</span><span class=\"pmrep__s\">212</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Titles improved</span><span class=\"pmrep__s\">1,240</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Custom labels</span><span class=\"pmrep__s\">3 added</span></li></ul>\n\t<p class=\"pmrep__foot\">The feed is the ad</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we do</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Titles with brand, type, size and colour</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Images and extra images</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Prices, sale prices and shipping</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Custom labels for margin and best-sellers</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Merchant Center errors and warnings</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Products disapproved or limited</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Titles missing size, colour or brand</li><li><span aria-hidden=\"true\">!</span> 212 products disapproved in Merchant Center</li><li><span aria-hidden=\"true\">!</span> No custom labels, so margin can’t guide bidding</li><li><span aria-hidden=\"true\">!</span> Images with text and watermarks</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Titles rewritten with the words people search</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Disapprovals fixed and monitored</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Custom labels for margin, season and best-sellers</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Clean product images</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-205-p5\" aria-labelledby=\"au-205-t5\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 6 of 8</p><h4>Conversion goals and values</h4><p class=\"pmau__why\">Performance Max chases whatever you count as a conversion. Wrong goals or missing values send it after the wrong customers.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Goals: sample report\">\n\t<div class=\"pmrep__head\"><b>Goals</b><span>What Performance Max chases</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Purchases</span><span class=\"pmrep__s\">Primary, correct value</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Newsletter</span><span class=\"pmrep__s\">Secondary</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Qualified leads</span><span class=\"pmrep__s\">From CRM</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Spam leads</span><span class=\"pmrep__s\">Filtered</span></li></ul>\n\t<p class=\"pmrep__foot\">It learns from real results</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we do</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Primary and secondary goals</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Purchase values and currency</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Lead values by type</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Offline conversions from your CRM</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Enhanced conversions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Double counting</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Newsletter sign-ups counted as primary</li><li><span aria-hidden=\"true\">!</span> Purchase values including tax and shipping</li><li><span aria-hidden=\"true\">!</span> Every lead counted the same</li><li><span aria-hidden=\"true\">!</span> No offline conversions, so spam leads look good</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Only real sales or qualified leads as primary goals</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Correct values, without tax and shipping</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Lead values from your CRM</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Offline conversions uploaded daily</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-205-p6\" aria-labelledby=\"au-205-t6\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 7 of 8</p><h4>Search categories and placements</h4><p class=\"pmau__why\">Performance Max shows only a little of where it runs. We read the search categories and placement reports it does give, and act on them.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Channels: sample report\">\n\t<div class=\"pmrep__head\"><b>Channels</b><span>Last 30 days</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Search and Shopping</span><span class=\"pmrep__s\">52% of spend</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Display and Gmail</span><span class=\"pmrep__s\">31% of spend</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">YouTube</span><span class=\"pmrep__s\">17% of spend</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Sales from Display</span><span class=\"pmrep__s\">4%</span></li></ul>\n\t<p class=\"pmrep__foot\">We show what Google summarises</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we do</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Search term insights and categories</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Placements on Display and YouTube</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Channel split</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Brand vs non-brand results</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Location and device results</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Overlap with Search campaigns</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Search categories full of job and free searches</li><li><span aria-hidden=\"true\">!</span> A third of spend on Display with few sales</li><li><span aria-hidden=\"true\">!</span> Performance Max taking your best Search keywords</li><li><span aria-hidden=\"true\">!</span> Results never split by channel</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Negatives and search themes from the categories</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Placement exclusions and better assets to steer channels</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Clear roles for Search and Performance Max</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A channel report every month</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-205-p7\" aria-labelledby=\"au-205-t7\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 8 of 8</p><h4>Budgets and bidding</h4><p class=\"pmau__why\">Performance Max needs steady budgets and realistic targets. Changing them too often resets learning; setting them too tight stops it spending.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Bidding: sample report\">\n\t<div class=\"pmrep__head\"><b>Bidding</b><span>Targets vs results</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Target return on ad spend</span><span class=\"pmrep__s\">900%</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Actual return</span><span class=\"pmrep__s\">420%</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Lost to budget</span><span class=\"pmrep__s\">28%</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Budget changes last month</span><span class=\"pmrep__s\">9</span></li></ul>\n\t<p class=\"pmrep__foot\">Unrealistic targets hold it back</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we do</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Bid strategy and targets</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Budget per campaign</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Learning periods</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Seasonality adjustments</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Budget limits and lost share</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Scaling plans</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> A target return set far above anything achieved</li><li><span aria-hidden=\"true\">!</span> Budgets changed every week</li><li><span aria-hidden=\"true\">!</span> Best campaign limited by budget</li><li><span aria-hidden=\"true\">!</span> No plan for seasonal peaks</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Targets from real results, raised step by step</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Changes made in planned steps</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Budget moved to what works</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Seasonality adjustments for sales and peaks</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "performance-max",
+    "modules": [
+     "@intella/scroll-accordions",
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Why Performance Max <em>disappoints</em>",
+    "lead": "The problems we see most often. Here is what each one looks like inside the account, and how we fix it.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "Taking credit for brand searches",
+      "problem": "Performance Max spends on people already searching for your brand and reports those sales as its own.",
+      "beforeTitle": "Performance Max sales",
+      "before": [
+       {
+        "label": "From brand searches",
+        "value": "41%",
+        "tone": "bad"
+       },
+       {
+        "label": "Return without brand",
+        "value": "2.4x",
+        "tone": "warn"
+       }
+      ],
+      "fix": "Brand exclusions and a separate low-cost brand Search campaign, with results reported brand and non-brand.",
+      "afterTitle": "After 90 days",
+      "after": [
+       {
+        "label": "From brand searches",
+        "value": "3%",
+        "tone": "ok"
+       },
+       {
+        "label": "New-customer sales",
+        "value": "+38%",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Poor leads in lead generation",
+      "problem": "Every form fill counts the same, so Performance Max finds the cheapest leads, many of them spam.",
+      "beforeTitle": "Leads this quarter",
+      "before": [
+       {
+        "label": "Spam or unqualified",
+        "value": "61%",
+        "tone": "bad"
+       },
+       {
+        "label": "Became customers",
+        "value": "6",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Offline conversions and lead values from your CRM, and spam filtered out before it counts.",
+      "afterTitle": "After 90 days",
+      "after": [
+       {
+        "label": "Spam or unqualified",
+        "value": "18%",
+        "tone": "ok"
+       },
+       {
+        "label": "Became customers",
+        "value": "19",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Auto-generated videos",
+      "problem": "With no video added, Google builds its own from your images, and it runs on YouTube.",
+      "beforeTitle": "Assets",
+      "before": [
+       {
+        "label": "Video",
+        "value": "Auto-generated",
+        "tone": "bad"
+       },
+       {
+        "label": "Images rated Low",
+        "value": "9 of 15",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Real videos made by our team for each asset group, refreshed every month.",
+      "afterTitle": "After our refresh",
+      "after": [
+       {
+        "label": "Video",
+        "value": "Made for you",
+        "tone": "ok"
+       },
+       {
+        "label": "Images rated Good or Best",
+        "value": "12 of 15",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "One asset group for every product",
+      "problem": "Every product shares one set of assets and signals, so a few best-sellers take the whole budget.",
+      "beforeTitle": "Products",
+      "before": [
+       {
+        "label": "With no clicks",
+        "value": "64%",
+        "tone": "bad"
+       },
+       {
+        "label": "Top 20 products’ share of spend",
+        "value": "78%",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Asset groups by range, margin or audience, each with its own message and signals.",
+      "afterTitle": "After the split",
+      "after": [
+       {
+        "label": "With no clicks",
+        "value": "29%",
+        "tone": "ok"
+       },
+       {
+        "label": "High-margin share of spend",
+        "value": "48%",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Budget lost to Display",
+      "problem": "A third of the budget goes to Display and Gmail placements that rarely sell.",
+      "beforeTitle": "Spend by channel",
+      "before": [
+       {
+        "label": "Display and Gmail",
+        "value": "31%",
+        "tone": "bad"
+       },
+       {
+        "label": "Sales from Display",
+        "value": "4%",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Better assets, placement exclusions and signals that steer spend to Search and Shopping.",
+      "afterTitle": "After 60 days",
+      "after": [
+       {
+        "label": "Display and Gmail",
+        "value": "13%",
+        "tone": "ok"
+       },
+       {
+        "label": "Shopping",
+        "value": "38%",
+        "tone": "ok"
+       }
+      ]
+     }
+    ],
+    "visual": "",
+    "alt": true
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your monthly Performance Max report",
+    "html": "<section class=\"section section--cream pmreport\" aria-labelledby=\"h-208\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-208\">Your <span class=\"accent\">monthly Performance Max report</span></h2>\n\t\t\t\t<p class=\"section-lead\">What Google usually hides, shown clearly every month, with a call to go through it.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrd__dl\">\n\t\t\t\t<a class=\"button button--primary button--lg\" href=\"{{media:assets/samples/performance-max-sample-report.pdf}}\" download>Download a sample report <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t<p>A real report layout with example data, so you know exactly what you’ll receive.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrv\">\n\t\t\t\t<ol class=\"pmrv__list\" role=\"list\"><li><span class=\"pmrv__n\">01</span><div><h3>Summary <small>1 page</small></h3><p>Sales or leads, cost, return and new customers, compared with last month and last year.</p></div></li><li><span class=\"pmrv__n\">02</span><div><h3>Brand vs non-brand <small>1 page</small></h3><p>How much of Performance Max comes from your brand name, and what it adds beyond that.</p></div></li><li><span class=\"pmrv__n\">03</span><div><h3>Channels and search categories <small>1–2 pages</small></h3><p>Spend and results by Search, Shopping, YouTube, Display and Gmail, and the search categories behind them.</p></div></li><li><span class=\"pmrv__n\">04</span><div><h3>Assets and products <small>1–2 pages</small></h3><p>Which images, videos, headlines and products win, and which we’re replacing.</p></div></li><li><span class=\"pmrv__n\">05</span><div><h3>Next month <small>1 page</small></h3><p>What we’ll change next and why, so you always know the plan.</p></div></li></ol>\n\t\t\t\t<a class=\"pmrv__pic\" href=\"{{media:assets/samples/performance-max-sample-report.pdf}}\" aria-label=\"Open the sample report (PDF)\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--3\" src=\"{{media:assets/samples/performance-max-sample-report-3.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--2\" src=\"{{media:assets/samples/performance-max-sample-report-2.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--1\" src=\"{{media:assets/samples/performance-max-sample-report-1.jpg}}\" alt=\"Cover of the sample report\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<span class=\"pmrv__tag\">Sample · example data</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "performance-max",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Companies we run Performance Max for",
+    "html": "<section class=\"section section--white pmcsx\" aria-labelledby=\"h-210\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-210\">Companies we run <span class=\"accent\">Performance Max</span> for</h2>\n\t\t\t\t<p class=\"section-lead\">Who they are, why they came to us, what we found and what changed. Pick a company to read its story.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmcs pmcs--ba\" data-tabs>\n\t\t\t\t<div class=\"pmcs__tabs\" role=\"tablist\" aria-orientation=\"vertical\" aria-label=\"Companies we run Performance Max for\"><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-209-t0\" aria-controls=\"ad-209-p0\" aria-selected=\"true\"><span class=\"cmlg\" style=\"--lc:#15803d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"14\" cy=\"16\" r=\"7\" fill=\"#22c55e\"/><circle cx=\"26\" cy=\"16\" r=\"7\" fill=\"#15803d\"/><path d=\"M6 34c2-7 7-10 14-10s12 3 14 10\" fill=\"#86efac\"/></svg><span class=\"cmlg__w\"><b>Kinfold</b><span>Home</span></span></span><span class=\"pmcs__ti\">Furniture store</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-209-t1\" aria-controls=\"ad-209-p1\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#b91c1c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 3 34 9v10c0 9-6 15-14 18C12 34 6 28 6 19V9z\" fill=\"#dc2626\"/><circle cx=\"20\" cy=\"19\" r=\"5\" fill=\"#fecaca\"/></svg><span class=\"cmlg__w\"><b>Sentra</b><span>Security</span></span></span><span class=\"pmcs__ti\">B2B services</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-209-t2\" aria-controls=\"ad-209-p2\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#6d28d9\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"4\" y=\"8\" width=\"32\" height=\"24\" rx=\"6\" fill=\"#7c3aed\"/><path d=\"M9 20h6l3-6 4 12 3-6h6\" stroke=\"#ede9fe\" stroke-width=\"2.8\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Lumen</b><span>Skincare</span></span></span><span class=\"pmcs__ti\">Beauty brand</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-209-t3\" aria-controls=\"ad-209-p3\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#4338ca\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"5\" y=\"22\" width=\"7\" height=\"13\" rx=\"2\" fill=\"#a5b4fc\"/><rect x=\"16.5\" y=\"14\" width=\"7\" height=\"21\" rx=\"2\" fill=\"#6366f1\"/><rect x=\"28\" y=\"5\" width=\"7\" height=\"30\" rx=\"2\" fill=\"#4338ca\"/></svg><span class=\"cmlg__w\"><b>Tallis</b><span>Tools</span></span></span><span class=\"pmcs__ti\">Trade supplies</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-209-t4\" aria-controls=\"ad-209-p4\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 4c8 6 12 12 12 18a12 12 0 0 1-24 0c0-6 4-12 12-18z\" fill=\"#14b8a6\"/><path d=\"M14 23a6 6 0 0 0 6 6\" stroke=\"#ccfbf1\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Halcyon</b><span>Travel</span></span></span><span class=\"pmcs__ti\">Tour operator</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-209-t5\" aria-controls=\"ad-209-p5\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#be185d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"16\" fill=\"#fbcfe8\"/><circle cx=\"20\" cy=\"20\" r=\"9\" fill=\"#db2777\"/><circle cx=\"23\" cy=\"17\" r=\"3\" fill=\"#fff\"/></svg><span class=\"cmlg__w\"><b>Verra</b><span>Pet</span></span></span><span class=\"pmcs__ti\">Pet supplies</span></button></div>\n\t\t\t\t<div class=\"pmcs__panels\"><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-209-p0\" aria-labelledby=\"ad-209-t0\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#15803d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"14\" cy=\"16\" r=\"7\" fill=\"#22c55e\"/><circle cx=\"26\" cy=\"16\" r=\"7\" fill=\"#15803d\"/><path d=\"M6 34c2-7 7-10 14-10s12 3 14 10\" fill=\"#86efac\"/></svg><span class=\"cmlg__w\"><b>Kinfold</b><span>Home</span></span></span><p>Furniture store<span>Performance Max and Shopping · 9 months</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>An online furniture and homeware store with about 1,800 products and a large Performance Max budget.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Return on ad spend looked strong, but total sales hadn’t grown in a year. They suspected Performance Max was mostly selling to people who already knew them.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>41% of Performance Max sales came from brand searches</li><li>One asset group for every product</li><li>Auto-generated video running on YouTube</li><li>64% of products never got a click</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Brand moved to its own campaign, six asset groups by range and margin, videos made by our team. Sales to new customers grew while the budget stayed the same.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">New-customer sales a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:65%\"></span><b>Before $41k</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After $63k</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">54% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Products getting clicks</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:51%\"></span><b>Before 36%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 71%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">97% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-209-p1\" aria-labelledby=\"ad-209-t1\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#b91c1c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 3 34 9v10c0 9-6 15-14 18C12 34 6 28 6 19V9z\" fill=\"#dc2626\"/><circle cx=\"20\" cy=\"19\" r=\"5\" fill=\"#fecaca\"/></svg><span class=\"cmlg__w\"><b>Sentra</b><span>Security</span></span></span><p>B2B services<span>Performance Max for leads · 7 months</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A commercial security company installing alarms and access control for offices and warehouses.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Performance Max brought hundreds of leads a month, but sales said most were spam or homeowners they couldn’t serve.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>61% of leads were spam or unqualified</li><li>Every form fill counted the same</li><li>No offline conversions from the CRM</li><li>A third of spend on Display placements</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Offline conversions and lead values from their CRM taught Google which leads became customers. Fewer leads, but far more that sales wanted.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per customer</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $2,310</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:38%\"></span><b>After $880</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">62% lower</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Qualified leads a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:45%\"></span><b>Before 19</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 42</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">121% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-209-p2\" aria-labelledby=\"ad-209-t2\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#6d28d9\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"4\" y=\"8\" width=\"32\" height=\"24\" rx=\"6\" fill=\"#7c3aed\"/><path d=\"M9 20h6l3-6 4 12 3-6h6\" stroke=\"#ede9fe\" stroke-width=\"2.8\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Lumen</b><span>Skincare</span></span></span><p>Beauty brand<span>Performance Max, feed and creative · 6 months</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A direct-to-consumer skincare brand selling about 60 products, with a loyal base of repeat buyers.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Most Performance Max sales went to existing customers, so it wasn’t growing the brand.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>No new-customer goal, so it chased repeat buyers</li><li>Customer lists never uploaded as signals</li><li>Images rated Low across every asset group</li><li>Feed titles without skin type or size</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>New-customer goals, customer lists as signals, and new images and videos from our team. More first-time buyers at a cost the margins could carry.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">New customers a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:57%\"></span><b>Before 310</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 540</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">74% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per new customer</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $48</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:71%\"></span><b>After $34</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">29% lower</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-209-p3\" aria-labelledby=\"ad-209-t3\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#4338ca\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"5\" y=\"22\" width=\"7\" height=\"13\" rx=\"2\" fill=\"#a5b4fc\"/><rect x=\"16.5\" y=\"14\" width=\"7\" height=\"21\" rx=\"2\" fill=\"#6366f1\"/><rect x=\"28\" y=\"5\" width=\"7\" height=\"30\" rx=\"2\" fill=\"#4338ca\"/></svg><span class=\"cmlg__w\"><b>Tallis</b><span>Tools</span></span></span><p>Trade supplies<span>Performance Max and Search · 8 months</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>An online supplier of power tools and trade supplies, selling to tradespeople and serious DIYers.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Performance Max kept taking traffic from their best Search campaigns, and costs on both kept rising.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>38 keywords overlapping between Search and Performance Max</li><li>No account-level negative keywords</li><li>Clearance lines and high-margin tools in one group</li><li>Budgets changed almost every week</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Clear roles for Search and Performance Max, margin-based asset groups and steadier budgets. Both campaign types became cheaper per sale.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per sale</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $31</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:71%\"></span><b>After $22</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">29% lower</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Return on ad spend</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:67%\"></span><b>Before 3.1x</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 4.6x</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">48% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-209-p4\" aria-labelledby=\"ad-209-t4\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 4c8 6 12 12 12 18a12 12 0 0 1-24 0c0-6 4-12 12-18z\" fill=\"#14b8a6\"/><path d=\"M14 23a6 6 0 0 0 6 6\" stroke=\"#ccfbf1\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Halcyon</b><span>Travel</span></span></span><p>Tour operator<span>Performance Max for bookings · 5 months</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A small-group tour operator selling walking holidays in Europe, with most bookings months ahead.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Performance Max spent heavily in the off-season and very little when people were actually booking.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>No seasonality adjustments</li><li>The same assets for every destination</li><li>Enquiries and bookings counted the same</li><li>Video auto-generated from brochure photos</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Asset groups per destination, booking values from their system and planned seasonal budgets. Spend now follows when people book.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per booking</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $420</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:63%\"></span><b>After $265</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">37% lower</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Bookings in peak months</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:66%\"></span><b>Before 86</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 131</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">52% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-209-p5\" aria-labelledby=\"ad-209-t5\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#be185d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"16\" fill=\"#fbcfe8\"/><circle cx=\"20\" cy=\"20\" r=\"9\" fill=\"#db2777\"/><circle cx=\"23\" cy=\"17\" r=\"3\" fill=\"#fff\"/></svg><span class=\"cmlg__w\"><b>Verra</b><span>Pet</span></span></span><p>Pet supplies<span>Performance Max and feed · 10 months</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>An online pet food and supplies store with subscriptions and about 2,500 products.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>212 products were disapproved in Merchant Center, and nobody knew why sales from Shopping had dropped.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>212 products disapproved for missing data</li><li>Titles without pet type, size or flavour</li><li>No custom labels for margin or subscriptions</li><li>Display taking a third of the budget</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Feed fixed and monitored, titles rewritten, margin labels added and spend steered back to Shopping. Shopping sales recovered within two months.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Products approved</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:91%\"></span><b>Before 91%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 99.6%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">9% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Monthly sales from Shopping</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:67%\"></span><b>Before $58k</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After $87k</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">50% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "performance-max",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu",
+     "post:testimonial:Alex Barsuk"
+    ]
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Performance Max Management questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What is Performance Max?",
+      "answer": "A Google Ads campaign type that runs across search, Shopping, YouTube, display, Gmail and Maps from one campaign, using Google’s automation."
+     },
+     {
+      "question": "Is Performance Max good for lead generation?",
+      "answer": "It can be, if Google learns from lead quality, not just form fills. That means offline conversions or lead values from your CRM."
+     },
+     {
+      "question": "Why is Performance Max spending on my brand name?",
+      "answer": "By default it can show on your brand searches, where people would have found you anyway. Brand exclusions stop that."
+     },
+     {
+      "question": "Can I see where Performance Max spends?",
+      "answer": "Partly. Google shows channel results, search categories and some placements. We pull these into one monthly report."
+     },
+     {
+      "question": "Who makes the images and videos?",
+      "answer": "Our own designers and video editors, for each asset group, with a refresh every month."
+     },
+     {
+      "question": "Performance Max or Search?",
+      "answer": "Most accounts need both: search for control on key terms, Performance Max for reach."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Make Performance Max <em>find new customers</em>",
+    "lead": "Give us read-only access. We’ll show you where it really spends.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "Is it for online sales or leads, and how much does it spend a month?",
+    "service": "performance-max",
+    "buttonText": "Request a quote",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Related <em>services</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "search",
+      "title": "Google Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/",
+      "text": "Search, Performance Max and display."
+     },
+     {
+      "icon": "cart",
+      "title": "Google Shopping Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-shopping-ads/",
+      "text": "Product ads and Merchant Center."
+     },
+     {
+      "icon": "check",
+      "title": "Google Ads Conversion Tracking",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/conversion-tracking/",
+      "text": "Every conversion set up and tested."
+     }
+    ]
+   }
+  }
+ ]
+}

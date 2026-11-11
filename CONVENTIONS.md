@@ -63,20 +63,20 @@ theme/intella/
 │   ├── setup.php        Theme supports, menus, image sizes
 │   ├── cleanup.php      Removes WordPress head clutter
 │   ├── helpers.php      Small shared functions
+│   ├── head.php         Favicons, top bar check
 │   ├── enqueue.php      CSS and JS loading
-│   └── blocks.php       Registers every compiled block in build/blocks/
+│   ├── menus.php        Main menu + Services mega menu, footer menus (edited in Appearance → Menus)
+│   └── blocks.php       Registers blocks/*, builds their fields, loads only the CSS of blocks on the page
 ├── header.php, footer.php
 ├── index.php, page.php, single.php, archive.php, search.php, 404.php   (WordPress template hierarchy)
 ├── page-templates/      Custom page templates (rare; see section 4)
 ├── template-parts/      Reusable PHP partials (site header, footer, cards)
-├── src/blocks/<name>/   Block source: block.json, index.js, edit.js, render.php, style.css, editor.css, view.js
-├── build/blocks/<name>/ Compiled blocks (made by `npm run build`; never edit by hand)
-├── package.json         Block build tooling (@wordpress/scripts)
+├── blocks/<name>/       One folder per section block: block.json (fields), render.php (HTML), style.css
 └── assets/
     ├── css/             Global CSS (see section 7)
-    ├── js/              Global JS (see section 8)
+    ├── js/              main.js, modules/ (one file per feature), editor/blocks.js (the block editor form)
     ├── fonts/           Self-hosted .woff2 only
-    └── images/          Theme UI only: logo, icons, decorative SVGs. No content images.
+    └── images/          Theme UI only: logo, icons.svg sprite, logos/ (menu), tools/ (tool logos). No content images.
 ```
 
 ### Theme vs plugin: where code goes
@@ -121,22 +121,32 @@ marketer might change must be editable in the WordPress admin.
 - Blog posts and case studies follow `Context/2026-10-22-wordpress-content-rules.md` and keep the existing
   custom-field names (`summary`, `faq_blog_post`, `case_study_metric_1_label`, …) so old content still works.
 
-### Section blocks (decided 2026-10-29: native WordPress blocks)
+### Section blocks (native WordPress blocks, no build step; updated 2026-11-10)
 
-- Each section is a **native block** in `src/blocks/<name>/`, named `intella/<name>` (e.g. `intella/faq`), in the
-  "Intella sections" inserter category. Block folder names are kebab-case and describe the section, not a page.
-- **Every block is dynamic:** the editor saves only attributes (`save` returns `null`) and `render.php` outputs the
-  HTML. Changing a block's design is then a PHP/CSS change and never breaks saved content.
-- `edit.js` gives a close preview with inline editing (`RichText`, `MediaUpload`, `InspectorControls`). Use
-  `@wordpress/components` controls; no other UI libraries.
-- Use `InnerBlocks` when a section should hold free content (e.g. a two-column text section), with an
-  `allowedBlocks` list.
-- `block.json` declares `style` (front-end CSS), `editorStyle` (editor-only tweaks) and `viewScriptModule` (front-end
-  JS) so WordPress loads each file only where the block is used.
-- Set `"supports"` deliberately: turn off colour, typography and spacing controls unless the design needs them, so
-  editors can't drift from the design.
-- Build: `npm install` once, `npm run start` while working on blocks, `npm run build` before committing. The
-  compiled `build/` folder is committed so the theme can be uploaded as-is (see Q10).
+- Each section is a block in `blocks/<name>/`, named `intella/<name>`, in the "Intella sections" inserter group.
+  Folder names are kebab-case and describe the section, not a page (`faq`, `home-hero`, `logo-strip`).
+- A block folder has three files:
+  - `block.json`: title, icon, and the editor fields under `"intella": { "fields": [...] }`. Attributes are built
+    from the fields, so each field is declared once. `"section": "cream"` adds the shared Background and Anchor
+    settings. `viewScriptModule` lists the JS modules the section needs (e.g. `"@intella/tabs"`).
+  - `render.php`: the section's HTML. **Every block is dynamic**: pages store only the content, so a design change
+    is a code change that reaches every page with the next `git pull`.
+  - `style.css`: the section's CSS, loaded in `<head>` only on pages that use the block.
+- Field types: `text`, `inline` (allows `<em>` for the gradient accent words), `textarea`, `url`, `image` (Media
+  Library ID), `toggle`, `select`, `number`, `list` (one item per line), `repeater` (nested fields), `posts`
+  (pick Testimonials / Clients / Team), `code` (raw HTML/SVG illustration, admins only).
+- There is **no per-block JavaScript for the editor**: `assets/js/editor/blocks.js` builds every block's sidebar
+  form from its fields and shows a live preview drawn by `render.php`. No npm, no build.
+- The markup in `render.php` must match the prototype section in `Code/frontend` exactly (same classes and data
+  attributes), so the prototype's CSS and JS work unchanged. Check with a section-by-section diff.
+- **One-off sections (decided 2026-11-10: hybrid).** A section type used on 2+ pages gets a proper block. A
+  section that exists on one page only is a **Custom section** block (`intella/custom-section`): its HTML is in a
+  code field, its CSS in `assets/css/custom/<page>.css` (loaded in `<head>` only on that page), its scripts listed
+  in the block, and any lead form inside it is wired to the form handler automatically. When a one-off needs
+  frequent editing, or a second page needs it, turn it into a proper block.
+- Shared content is edited once, never copied into blocks: **Testimonials, Clients and Team** have their own admin
+  screens (with a "Placeholder" flag for made-up items) and blocks pick from them with a `posts` field. Site-wide
+  details (phone, email, top bar, footer call to action) live in **Settings → Intella site**.
 
 **❓ Decision needed (Q2): editor.** Default: the block editor (Gutenberg) for pages, posts and case studies,
 and drop the Classic Editor plugin used in Version 1.
@@ -204,21 +214,23 @@ except pages we deliberately retire, which get a 301 logged in `redirects.md`.
 
 **Where it lives**
 - Global CSS: `theme/intella/assets/css/`, loaded on every page in this order:
+  0. `fonts.css`: the three self-hosted fonts (Schibsted Grotesk, Rubik, Playfair Display italic; approved
+     2026-11-10, three files in total).
   1. `tokens.css`: CSS custom properties (colours, fonts, spacing, radii, shadows). The only place raw values
-     live, together with `theme.json`.
+     live. `theme.json` mirrors the palette for the editor.
   2. `base.css`: reset and default styles for HTML elements and typography.
   3. `layout.css`: container, section spacing, site header and footer.
-  4. `components/*.css`: one file per shared component used on many pages (`button.css`, `card.css`, `form.css`).
+  3b. `mega-menu.css`: the Services mega menu.
+  4. `components.css`: buttons, section headings, chips, icon tiles, form fields.
   5. `utilities.css`: a handful of helpers (`.visually-hidden`, `.container`). Loaded last.
-- Block CSS lives **with its block**: `src/blocks/<name>/style.css`, referenced from `block.json`. WordPress loads
-  it only on pages that use the block. Editor-only fixes go in `editor.css`.
+- Block CSS lives **with its block**: `blocks/<name>/style.css`, referenced from `block.json`. It is split from the
+  prototype's CSS by `bin/import/css_split.py`; after that, edit it in the block folder.
 - No CSS in `style.css`, in `<style>` tags, or in `style=""` attributes. No CSS in PHP.
 
 **How it's written**
 - Plain modern CSS: custom properties, native nesting, `clamp()`, `:is()` / `:where()`, logical properties
   (`margin-inline`, `padding-block`) so an Arabic (RTL) version is possible later.
-- **No framework and no Sass** (no Tailwind, Bootstrap). Global CSS in `assets/css/` has no build step; block CSS
-  passes through the block build only because it sits next to the block's JS.
+- **No framework, no Sass, no build step** (no Tailwind, Bootstrap).
 - Naming: **BEM**. `.card`, `.card__title`, `.card--featured`. One component per file; the file name matches the
   block name. State classes: `is-open`, `is-active`, `has-error`.
 - Colours, fonts, spacing and radii come **only** from tokens: `color: var(--color-accent)`, never `#9b30ff`.
@@ -235,16 +247,16 @@ except pages we deliberately retire, which get a 301 logged in `redirects.md`.
 
 ## 8. JavaScript
 
-- **Front end: vanilla JavaScript, ES modules, no jQuery, no build step.** jQuery is never loaded on the front end.
-- **Block editor code** (`src/blocks/<name>/edit.js`, `index.js`) is React/JSX using `@wordpress/*` packages, built
-  with `@wordpress/scripts`. This is the only JavaScript that needs a build.
+- **Vanilla JavaScript, ES modules, no jQuery, no build step.** jQuery is never loaded on the front end.
+- The block editor form (`assets/js/editor/blocks.js`) is plain JavaScript using WordPress's own `wp.*` editor
+  libraries (`wp.element.createElement`, no JSX), so it needs no build either.
 - Global entry: `assets/js/main.js`, loaded with `wp_enqueue_script_module()` (modules are deferred
   automatically). It only imports features and starts them.
 - Features live in `assets/js/modules/<feature>.js` and export an `init…()` function. Each file is registered
   automatically as `@intella/<feature>`, so import it by that name:
   `import { initNavigation } from '@intella/navigation';`
-- Block front-end JS lives in `src/blocks/<name>/view.js` (`viewScriptModule` in `block.json`) and loads only
-  when the block is on the page. It follows the same vanilla rules as `assets/js/`.
+- A block lists the modules it needs in `block.json` (`"viewScriptModule": "@intella/tabs"`), so a page only
+  loads the code its sections use. Each module starts itself on import and does nothing if its markup is absent.
 - Select elements by `data-*` attributes (`[data-nav-toggle]`) or ARIA, **never by styling classes**. CSS and JS
   can then change independently.
 - **Progressive enhancement:** content is visible and forms submit without JavaScript; JS only improves things.
@@ -315,10 +327,12 @@ except pages we deliberately retire, which get a 301 logged in `redirects.md`.
 
 ## 13. Forms and leads
 
-- **❓ Decision needed (Q8): form handling.** Default: a small custom handler in `mu-plugins/intella-core/`
-  (like Version 1's, but fixed) with a honeypot and Cloudflare Turnstile for spam, server-side validation, and
-  hidden UTM / referrer fields so we know which campaign each lead came from. Alternative: a form plugin
-  (Fluent Forms, Gravity Forms, WPForms).
+- Every lead form posts to one handler in `mu-plugins/intella-core/forms.php` (built 2026-11-10): honeypot field +
+  signed timestamp against spam, the same checks as the browser repeated on the server, then the enquiry is saved
+  as a private **Lead** (Leads menu, administrators only), emailed, and the visitor goes to `/thank-you/`.
+- Forms print `intella_form_hidden_fields( 'name' )`, which adds the campaign fields (utm_*, gclid, referrer,
+  landing page). `campaign-fields.js` remembers the visit's first page, so the source survives clicking around.
+- Still open: add Cloudflare Turnstile if spam gets through; send leads to a CRM (HubSpot?).
 - The recipient address comes from a setting or `wp-config.php` constant, never from code.
 - Every form shows a clear success and error state and works without JavaScript.
 
@@ -335,7 +349,24 @@ except pages we deliberately retire, which get a 301 logged in `redirects.md`.
 
 ---
 
-## 15. How Claude works in Version 2
+## 15. Bringing a prototype page into WordPress
+
+The approved pages are in `Code/frontend` (static HTML). The kit in `bin/import/` moves them across:
+
+1. `urls.py`: maps each prototype file to its WordPress address (from the frontend wiki).
+2. Build the block(s) for any new section type (`blocks/<name>/`), add the section to `blocks_map.py`, and run
+   `css_split.py` to give the block its CSS.
+3. Add an extractor in `extract_pages.py` (reads the section's HTML → the block's fields) and the page to `PAGES`.
+   Service pages use `'auto'`: sections with a matching block (`MARKER_BLOCKS`, `SHAPES` in `blocks_map.py`,
+   `block_for()`) become that block, everything else a Custom section. `css_split.py` writes each page's custom CSS.
+4. `python3 extract_pages.py`, then `bin/wp --user=intella-admin eval-file bin/import/import.php settings shared menus pages`.
+5. Compare each section with the prototype; only intended differences may remain (responsive images, form
+   fields, curly quotes).
+
+After a page is in WordPress, edit it in WordPress, not in `Code/frontend`. Re-running the import overwrites the
+page's content.
+
+## 16. How Claude works in Version 2
 
 1. Before coding, read this file, the matching frame in `Design/version 2/`, and the page brief in
    `Content/Intella Digital Content Structure.xlsx`.
@@ -359,7 +390,6 @@ site root (section 6) · Rank Math (section 11) · build step for blocks only (s
 |---|---|---|
 | Q2 | Editor | Block editor; drop Classic Editor |
 | Q5 | Author / category archives | Keep author pages; drop "Uncategorized" |
-| Q8 | Form handling | Custom handler in intella-core |
 | Q9 | Git branches | Feature branches, reviewed by Amit |
 | Q10 | Hosting, staging and deploy | VPS; deploy = `git push`, then `bin/deploy.sh` on the server (README). Staging: not set up |
 | Q11 | Arabic / RTL version ever? | Not planned, but CSS stays RTL-ready |

@@ -1,0 +1,42 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/case-study",
+	"title": "Case study",
+	"category": "intella",
+	"icon": "chart-bar",
+	"description": "A dark case-study card: client, what we did in steps, headline numbers and a monthly bar chart.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"help": "Use real client results only. Made-up case studies must be replaced before launch.",
+		"fields": [
+			{ "key": "kicker", "type": "text", "label": "Small label above the title", "default": "Case study" },
+			{ "key": "title", "type": "inline", "label": "Title" },
+			{ "key": "client", "type": "text", "label": "Client name" },
+			{ "key": "clientInfo", "type": "text", "label": "After the client name", "help": "e.g. · B2B software · LinkedIn and Google" },
+			{ "key": "steps", "type": "repeater", "label": "What we did", "fields": [
+				{ "key": "title", "type": "text", "label": "Step title" },
+				{ "key": "text", "type": "textarea", "label": "Text" }
+			], "default": [] },
+			{ "key": "buttonText", "type": "text", "label": "Button text" },
+			{ "key": "buttonUrl", "type": "url", "label": "Button link" },
+			{ "key": "stats", "type": "repeater", "label": "Headline numbers", "panel": "Numbers and chart", "fields": [
+				{ "key": "value", "type": "text", "label": "Number" },
+				{ "key": "label", "type": "text", "label": "Label" }
+			], "default": [] },
+			{ "key": "chartTitle", "type": "text", "label": "Chart title", "panel": "Numbers and chart" },
+			{ "key": "bars", "type": "repeater", "label": "Chart bars", "panel": "Numbers and chart", "help": "Height is a percentage of the tallest bar.", "fields": [
+				{ "key": "height", "type": "number", "label": "Height (%)" },
+				{ "key": "label", "type": "text", "label": "Value for screen readers", "help": "e.g. Month 1: 18" }
+			], "default": [] },
+			{ "key": "axisStart", "type": "text", "label": "Chart start label", "default": "Month 1", "panel": "Numbers and chart" },
+			{ "key": "axisEnd", "type": "text", "label": "Chart end label", "default": "Month 12", "panel": "Numbers and chart" },
+			{ "key": "look", "type": "text", "label": "Card style", "help": "Design classes, e.g. “cmcase cmcase--pm cmcase--google”.", "panel": "Section" }
+		],
+		"section": "cream"
+	}
+}

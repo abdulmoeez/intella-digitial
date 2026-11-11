@@ -1,0 +1,28 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/offer",
+	"title": "Fixed-scope offer",
+	"category": "intella",
+	"icon": "tag",
+	"description": "A priced package card (what’s included, delivery time, button) beside a picture.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{ "key": "title", "type": "inline", "label": "Heading" },
+			{ "key": "lead", "type": "textarea", "label": "Intro" },
+			{ "key": "name", "type": "text", "label": "Package name", "panel": "Card" },
+			{ "key": "price", "type": "text", "label": "Price", "help": "e.g. From $1,500", "panel": "Card" },
+			{ "key": "items", "type": "list", "label": "What’s included (one per line)", "default": [], "panel": "Card" },
+			{ "key": "delivery", "type": "text", "label": "Delivery note", "panel": "Card" },
+			{ "key": "buttonText", "type": "text", "label": "Button text", "panel": "Card" },
+			{ "key": "buttonUrl", "type": "url", "label": "Button link", "default": "#proposal", "panel": "Card" },
+			{ "key": "visual", "type": "code", "label": "Picture beside the card (HTML)", "panel": "Picture" }
+		],
+		"section": "white"
+	}
+}

@@ -1,0 +1,499 @@
+{
+ "title": "TikTok Pixel and Events API Setup",
+ "path": "/services/digital-marketing/performance-marketing/tiktok-ads/events-api/",
+ "seo": {
+  "title": "TikTok Pixel and Events API Setup | Intella Digital",
+  "description": "TikTok Pixel and Events API set up together on Shopify, WordPress or server-side Tag Manager, deduplicated and tested on real purchases."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "TikTok Ads",
+      "url": "/services/digital-marketing/performance-marketing/tiktok-ads/"
+     },
+     {
+      "label": "Pixel and Events API",
+      "url": ""
+     }
+    ],
+    "title": "TikTok Pixel and Events API, <em>set up and tested</em>",
+    "lead": "We set up the TikTok Pixel and Events API together, so TikTok sees your sales, counts each one once and finds more people who buy.",
+    "buttonText": "Get my TikTok tracking checked",
+    "formLabel": "Get my TikTok tracking checked",
+    "service": "tiktok-events-api",
+    "notes": [
+     "Pixel and Events API together",
+     "Deduplicated, so nothing counts twice",
+     "Tested on real purchases"
+    ],
+    "sliderLabel": "Common TikTok Pixel and Events API problems",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "TikTok misses half your sales",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Purchases last month</p><ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:100%\"><span>Your store</span><b>620</b></li><li style=\"--w:48%\"><span>TikTok: Pixel only</span><b>298</b></li><li style=\"--w:52%\"><span>Missing</span><b>322</b></li></ul><p class=\"cmhc__note\">TikTok can’t learn from sales it can’t see</p></div>",
+      "photo": 0,
+      "fix": "The Events API sends purchases from your store, so in-app browsers and blockers don’t hide them.",
+      "look": "missing"
+     },
+     {
+      "kicker": "",
+      "title": "Optimising for clicks, not sales",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Campaign settings</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Optimisation goal</span><b>Clicks</b></li><li class=\"no\"><span>Purchases in TikTok</span><b>9 a week</b></li><li class=\"no\"><span>Needed to optimise</span><b>50 a week</b></li></ul><p class=\"cmhc__note\">Too few purchases for TikTok to learn</p></div>",
+      "photo": 0,
+      "fix": "Purchases tracked properly, so campaigns can optimise for complete payments.",
+      "look": "clicks"
+     },
+     {
+      "kicker": "",
+      "title": "Purchases counted twice",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">TikTok Events Manager</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Pixel: Complete payment</span><b>512</b></li><li class=\"no\"><span>Events API: Complete payment</span><b>540</b></li><li class=\"no\"><span>Deduplicated</span><b>No</b></li></ul><p class=\"cmhc__note\">TikTok reports 1,052 sales from 620 orders</p></div>",
+      "photo": 0,
+      "fix": "One event ID on the Pixel and the Events API, so TikTok keeps one.",
+      "look": "dup"
+     },
+     {
+      "kicker": "",
+      "title": "Purchases without values",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Complete payment events</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Value</span><b>Missing</b></li><li class=\"no\"><span>Currency</span><b>Missing</b></li><li class=\"no\"><span>Content ID</span><b>Missing</b></li></ul><p class=\"cmhc__note\">No return on ad spend, no value bidding</p></div>",
+      "photo": 0,
+      "fix": "Value, currency and content IDs sent with every purchase.",
+      "look": "value"
+     },
+     {
+      "kicker": "",
+      "title": "TikTok can’t match buyers",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Match rate</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Email sent</span><b>No</b></li><li class=\"no\"><span>Phone sent</span><b>No</b></li><li class=\"no\"><span>Click ID (ttclid)</span><b>Lost at checkout</b></li></ul><p class=\"cmhc__note\">Sales happen, TikTok can’t tell from whom</p></div>",
+      "photo": 0,
+      "fix": "Hashed email and phone plus TikTok’s click ID sent with each event.",
+      "look": "match"
+     }
+    ],
+    "tools": "<ul class=\"pmtools\" role=\"list\" aria-label=\"Tools we work in\"><li class=\"pmtools__i pmtools__i--1\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><rect x=\"4\" y=\"4\" width=\"40\" height=\"40\" rx=\"11\" fill=\"#111\"/><path d=\"M27 11c1 4 4 6 8 6v5c-3 0-6-1-8-3v10a8 8 0 1 1-8-8v5a3 3 0 1 0 3 3V11z\" fill=\"#25F4EE\" transform=\"translate(-1 -1)\"/><path d=\"M27 11c1 4 4 6 8 6v5c-3 0-6-1-8-3v10a8 8 0 1 1-8-8v5a3 3 0 1 0 3 3V11z\" fill=\"#FE2C55\" transform=\"translate(1 1)\"/><path d=\"M27 11c1 4 4 6 8 6v5c-3 0-6-1-8-3v10a8 8 0 1 1-8-8v5a3 3 0 1 0 3 3V11z\" fill=\"#fff\"/></svg><span>TikTok Ads Manager</span></li><li class=\"pmtools__i pmtools__i--2\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><rect x=\"10\" y=\"10\" width=\"28\" height=\"28\" rx=\"5\" transform=\"rotate(45 24 24)\" fill=\"#4285F4\"/><path d=\"M24 4.2 9.9 18.3a8 8 0 0 0 0 11.4L24 43.8l4.6-4.6L14.5 24 28.6 9.8z\" fill=\"#8AB4F8\"/><circle cx=\"24\" cy=\"24\" r=\"4.5\" fill=\"#fff\"/></svg><span>Google Tag Manager</span></li><li class=\"pmtools__i pmtools__i--3\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><path d=\"M11 15h26l-2.5 27h-21z\" fill=\"#95BF47\"/><path d=\"M18 15a6 6 0 0 1 12 0\" fill=\"none\" stroke=\"#5E8E3E\" stroke-width=\"3.5\"/></svg><span>Shopify</span></li></ul>",
+    "visual": "",
+    "look": "cmhero cmhero--pm cmhero--job"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/sign-strips",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Signs your TikTok tracking <em>is missing sales</em>",
+    "lead": "TikTok can’t learn from sales it can’t see. These are the problems we find most often.",
+    "items": [
+     {
+      "title": "TikTok shows far fewer sales than your store",
+      "text": "Many TikTok users buy inside the app’s own browser, where the Pixel often loses track. Blockers and iPhone settings hide more. TikTok then under-reports your sales and optimises on half the data.\n\nWe add the Events API, which sends purchases from your store or server. With the Pixel and the Events API together, TikTok sees far more of your real sales.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Purchases: sample report\">\n\t<div class=\"pmrep__head\"><b>Purchases</b><span>Last 30 days</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Your store</span><span class=\"pmrep__s\">620</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">TikTok, Pixel only</span><span class=\"pmrep__s\">298</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Missing</span><span class=\"pmrep__s\">52%</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">After Events API</span><span class=\"pmrep__s\">583</span></li></ul>\n\t<p class=\"pmrep__foot\">Most missing sales found</p>\n</figure>"
+     },
+     {
+      "title": "You optimise for clicks because purchases don’t show",
+      "text": "When TikTok sees only a handful of purchases a week, it can’t optimise for them, so many stores fall back to clicks or add to cart, and pay for traffic that doesn’t buy.\n\nOnce purchases are tracked properly, campaigns can optimise for complete payments, and later for value, so TikTok looks for buyers, not browsers.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Campaign goal: sample report\">\n\t<div class=\"pmrep__head\"><b>Campaign goal</b><span>Before our setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Goal</span><span class=\"pmrep__s\">Clicks</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Purchases a week</span><span class=\"pmrep__s\">9</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Purchases needed</span><span class=\"pmrep__s\">About 50</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">After setup</span><span class=\"pmrep__s\">58 a week</span></li></ul>\n\t<p class=\"pmrep__foot\">Enough data to optimise for sales</p>\n</figure>"
+     },
+     {
+      "title": "Purchases are counted twice",
+      "text": "With both the Pixel and the Events API on, every purchase arrives twice. Without the same event ID, TikTok counts both, and your results look far better than they are.\n\nWe send one event ID with both versions of each event, so TikTok keeps one. Then we compare TikTok’s purchases with your orders.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Deduplication: sample report\">\n\t<div class=\"pmrep__head\"><b>Deduplication</b><span>Events Manager</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Pixel: Complete payment</span><span class=\"pmrep__s\">512</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Events API</span><span class=\"pmrep__s\">540</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Deduplicated</span><span class=\"pmrep__s\">No</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">TikTok reports</span><span class=\"pmrep__s\">1,052</span></li></ul>\n\t<p class=\"pmrep__foot\">Far more sales than orders</p>\n</figure>"
+     },
+     {
+      "title": "Events stopped after a site change",
+      "text": "A new theme, checkout app or cookie banner can remove TikTok events without anyone noticing, while campaigns keep spending.\n\nWe rebuild the events on the current site, test them, and set an alert if purchases stop arriving.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Complete payment: sample report\">\n\t<div class=\"pmrep__head\"><b>Complete payment</b><span>Last 14 days</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Before the update</span><span class=\"pmrep__s\">24 a day</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">After the update</span><span class=\"pmrep__s\">0</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Noticed after</span><span class=\"pmrep__s\">6 days</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Alert set</span><span class=\"pmrep__s\">Now</span></li></ul>\n\t<p class=\"pmrep__foot\">Broken without anyone knowing</p>\n</figure>"
+     },
+     {
+      "title": "No values sent with purchases",
+      "text": "Without value and currency, TikTok can count sales but not revenue. You can’t see return on ad spend, and value-based bidding isn’t possible.\n\nWe send value, currency, content IDs and quantities with every purchase, matched to your product catalogue, so TikTok reports revenue and can bid for it.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Event data: sample report\">\n\t<div class=\"pmrep__head\"><b>Event data</b><span>Complete payment</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Value</span><span class=\"pmrep__s\">Missing</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Currency</span><span class=\"pmrep__s\">Missing</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Content IDs</span><span class=\"pmrep__s\">Missing</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Catalogue match</span><span class=\"pmrep__s\">No</span></li></ul>\n\t<p class=\"pmrep__foot\">Sales without revenue</p>\n</figure>"
+     },
+     {
+      "title": "Only the Pixel is installed",
+      "text": "Many stores installed the Pixel when they started on TikTok and never added the Events API. It’s often a few settings away in Shopify, and a small build elsewhere.\n\nWe connect the Events API through your platform, a partner integration or server-side Tag Manager, deduplicate it and test it on real purchases.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"TikTok setup: sample report\">\n\t<div class=\"pmrep__head\"><b>TikTok setup</b><span>Today</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Pixel</span><span class=\"pmrep__s\">On</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Events API</span><span class=\"pmrep__s\">Off</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Deduplication</span><span class=\"pmrep__s\">None</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Match data</span><span class=\"pmrep__s\">None</span></li></ul>\n\t<p class=\"pmrep__foot\">Half the setup missing</p>\n</figure>"
+     }
+    ],
+    "noteTitle": "Better tracking, better results",
+    "noteText": "With the Events API, TikTok sees more conversions and optimises for the people who buy.",
+    "buttonText": "Get this fixed",
+    "buttonUrl": "#proposal"
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "TikTok Pixel and Events API, <em>done properly</em>",
+    "lead": "One fixed-scope project, quoted after a short call. No retainer needed.",
+    "name": "TikTok tracking setup",
+    "price": "Fixed price, quoted after a 30-minute call",
+    "items": [
+     "An audit of your Pixel, events and Events Manager",
+     "Events API through Shopify, a partner, or server-side Tag Manager",
+     "Standard events and parameters",
+     "Deduplication with event IDs",
+     "Values, currency and content IDs",
+     "Hashed customer data and click IDs",
+     "Consent and privacy settings",
+     "A test report"
+    ],
+    "delivery": "Usually done in 1 week",
+    "buttonText": "Request a quote",
+    "buttonUrl": "#proposal",
+    "visual": "<div class=\"pmhum\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/team-2.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t<div><p class=\"pmhum__t\">A tracking specialist and a developer</p><p>Your TikTok specialist plans the events and checks them in Events Manager. One of our developers connects the Events API, so the server side is done properly.</p><ul role=\"list\"><li>Tested on real purchases</li><li>Checked against your orders</li><li>Written down for your team</li></ul></div>\n\t\t\t\t</div><div class=\"pmsc pmsb\">\n\t\t\t\t\t<div class=\"pmsc__top\"><div><p class=\"pmsc__t\">What TikTok sees</p><p class=\"pmsc__s\">Example store, last 30 days</p></div></div>\n\t\t\t\t\t<ul class=\"pmsb__rs\" role=\"list\"><li><p><b>Complete payment</b><span>620 in your store</span></p>\n\t\t\t\t\t\t<div class=\"pmsb__bar pmsb__bar--b\"><i style=\"--w:48%\"></i><em>Pixel only · 48%</em></div>\n\t\t\t\t\t\t<div class=\"pmsb__bar pmsb__bar--a\"><i style=\"--w:94%\"></i><em>Pixel + Events API · 94%</em></div></li><li><p><b>Add to cart</b><span>2,140 in your store</span></p>\n\t\t\t\t\t\t<div class=\"pmsb__bar pmsb__bar--b\"><i style=\"--w:55%\"></i><em>Pixel only · 55%</em></div>\n\t\t\t\t\t\t<div class=\"pmsb__bar pmsb__bar--a\"><i style=\"--w:93%\"></i><em>Pixel + Events API · 93%</em></div></li><li><p><b>View content</b><span>18,400 in your store</span></p>\n\t\t\t\t\t\t<div class=\"pmsb__bar pmsb__bar--b\"><i style=\"--w:61%\"></i><em>Pixel only · 61%</em></div>\n\t\t\t\t\t\t<div class=\"pmsb__bar pmsb__bar--a\"><i style=\"--w:93%\"></i><em>Pixel + Events API · 93%</em></div></li></ul>\n\t\t\t\t\t<p class=\"pmsc__note\">Same store, same month. With the Events API, TikTok sees close to every sale.</p>\n\t\t\t\t</div>"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we set it up",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-4\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-4\">How we <span class=\"accent\">set it up</span></h2>\n\t\t\t\t<p class=\"section-lead\">First a call, then five steps. Ready in about a week.</p>\n\t\t\t</div>\n\n\t\t\t<div class=\"pmcb\">\n\t\t\t\t<span class=\"pmcb__i\" aria-hidden=\"true\"><svg viewBox=\"0 0 24 24\"><path d=\"M6.6 10.8a15 15 0 0 0 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1A17 17 0 0 1 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1z\" fill=\"currentColor\"/></svg></span>\n\t\t\t\t<div><p class=\"pmcb__t\">A call back within 24 hours</p><p>Tell us about your store. A tracking specialist calls you back within one working day to look at your TikTok setup with you, before any work starts.</p></div>\n\t\t\t\t<ul role=\"list\"><li>A real person</li><li>No obligation</li><li>Plain English</li></ul>\n\t\t\t</div>\n\t\t\t<ol class=\"pmsds\" role=\"list\" data-acc><li class=\"pmsd js-acc is-open\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"true\" aria-controls=\"pmsd-1\"><span class=\"pmsd__when\">Step 1 · Day 1</span><span class=\"pmsd__t\">Audit</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-1\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We look at your Pixel, events and data in TikTok Events Manager, and compare TikTok’s purchases with your store.</p><p class=\"pmsd__get\"><b>You get:</b> A list of what’s missing, broken or counted twice.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Every event and its source</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Values and content IDs</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Deduplication and match data</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> TikTok vs store numbers</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-2\"><span class=\"pmsd__when\">Step 2 · Day 2</span><span class=\"pmsd__t\">Plan</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-2\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We agree which events to send, from where and with which data, and how your cookie banner affects them.</p><p class=\"pmsd__get\"><b>You get:</b> An event plan you approve before we build.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Events and their values</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Pixel, Events API or both</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Customer data and consent</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Catalogue and content IDs</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-3\"><span class=\"pmsd__when\">Step 3 · Days 3–4</span><span class=\"pmsd__t\">Set up</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-3\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>Our developer connects the Events API through Shopify, a partner integration or server-side Tag Manager, with event IDs for deduplication.</p><p class=\"pmsd__get\"><b>You get:</b> Both sides sending the same events.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Pixel events cleaned up</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Events API connected</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Event IDs on both sides</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Values, currency and content IDs</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-4\"><span class=\"pmsd__when\">Step 4 · Day 5</span><span class=\"pmsd__t\">Test</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-4\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We place test purchases on desktop, iPhone and inside the TikTok app, then check each one in Events Manager.</p><p class=\"pmsd__get\"><b>You get:</b> Every event passed, or fixed and tested again.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Test purchases</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Desktop, iPhone and in-app browser</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Deduplication and values</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> TikTok vs store compared</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-5\"><span class=\"pmsd__when\">Step 5 · Day 6</span><span class=\"pmsd__t\">Hand over</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-5\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>You get a test report and a walkthrough call. We check again after two weeks, and help you move campaigns to purchase goals.</p><p class=\"pmsd__get\"><b>You get:</b> Tracking ready for purchase-optimised campaigns.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A test report</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A walkthrough call</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> An alert if purchases stop</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A two-week check</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li></ol>\n\t\t\t<div class=\"pmau__head\"><p class=\"pmau__kick\">What we set up</p><h3>Eight parts of TikTok tracking, <span class=\"accent\">set up and tested</span></h3><p>For each one: why it matters, what we set up, what we usually find and what you get.</p></div>\n\t\t\t<div class=\"pmau\" data-tabs>\n\t\t\t\t<div class=\"pmau__tabs\" role=\"tablist\" aria-orientation=\"vertical\" aria-label=\"Parts of TikTok tracking we set up\"><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-3-t0\" aria-controls=\"au-3-p0\" aria-selected=\"true\"><span>01</span>Pixel events<em>6 parts · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-3-t1\" aria-controls=\"au-3-p1\" aria-selected=\"false\"><span>02</span>Events API<em>6 parts · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-3-t2\" aria-controls=\"au-3-p2\" aria-selected=\"false\"><span>03</span>Deduplication<em>6 parts · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-3-t3\" aria-controls=\"au-3-p3\" aria-selected=\"false\"><span>04</span>Values and catalogue<em>6 parts · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-3-t4\" aria-controls=\"au-3-p4\" aria-selected=\"false\"><span>05</span>Match data<em>6 parts · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-3-t5\" aria-controls=\"au-3-p5\" aria-selected=\"false\"><span>06</span>Consent and privacy<em>6 parts · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-3-t6\" aria-controls=\"au-3-p6\" aria-selected=\"false\"><span>07</span>Campaign goals<em>6 parts · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-3-t7\" aria-controls=\"au-3-p7\" aria-selected=\"false\"><span>08</span>Testing and monitoring<em>6 parts · 4 common issues</em></button></div>\n\t\t\t\t<div class=\"pmau__panels\"><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-3-p0\" aria-labelledby=\"au-3-t0\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 1 of 8</p><h4>Pixel events</h4><p class=\"pmau__why\">The Pixel sees browsing on your site and sends events quickly. It just misses too much on its own.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Pixel: sample report\">\n\t<div class=\"pmrep__head\"><b>Pixel</b><span>After our setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Pixels on the site</span><span class=\"pmrep__s\">2 → 1</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Standard events</span><span class=\"pmrep__s\">5</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Reload duplicates</span><span class=\"pmrep__s\">None</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Advanced matching</span><span class=\"pmrep__s\">On</span></li></ul>\n\t<p class=\"pmrep__foot\">A clean browser side</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Base code on every page</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Standard events</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Event parameters</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> One Pixel per business</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Advanced matching</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Test events</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we usually find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Two Pixels from two different apps</li><li><span aria-hidden=\"true\">!</span> Complete payment firing on page reload</li><li><span aria-hidden=\"true\">!</span> Custom events instead of standard ones</li><li><span aria-hidden=\"true\">!</span> Events from an old theme</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> One clean Pixel</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Standard events in the right places</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Parameters on every event</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Old events removed</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-3-p1\" aria-labelledby=\"au-3-t1\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 2 of 8</p><h4>Events API</h4><p class=\"pmau__why\">The Events API sends events from your store or server, so the in-app browser, blockers and short cookies don’t hide them.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Events API: sample report\">\n\t<div class=\"pmrep__head\"><b>Events API</b><span>After our setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Complete payment</span><span class=\"pmrep__s\">Server</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Add to cart</span><span class=\"pmrep__s\">Server</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Checkout</span><span class=\"pmrep__s\">Server</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Errors</span><span class=\"pmrep__s\">None</span></li></ul>\n\t<p class=\"pmrep__foot\">Sales sent from the server</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Shopify TikTok channel</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Partner integrations</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Server-side Tag Manager</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Access token</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Events sent from the server</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Error checks</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we usually find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Events API never switched on</li><li><span aria-hidden=\"true\">!</span> Only page views sent</li><li><span aria-hidden=\"true\">!</span> An expired access token</li><li><span aria-hidden=\"true\">!</span> Errors nobody looked at</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> The right connection for your platform</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Key events sent from the server</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Errors checked and fixed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> An alert if events stop</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-3-p2\" aria-labelledby=\"au-3-t2\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 3 of 8</p><h4>Deduplication</h4><p class=\"pmau__why\">With the Pixel and the Events API both on, every event arrives twice. A shared event ID tells TikTok it’s the same one.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><div class=\"pmsc pmdd\">\n\t\t\t\t\t<div class=\"pmsc__top\"><div><p class=\"pmsc__t\">Deduplication</p><p class=\"pmsc__s\">Complete payment</p></div></div>\n\t\t\t\t\t<p class=\"pmdd__h\" aria-hidden=\"true\"><span></span><span>Pixel</span><span>Server</span><span>Counted</span></p>\n\t\t\t\t\t<ul class=\"pmdd__rs\" role=\"list\"><li class=\"pmdd__r pmdd__r--bad\"><b>Before</b><span>512</span><span>540</span><em>1,052</em></li><li class=\"pmdd__r pmdd__r--ok\"><b>After</b><span>571</span><span>598</span><em>620</em></li></ul>\n\t\t\t\t\t<p class=\"pmsc__note\">One sale, counted once.</p>\n\t\t\t\t</div></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Event ID on Pixel events</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Same ID on server events</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Matching event names</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Timing</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Deduplication check</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Purchases vs orders</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we usually find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> No event IDs</li><li><span aria-hidden=\"true\">!</span> Different IDs on each side</li><li><span aria-hidden=\"true\">!</span> Different event names</li><li><span aria-hidden=\"true\">!</span> Far more purchases than orders</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> One event ID shared by both</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Matching event names</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Deduplication checked</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Purchases that match your orders</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-3-p3\" aria-labelledby=\"au-3-t3\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 4 of 8</p><h4>Values and catalogue</h4><p class=\"pmau__why\">Values turn purchases into revenue, and content IDs link sales to products in your catalogue for shopping ads.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Values: sample report\">\n\t<div class=\"pmrep__head\"><b>Values</b><span>Complete payment</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Value</span><span class=\"pmrep__s\">Sent</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Currency</span><span class=\"pmrep__s\">Sent</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Content IDs</span><span class=\"pmrep__s\">Match catalogue</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Revenue match</span><span class=\"pmrep__s\">97%</span></li></ul>\n\t<p class=\"pmrep__foot\">Revenue TikTok can see</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Value and currency</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content IDs and type</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Quantity</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Catalogue match</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Discounts and shipping</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Refunds</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we usually find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> No value on purchases</li><li><span aria-hidden=\"true\">!</span> Content IDs that don’t match the catalogue</li><li><span aria-hidden=\"true\">!</span> Values including shipping and tax</li><li><span aria-hidden=\"true\">!</span> Currency missing</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Values on every purchase</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Content IDs that match the catalogue</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Values defined the same way as your reports</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Currency on every event</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-3-p4\" aria-labelledby=\"au-3-t4\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 5 of 8</p><h4>Match data</h4><p class=\"pmau__why\">TikTok matches events to people with hashed customer data and its click ID. More matches mean better targeting and reporting.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Match data: sample report\">\n\t<div class=\"pmrep__head\"><b>Match data</b><span>After our setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Email</span><span class=\"pmrep__s\">Hashed</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Phone</span><span class=\"pmrep__s\">Hashed</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Click ID</span><span class=\"pmrep__s\">Kept</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Consent</span><span class=\"pmrep__s\">Respected</span></li></ul>\n\t<p class=\"pmrep__foot\">TikTok can tell who bought</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Hashed email and phone</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> External ID</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> TikTok click ID (ttclid)</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Browser cookie (_ttp)</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> IP and user agent</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Consent</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we usually find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> No customer data sent</li><li><span aria-hidden=\"true\">!</span> Click ID lost on the way to checkout</li><li><span aria-hidden=\"true\">!</span> Email sent unhashed</li><li><span aria-hidden=\"true\">!</span> Data sent without consent</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Hashed customer data with every event</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Click ID kept through checkout</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Consent respected</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Higher match rates</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-3-p5\" aria-labelledby=\"au-3-t5\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 6 of 8</p><h4>Consent and privacy</h4><p class=\"pmau__why\">Tracking must follow your cookie banner and privacy laws, or events go missing in some markets and break the rules in others.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Consent: sample report\">\n\t<div class=\"pmrep__head\"><b>Consent</b><span>After our setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Before consent</span><span class=\"pmrep__s\">Nothing sent</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">After consent</span><span class=\"pmrep__s\">All events</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Hashing</span><span class=\"pmrep__s\">Yes</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Policy</span><span class=\"pmrep__s\">Updated</span></li></ul>\n\t<p class=\"pmrep__foot\">Tracking that follows the rules</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Cookie banner</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Which events need consent</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Hashing before sending</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Limited data use</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Privacy policy</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Country rules</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we usually find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> The Pixel firing before consent</li><li><span aria-hidden=\"true\">!</span> The banner blocking all events</li><li><span aria-hidden=\"true\">!</span> Unhashed data sent</li><li><span aria-hidden=\"true\">!</span> Privacy policy not mentioning TikTok</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Events that follow your banner</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Data hashed before it leaves your site</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A privacy policy that covers it</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Settings checked for each market</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-3-p6\" aria-labelledby=\"au-3-t6\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 7 of 8</p><h4>Campaign goals</h4><p class=\"pmau__why\">Good tracking only helps if campaigns use it. Once purchases flow in, campaigns can optimise for them.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Campaigns: sample report\">\n\t<div class=\"pmrep__head\"><b>Campaigns</b><span>After our setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Goal</span><span class=\"pmrep__s\">Complete payment</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Purchases a week</span><span class=\"pmrep__s\">58</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Attribution</span><span class=\"pmrep__s\">Set</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Revenue column</span><span class=\"pmrep__s\">Added</span></li></ul>\n\t<p class=\"pmrep__foot\">Optimising for buyers</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Optimisation event</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Purchase volume per week</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Value-based goals</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Attribution window</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Catalogue and shopping ads</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Reporting columns</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we usually find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Campaigns optimising for clicks</li><li><span aria-hidden=\"true\">!</span> Too few purchases to optimise</li><li><span aria-hidden=\"true\">!</span> Attribution settings never checked</li><li><span aria-hidden=\"true\">!</span> Reports without revenue</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Campaigns moved to complete payment</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Value goals when there’s enough data</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Attribution set and explained</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Reports with revenue and return on ad spend</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-3-p7\" aria-labelledby=\"au-3-t7\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 8 of 8</p><h4>Testing and monitoring</h4><p class=\"pmau__why\">Tracking that isn’t tested is a guess, and tracking that isn’t watched breaks with the next site change.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Test results: sample report\">\n\t<div class=\"pmrep__head\"><b>Test results</b><span>5 events</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Passed</span><span class=\"pmrep__s\">5 of 5</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Deduplicated</span><span class=\"pmrep__s\">Yes</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">TikTok vs store</span><span class=\"pmrep__s\">94%</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Alert</span><span class=\"pmrep__s\">On</span></li></ul>\n\t<p class=\"pmrep__foot\">Proof it works</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Test purchases</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Test events tool</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Desktop, iPhone and in-app browser</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> TikTok vs store</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Alerts if events stop</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A two-week check</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we usually find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Never tested after setup</li><li><span aria-hidden=\"true\">!</span> Nobody checks Events Manager</li><li><span aria-hidden=\"true\">!</span> Site changes break events silently</li><li><span aria-hidden=\"true\">!</span> Numbers never compared with the store</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Every event tested and recorded</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> TikTok compared with your store</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Alerts when events stop</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A short checklist for site changes</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "tiktok-events-api",
+    "modules": [
+     "@intella/scroll-accordions",
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Why TikTok tracking <em>goes wrong</em>",
+    "lead": "What we fix most often, what it looks like in TikTok and how we fix it.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "Pixel only",
+      "problem": "No Events API, so the in-app browser and blockers hide half your sales.",
+      "beforeTitle": "Purchases seen by TikTok",
+      "before": [
+       {
+        "label": "Share of orders",
+        "value": "48%",
+        "tone": "bad"
+       },
+       {
+        "label": "Server events",
+        "value": "None",
+        "tone": "bad"
+       }
+      ],
+      "fix": "The Events API connected through your platform or server-side Tag Manager.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Share of orders",
+        "value": "94%",
+        "tone": "ok"
+       },
+       {
+        "label": "Server events",
+        "value": "All key events",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Purchases counted twice",
+      "problem": "The Pixel and the Events API both send purchases, without a shared event ID.",
+      "beforeTitle": "Events Manager",
+      "before": [
+       {
+        "label": "Purchases reported",
+        "value": "1,052",
+        "tone": "bad"
+       },
+       {
+        "label": "Orders in store",
+        "value": "620",
+        "tone": "bad"
+       }
+      ],
+      "fix": "One event ID on both, then checked against your orders.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Purchases reported",
+        "value": "620",
+        "tone": "ok"
+       },
+       {
+        "label": "Deduplicated",
+        "value": "Yes",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "No values on purchases",
+      "problem": "TikTok counts sales but not revenue, so there’s no return on ad spend.",
+      "beforeTitle": "Complete payment",
+      "before": [
+       {
+        "label": "Value",
+        "value": "Missing",
+        "tone": "bad"
+       },
+       {
+        "label": "Revenue in TikTok",
+        "value": "$0",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Value, currency and content IDs sent with every purchase.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Value",
+        "value": "Sent",
+        "tone": "ok"
+       },
+       {
+        "label": "Revenue matched",
+        "value": "97%",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Click ID lost at checkout",
+      "problem": "TikTok’s click ID disappears on the way to checkout, so sales can’t be linked to ads.",
+      "beforeTitle": "Match data",
+      "before": [
+       {
+        "label": "Click ID at purchase",
+        "value": "Missing",
+        "tone": "bad"
+       },
+       {
+        "label": "Customer data",
+        "value": "None",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Click ID kept through checkout and sent with server events.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Click ID at purchase",
+        "value": "Kept",
+        "tone": "ok"
+       },
+       {
+        "label": "Customer data",
+        "value": "Hashed",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Optimising for clicks",
+      "problem": "Too few purchases tracked, so campaigns optimise for clicks instead of sales.",
+      "beforeTitle": "Campaigns",
+      "before": [
+       {
+        "label": "Goal",
+        "value": "Clicks",
+        "tone": "bad"
+       },
+       {
+        "label": "Purchases a week",
+        "value": "9",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Purchases tracked properly, then campaigns moved to complete payment.",
+      "afterTitle": "After 30 days",
+      "after": [
+       {
+        "label": "Goal",
+        "value": "Complete payment",
+        "tone": "ok"
+       },
+       {
+        "label": "Purchases a week",
+        "value": "58",
+        "tone": "ok"
+       }
+      ]
+     }
+    ],
+    "visual": "",
+    "alt": true
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Need something more custom?",
+    "html": "<section class=\"section section--dark pmcwx\" aria-labelledby=\"h-6\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-6\">Need something <span class=\"accent\">more custom?</span></h2>\n\t\t\t\t<p class=\"section-lead\">Not every store fits the standard TikTok app. If your setup is unusual, tell us what you need. We’ll get on a call, understand the requirement and send you a written quote. Here are custom Events API projects we’ve built for other clients.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"pmcw\" role=\"list\"><li class=\"pmcw__c pmcw__c--1\">\n\t\t\t\t\t<h3>Custom-built or headless stores</h3><p>A store built on its own code, or a headless storefront with a separate checkout, where the TikTok app doesn’t work.</p><p class=\"pmcw__did\"><b>What we built:</b> Purchase and checkout events sent from the backend through the Events API, with event IDs matched to the Pixel.</p>\n\t\t\t\t\t<ul class=\"pmcw__tags\" role=\"list\"><li>Next.js</li><li>Laravel</li><li>Shopify Hydrogen</li></ul>\n\t\t\t\t</li><li class=\"pmcw__c pmcw__c--2\">\n\t\t\t\t\t<h3>TikTok Shop and your website together</h3><p>Sales split between TikTok Shop and your own store, so neither report shows the full picture.</p><p class=\"pmcw__did\"><b>What we built:</b> Website and TikTok Shop sales reported side by side, with the website events set up so campaigns can optimise for both.</p>\n\t\t\t\t\t<ul class=\"pmcw__tags\" role=\"list\"><li>TikTok Shop</li><li>Shopify</li><li>Reporting</li></ul>\n\t\t\t\t</li><li class=\"pmcw__c pmcw__c--3\">\n\t\t\t\t\t<h3>Subscriptions and repeat orders</h3><p>Subscription or repeat-order brands where the first purchase is only the start.</p><p class=\"pmcw__did\"><b>What we built:</b> First orders with a predicted value, and renewals sent from payment webhooks, so TikTok values customers properly.</p>\n\t\t\t\t\t<ul class=\"pmcw__tags\" role=\"list\"><li>Stripe</li><li>Recharge</li><li>Webhooks</li></ul>\n\t\t\t\t</li><li class=\"pmcw__c pmcw__c--4\">\n\t\t\t\t\t<h3>Leads, bookings and offline sales</h3><p>Businesses that sell through forms, bookings or a sales team rather than a checkout.</p><p class=\"pmcw__did\"><b>What we built:</b> Leads matched to CRM outcomes, with qualified and won stages sent back through the Events API.</p>\n\t\t\t\t\t<ul class=\"pmcw__tags\" role=\"list\"><li>HubSpot</li><li>Zoho</li><li>Booking systems</li></ul>\n\t\t\t\t</li><li class=\"pmcw__c pmcw__c--5\">\n\t\t\t\t\t<h3>Several brands, countries or Pixels</h3><p>One platform running several brands or markets, each with its own Pixel and ad account.</p><p class=\"pmcw__did\"><b>What we built:</b> Events routed to the right Pixel by brand or country, from one server setup that is easy to maintain.</p>\n\t\t\t\t\t<ul class=\"pmcw__tags\" role=\"list\"><li>Multi-brand</li><li>Multi-country</li><li>Server-side Tag Manager</li></ul>\n\t\t\t\t</li><li class=\"pmcw__c pmcw__c--6\">\n\t\t\t\t\t<h3>Creator and affiliate sales</h3><p>Sales driven by creators and affiliate codes that TikTok can’t connect to campaigns.</p><p class=\"pmcw__did\"><b>What we built:</b> Discount codes and creator links passed with purchase events, so creator sales show up in reporting.</p>\n\t\t\t\t\t<ul class=\"pmcw__tags\" role=\"list\"><li>Creator codes</li><li>UTMs</li><li>Custom parameters</li></ul>\n\t\t\t\t</li></ul>\n\t\t\t<div class=\"pmcw__ask\">\n\t\t\t\t<div><p class=\"pmcw__at\">Tell us what you need</p><p>Describe your setup and what you want TikTok to see. A tracking specialist calls you back within 24 hours.</p></div>\n\t\t\t\t<ol class=\"pmcw__st\" role=\"list\"><li><span>1</span>A call to understand the requirement</li><li><span>2</span>A written plan and quote</li><li><span>3</span>Built, tested and documented</li></ol>\n\t\t\t\t<a class=\"button button--light\" href=\"#proposal\">Tell us what you need <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "tiktok-events-api",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your tracking test report",
+    "html": "<section class=\"section section--cream pmreport\" aria-labelledby=\"h-7\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-7\">Your <span class=\"accent\">tracking test report</span></h2>\n\t\t\t\t<p class=\"section-lead\">A report you keep, so anyone on your team, or a future agency, can check the setup and keep it working.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrd__dl\">\n\t\t\t\t<a class=\"button button--primary button--lg\" href=\"{{media:assets/samples/tiktok-events-api-sample-report.pdf}}\" download>Download a sample report <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t<p>A real report layout with example data, so you know exactly what you’ll receive.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrv\">\n\t\t\t\t<ol class=\"pmrv__list\" role=\"list\"><li><span class=\"pmrv__n\">01</span><div><h3>Event map <small>1 page</small></h3><p>Every event, where it comes from, what data it sends and how it is deduplicated.</p></div></li><li><span class=\"pmrv__n\">02</span><div><h3>Test results <small>1–2 pages</small></h3><p>Each test purchase, on desktop, iPhone and in the TikTok app, with screenshots.</p></div></li><li><span class=\"pmrv__n\">03</span><div><h3>TikTok vs your store <small>1 page</small></h3><p>Purchases and revenue before and after, compared with your orders.</p></div></li><li><span class=\"pmrv__n\">04</span><div><h3>Changes made <small>1 page</small></h3><p>Everything we added, changed or removed, and why.</p></div></li><li><span class=\"pmrv__n\">05</span><div><h3>Keeping it working <small>1 page</small></h3><p>What to check after site changes, and the alerts we set up.</p></div></li></ol>\n\t\t\t\t<a class=\"pmrv__pic\" href=\"{{media:assets/samples/tiktok-events-api-sample-report.pdf}}\" aria-label=\"Open the sample report (PDF)\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--3\" src=\"{{media:assets/samples/tiktok-events-api-sample-report-3.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--2\" src=\"{{media:assets/samples/tiktok-events-api-sample-report-2.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--1\" src=\"{{media:assets/samples/tiktok-events-api-sample-report-1.jpg}}\" alt=\"Cover of the sample report\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<span class=\"pmrv__tag\">Sample · example data</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "tiktok-events-api",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Stores we’ve set up TikTok tracking for",
+    "html": "<section class=\"section section--white pmcsx\" aria-labelledby=\"h-9\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-9\">Stores we’ve set up <span class=\"accent\">TikTok tracking</span> for</h2>\n\t\t\t\t<p class=\"section-lead\">Who they are, why they came to us, what we found and what changed. Pick a store to read its story.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmcs pmcs--ba\" data-tabs>\n\t\t\t\t<div class=\"pmcs__tabs\" role=\"tablist\" aria-orientation=\"vertical\" aria-label=\"Stores we have set up TikTok tracking for\"><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-8-t0\" aria-controls=\"ad-8-p0\" aria-selected=\"true\"><span class=\"cmlg\" style=\"--lc:#be185d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"9\" fill=\"#f472b6\"/><g stroke=\"#fbcfe8\" stroke-width=\"3\" stroke-linecap=\"round\"><path d=\"M20 3v5M20 32v5M3 20h5M32 20h5\"/></g></svg><span class=\"cmlg__w\"><b>Glowra</b><span>Cosmetics</span></span></span><span class=\"pmcs__ti\">Cosmetics brand</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-8-t1\" aria-controls=\"ad-8-p1\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#1d4ed8\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M4 28c6 0 9-3 11-10l8 6c4 3 8 4 13 4v6H4z\" fill=\"#2563eb\"/><path d=\"M15 22l3-2M19 25l3-2\" stroke=\"#bfdbfe\" stroke-width=\"2\"/></svg><span class=\"cmlg__w\"><b>Kicks</b><span>Lab</span></span></span><span class=\"pmcs__ti\">Sneaker store</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-8-t2\" aria-controls=\"ad-8-p2\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#c2410c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><g fill=\"#fb923c\"><circle cx=\"12\" cy=\"13\" r=\"4\"/><circle cx=\"20\" cy=\"9\" r=\"4\"/><circle cx=\"28\" cy=\"13\" r=\"4\"/></g><path d=\"M12 28c0-6 4-10 8-10s8 4 8 10c0 4-4 5-8 5s-8-1-8-5z\" fill=\"#c2410c\"/></svg><span class=\"cmlg__w\"><b>PetPal</b><span>Supplies</span></span></span><span class=\"pmcs__ti\">Pet supplies store</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-8-t3\" aria-controls=\"ad-8-p3\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#a16207\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"15\" fill=\"#facc15\"/><path d=\"M20 5v30M5 20h30M9 9l22 22M31 9 9 31\" stroke=\"#fef9c3\" stroke-width=\"2\"/></svg><span class=\"cmlg__w\"><b>Zesty</b><span>Snacks</span></span></span><span class=\"pmcs__ti\">Snack brand</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-8-t4\" aria-controls=\"ad-8-p4\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#5b21b6\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M8 6v28M16 6v28M24 6v28M32 6v28\" stroke=\"#a78bfa\" stroke-width=\"3\"/><path d=\"M4 14h32M4 26h32\" stroke=\"#6d28d9\" stroke-width=\"4\"/></svg><span class=\"cmlg__w\"><b>Loom</b><span>Wear</span></span></span><span class=\"pmcs__ti\">Clothing brand</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-8-t5\" aria-controls=\"ad-8-p5\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"12\" y=\"10\" width=\"16\" height=\"26\" rx=\"4\" fill=\"#2dd4bf\"/><g fill=\"#99f6e4\"><circle cx=\"17\" cy=\"6\" r=\"2\"/><circle cx=\"23\" cy=\"4\" r=\"2.5\"/></g></svg><span class=\"cmlg__w\"><b>Fizzle</b><span>Drinks</span></span></span><span class=\"pmcs__ti\">Drinks brand</span></button></div>\n\t\t\t\t<div class=\"pmcs__panels\"><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-8-p0\" aria-labelledby=\"ad-8-t0\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#be185d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"9\" fill=\"#f472b6\"/><g stroke=\"#fbcfe8\" stroke-width=\"3\" stroke-linecap=\"round\"><path d=\"M20 3v5M20 32v5M3 20h5M32 20h5\"/></g></svg><span class=\"cmlg__w\"><b>Glowra</b><span>Cosmetics</span></span></span><p>Cosmetics brand<span>Pixel and Events API · 6 days</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A Shopify skincare brand that sells mostly through TikTok videos and creators.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>TikTok showed half the sales the store did, so the team couldn’t tell which videos were working.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>Pixel only, no Events API</li><li>Most buyers in the TikTok in-app browser</li><li>No values on purchases</li><li>Click ID lost at checkout</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Events API on, values on every purchase and the click ID kept through checkout. TikTok now sees almost every sale.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Purchases TikTok sees</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:51%\"></span><b>Before 48%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 94%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">96% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Reported return on ad spend</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:48%\"></span><b>Before 1.4</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 2.9</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">107% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-8-p1\" aria-labelledby=\"ad-8-t1\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#1d4ed8\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M4 28c6 0 9-3 11-10l8 6c4 3 8 4 13 4v6H4z\" fill=\"#2563eb\"/><path d=\"M15 22l3-2M19 25l3-2\" stroke=\"#bfdbfe\" stroke-width=\"2\"/></svg><span class=\"cmlg__w\"><b>Kicks</b><span>Lab</span></span></span><p>Sneaker store<span>Deduplication fix · 4 days</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>An online sneaker store selling limited releases across the Gulf.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>TikTok reported far more sales than orders, and budgets had been raised on the strength of it.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>Two apps sending purchases</li><li>No shared event ID</li><li>Different event names on each side</li><li>Purchases counted up to three times</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>One integration, one event ID and matching names. TikTok’s numbers now match the store.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Purchases reported vs orders</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before +70%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:4%\"></span><b>After +3%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">96% lower</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Duplicate purchases a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before 432</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:3%\"></span><b>After 11</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">97% lower</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-8-p2\" aria-labelledby=\"ad-8-t2\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#c2410c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><g fill=\"#fb923c\"><circle cx=\"12\" cy=\"13\" r=\"4\"/><circle cx=\"20\" cy=\"9\" r=\"4\"/><circle cx=\"28\" cy=\"13\" r=\"4\"/></g><path d=\"M12 28c0-6 4-10 8-10s8 4 8 10c0 4-4 5-8 5s-8-1-8-5z\" fill=\"#c2410c\"/></svg><span class=\"cmlg__w\"><b>PetPal</b><span>Supplies</span></span></span><p>Pet supplies store<span>Tracking and campaign goals · 1 week</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A WooCommerce store selling pet food, toys and accessories.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Campaigns optimised for clicks because TikTok only saw a few purchases a week.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>Pixel installed by an old plugin</li><li>No Events API</li><li>Purchases firing on page reload</li><li>Campaigns set to clicks</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Clean Pixel, Events API through server-side Tag Manager and campaigns moved to complete payment.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Purchases a week in TikTok</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:16%\"></span><b>Before 9</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 58</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">544% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per purchase</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $46</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:52%\"></span><b>After $24</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">48% lower</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-8-p3\" aria-labelledby=\"ad-8-t3\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#a16207\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"15\" fill=\"#facc15\"/><path d=\"M20 5v30M5 20h30M9 9l22 22M31 9 9 31\" stroke=\"#fef9c3\" stroke-width=\"2\"/></svg><span class=\"cmlg__w\"><b>Zesty</b><span>Snacks</span></span></span><p>Snack brand<span>Values and catalogue · 5 days</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A healthy snack brand selling bundles and subscriptions online.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>TikTok counted sales but showed no revenue, so the team couldn’t see return on ad spend.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>No value or currency on purchases</li><li>Content IDs that didn’t match the catalogue</li><li>Bundles sent as one product</li><li>Subscription renewals not tracked</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Values, currency and content IDs on every purchase, matched to the catalogue. Shopping ads and value reporting now work.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Revenue TikTok can see</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:0%\"></span><b>Before 0%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 97%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Up from zero</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Products matched to the catalogue</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:18%\"></span><b>Before 18%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 100%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">456% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-8-p4\" aria-labelledby=\"ad-8-t4\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#5b21b6\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M8 6v28M16 6v28M24 6v28M32 6v28\" stroke=\"#a78bfa\" stroke-width=\"3\"/><path d=\"M4 14h32M4 26h32\" stroke=\"#6d28d9\" stroke-width=\"4\"/></svg><span class=\"cmlg__w\"><b>Loom</b><span>Wear</span></span></span><p>Clothing brand<span>Tracking rebuild · 1 week</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A clothing brand with a custom checkout on its own platform.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>TikTok purchases dropped to zero after a checkout update, and nobody noticed for six days.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>Complete payment removed by the update</li><li>Checkout on a separate subdomain</li><li>No alert when events stopped</li><li>Consent banner blocking everything</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Events rebuilt for the new checkout, consent set up properly and an alert if purchases stop.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Purchases a day in TikTok</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:0%\"></span><b>Before 0</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 24</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Up from zero</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Days to notice a break</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before 6</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:17%\"></span><b>After 1</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">83% lower</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-8-p5\" aria-labelledby=\"ad-8-t5\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"12\" y=\"10\" width=\"16\" height=\"26\" rx=\"4\" fill=\"#2dd4bf\"/><g fill=\"#99f6e4\"><circle cx=\"17\" cy=\"6\" r=\"2\"/><circle cx=\"23\" cy=\"4\" r=\"2.5\"/></g></svg><span class=\"cmlg__w\"><b>Fizzle</b><span>Drinks</span></span></span><p>Drinks brand<span>Match data · 5 days</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A sparkling drinks brand selling direct to customers in the UK and UAE.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Purchases were tracked, but TikTok couldn’t match most of them to people who saw the ads.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>No customer data sent</li><li>Click ID lost at checkout</li><li>Advanced matching off</li><li>Privacy policy not mentioning TikTok</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Hashed customer data and the click ID sent with every purchase, with consent. TikTok now links far more sales to ads.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Purchases linked to ads</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:47%\"></span><b>Before 38%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 81%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">113% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per purchase</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $31</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:61%\"></span><b>After $19</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">39% lower</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "tiktok-events-api",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Andra-Simina Mocanu",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Alex Barsuk"
+    ]
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "TikTok Pixel and Events API questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "Do I need the TikTok Events API?",
+      "answer": "For most online stores, yes. The Pixel misses conversions in the browser, especially in TikTok’s in-app browser; the Events API sends them from your server."
+     },
+     {
+      "question": "How do I set up the TikTok Events API on Shopify?",
+      "answer": "Shopify’s TikTok app can send events server-side. We check it’s on, deduplicated and sending the right values."
+     },
+     {
+      "question": "How does deduplication work on TikTok?",
+      "answer": "When the Pixel and the Events API send the same event, both include the same event ID. TikTok keeps one and discards the duplicate."
+     },
+     {
+      "question": "Why doesn’t TikTok show the same sales as my store?",
+      "answer": "Usually because only the Pixel is installed, the click ID is lost at checkout, or purchases are counted twice. Attribution windows also differ, so some gap is normal."
+     },
+     {
+      "question": "Should my campaigns optimise for purchases?",
+      "answer": "Yes, once TikTok sees enough purchases, usually around 50 a week per campaign. Good tracking is what gets you there."
+     },
+     {
+      "question": "Is the Events API allowed under privacy laws?",
+      "answer": "Yes, when it respects consent and customer data is hashed before it is sent. We set it up to follow your cookie banner."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Let TikTok <em>see your sales</em>",
+    "lead": "Tell us your store platform. We’ll call you back within 24 hours.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "Which platform is your store on, and roughly how many orders a month?",
+    "service": "tiktok-events-api",
+    "buttonText": "Request a quote",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Related <em>services</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "play",
+      "title": "TikTok Ads",
+      "url": "/services/digital-marketing/performance-marketing/tiktok-ads/",
+      "text": "Short video ads and TikTok Shop."
+     },
+     {
+      "icon": "layers",
+      "title": "Server-Side Tracking",
+      "url": "/services/digital-marketing/performance-marketing/server-side-tracking/",
+      "text": "Tracking that survives ad blockers and browsers."
+     },
+     {
+      "icon": "check",
+      "title": "Meta Pixel and Conversions API",
+      "url": "/services/digital-marketing/performance-marketing/facebook-ads/conversions-api/",
+      "text": "Pixel and CAPI, deduplicated and tested."
+     }
+    ]
+   }
+  }
+ ]
+}

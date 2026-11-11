@@ -1,0 +1,45 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/testimonials",
+	"title": "Testimonials (spotlight)",
+	"category": "intella",
+	"icon": "format-quote",
+	"description": "Large rotating testimonial with progress bars, plus small quote cards that change in threes.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/testimonials",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "inline",
+				"label": "Intro"
+			},
+			{
+				"key": "spotlight",
+				"type": "posts",
+				"label": "Large testimonials",
+				"postType": "testimonial",
+				"default": []
+			},
+			{
+				"key": "cards",
+				"type": "posts",
+				"label": "Small quote cards",
+				"postType": "testimonial",
+				"help": "Shown three at a time. Tick in order; none ticked = none shown.",
+				"default": []
+			}
+		],
+		"section": "white"
+	}
+}

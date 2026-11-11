@@ -1,0 +1,491 @@
+{
+ "title": "Google Ads Audit Service",
+ "path": "/services/digital-marketing/performance-marketing/google-ads/audit/",
+ "seo": {
+  "title": "Google Ads Audit Service | Account Audit and Fix List | Intella Digital",
+  "description": "A Google Ads audit service: tracking, structure, keywords, search terms, Performance Max, landing pages and wasted spend, with a prioritised fix list."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "Google Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/"
+     },
+     {
+      "label": "Audit",
+      "url": ""
+     }
+    ],
+    "title": "A Google Ads audit that <em>finds the wasted spend</em>",
+    "lead": "A one-off audit of your Google Ads account, tracking and landing pages, with a fix list ranked by how much each fix is worth.",
+    "buttonText": "Book a Google Ads audit",
+    "formLabel": "Book a Google Ads audit",
+    "service": "google-ads-audit",
+    "notes": [
+     "Wasted spend shown in money",
+     "Tracking checked",
+     "A ranked fix list"
+    ],
+    "sliderLabel": "What a Google Ads audit finds",
+    "fixLabel": "What the audit gives you",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "Wasted spend, found and sized",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Wasted spend found</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Irrelevant searches</span><b>$2,140/mo</b></li><li class=\"no\"><span>PMax on your brand name</span><b>$1,410/mo</b></li><li class=\"no\"><span>Ads in apps and games</span><b>$1,310/mo</b></li></ul><p class=\"cmhc__note\">Total: $4,860 a month, from a $19,000 budget</p></div>",
+      "photo": 0,
+      "fix": "Every leak shown in money per month, so you know which one to fix first.",
+      "look": "waste"
+     },
+     {
+      "kicker": "",
+      "title": "Can you trust your conversions?",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Conversion check</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Lead form</span><b>Counted twice</b></li><li class=\"no\"><span>Calls from ads</span><b>Not tracked</b></li><li class=\"ok\"><span>Purchases</span><b>Correct</b></li></ul><p class=\"cmhc__note\">Bidding is only as good as the numbers behind it</p></div>",
+      "photo": 0,
+      "fix": "Every conversion action checked against your CRM or store, before anything else.",
+      "look": "track"
+     },
+     {
+      "kicker": "",
+      "title": "Search terms nobody checked",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Where search spend went, last 90 days</p><ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:58%\"><span>Relevant searches</span><b>58% of spend</b></li><li style=\"--w:27%\"><span>Loosely related</span><b>27% of spend</b></li><li style=\"--w:15%\"><span>Irrelevant</span><b>15% of spend</b></li></ul><p class=\"cmhc__note\">412 search terms to add as negative keywords</p></div>",
+      "photo": 0,
+      "fix": "A ready-to-upload negative keyword list, grouped by theme.",
+      "look": "terms"
+     },
+     {
+      "kicker": "",
+      "title": "What Performance Max is really doing",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Performance Max</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Spend on brand searches</span><b>38%</b></li><li class=\"no\"><span>Assets rated “Low”</span><b>11 of 20</b></li><li class=\"no\"><span>Products with no clicks</span><b>64%</b></li></ul><p class=\"cmhc__note\">Most of this is hidden in the default reports</p></div>",
+      "photo": 0,
+      "fix": "Brand exclusions, asset fixes and a clear view of where the money goes.",
+      "look": "pmax"
+     },
+     {
+      "kicker": "",
+      "title": "A fix list ranked by value",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Your fix list</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"ok\"><span>1. Negative keywords</span><b>+$2,140/mo</b></li><li class=\"ok\"><span>2. Brand out of PMax</span><b>+$1,410/mo</b></li><li class=\"ok\"><span>3. Fix double counting</span><b>Better bids</b></li></ul><p class=\"cmhc__note\">24 fixes, ranked by value and effort</p></div>",
+      "photo": 0,
+      "fix": "Fix it yourself, or have us do it. There’s no obligation either way.",
+      "look": "plan"
+     }
+    ],
+    "tools": "<ul class=\"pmtools\" role=\"list\" aria-label=\"Tools we work in\"><li class=\"pmtools__i pmtools__i--1\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><g stroke-width=\"11\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M21 10 9.5 30\" stroke=\"#FBBC04\"/><path d=\"M21 10 34 33\" stroke=\"#4285F4\"/></g><circle cx=\"11\" cy=\"35\" r=\"6\" fill=\"#34A853\"/></svg><span>Google Ads</span></li><li class=\"pmtools__i pmtools__i--2\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><rect x=\"29\" y=\"5\" width=\"11\" height=\"38\" rx=\"5.5\" fill=\"#F9AB00\"/><rect x=\"16\" y=\"18\" width=\"11\" height=\"25\" rx=\"5.5\" fill=\"#E37400\"/><circle cx=\"9.5\" cy=\"37.5\" r=\"5.5\" fill=\"#E37400\"/></svg><span>Google Analytics 4</span></li><li class=\"pmtools__i pmtools__i--3\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><rect x=\"10\" y=\"10\" width=\"28\" height=\"28\" rx=\"5\" transform=\"rotate(45 24 24)\" fill=\"#4285F4\"/><path d=\"M24 4.2 9.9 18.3a8 8 0 0 0 0 11.4L24 43.8l4.6-4.6L14.5 24 28.6 9.8z\" fill=\"#8AB4F8\"/><circle cx=\"24\" cy=\"24\" r=\"4.5\" fill=\"#fff\"/></svg><span>Google Tag Manager</span></li></ul>",
+    "visual": "",
+    "look": "cmhero cmhero--pm cmhero--job"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/sign-strips",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "When a Google Ads audit <em>pays for itself</em>",
+    "lead": "The moments when a second opinion is worth the most, and what we usually find behind each one.",
+    "items": [
+     {
+      "title": "Cost per lead has crept up for months",
+      "text": "Costs rarely jump overnight. They creep up as competitors raise bids, broad match drifts into loosely related searches and old ads lose their edge. Each change is small, so nobody notices until the monthly report looks very different from a year ago.\n\nIn the audit we compare the last 12 months month by month, split by campaign, device, location and search term, so you can see exactly when and where costs started rising, and what each cause is costing you now.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Cost per lead: sample report\">\n\t<div class=\"pmrep__head\"><b>Cost per lead</b><span>Last 12 months</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">A year ago</span><span class=\"pmrep__s\">$32</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Six months ago</span><span class=\"pmrep__s\">$41</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Last month</span><span class=\"pmrep__s\">$58</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Leads per month</span><span class=\"pmrep__s\">−22%</span></li></ul>\n\t<p class=\"pmrep__foot\">Costs up 81% on the same budget</p>\n</figure>"
+     },
+     {
+      "title": "You’re changing agencies or bringing ads in-house",
+      "text": "Before a handover is the best time to see what you’re inheriting: how the account is built, which settings were changed, what the tracking really counts and which campaigns are worth keeping. You start the new arrangement with a clean list instead of surprises.\n\nWe also check who owns the account, Tag Manager and Analytics, and what access you have, so nothing is lost if you part ways with your current agency. You get a list of what to keep, what to fix and what to switch off on day one.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Handover check: sample report\">\n\t<div class=\"pmrep__head\"><b>Handover check</b><span>Before you switch</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Account owner</span><span class=\"pmrep__s\">Agency</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Tag Manager access</span><span class=\"pmrep__s\">None</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Change history</span><span class=\"pmrep__s\">14 months</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Campaigns worth keeping</span><span class=\"pmrep__s\">6 of 11</span></li></ul>\n\t<p class=\"pmrep__foot\">Know what you inherit</p>\n</figure>"
+     },
+     {
+      "title": "Performance Max takes most of the budget",
+      "text": "Performance Max reports very little by default. It often spends on your own brand name, on Display placements or on a few products, while the results look good on paper. When it takes most of the budget, those hidden problems are most of your spend.\n\nWe split Performance Max spend by channel, by search category and by product, and compare the leads or sales it reports with what reaches your CRM or store. You see what it really adds, and what to change so it finds new customers.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Performance Max: sample report\">\n\t<div class=\"pmrep__head\"><b>Performance Max</b><span>Share of the budget</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Share of total budget</span><span class=\"pmrep__s\">71%</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Spend on brand searches</span><span class=\"pmrep__s\">38%</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Reported cost per lead</span><span class=\"pmrep__s\">$31</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Real cost per new lead</span><span class=\"pmrep__s\">$46</span></li></ul>\n\t<p class=\"pmrep__foot\">Looks better on paper than in your CRM</p>\n</figure>"
+     },
+     {
+      "title": "Nobody has looked at search terms in a while",
+      "text": "Search terms are the searches your ads actually showed for. Left alone for a few months, they fill up with job seekers, free-download searches, students and competitors’ products, and each one costs a click.\n\nWe read every search term with spend by hand. Each one is sorted into keep, exclude or add as a keyword, grouped by theme and turned into negative keyword lists you can upload the day you get the report.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Search terms: sample report\">\n\t<div class=\"pmrep__head\"><b>Search terms</b><span>Not reviewed for 7 months</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Terms with spend</span><span class=\"pmrep__s\">2,940</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Irrelevant</span><span class=\"pmrep__s\">412</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Monthly cost of them</span><span class=\"pmrep__s\">$2,140</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">New keywords to add</span><span class=\"pmrep__s\">27</span></li></ul>\n\t<p class=\"pmrep__foot\">Sorted, grouped and ready to upload</p>\n</figure>"
+     },
+     {
+      "title": "You don’t trust the conversion numbers",
+      "text": "If Google Ads and your CRM disagree, every decision is built on the wrong numbers, and smart bidding learns from them too. Double counting makes campaigns look better than they are; missing calls make good campaigns look weak.\n\nYou get a side-by-side of Google Ads and your CRM or store for the same period, action by action, with the reason for every difference and what to change. It’s the first thing we check, because it changes how every other finding should be read.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Leads last month: sample report\">\n\t<div class=\"pmrep__head\"><b>Leads last month</b><span>Google Ads vs your CRM</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Google Ads</span><span class=\"pmrep__s\">212</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Your CRM</span><span class=\"pmrep__s\">106</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Difference</span><span class=\"pmrep__s\">+100%</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Calls tracked</span><span class=\"pmrep__s\">0</span></li></ul>\n\t<p class=\"pmrep__foot\">Bidding learns from the wrong numbers</p>\n</figure>"
+     },
+     {
+      "title": "You’re about to increase the budget",
+      "text": "Spending more in an account that leaks just makes the leaks bigger. Extra budget usually flows into the same broad keywords, the same placements and the same brand searches that already waste money.\n\nThe audit shows which campaigns are limited by budget and still profitable, and which are wasting what they already have. Extra spend then goes where it brings more leads, after the leaks are fixed.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Before you spend more: sample report\">\n\t<div class=\"pmrep__head\"><b>Before you spend more</b><span>Next month</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Planned increase</span><span class=\"pmrep__s\">+$8,000</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Into campaigns that leak</span><span class=\"pmrep__s\">$5,100</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Profitable, limited by budget</span><span class=\"pmrep__s\">2 campaigns</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Waste to fix first</span><span class=\"pmrep__s\">$4,860/mo</span></li></ul>\n\t<p class=\"pmrep__foot\">Fix first, then scale</p>\n</figure>"
+     }
+    ],
+    "noteTitle": "The money is often already in your budget",
+    "noteText": "An audit shows where it leaks before you spend more, ranked by how much each fix is worth.",
+    "buttonText": "Get this fixed",
+    "buttonUrl": "#proposal"
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Google Ads Audit, <em>done properly</em>",
+    "lead": "One fixed-scope project, quoted after a short call. No retainer needed.",
+    "name": "Google Ads audit",
+    "price": "Fixed price, quoted after a 30-minute call",
+    "items": [
+     "Conversion tracking and settings",
+     "Account and campaign structure",
+     "Keywords, match types and search terms",
+     "Performance Max: brand, channels and assets",
+     "Bidding and budgets",
+     "Ads, assets and landing pages",
+     "Wasted spend, shown in money",
+     "A fix list ranked by value",
+     "A 60-minute walkthrough call"
+    ],
+    "delivery": "Delivered in 5 working days",
+    "buttonText": "Request a quote",
+    "buttonUrl": "#proposal",
+    "visual": "<div class=\"pmhum\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/owner-results.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t<div><p class=\"pmhum__t\">Audited by a specialist, not a tool</p><p>A senior Google Ads specialist goes through your account by hand, writes the report and walks you through it on the call. You can ask anything.</p><ul role=\"list\"><li>Read by a person, not a script</li><li>60-minute walkthrough call</li><li>Questions answered after the call</li></ul></div>\n\t\t\t\t</div><div class=\"pmsc\">\n\t\t\t\t\t<div class=\"pmsc__top\"><div><p class=\"pmsc__t\">Account health score</p><p class=\"pmsc__s\">Example scorecard</p></div><p class=\"pmsc__total\"><b>55</b><span>/100</span></p></div>\n\t\t\t\t\t<ul class=\"pmsc__rows\" role=\"list\"><li class=\"pmsc__r pmsc__r--bad\"><span>Conversion tracking</span><i style=\"--w:30%\"></i><b>3/10</b></li><li class=\"pmsc__r pmsc__r--bad\"><span>Keywords and search terms</span><i style=\"--w:40%\"></i><b>4/10</b></li><li class=\"pmsc__r pmsc__r--warn\"><span>Performance Max</span><i style=\"--w:50%\"></i><b>5/10</b></li><li class=\"pmsc__r pmsc__r--warn\"><span>Landing pages</span><i style=\"--w:50%\"></i><b>5/10</b></li><li class=\"pmsc__r pmsc__r--warn\"><span>Account structure</span><i style=\"--w:60%\"></i><b>6/10</b></li><li class=\"pmsc__r pmsc__r--warn\"><span>Ads and assets</span><i style=\"--w:60%\"></i><b>6/10</b></li><li class=\"pmsc__r pmsc__r--ok\"><span>Bidding and budgets</span><i style=\"--w:70%\"></i><b>7/10</b></li><li class=\"pmsc__r pmsc__r--ok\"><span>Settings</span><i style=\"--w:80%\"></i><b>8/10</b></li></ul>\n\t\t\t\t\t<p class=\"pmsc__note\">Every area gets a score, the reasons behind it and the fixes that would raise it. You see at a glance where the money leaks.</p>\n\t\t\t\t</div>"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How the audit works",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-194\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-194\">How the <span class=\"accent\">audit works</span></h2>\n\t\t\t\t<p class=\"section-lead\">Five working days from access to walkthrough. Read-only access is all we need, and we don’t change anything in your account.</p>\n\t\t\t</div>\n\n\t\t\t<ol class=\"pmsds\" role=\"list\" data-acc><li class=\"pmsd js-acc is-open\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"true\" aria-controls=\"pmsd-1\"><span class=\"pmsd__when\">Step 1 · Day 1</span><span class=\"pmsd__t\">Access and kick-off</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-1\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>You give us read-only access to Google Ads, GA4 and Tag Manager. On a short kick-off call we ask about your goals, your margins, what a good lead or sale is worth and what worries you most, so the audit focuses on what matters to you.</p><p class=\"pmsd__get\"><b>You get:</b> A clear brief for the audit.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Read-only access, nothing changed in your account</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Goals, margins and lead values agreed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Your CRM or store numbers for the same period</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Any history: past agencies, changes, suspensions</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-2\"><span class=\"pmsd__when\">Step 2 · Days 1–3</span><span class=\"pmsd__t\">Review by hand</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-2\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>A Google Ads specialist goes through all eight areas of the account by hand, using the last 90 days and the last 12 months for trends. Automated tools find settings; a person finds the reasons behind the numbers.</p><p class=\"pmsd__get\"><b>You get:</b> A full list of findings.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> All eight areas checked, from tracking to settings</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Search terms read, not just sampled</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Change history reviewed for what changed and when</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing pages tested on desktop and phone</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-3\"><span class=\"pmsd__when\">Step 3 · Day 4</span><span class=\"pmsd__t\">Size every issue</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-3\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>Each finding gets a value in money per month, an effort level and a priority. Wasted spend is calculated from your own data, so the fix list is ranked by what each change is worth to you, not by how long it takes us.</p><p class=\"pmsd__get\"><b>You get:</b> A fix list ranked by value.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Wasted spend calculated per issue</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Effort rated low, medium or high</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Quick wins marked separately</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Risks noted, such as changes that reset learning</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-4\"><span class=\"pmsd__when\">Step 4 · Day 5</span><span class=\"pmsd__t\">Write the report</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-4\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We write the findings in plain English, with screenshots from your account, a scorecard for each area and the fix list. Anyone on your team, or any agency, can follow it.</p><p class=\"pmsd__get\"><b>You get:</b> The audit report, yours to keep.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A one-page summary and scorecard</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Screenshots from your own account</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> The ranked fix list as a spreadsheet</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ready-to-upload negative keyword lists</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-5\"><span class=\"pmsd__when\">Step 5 · Days 5–6</span><span class=\"pmsd__t\">Walkthrough call</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-5\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>A 60-minute call where we walk you through the findings, answer questions and agree what to do first. You can fix things yourself, ask your agency, or have us do it. There’s no obligation.</p><p class=\"pmsd__get\"><b>You get:</b> A clear plan for the next 30 days.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> 60 minutes with the specialist who did the audit</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> The top fixes agreed in order</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Questions answered, including the awkward ones</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Optional quote if you want us to fix it</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li></ol>\n\t\t\t<div class=\"pmau__head\"><p class=\"pmau__kick\">What exactly we audit</p><h3>Eight areas, <span class=\"accent\">checked by hand</span></h3><p>For each area: why it matters, what we check, what we usually find and what we recommend. Every finding in your report comes with evidence from your own account.</p></div>\n\t\t\t<div class=\"pmau\" data-tabs>\n\t\t\t\t<div class=\"pmau__tabs\" role=\"tablist\" aria-orientation=\"vertical\" aria-label=\"Areas we audit\"><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-193-t0\" aria-controls=\"au-193-p0\" aria-selected=\"true\"><span>01</span>Conversion tracking<em>6 checks · 4 common findings</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-193-t1\" aria-controls=\"au-193-p1\" aria-selected=\"false\"><span>02</span>Account and campaign structure<em>6 checks · 4 common findings</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-193-t2\" aria-controls=\"au-193-p2\" aria-selected=\"false\"><span>03</span>Keywords and search terms<em>6 checks · 4 common findings</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-193-t3\" aria-controls=\"au-193-p3\" aria-selected=\"false\"><span>04</span>Performance Max<em>6 checks · 4 common findings</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-193-t4\" aria-controls=\"au-193-p4\" aria-selected=\"false\"><span>05</span>Bidding and budgets<em>6 checks · 4 common findings</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-193-t5\" aria-controls=\"au-193-p5\" aria-selected=\"false\"><span>06</span>Ads and assets<em>6 checks · 4 common findings</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-193-t6\" aria-controls=\"au-193-p6\" aria-selected=\"false\"><span>07</span>Landing pages<em>6 checks · 4 common findings</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-193-t7\" aria-controls=\"au-193-p7\" aria-selected=\"false\"><span>08</span>Settings<em>6 checks · 4 common findings</em></button></div>\n\t\t\t\t<div class=\"pmau__panels\"><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-193-p0\" aria-labelledby=\"au-193-t0\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 1 of 8</p><h4>Conversion tracking</h4><p class=\"pmau__why\">If the numbers are wrong, every other decision is too, including what smart bidding learns. Tracking is the first thing we check, because a fix here often changes how every other finding should be read.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Conversion actions: sample report\">\n\t<div class=\"pmrep__head\"><b>Conversion actions</b><span>Google Ads vs your CRM</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Booking form</span><span class=\"pmrep__s\">Counted twice</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Calls from ads</span><span class=\"pmrep__s\">Not tracked</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Newsletter</span><span class=\"pmrep__s\">Set as primary</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Online booking</span><span class=\"pmrep__s\">Correct</span></li></ul>\n\t<p class=\"pmrep__foot\">3 of 4 actions need fixing</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Every conversion action, its source and counting setting</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Primary and secondary goals</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Google Ads numbers compared with your CRM or store</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Enhanced conversions and consent mode</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Calls from ads and from the website</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Offline conversions and values</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Leads counted twice through the Google tag and a GA4 import</li><li><span aria-hidden=\"true\">!</span> Phone calls not tracked, though they bring a third of leads</li><li><span aria-hidden=\"true\">!</span> Newsletter sign-ups set as a primary conversion, so bidding chases them</li><li><span aria-hidden=\"true\">!</span> No enhanced conversions, so fewer conversions are matched</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we recommend</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Keep one source per conversion and set duplicates to secondary</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Add call tracking from ads and the website, with a minimum call length</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Move low-value actions to secondary and give each lead type a value</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Turn on enhanced conversions and check consent mode</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-193-p1\" aria-labelledby=\"au-193-t1\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 2 of 8</p><h4>Account and campaign structure</h4><p class=\"pmau__why\">Structure decides how budget is shared and how clearly you can see what works. Too many campaigns split the data so thinly that bidding can’t learn; too few hide weak areas behind strong ones.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Campaigns: sample report\">\n\t<div class=\"pmrep__head\"><b>Campaigns</b><span>Share of the budget</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Brand and generic, mixed</span><span class=\"pmrep__s\">62%</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Services</span><span class=\"pmrep__s\">24%</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Old promotion, still live</span><span class=\"pmrep__s\">9%</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Remarketing</span><span class=\"pmrep__s\">5%</span></li></ul>\n\t<p class=\"pmrep__foot\">Brand results hide weak campaigns</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Campaign and ad group structure</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Budget split between campaigns</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Brand and non-brand kept apart</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Overlap between campaigns</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Naming and labels</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Campaigns that should be paused or merged</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Brand and non-brand keywords in one campaign, so brand results hide weak generic terms</li><li><span aria-hidden=\"true\">!</span> Old seasonal campaigns still live and spending</li><li><span aria-hidden=\"true\">!</span> Campaigns targeting the same keywords and competing with each other</li><li><span aria-hidden=\"true\">!</span> Ad groups with 40 or more unrelated keywords</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we recommend</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Separate brand, generic and competitor campaigns</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Pause or merge campaigns that overlap or have no clear purpose</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Group keywords into tight themes with matching ads</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A naming system so anyone can read the account</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-193-p2\" aria-labelledby=\"au-193-t2\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 3 of 8</p><h4>Keywords and search terms</h4><p class=\"pmau__why\">Search terms show what people actually typed before clicking. With broad match and close variants, they drift further from your keywords every month. This is where most wasted spend hides.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Search terms: sample report\">\n\t<div class=\"pmrep__head\"><b>Search terms</b><span>Last 90 days</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">“physio jobs near me”</span><span class=\"pmrep__s\">$412, 0 leads</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">“free back exercises pdf”</span><span class=\"pmrep__s\">$286, 0 leads</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">“sports physio near me”</span><span class=\"pmrep__s\">$198, 9 leads</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Terms to exclude</span><span class=\"pmrep__s\">412</span></li></ul>\n\t<p class=\"pmrep__foot\">$2,140 a month on irrelevant searches</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Match types and broad match use</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Search terms from the last 90 days, read by hand</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Negative keyword lists and conflicts</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Keywords with spend and no conversions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Quality Score and its parts</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Missing high-intent keywords</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> 412 irrelevant search terms costing $2,140 a month</li><li><span aria-hidden=\"true\">!</span> Broad match on most keywords, with no negative keyword lists</li><li><span aria-hidden=\"true\">!</span> Keywords that spend every month and never convert</li><li><span aria-hidden=\"true\">!</span> High-intent searches with no keyword or ad of their own</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we recommend</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Negative keyword lists by theme, ready to upload</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Phrase or exact match for core terms where broad match isn’t earning its keep</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Pause or rework keywords with spend and no conversions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Keywords and ads for the high-intent searches that convert</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-193-p3\" aria-labelledby=\"au-193-t3\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 4 of 8</p><h4>Performance Max</h4><p class=\"pmau__why\">Performance Max decides where your ads show across Search, Shopping, YouTube, Display, Gmail and Maps, and reports very little by default. We look under the summary at where the money actually goes.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Performance Max: sample report\">\n\t<div class=\"pmrep__head\"><b>Performance Max</b><span>Where the spend goes</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Brand searches</span><span class=\"pmrep__s\">38%</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Display and Gmail</span><span class=\"pmrep__s\">21%</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Assets rated Low</span><span class=\"pmrep__s\">11 of 20</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">New customers</span><span class=\"pmrep__s\">44%</span></li></ul>\n\t<p class=\"pmrep__foot\">Strong results, mostly from people who knew you</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Spend on brand searches</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Channel split: Search, Shopping, Display, YouTube</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Asset groups and asset ratings</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Audience signals</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Product feed coverage and errors</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Final URL expansion settings</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> 38% of spend on people already searching for the brand</li><li><span aria-hidden=\"true\">!</span> Most assets rated Low, with the same images in every asset group</li><li><span aria-hidden=\"true\">!</span> Final URL expansion sending people to blog posts and the careers page</li><li><span aria-hidden=\"true\">!</span> No audience signals, so the campaign learns slowly</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we recommend</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Brand exclusions, with a separate brand Search campaign</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> New images, videos and headlines for each asset group</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> URL exclusions, or final URL expansion switched off</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Audience signals from your customer lists and website visitors</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-193-p4\" aria-labelledby=\"au-193-t4\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 5 of 8</p><h4>Bidding and budgets</h4><p class=\"pmau__why\">The right bid strategy depends on how many conversions you get and how reliable they are. The wrong strategy, or the wrong target, wastes budget quietly or stops campaigns spending at all.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Bidding: sample report\">\n\t<div class=\"pmrep__head\"><b>Bidding</b><span>Targets vs results</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Target cost per lead</span><span class=\"pmrep__s\">$28</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Actual average</span><span class=\"pmrep__s\">$47</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Impressions lost to budget</span><span class=\"pmrep__s\">31%</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Impressions lost to rank</span><span class=\"pmrep__s\">22%</span></li></ul>\n\t<p class=\"pmrep__foot\">The target is unrealistic, so campaigns barely spend</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Bid strategy per campaign</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Targets compared with real results</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Budgets limited by budget or by rank</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Learning periods and recent changes</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Seasonality adjustments</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Device and schedule performance</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> A target cost per lead 40% below anything the account has achieved</li><li><span aria-hidden=\"true\">!</span> The best campaign limited by budget while a weak one has budget left over</li><li><span aria-hidden=\"true\">!</span> Bid strategies changed every few weeks, so learning never finishes</li><li><span aria-hidden=\"true\">!</span> No adjustments for seasonal peaks</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we recommend</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Targets set from real results, then lowered step by step</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Budget moved from weak campaigns to profitable ones limited by budget</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> One change at a time, with time for bidding to learn</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Seasonality adjustments for known peaks and sales</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-193-p5\" aria-labelledby=\"au-193-t5\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 6 of 8</p><h4>Ads and assets</h4><p class=\"pmau__why\">Ads decide who clicks and how much each click costs. Generic ads attract the wrong people and lower your ad rank, so you pay more for fewer good leads.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Ads: sample report\">\n\t<div class=\"pmrep__head\"><b>Ads</b><span>Ad strength</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Ad groups with generic ads</span><span class=\"pmrep__s\">14 of 14</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Ad strength “Poor”</span><span class=\"pmrep__s\">9 ads</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Sitelinks in use</span><span class=\"pmrep__s\">2 of 8</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Disapproved ads</span><span class=\"pmrep__s\">3</span></li></ul>\n\t<p class=\"pmrep__foot\">The same two ads everywhere</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Responsive search ads and ad strength</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Headlines that match the searches</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Sitelinks, callouts, images and other assets</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Offers, prices and calls to action</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Disapproved or limited ads</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ads for each important keyword theme</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> The same two generic ads in every ad group</li><li><span aria-hidden=\"true\">!</span> Headlines that don’t mention what people searched for</li><li><span aria-hidden=\"true\">!</span> Few sitelinks, callouts or images, so ads look small next to competitors</li><li><span aria-hidden=\"true\">!</span> Disapproved ads nobody noticed</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we recommend</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Ads written for each service or theme, using the words people search</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Clear offers, prices and calls to action in headlines</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> All relevant assets added: sitelinks, callouts, images, calls</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Disapprovals fixed, with a monthly check for new ones</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-193-p6\" aria-labelledby=\"au-193-t6\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 7 of 8</p><h4>Landing pages</h4><p class=\"pmau__why\">A good ad on a weak page still loses the lead. We test every page your ads send people to, on a phone and a desktop, the way a customer would.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Landing pages: sample report\">\n\t<div class=\"pmrep__head\"><b>Landing pages</b><span>Phone test</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Homepage conversion rate</span><span class=\"pmrep__s\">1.4%</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Load time on phone</span><span class=\"pmrep__s\">5.8 s</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Clicks to the form</span><span class=\"pmrep__s\">2</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Service page conversion rate</span><span class=\"pmrep__s\">4.1%</span></li></ul>\n\t<p class=\"pmrep__foot\">Every ad sends people to the homepage</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Message match between ad and page</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Speed on phone and desktop</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Forms, buttons and phone numbers</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Trust signals and proof</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Pages per campaign or theme</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tracking on each page</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Every ad sends people to the homepage</li><li><span aria-hidden=\"true\">!</span> Pages take nearly 6 seconds to load on a phone</li><li><span aria-hidden=\"true\">!</span> The form and phone number sit below the fold on phones</li><li><span aria-hidden=\"true\">!</span> No reviews, prices or proof near the call to action</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we recommend</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A page per campaign or service, matching the ad</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Speed fixes our web team can make, or a list for your developer</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Form and phone number above the fold on phones</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Reviews, guarantees and clear prices next to the form</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-193-p7\" aria-labelledby=\"au-193-t7\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 8 of 8</p><h4>Settings</h4><p class=\"pmau__why\">Settings hide some of the most expensive mistakes, because nobody looks at them after launch. A single setting can send budget to the wrong country or into mobile games.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Settings: sample report\">\n\t<div class=\"pmrep__head\"><b>Settings</b><span>Search campaigns</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Display Network</span><span class=\"pmrep__s\">On</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Location option</span><span class=\"pmrep__s\">Presence or interest</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Auto-applied recommendations</span><span class=\"pmrep__s\">On</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Ad schedule</span><span class=\"pmrep__s\">Set</span></li></ul>\n\t<p class=\"pmrep__foot\">Two settings cost $1,310 a month</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Locations: presence or interest</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Language and network settings</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Display Network on Search campaigns</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ad schedule and time zones</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Auto-applied recommendations</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Placement and content exclusions</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Search campaigns also showing on the Display Network, in apps and games</li><li><span aria-hidden=\"true\">!</span> Locations set to “presence or interest”, so ads show outside the service area</li><li><span aria-hidden=\"true\">!</span> Auto-applied recommendations adding broad keywords without review</li><li><span aria-hidden=\"true\">!</span> Ads running overnight when nobody answers the phone</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we recommend</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Display Network off on Search campaigns</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Locations set to people in, or regularly in, your area</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Auto-applied recommendations off, reviewed by hand instead</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> An ad schedule that matches when you can take calls</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "google-ads-audit",
+    "modules": [
+     "@intella/scroll-accordions",
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Where Google Ads <em>budgets leak</em>",
+    "lead": "The issues we find in most audits. Here is what each one looks like inside the account, and how we fix it.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "Broad match with no negatives",
+      "problem": "Broad match keywords run with no negative keyword lists, so ads show for loosely related and irrelevant searches.",
+      "beforeTitle": "Search terms, last 90 days",
+      "before": [
+       {
+        "label": "Irrelevant searches",
+        "value": "412",
+        "tone": "bad"
+       },
+       {
+        "label": "Spend on them",
+        "value": "$6,420",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Negative keyword lists built from your search terms, and tighter match types where broad match isn’t earning its keep.",
+      "afterTitle": "After the fix",
+      "after": [
+       {
+        "label": "Negative keywords added",
+        "value": "386",
+        "tone": "ok"
+       },
+       {
+        "label": "Monthly saving",
+        "value": "$2,140",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Performance Max buying your brand",
+      "problem": "Performance Max spends on people already searching for your brand name, who would have found you anyway, and reports them as new conversions.",
+      "beforeTitle": "Performance Max spend",
+      "before": [
+       {
+        "label": "On brand searches",
+        "value": "38%",
+        "tone": "bad"
+       },
+       {
+        "label": "Reported cost per lead",
+        "value": "$31",
+        "tone": "warn"
+       }
+      ],
+      "fix": "Brand exclusions in Performance Max, with a separate low-cost brand campaign.",
+      "afterTitle": "After the fix",
+      "after": [
+       {
+        "label": "On brand searches",
+        "value": "4%",
+        "tone": "ok"
+       },
+       {
+        "label": "Real cost per new lead",
+        "value": "$46",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Conversions counted twice",
+      "problem": "The Google tag and an imported GA4 goal both count the same lead, so results look twice as good as they are.",
+      "beforeTitle": "Leads last month",
+      "before": [
+       {
+        "label": "Google Ads",
+        "value": "212",
+        "tone": "bad"
+       },
+       {
+        "label": "Your CRM",
+        "value": "106",
+        "tone": "ok"
+       }
+      ],
+      "fix": "One conversion source per action, with the duplicate set to secondary.",
+      "afterTitle": "After the fix",
+      "after": [
+       {
+        "label": "Google Ads",
+        "value": "104",
+        "tone": "ok"
+       },
+       {
+        "label": "Your CRM",
+        "value": "106",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Ads in apps and games",
+      "problem": "Search campaigns are opted in to the Display Network, and the budget drains into mobile apps and games.",
+      "beforeTitle": "Display placements",
+      "before": [
+       {
+        "label": "Mobile apps and games",
+        "value": "$1,310 / mo",
+        "tone": "bad"
+       },
+       {
+        "label": "Conversions",
+        "value": "0",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Display Network switched off on Search, and placement exclusions for apps and games.",
+      "afterTitle": "After the fix",
+      "after": [
+       {
+        "label": "Spend on apps",
+        "value": "$0",
+        "tone": "ok"
+       },
+       {
+        "label": "Budget moved to Search",
+        "value": "$1,310",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Every ad sends people to the homepage",
+      "problem": "Every ad sends people to the homepage, so visitors have to hunt for what they searched for.",
+      "beforeTitle": "Landing page",
+      "before": [
+       {
+        "label": "Homepage conversion rate",
+        "value": "1.4%",
+        "tone": "bad"
+       },
+       {
+        "label": "Clicks to the form",
+        "value": "2",
+        "tone": "warn"
+       }
+      ],
+      "fix": "Landing pages per campaign or theme, with the form or phone number above the fold.",
+      "afterTitle": "After the fix",
+      "after": [
+       {
+        "label": "Service page conversion rate",
+        "value": "4.1%",
+        "tone": "ok"
+       },
+       {
+        "label": "Clicks to the form",
+        "value": "0",
+        "tone": "ok"
+       }
+      ]
+     }
+    ],
+    "visual": "",
+    "alt": true
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your audit report",
+    "html": "<section class=\"section section--cream pmreport\" aria-labelledby=\"h-196\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-196\">Your <span class=\"accent\">audit report</span></h2>\n\t\t\t\t<p class=\"section-lead\">15 to 25 pages you keep, plus a 60-minute call. Clear enough for your team, or any agency, to act on.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrd__dl\">\n\t\t\t\t<a class=\"button button--primary button--lg\" href=\"{{media:assets/samples/google-ads-audit-sample-report.pdf}}\" download>Download a sample report <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t<p>A real report layout with example data, so you know exactly what you’ll receive.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrv\">\n\t\t\t\t<ol class=\"pmrv__list\" role=\"list\"><li><span class=\"pmrv__n\">01</span><div><h3>Summary and scorecard <small>2 pages</small></h3><p>A one-page summary of what’s working, what isn’t and the money involved, with a score for each of the eight areas.</p></div></li><li><span class=\"pmrv__n\">02</span><div><h3>Tracking check <small>2–3 pages</small></h3><p>Every conversion action, how it’s counted and whether it matches your CRM or store, with what to fix.</p></div></li><li><span class=\"pmrv__n\">03</span><div><h3>Account review <small>8–12 pages</small></h3><p>Structure, keywords, Performance Max, bidding, ads and settings, with screenshots from your own account.</p></div></li><li><span class=\"pmrv__n\">04</span><div><h3>Wasted spend <small>2–3 pages</small></h3><p>Each source of waste in money per month, with the search terms and placements behind it.</p></div></li><li><span class=\"pmrv__n\">05</span><div><h3>Ranked fix list <small>2–4 pages</small></h3><p>Every fix ranked by value and effort, also delivered as a spreadsheet your team can work through.</p></div></li></ol>\n\t\t\t\t<a class=\"pmrv__pic\" href=\"{{media:assets/samples/google-ads-audit-sample-report.pdf}}\" aria-label=\"Open the sample report (PDF)\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--3\" src=\"{{media:assets/samples/google-ads-audit-sample-report-3.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--2\" src=\"{{media:assets/samples/google-ads-audit-sample-report-2.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--1\" src=\"{{media:assets/samples/google-ads-audit-sample-report-1.jpg}}\" alt=\"Cover of the sample report\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<span class=\"pmrv__tag\">Sample · example data</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "google-ads-audit",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Companies we’ve audited, and what we found",
+    "html": "<section class=\"section section--white pmcsx\" aria-labelledby=\"h-198\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-198\">Companies we’ve audited, <span class=\"accent\">and what we found</span></h2>\n\t\t\t\t<p class=\"section-lead\">Who they are, why they asked for an audit, what we found and the value it added. Pick a company to read its story.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmcs pmcs--ba\" data-tabs>\n\t\t\t\t<div class=\"pmcs__tabs\" role=\"tablist\" aria-orientation=\"vertical\" aria-label=\"Companies we have audited\"><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-197-t0\" aria-controls=\"ad-197-p0\" aria-selected=\"true\"><span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M4 26c5-4 9-4 14 0s9 4 14 0\" stroke=\"#14b8a6\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M20 4v18M13 11h14\" stroke=\"#0f766e\" stroke-width=\"4\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Harbourline</b><span>Physio</span></span></span><span class=\"pmcs__ti\">Physiotherapy clinics</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-197-t1\" aria-controls=\"ad-197-p1\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#6d28d9\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 3 35 18 20 37 5 18z\" fill=\"#7c3aed\"/><path d=\"M20 3v34M5 18h30\" stroke=\"#ddd6fe\" stroke-width=\"2\"/></svg><span class=\"cmlg__w\"><b>Kitebase</b><span>Software</span></span></span><span class=\"pmcs__ti\">B2B software</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-197-t2\" aria-controls=\"ad-197-p2\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#166534\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 4 34 30H6z\" fill=\"#15803d\"/><rect x=\"18\" y=\"28\" width=\"4\" height=\"8\" fill=\"#166534\"/><path d=\"M20 12 28 27H12z\" fill=\"#86efac\"/></svg><span class=\"cmlg__w\"><b>Oakridge</b><span>Roofing</span></span></span><span class=\"pmcs__ti\">Home services</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-197-t3\" aria-controls=\"ad-197-p3\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#9a3412\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M4 26h22l8-8-8-8\" fill=\"none\" stroke=\"#c2410c\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"14\" r=\"4\" fill=\"#fdba74\"/></svg><span class=\"cmlg__w\"><b>Northline</b><span>Outdoor</span></span></span><span class=\"pmcs__ti\">Online store</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-197-t4\" aria-controls=\"ad-197-p4\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#1e40af\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"16\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"3\"/><path d=\"M4 20h32M20 4c6 5 6 27 0 32M20 4c-6 5-6 27 0 32\" stroke=\"#60a5fa\" stroke-width=\"2.5\" fill=\"none\"/></svg><span class=\"cmlg__w\"><b>Meridian</b><span>Legal</span></span></span><span class=\"pmcs__ti\">Law firm</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-197-t5\" aria-controls=\"ad-197-p5\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#c2410c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"5\" y=\"8\" width=\"30\" height=\"26\" rx=\"5\" fill=\"#ea580c\"/><path d=\"M5 15h30\" stroke=\"#fed7aa\" stroke-width=\"3\"/><circle cx=\"14\" cy=\"23\" r=\"2.5\" fill=\"#fff\"/><circle cx=\"20\" cy=\"23\" r=\"2.5\" fill=\"#fff\"/><circle cx=\"26\" cy=\"23\" r=\"2.5\" fill=\"#fed7aa\"/></svg><span class=\"cmlg__w\"><b>Rosterly</b><span>Scheduling</span></span></span><span class=\"pmcs__ti\">Subscription software</span></button></div>\n\t\t\t\t<div class=\"pmcs__panels\"><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-197-p0\" aria-labelledby=\"ad-197-t0\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M4 26c5-4 9-4 14 0s9 4 14 0\" stroke=\"#14b8a6\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M20 4v18M13 11h14\" stroke=\"#0f766e\" stroke-width=\"4\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Harbourline</b><span>Physio</span></span></span><p>Physiotherapy clinics<span>Audit, fixes by their own team · 5 days</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>Three physiotherapy clinics with online booking, spending about $19,000 a month on Google Ads.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they asked for an audit</dt><dd>Bookings had flattened while spend kept rising. The owners didn’t know whether to blame the ads, the website or the season.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>$2,140 a month on irrelevant searches such as “physio jobs” and “free exercises pdf”</li><li>38% of Performance Max spend on their own brand name</li><li>The booking form counted twice, and phone calls not tracked at all</li><li>Search campaigns also showing in mobile games</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>The value it added</dt><dd>Their own team made the top four fixes in a week, straight from our fix list. $4,860 a month moved from waste into the campaigns that brought bookings.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before the audit vs after the fixes</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Wasted spend a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $4,860</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:13%\"></span><b>After $620</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">87% lower</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per booking</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $58</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:67%\"></span><b>After $39</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">33% lower</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-197-p1\" aria-labelledby=\"ad-197-t1\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#6d28d9\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 3 35 18 20 37 5 18z\" fill=\"#7c3aed\"/><path d=\"M20 3v34M5 18h30\" stroke=\"#ddd6fe\" stroke-width=\"2\"/></svg><span class=\"cmlg__w\"><b>Kitebase</b><span>Software</span></span></span><p>B2B software<span>Audit before an agency handover · 6 days</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A project-management app for construction firms, sold on annual plans after a sales-led demo.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they asked for an audit</dt><dd>They were moving from an agency to an in-house marketer and wanted to know exactly what they were inheriting.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>The Google Ads account was owned by the agency, not by Kitebase</li><li>Demo requests counted on every visit to the thank-you page</li><li>Brand and generic keywords in one campaign, hiding a much higher cost per demo on generic terms</li><li>No offline conversions, so Google optimised for form fills, not sales</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>The value it added</dt><dd>Account ownership moved to Kitebase before the handover, tracking was rebuilt, and the new marketer started with a ranked fix list instead of guesswork.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before the audit vs after the fixes</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per real demo</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $212</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:65%\"></span><b>After $138</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">35% lower</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Demos counted correctly</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:48%\"></span><b>Before 48%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 100%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">108% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-197-p2\" aria-labelledby=\"ad-197-t2\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#166534\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 4 34 30H6z\" fill=\"#15803d\"/><rect x=\"18\" y=\"28\" width=\"4\" height=\"8\" fill=\"#166534\"/><path d=\"M20 12 28 27H12z\" fill=\"#86efac\"/></svg><span class=\"cmlg__w\"><b>Oakridge</b><span>Roofing</span></span></span><p>Home services<span>Audit, then fixes by us · 5 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A roofing and gutter company covering one metro area, where most jobs start with a phone call.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they asked for an audit</dt><dd>Cost per lead had crept up 60% in a year, and the owner suspected the budget was simply being spent, not managed.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>Locations set to “presence or interest”: 18% of clicks came from outside the service area</li><li>Calls shorter than 10 seconds counted as leads</li><li>Ads running overnight with nobody answering the phone</li><li>Every ad sent people to the homepage</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>The value it added</dt><dd>We fixed the settings and call tracking and built two landing pages. More real calls came in on the same budget.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before the audit vs after the fixes</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per real call</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $96</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:64%\"></span><b>After $61</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">36% lower</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Calls over 60 seconds a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:63%\"></span><b>Before 74</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 118</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">59% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-197-p3\" aria-labelledby=\"ad-197-t3\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#9a3412\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M4 26h22l8-8-8-8\" fill=\"none\" stroke=\"#c2410c\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"14\" r=\"4\" fill=\"#fdba74\"/></svg><span class=\"cmlg__w\"><b>Northline</b><span>Outdoor</span></span></span><p>Online store<span>Audit before a budget increase · 7 days</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>An online store for hiking and camping gear with about 1,800 products and a Shopping-heavy account.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they asked for an audit</dt><dd>They planned to double spend for the summer season and wanted to be sure the extra money wouldn’t go to waste.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>64% of products had never had a click in Performance Max</li><li>Purchase values included tax and shipping, overstating return on ad spend by 22%</li><li>Brand searches took 31% of Performance Max spend</li><li>Feed titles missing size, colour and brand</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>The value it added</dt><dd>Feed and value fixes went in before the season, so the extra budget went to the products and campaigns that could use it.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before the audit vs after the fixes</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Real return on ad spend</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:62%\"></span><b>Before 2.1x</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 3.4x</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">62% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Products getting clicks</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:51%\"></span><b>Before 36%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 71%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">97% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-197-p4\" aria-labelledby=\"ad-197-t4\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#1e40af\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"16\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"3\"/><path d=\"M4 20h32M20 4c6 5 6 27 0 32M20 4c-6 5-6 27 0 32\" stroke=\"#60a5fa\" stroke-width=\"2.5\" fill=\"none\"/></svg><span class=\"cmlg__w\"><b>Meridian</b><span>Legal</span></span></span><p>Law firm<span>Audit only · 5 days</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>An employment law firm with two offices, taking cases from employees and small employers.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they asked for an audit</dt><dd>Leads looked cheap in Google Ads, but the partners said few were real cases. They wanted an outside view before renewing their agency contract.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>42% of spend on searches for free legal advice and job listings</li><li>Newsletter sign-ups counted as primary conversions</li><li>The same two ads in every ad group</li><li>No negative keyword lists at all</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>The value it added</dt><dd>The firm kept their agency and handed them our fix list. Three months later, far more of the leads were cases worth taking.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before the audit vs after the fixes</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per qualified case</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $410</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:65%\"></span><b>After $265</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">35% lower</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Qualified cases a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:65%\"></span><b>Before 11</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 17</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">55% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-197-p5\" aria-labelledby=\"ad-197-t5\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#c2410c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"5\" y=\"8\" width=\"30\" height=\"26\" rx=\"5\" fill=\"#ea580c\"/><path d=\"M5 15h30\" stroke=\"#fed7aa\" stroke-width=\"3\"/><circle cx=\"14\" cy=\"23\" r=\"2.5\" fill=\"#fff\"/><circle cx=\"20\" cy=\"23\" r=\"2.5\" fill=\"#fff\"/><circle cx=\"26\" cy=\"23\" r=\"2.5\" fill=\"#fed7aa\"/></svg><span class=\"cmlg__w\"><b>Rosterly</b><span>Scheduling</span></span></span><p>Subscription software<span>Audit, fixes together · 4 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A shift-scheduling app for restaurants and cafés, sold as a monthly subscription after a free trial.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they asked for an audit</dt><dd>Free trials were growing but paid sign-ups weren’t, and they couldn’t see which campaigns brought paying customers.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>Free trials tracked, but not paid subscriptions</li><li>Display Network on in Search campaigns: $1,900 a month in apps</li><li>A bid target 45% below anything achieved, so the best campaign barely spent</li><li>A competitor campaign with no conversions for five months</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>The value it added</dt><dd>Paid sign-ups now flow back to Google Ads, the waste is switched off and the budget moved to the campaign that had been held back.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before the audit vs after the fixes</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per paying customer</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $340</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:63%\"></span><b>After $215</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">37% lower</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Paying customers a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:67%\"></span><b>Before 38</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 57</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">50% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "google-ads-audit",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Alex Barsuk",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ]
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Google Ads Audit questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What does a Google Ads audit include?",
+      "answer": "Tracking, structure, keywords and search terms, Performance Max, bidding, budgets, ads, assets, landing pages and settings, with wasted spend shown in money and a ranked fix list."
+     },
+     {
+      "question": "How much does a Google Ads audit cost?",
+      "answer": "It’s a fixed price, quoted after a short call, based on the size of the account."
+     },
+     {
+      "question": "Do you need full access?",
+      "answer": "No. Read-only access to Google Ads, GA4 and Tag Manager is enough, and we don’t change anything in your account."
+     },
+     {
+      "question": "How long does a Google Ads audit take?",
+      "answer": "Five working days from access to the report, then a 60-minute walkthrough call."
+     },
+     {
+      "question": "Do I have to hire you to fix it?",
+      "answer": "No. The fix list is written so your team or your current agency can work through it. If you want us to do it, we’ll quote separately."
+     },
+     {
+      "question": "How often should I audit my Google Ads account?",
+      "answer": "A full audit once or twice a year, and whenever results change sharply or you change who manages the account."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Find out where your Google Ads <em>budget goes</em>",
+    "lead": "Give us read-only access. We’ll quote the audit within a working day.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "Roughly how much do you spend a month, and what worries you most?",
+    "service": "google-ads-audit",
+    "buttonText": "Request a quote",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Related <em>services</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "search",
+      "title": "Google Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/",
+      "text": "Search, Performance Max and display."
+     },
+     {
+      "icon": "check",
+      "title": "Google Ads Conversion Tracking",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/conversion-tracking/",
+      "text": "Every conversion set up and tested."
+     },
+     {
+      "icon": "chart",
+      "title": "Performance Marketing Audit",
+      "url": "/audits/google-ads-audit/",
+      "text": "A full audit of your ad accounts and tracking."
+     }
+    ]
+   }
+  }
+ ]
+}

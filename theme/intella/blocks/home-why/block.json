@@ -1,0 +1,91 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/home-why",
+	"title": "Why Intella (team + cards)",
+	"category": "intella",
+	"icon": "groups",
+	"description": "Heading, team photo carousel and four short reasons.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/carousels",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text"
+			},
+			{
+				"key": "buttonUrl",
+				"type": "url",
+				"label": "Button link"
+			},
+			{
+				"key": "photos",
+				"type": "repeater",
+				"label": "Team photos",
+				"itemName": "photo",
+				"itemLabel": "alt",
+				"panel": "Photos",
+				"fields": [
+					{
+						"key": "image",
+						"type": "image",
+						"label": "Photo (16:9)"
+					},
+					{
+						"key": "alt",
+						"type": "text",
+						"label": "Photo description"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "cards",
+				"type": "repeater",
+				"label": "Reasons",
+				"itemName": "reason",
+				"panel": "Reasons",
+				"fields": [
+					{
+						"key": "icon",
+						"type": "text",
+						"label": "Icon"
+					},
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Title"
+					},
+					{
+						"key": "text",
+						"type": "textarea",
+						"label": "Text"
+					},
+					{
+						"key": "dark",
+						"type": "toggle",
+						"label": "Dark card"
+					}
+				],
+				"default": []
+			}
+		],
+		"section": "cream"
+	}
+}

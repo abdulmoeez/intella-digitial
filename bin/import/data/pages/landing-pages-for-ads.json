@@ -1,0 +1,283 @@
+{
+ "title": "PPC Landing Page Design",
+ "path": "/services/digital-marketing/performance-marketing/landing-pages/",
+ "seo": {
+  "title": "PPC Landing Page Design | Landing Pages for Google and Meta Ads | Intella Digital",
+  "description": "Landing pages designed and built for Google Ads, Meta and LinkedIn campaigns: fast, focused and tested, by a team that runs the ads too."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Services",
+      "url": "/services/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "Landing Pages for Ads",
+      "url": ""
+     }
+    ],
+    "title": "Landing pages built for your ads, <em>and tested</em>",
+    "lead": "We design and build landing pages for each campaign, fast, focused and matched to the ad, then test them on real traffic.",
+    "buttonText": "Get a landing page quote",
+    "formLabel": "Get a landing page quote",
+    "service": "landing-pages-for-ads",
+    "notes": [
+     "Built by our web team",
+     "Matched to each ad",
+     "Tested on real traffic"
+    ],
+    "sliderLabel": "",
+    "fixLabel": "How we fix it",
+    "slides": [],
+    "tools": "",
+    "visual": "<figure class=\"pmrep \" role=\"img\" aria-label=\"Landing page test: sample report\">\n\t<div class=\"pmrep__head\"><b>Landing page test</b><span>Same ad, two pages</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Homepage</span><span class=\"pmrep__s\">1.9% convert</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">New landing page</span><span class=\"pmrep__s\">6.4% convert</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Load time</span><span class=\"pmrep__s\">1.3 s</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Cost per lead</span><span class=\"pmrep__s\">−70%</span></li></ul>\n\t<p class=\"pmrep__foot\">Same budget, three times the leads</p>\n</figure>",
+    "look": "cmhero cmhero--pm cmhero--job"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/signs",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Signs your ads need <em>better landing pages</em>",
+    "lead": "Most ad budgets are lost on the page, not the ad.",
+    "items": [
+     "Ads send people to the homepage",
+     "Pages take more than three seconds to load on mobile",
+     "Google says landing page experience is “below average”",
+     "Forms ask for too much",
+     "The page doesn’t repeat what the ad promised"
+    ],
+    "icon": "sparkle",
+    "asideTitle": "Double the conversion rate, halve the cost per lead",
+    "asideText": "A better page makes every click cheaper.",
+    "buttonText": "Get this fixed",
+    "buttonUrl": "#proposal",
+    "photo": 0,
+    "photoAlt": "",
+    "bubble": "",
+    "shortPhoto": false
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Landing Pages for Ads, <em>done properly</em>",
+    "lead": "One fixed-scope project, quoted after a short call. No retainer needed.",
+    "name": "Landing pages for ads",
+    "price": "Fixed price, quoted after a 30-minute call",
+    "items": [
+     "A page per campaign or offer",
+     "Copy that matches the ad",
+     "Design by our designers",
+     "Built fast, on WordPress or your platform",
+     "Forms connected to your CRM",
+     "Tracking set up and tested",
+     "A/B tests on headlines, offers and forms"
+    ],
+    "delivery": "First page usually in 2 weeks",
+    "buttonText": "Request a quote",
+    "buttonUrl": "#proposal",
+    "visual": "<figure class=\"pmrep pmrep--side\" role=\"img\" aria-label=\"What you receive: sample report\">\n\t<div class=\"pmrep__head\"><b>What you receive</b><span>Page</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Load time</span><span class=\"pmrep__s\">Under 2 s</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Tracking</span><span class=\"pmrep__s\">Tested</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">A/B test</span><span class=\"pmrep__s\">Ready</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">CRM</span><span class=\"pmrep__s\">Connected</span></li></ul>\n\t<p class=\"pmrep__foot\">Ready for traffic</p>\n</figure>"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we build them",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-280\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-280\">How we <span class=\"accent\">build them</span></h2>\n\t\t\t\t<p class=\"section-lead\">From ad to live page in about two weeks.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"cmsteps\" role=\"list\"><li class=\"cmstep cmstep--1\">\n\t\t\t\t\t<p class=\"cmstep__when\">Days 1–2</p>\n\t\t\t\t\t<p class=\"cmstep__n\">1</p>\n\t\t\t\t\t<h3>Brief</h3>\n\t\t\t\t\t<p>The ad, the audience and the offer.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--2\">\n\t\t\t\t\t<p class=\"cmstep__when\">Days 3–5</p>\n\t\t\t\t\t<p class=\"cmstep__n\">2</p>\n\t\t\t\t\t<h3>Copy and design</h3>\n\t\t\t\t\t<p>Written and designed together.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--3\">\n\t\t\t\t\t<p class=\"cmstep__when\">Days 6–9</p>\n\t\t\t\t\t<p class=\"cmstep__n\">3</p>\n\t\t\t\t\t<h3>Build</h3>\n\t\t\t\t\t<p>Fast pages on your site.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--4\">\n\t\t\t\t\t<p class=\"cmstep__when\">Day 10</p>\n\t\t\t\t\t<p class=\"cmstep__n\">4</p>\n\t\t\t\t\t<h3>Track and test</h3>\n\t\t\t\t\t<p>Tracking checked, test set up.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--5\">\n\t\t\t\t\t<p class=\"cmstep__when\">Ongoing</p>\n\t\t\t\t\t<p class=\"cmstep__n\">5</p>\n\t\t\t\t\t<h3>Improve</h3>\n\t\t\t\t\t<p>Monthly tests on real traffic.</p>\n\t\t\t\t</li></ol>\n\t\t</div>\n\t</section>",
+    "css": "landing-pages-for-ads",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Why landing pages <em>lose leads</em>",
+    "lead": "What we fix most often.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "",
+      "problem": "The page says something different from the ad.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Message match, word for word.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Slow pages on mobile.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Lightweight pages under two seconds.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Too many choices.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "One clear action.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Long forms.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Fewer fields, or a two-step form.",
+      "afterTitle": "",
+      "after": []
+     }
+    ],
+    "visual": "",
+    "alt": true
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your page and test plan",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-282\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-282\">Your <span class=\"accent\">page and test plan</span></h2>\n\t\t\t\t<p class=\"section-lead\">Built to keep improving.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"chaps\" role=\"list\"><li class=\"chap\"><span class=\"chap__num\">01</span><h3 class=\"chap__title\">The page</h3><p>Designed, built and tracked.</p><span class=\"chap__pages\">Live</span></li><li class=\"chap\"><span class=\"chap__num\">02</span><h3 class=\"chap__title\">Test plan</h3><p>What we’ll test first.</p><span class=\"chap__pages\">1 page</span></li><li class=\"chap\"><span class=\"chap__num\">03</span><h3 class=\"chap__title\">Monthly results</h3><p>What won, and what’s next.</p><span class=\"chap__pages\">1 page</span></li></ol>\n\t\t</div>\n\t</section>",
+    "css": "landing-pages-for-ads",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu",
+     "post:testimonial:Alex Barsuk"
+    ]
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Landing Pages for Ads questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What makes a good landing page for ads?",
+      "answer": "It matches the ad, loads fast, has one clear action and asks for as little as possible."
+     },
+     {
+      "question": "Why is my landing page experience below average?",
+      "answer": "Google rates relevance, speed and usability. Slow, generic or confusing pages score badly, which raises your costs."
+     },
+     {
+      "question": "Can you build pages on our website?",
+      "answer": "Yes. We build on WordPress and most other platforms, or as separate fast pages."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Make every click <em>worth more</em>",
+    "lead": "Send us your ads and current pages. We’ll quote new ones.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "Which campaigns need pages, and what platform is your site on?",
+    "service": "landing-pages-for-ads",
+    "buttonText": "Request a quote",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Related <em>services</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "search",
+      "title": "Google Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/",
+      "text": "Search, Performance Max and display."
+     },
+     {
+      "icon": "heart",
+      "title": "Meta Ads",
+      "url": "/services/digital-marketing/performance-marketing/facebook-ads/",
+      "text": "Facebook and Instagram campaigns."
+     },
+     {
+      "icon": "check",
+      "title": "Google Ads Conversion Tracking",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/conversion-tracking/",
+      "text": "Every conversion set up and tested."
+     }
+    ]
+   }
+  }
+ ]
+}

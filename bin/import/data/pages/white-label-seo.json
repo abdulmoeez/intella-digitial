@@ -1,0 +1,151 @@
+{
+ "title": "White-Label SEO Services",
+ "path": "/services/digital-marketing/seo/white-label-seo/",
+ "seo": {
+  "title": "White-Label SEO Services | SEO reseller services for agencies | Intella Digital",
+  "description": "White-label SEO and SEO reseller services for agencies: audits, technical SEO, content and links delivered under your brand, with white-label reports."
+ },
+ "blocks": [
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "White-label SEO services, delivered under your brand",
+    "html": "<section class=\"page-hero\" aria-labelledby=\"page-title\">\n\t\t<div class=\"container page-hero__inner\">\n\t\t\t<div>\n\t\t\t\t<nav class=\"breadcrumb\" aria-label=\"Breadcrumb\"><ol><li><a href=\"/\">Home</a></li><li><a href=\"/services/\">Services</a></li><li><a href=\"/services/digital-marketing/seo/\">SEO</a></li><li aria-current=\"page\">White-Label SEO</li></ol></nav>\n\t\t\t\t<h1 class=\"page-hero__title\" id=\"page-title\">White-label SEO services, <span class=\"accent\">delivered under your brand</span></h1>\n\t\t\t\t<p class=\"page-hero__lead\">Offer SEO to your clients without hiring a team. We do the work behind the scenes, you keep the client relationship, and every report carries your logo.</p>\n\t\t\t\t<ul class=\"note-list\" role=\"list\">\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Your brand on every report</li>\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> No contact with your clients unless you want it</li>\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Senior specialists, flexible capacity</li>\n\t\t\t\t</ul>\n\t\t\t\t<div class=\"hero__actions\">\n\t\t\t\t\t<a class=\"button button--primary button--lg\" href=\"#proposal\">Request a proposal <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t\t<a class=\"button button--outline button--lg\" href=\"#process-title\">See how it works</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"page-hero__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Monthly SEO report · Your Agency logo here</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Organic sessions</div><div class=\"mock-stat__value\">24.6K</div><span class=\"mock-up\">▲ +38%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Leads from search</div><div class=\"mock-stat__value\">186</div><span class=\"mock-up\">▲ +52%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Top-10 keywords</div><div class=\"mock-stat__value\">142</div><span class=\"mock-up\">▲ +61</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Tasks completed</div><div class=\"mock-stat__value\">34</div><span class=\"mock-up\">▲ </span></div></div><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>This month</th><th>Status</th></tr></thead><tbody><tr><td>12 pages optimised</td><td><span class=\"mock-chip mock-chip--ok\">Done</span></td></tr><tr><td>Technical fixes</td><td><span class=\"mock-chip mock-chip--ok\">Done</span></td></tr><tr><td>4 new articles</td><td><span class=\"mock-chip mock-chip--warn\">In review</span></td></tr></tbody></table></div></div>\n</figure></div>\n\t\t</div>\n\t</section>",
+    "css": "white-label-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How our SEO reseller partnership works",
+    "html": "<section class=\"section section--white process\" aria-labelledby=\"process-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"process-title\">How our SEO reseller <span class=\"accent\">partnership works</span></h2>\n\t\t\t\t<p class=\"section-lead\">Simple to start, easy to scale.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"steps-row\" role=\"list\">\n\t\t\t\t<li class=\"steps-row__item\">\n\t\t\t\t\t<span class=\"steps-row__num\">01</span>\n\t\t\t\t\t<h3 class=\"steps-row__title\">You win the client</h3>\n\t\t\t\t\t<p>You sell SEO under your brand. We can help with audits and proposals.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"steps-row__item\">\n\t\t\t\t\t<span class=\"steps-row__num\">02</span>\n\t\t\t\t\t<h3 class=\"steps-row__title\">We plan and deliver</h3>\n\t\t\t\t\t<p>Our team does the audit, the fixes, the content and the links.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"steps-row__item\">\n\t\t\t\t\t<span class=\"steps-row__num\">03</span>\n\t\t\t\t\t<h3 class=\"steps-row__title\">You report</h3>\n\t\t\t\t\t<p>White-label reports go out with your logo and your name.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"steps-row__item\">\n\t\t\t\t\t<span class=\"steps-row__num\">04</span>\n\t\t\t\t\t<h3 class=\"steps-row__title\">Grow together</h3>\n\t\t\t\t\t<p>Add clients and services whenever you need more capacity.</p>\n\t\t\t\t</li>\n\t\t\t</ol>\n\t\t</div>\n\t</section>",
+    "css": "white-label-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "White-label SEO vs hiring in-house",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-69\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-69\">White-label SEO vs <span class=\"accent\">hiring in-house</span></h2>\n\t\t\t\t<p class=\"section-lead\">How a white-label partner compares with building your own team.</p>\n\t\t\t</div>\n\t\t\t<div class=\"compare\">\n\t\t\t\t<div class=\"compare__scroll\">\n\t\t\t\t\t<table class=\"compare__table\">\n\t\t\t\t\t\t<thead><tr><th scope=\"col\"><span class=\"visually-hidden\">Feature</span></th><th scope=\"col\" class=\"compare__us\">White-label partner</th><th scope=\"col\">Hiring in-house</th><th scope=\"col\">Freelancers</th></tr></thead>\n\t\t\t\t\t\t<tbody><tr><th scope=\"row\">Ready to start</th><td class=\"compare__us\">Within weeks</td><td>Months to hire</td><td>Varies</td></tr><tr><th scope=\"row\">Technical, content and links covered</th><td class=\"compare__us\"><span class=\"compare__yes\" aria-label=\"Yes\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg></span></td><td>Needs several hires</td><td>Rarely all three</td></tr><tr><th scope=\"row\">Scales up and down with clients</th><td class=\"compare__us\"><span class=\"compare__yes\" aria-label=\"Yes\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg></span></td><td><span class=\"compare__no\" aria-label=\"No\">–</span></td><td>Partly</td></tr><tr><th scope=\"row\">White-label reports</th><td class=\"compare__us\"><span class=\"compare__yes\" aria-label=\"Yes\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg></span></td><td>You build them</td><td><span class=\"compare__no\" aria-label=\"No\">–</span></td></tr><tr><th scope=\"row\">Developers to make fixes</th><td class=\"compare__us\"><span class=\"compare__yes\" aria-label=\"Yes\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg></span></td><td>Extra hires</td><td><span class=\"compare__no\" aria-label=\"No\">–</span></td></tr><tr><th scope=\"row\">Fixed monthly cost per client</th><td class=\"compare__us\"><span class=\"compare__yes\" aria-label=\"Yes\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg></span></td><td><span class=\"compare__no\" aria-label=\"No\">–</span></td><td>Varies</td></tr></tbody>\n\t\t\t\t\t</table>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "white-label-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "White-label SEO services",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-70\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-70\">White-label SEO <span class=\"accent\">services</span></h2>\n\t\t\t\t<p class=\"section-lead\">Resell a single service or the whole package.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"packages\" role=\"list\">\n\t\t\t\t<li class=\"package\">\n\t\t\t\t\t\n\t\t\t\t\t<h3 class=\"package__name\">Audits</h3>\n\t\t\t\t\t<p class=\"package__for\">For winning new clients</p>\n\t\t\t\t\t<p class=\"package__text\">White-label SEO audits you can use in pitches and onboarding.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Technical and content audit</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Prioritised action plan</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Your branding</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a quote <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"package package--featured\">\n\t\t\t\t\t<span class=\"package__badge\">Most popular</span>\n\t\t\t\t\t<h3 class=\"package__name\">Full SEO</h3>\n\t\t\t\t\t<p class=\"package__for\">For ongoing clients</p>\n\t\t\t\t\t<p class=\"package__text\">Monthly SEO delivered end to end, reported under your brand.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Technical SEO and fixes</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content and on-page</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Link building</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> White-label monthly report</li></ul>\n\t\t\t\t\t<a class=\"button button--light button--block\" href=\"#proposal\">Get a quote <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"package\">\n\t\t\t\t\t\n\t\t\t\t\t<h3 class=\"package__name\">Add-ons</h3>\n\t\t\t\t\t<p class=\"package__for\">For extra capacity</p>\n\t\t\t\t\t<p class=\"package__text\">Individual services when your own team is stretched.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content writing</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Link building</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Local SEO and listings</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a quote <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t<p class=\"packages__note\">Every plan is quoted after a free call, so you only pay for what you need.</p>\n\t\t</div>\n\t</section>",
+    "css": "white-label-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "A partner you can trust with your clients",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-71\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-71\">A partner you can <span class=\"accent\">trust with your clients</span></h2>\n\t\t\t\t<p class=\"section-lead\">Your clients are your business. These are the rules we keep.</p>\n\t\t\t</div>\n\t\t\t<div class=\"dodont\">\n\t\t\t\t<div class=\"dodont__col dodont__col--do\"><h3 class=\"dodont__title\">What we always do</h3><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Keep every client relationship yours</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Use your brand on reports and documents</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Sign an NDA before we start</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Give you full access to the work and data</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tell you early if something needs attention</li></ul></div>\n\t\t\t\t<div class=\"dodont__col dodont__col--dont\"><h3 class=\"dodont__title\">What we never do</h3><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Contact your clients directly without permission</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Mention Intella on anything client-facing</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Approach your clients for our own services</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Use risky tactics that could harm your reputation</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Hide what we’ve done or why</li></ul></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "white-label-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Inside a white-label SEO report",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-72\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-72\">Inside a <span class=\"accent\">white-label SEO report</span></h2>\n\t\t\t\t<p class=\"section-lead\">A clear monthly report with your logo, ready to send.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"chaps\" role=\"list\"><li class=\"chap\"><span class=\"chap__num\">01</span><h3 class=\"chap__title\">Summary</h3><p>The month in a few lines: what changed and what it means.</p><span class=\"chap__pages\">1 page</span></li><li class=\"chap\"><span class=\"chap__num\">02</span><h3 class=\"chap__title\">Traffic and leads</h3><p>Organic sessions, leads and conversions, compared with last month and last year.</p><span class=\"chap__pages\">2 pages</span></li><li class=\"chap\"><span class=\"chap__num\">03</span><h3 class=\"chap__title\">Rankings</h3><p>Keyword movements for the searches that matter.</p><span class=\"chap__pages\">1–2 pages</span></li><li class=\"chap\"><span class=\"chap__num\">04</span><h3 class=\"chap__title\">Work completed</h3><p>Every fix, page and link delivered this month.</p><span class=\"chap__pages\">1–2 pages</span></li><li class=\"chap\"><span class=\"chap__num\">05</span><h3 class=\"chap__title\">Next month</h3><p>The plan for the coming month.</p><span class=\"chap__pages\">1 page</span></li></ol>\n\t\t</div>\n\t</section>",
+    "css": "white-label-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "White-label SEO questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What are white-label SEO services?",
+      "answer": "SEO work done by us and sold by your agency under your own brand. You keep the client; we do the delivery."
+     },
+     {
+      "question": "What’s the difference between white-label SEO and an SEO reseller?",
+      "answer": "They mean the same thing in practice: you resell SEO services delivered by a partner."
+     },
+     {
+      "question": "Will our clients know you’re involved?",
+      "answer": "Not unless you tell them. We sign an NDA and everything client-facing carries your brand."
+     },
+     {
+      "question": "Can you join client calls?",
+      "answer": "Yes, as part of your team, if you’d like a specialist on the call."
+     },
+     {
+      "question": "How do you price white-label SEO?",
+      "answer": "A fixed monthly fee per client, agreed after we see the scope, so you can set your own margin."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/get-in-touch",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Add SEO to your agency <em>without hiring</em>",
+    "lead": "Tell us about your agency and clients. We’ll reply with how a partnership would work, and pricing.",
+    "people": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ],
+    "formTitle": "Request a proposal",
+    "messageHint": "How many clients would you like us to support? *",
+    "service": "white-label-seo",
+    "buttonText": "Send message",
+    "trust": [
+     "Your details stay private",
+     "No spam, ever",
+     "Free 30-minute call"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "More services you can <em>resell</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "pen",
+      "title": "SEO Content Writing",
+      "url": "/services/digital-marketing/seo/seo-content-writing/",
+      "text": "Pages and articles written to rank and to convert."
+     },
+     {
+      "icon": "link",
+      "title": "Link Building",
+      "url": "/services/digital-marketing/link-building/",
+      "text": "Earn links from relevant, trusted websites."
+     },
+     {
+      "icon": "pin",
+      "title": "Local SEO",
+      "url": "/services/digital-marketing/local-seo/",
+      "text": "Win the map pack and local searches in the areas you serve."
+     }
+    ]
+   }
+  }
+ ]
+}

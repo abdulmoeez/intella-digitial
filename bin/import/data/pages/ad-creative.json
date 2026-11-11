@@ -1,0 +1,269 @@
+{
+ "title": "Ad Creative Agency",
+ "path": "/services/digital-marketing/performance-marketing/ad-creative/",
+ "seo": {
+  "title": "Ad Creative Agency | Video, UGC and Static Ads | Intella Digital",
+  "description": "Ad creative for Meta, TikTok, LinkedIn and YouTube: static, video and UGC ads made in-house, with structured creative testing every month."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Services",
+      "url": "/services/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "Ad Creative",
+      "url": ""
+     }
+    ],
+    "title": "Ad creative made to be <em>tested, not just admired</em>",
+    "lead": "Static, video and UGC ads for Meta, TikTok, LinkedIn and YouTube, made by our designers and tested properly every month.",
+    "buttonText": "Get a creative plan",
+    "formLabel": "Get a creative plan",
+    "service": "ad-creative",
+    "notes": [
+     "Made in-house",
+     "Formats for every placement",
+     "Tested every month"
+    ],
+    "sliderLabel": "",
+    "fixLabel": "How we fix it",
+    "slides": [],
+    "tools": "",
+    "visual": "<figure class=\"pmrep \" role=\"img\" aria-label=\"Creative test: sample report\">\n\t<div class=\"pmrep__head\"><b>Creative test</b><span>This month</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Hook A: problem first</span><span class=\"pmrep__s\">$24 per sale</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Hook B: product first</span><span class=\"pmrep__s\">$39 per sale</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">UGC video</span><span class=\"pmrep__s\">$21 per sale</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Static carousel</span><span class=\"pmrep__s\">$33 per sale</span></li></ul>\n\t<p class=\"pmrep__foot\">Winners scaled, losers paused</p>\n</figure>",
+    "look": "cmhero cmhero--pm cmhero--job"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/signs",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Signs your ads <em>need new creative</em>",
+    "lead": "Creative is the biggest lever on social platforms.",
+    "items": [
+     "The same ads have run for months",
+     "Costs rise as frequency goes up",
+     "Ads look like ads, not content",
+     "No vertical video for Reels, Stories and TikTok",
+     "No idea which hooks or offers work"
+    ],
+    "icon": "sparkle",
+    "asideTitle": "Fresh creative, lower costs",
+    "asideText": "Accounts with a steady flow of new ads keep costs down as they grow.",
+    "buttonText": "Get this fixed",
+    "buttonUrl": "#proposal",
+    "photo": 0,
+    "photoAlt": "",
+    "bubble": "",
+    "shortPhoto": false
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Ad Creative, <em>done properly</em>",
+    "lead": "One fixed-scope project, quoted after a short call. No retainer needed.",
+    "name": "Monthly ad creative",
+    "price": "Fixed price, quoted after a 30-minute call",
+    "items": [
+     "New concepts every month",
+     "Static, carousel and video",
+     "Vertical formats for Reels, Stories, TikTok and Shorts",
+     "UGC with creators we brief",
+     "A testing plan",
+     "Monthly creative learnings"
+    ],
+    "delivery": "First ads in 2 weeks",
+    "buttonText": "Request a quote",
+    "buttonUrl": "#proposal",
+    "visual": "<figure class=\"pmrep pmrep--side\" role=\"img\" aria-label=\"What you receive: sample report\">\n\t<div class=\"pmrep__head\"><b>What you receive</b><span>Each month</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Concepts</span><span class=\"pmrep__s\">4–8</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Variations</span><span class=\"pmrep__s\">12–24</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Tested</span><span class=\"pmrep__s\">Yes</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Learnings</span><span class=\"pmrep__s\">Shared</span></li></ul>\n\t<p class=\"pmrep__foot\">Made and tested every month</p>\n</figure>"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we make and test ads",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-289\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-289\">How we <span class=\"accent\">make and test ads</span></h2>\n\t\t\t\t<p class=\"section-lead\">A monthly creative rhythm.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"cmsteps\" role=\"list\"><li class=\"cmstep cmstep--1\">\n\t\t\t\t\t<p class=\"cmstep__when\">Week 1</p>\n\t\t\t\t\t<p class=\"cmstep__n\">1</p>\n\t\t\t\t\t<h3>Learn</h3>\n\t\t\t\t\t<p>What’s working now, and why.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--2\">\n\t\t\t\t\t<p class=\"cmstep__when\">Week 1</p>\n\t\t\t\t\t<p class=\"cmstep__n\">2</p>\n\t\t\t\t\t<h3>Concepts</h3>\n\t\t\t\t\t<p>Hooks, angles and offers to test.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--3\">\n\t\t\t\t\t<p class=\"cmstep__when\">Week 2</p>\n\t\t\t\t\t<p class=\"cmstep__n\">3</p>\n\t\t\t\t\t<h3>Make</h3>\n\t\t\t\t\t<p>Designs, videos and UGC.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--4\">\n\t\t\t\t\t<p class=\"cmstep__when\">Weeks 3–4</p>\n\t\t\t\t\t<p class=\"cmstep__n\">4</p>\n\t\t\t\t\t<h3>Test</h3>\n\t\t\t\t\t<p>One change at a time.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--5\">\n\t\t\t\t\t<p class=\"cmstep__when\">Month end</p>\n\t\t\t\t\t<p class=\"cmstep__n\">5</p>\n\t\t\t\t\t<h3>Learn</h3>\n\t\t\t\t\t<p>Winners scaled, learnings shared.</p>\n\t\t\t\t</li></ol>\n\t\t</div>\n\t</section>",
+    "css": "ad-creative",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Why ads <em>stop working</em>",
+    "lead": "What we fix most often.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "",
+      "problem": "Ad fatigue.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "New concepts every month.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Landscape ads in vertical placements.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Formats for every placement.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Testing everything at once.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "One change at a time.",
+      "afterTitle": "",
+      "after": []
+     }
+    ],
+    "visual": "",
+    "alt": true
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your creative report",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-291\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-291\">Your <span class=\"accent\">creative report</span></h2>\n\t\t\t\t<p class=\"section-lead\">What we learned this month.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"chaps\" role=\"list\"><li class=\"chap\"><span class=\"chap__num\">01</span><h3 class=\"chap__title\">Winners</h3><p>Which ads and hooks won.</p><span class=\"chap__pages\">1 page</span></li><li class=\"chap\"><span class=\"chap__num\">02</span><h3 class=\"chap__title\">Learnings</h3><p>What to make more of.</p><span class=\"chap__pages\">1 page</span></li><li class=\"chap\"><span class=\"chap__num\">03</span><h3 class=\"chap__title\">Next month</h3><p>Concepts we’ll test next.</p><span class=\"chap__pages\">1 page</span></li></ol>\n\t\t</div>\n\t</section>",
+    "css": "ad-creative",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Andra-Simina Mocanu",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Alex Barsuk"
+    ]
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Ad Creative questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "How often should I refresh ad creative?",
+      "answer": "On Meta and TikTok, usually every few weeks for active campaigns, or when frequency rises and costs start to climb."
+     },
+     {
+      "question": "Do you make UGC ads?",
+      "answer": "Yes. We brief creators, review the videos and edit them into ads."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Get ads people <em>actually stop for</em>",
+    "lead": "Tell us where you advertise. We’ll send a creative plan.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "Which platforms do you advertise on, and what do you sell?",
+    "service": "ad-creative",
+    "buttonText": "Request a quote",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Related <em>services</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "heart",
+      "title": "Meta Ads",
+      "url": "/services/digital-marketing/performance-marketing/facebook-ads/",
+      "text": "Facebook and Instagram campaigns."
+     },
+     {
+      "icon": "play",
+      "title": "TikTok Ads",
+      "url": "/services/digital-marketing/performance-marketing/tiktok-ads/",
+      "text": "Short video ads and TikTok Shop."
+     },
+     {
+      "icon": "users",
+      "title": "LinkedIn Ads",
+      "url": "/services/digital-marketing/performance-marketing/linkedin-ads/",
+      "text": "B2B campaigns by role and company."
+     }
+    ]
+   }
+  }
+ ]
+}

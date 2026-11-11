@@ -32,9 +32,10 @@ function intella_setup(): void {
 
 	register_nav_menus(
 		array(
-			'primary' => __( 'Primary navigation', 'intella' ),
-			'footer'  => __( 'Footer navigation', 'intella' ),
-			'legal'   => __( 'Legal links', 'intella' ),
+			'primary'          => __( 'Primary navigation (with the Services mega menu)', 'intella' ),
+			'footer_company'   => __( 'Footer: Company', 'intella' ),
+			'footer_resources' => __( 'Footer: Resources', 'intella' ),
+			'legal'            => __( 'Legal links', 'intella' ),
 		)
 	);
 

@@ -1,0 +1,464 @@
+{
+ "title": "Google Ads Account Suspended? Suspension Help and Appeals",
+ "path": "/services/digital-marketing/performance-marketing/google-ads/account-suspension/",
+ "seo": {
+  "title": "Google Ads Account Suspended? Suspension Help and Appeals | Intella Digital",
+  "description": "Help with Google Ads account suspensions: misrepresentation, circumventing systems, unacceptable business practices and suspicious payments. We fix the cause and prepare the appeal."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "Google Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/"
+     },
+     {
+      "label": "Suspension Help",
+      "url": ""
+     }
+    ],
+    "title": "Google Ads account suspended? <em>We fix the cause</em>",
+    "lead": "We find out why Google suspended your account, fix the website and account issues behind it, and prepare a clear appeal. Google makes the final decision, so we focus on what we can fix.",
+    "buttonText": "Get help with my suspension",
+    "formLabel": "Get help with my suspension",
+    "service": "google-ads-suspension",
+    "notes": [
+     "Misrepresentation and policy fixes",
+     "Website changes by our developers",
+     "A clear, honest appeal"
+    ],
+    "sliderLabel": "Common Google Ads Account Suspension Help problems",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "Suspended for misrepresentation",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Website check</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Business address</span><b>Missing</b></li><li class=\"no\"><span>Returns policy</span><b>Not found</b></li><li class=\"no\"><span>“#1 in the country”</span><b>No proof</b></li></ul><p class=\"cmhc__note\">Google rarely says which of these it saw</p></div>",
+      "photo": 0,
+      "fix": "Contact details, policies and claims fixed on the site before any appeal.",
+      "look": "misrep"
+     },
+     {
+      "kicker": "",
+      "title": "Suspended for circumventing systems",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Account links</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Linked accounts</span><b>4</b></li><li class=\"no\"><span>Previously suspended</span><b>1</b></li><li class=\"no\"><span>Shared payment card</span><b>Yes</b></li></ul><p class=\"cmhc__note\">One old account can take down every account linked to it</p></div>",
+      "photo": 0,
+      "fix": "Linked accounts, payment methods and past suspensions reviewed and explained.",
+      "look": "circ"
+     },
+     {
+      "kicker": "",
+      "title": "Appeal rejected, twice",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Appeal history</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Appeal 1</span><b>Rejected in 2 days</b></li><li class=\"no\"><span>Appeal 2</span><b>Rejected in 1 day</b></li><li class=\"no\"><span>Website changes made</span><b>None</b></li></ul><p class=\"cmhc__note\">Appealing without fixing rarely works</p></div>",
+      "photo": 0,
+      "fix": "Fix first, then one clear appeal that shows exactly what changed.",
+      "look": "appeal"
+     },
+     {
+      "kicker": "",
+      "title": "Suspicious payment activity",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Billing</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Card declined</span><b>3 times</b></li><li class=\"no\"><span>Billing country</span><b>Doesn’t match</b></li><li class=\"no\"><span>Advertiser verification</span><b>Pending</b></li></ul><p class=\"cmhc__note\">Every ad stops while Google reviews the payments</p></div>",
+      "photo": 0,
+      "fix": "Billing verified, payment history explained and the account owner confirmed.",
+      "look": "pay"
+     }
+    ],
+    "tools": "<ul class=\"pmtools\" role=\"list\" aria-label=\"Tools we work in\"><li class=\"pmtools__i pmtools__i--1\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><g stroke-width=\"11\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M21 10 9.5 30\" stroke=\"#FBBC04\"/><path d=\"M21 10 34 33\" stroke=\"#4285F4\"/></g><circle cx=\"11\" cy=\"35\" r=\"6\" fill=\"#34A853\"/></svg><span>Google Ads</span></li><li class=\"pmtools__i pmtools__i--2\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><path d=\"M8 19h32l-3 21H11z\" fill=\"#4285F4\"/><path d=\"M6 19l5-11h26l5 11z\" fill=\"#34A853\"/><rect x=\"20\" y=\"28\" width=\"8\" height=\"12\" fill=\"#fff\"/></svg><span>Merchant Center</span></li><li class=\"pmtools__i pmtools__i--3\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><rect x=\"5\" y=\"9\" width=\"38\" height=\"28\" rx=\"5\" fill=\"#4285F4\"/><circle cx=\"22\" cy=\"23\" r=\"7\" fill=\"none\" stroke=\"#fff\" stroke-width=\"3\"/><path d=\"M27 28l8 8\" stroke=\"#FBBC04\" stroke-width=\"4.5\" stroke-linecap=\"round\"/></svg><span>Search Console</span></li></ul>",
+    "visual": "",
+    "look": "cmhero cmhero--pm cmhero--job"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/sign-strips",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Suspensions <em>we help with</em>",
+    "lead": "The reasons Google gives most often.",
+    "items": [
+     {
+      "title": "Misrepresentation",
+      "text": "The most common suspension. Google thinks your ads or website could mislead people: missing contact details, unclear pricing, hidden fees, no returns policy, or claims you can’t back up. We check the site the way a Google reviewer would and fix what’s missing.",
+      "picture": ""
+     },
+     {
+      "title": "Circumventing systems",
+      "text": "Google believes someone tried to get around its reviews: cloaking, links to an account suspended before, or ads changed to avoid policies. It’s serious and often permanent, so we look carefully at the account history before anything is sent.",
+      "picture": ""
+     },
+     {
+      "title": "Unacceptable business practices",
+      "text": "Google suspects the business itself could harm people, for example by hiding who runs it or taking payment without delivering. We help you show who you are, with verification, real reviews and clear terms.",
+      "picture": ""
+     },
+     {
+      "title": "Suspicious payment activity",
+      "text": "Declined cards, billing details that don’t match, or a payment method used on other accounts can trigger a suspension. We help verify billing and explain the payment history to Google.",
+      "picture": ""
+     },
+     {
+      "title": "Unpaid balance and billing issues",
+      "text": "An unpaid invoice or failed payment can pause or suspend an account. Usually the quickest to fix, once the right payment profile and documents are in place.",
+      "picture": ""
+     },
+     {
+      "title": "Advertiser verification failed",
+      "text": "If identity or business documents don’t match, or the deadline passes, ads stop. We check exactly which documents Google needs and help you resubmit them correctly.",
+      "picture": ""
+     }
+    ],
+    "noteTitle": "Appealing without fixing rarely works",
+    "noteText": "A second rejected appeal makes the next one harder. We fix what Google is likely to check first, then appeal once, properly.",
+    "buttonText": "Get this fixed",
+    "buttonUrl": "#proposal"
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Google Ads Account Suspension Help, <em>done properly</em>",
+    "lead": "One fixed-scope project, quoted after a short call. No retainer needed.",
+    "name": "Suspension review and appeal",
+    "price": "Fixed price, quoted after a 30-minute call",
+    "items": [
+     "A review of the suspension email, account history and policies",
+     "A website check: contact details, policies, pricing, claims and trust signals",
+     "Website fixes by our developers",
+     "Account fixes: billing, verification, linked accounts",
+     "A written appeal that explains what changed",
+     "Follow-up if Google asks for more"
+    ],
+    "delivery": "First findings within 48 hours",
+    "buttonText": "Request a quote",
+    "buttonUrl": "#proposal",
+    "visual": "<ul class=\"pmagents\" role=\"list\"><li class=\"pmagent\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/support-agent.jpg}}\" alt=\"\" width=\"1600\" height=\"1600\" loading=\"lazy\">\n\t\t\t\t\t<div><b>Talk to a real person</b><p>Worried about your account? Call or email us and a person answers, not a ticket queue.</p></div>\n\t\t\t\t</li><li class=\"pmagent\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/team-3.jpg}}\" alt=\"\" width=\"1600\" height=\"1600\" loading=\"lazy\">\n\t\t\t\t\t<div><b>Specialist and developer together</b><p>Your Google Ads specialist and one of our developers work on the case together, so account and website fixes match.</p></div>\n\t\t\t\t</li><li class=\"pmagent\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/owner-call.jpg}}\" alt=\"\" width=\"1600\" height=\"1600\" loading=\"lazy\">\n\t\t\t\t\t<div><b>Updates at every step</b><p>You hear from us when the review is done, when the fixes are live and when Google replies to the appeal.</p></div>\n\t\t\t\t</li></ul>"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What happens after you contact us",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-172\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-172\">What happens <span class=\"accent\">after you contact us</span></h2>\n\t\t\t\t<p class=\"section-lead\">Fast, careful and honest about the outcome. Here is what happens, day by day.</p>\n\t\t\t</div>\n\n\t\t\t<ol class=\"pmsds\" role=\"list\" data-acc><li class=\"pmsd js-acc is-open\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"true\" aria-controls=\"pmsd-1\"><span class=\"pmsd__when\">Step 1 · Day 1</span><span class=\"pmsd__t\">Review</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-1\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We read the suspension email, your account history, linked accounts, billing and your website, the way a Google policy reviewer would.</p><p class=\"pmsd__get\"><b>You get:</b> A first call the same or next working day.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> The suspension notice and the policy named</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Account, billing and linked-account history</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Your website checked page by page</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Any previous appeals and Google’s replies</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-2\"><span class=\"pmsd__when\">Step 2 · Day 2</span><span class=\"pmsd__t\">Findings</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-2\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We tell you the most likely cause in plain English, what needs to change, and honestly how strong your case is.</p><p class=\"pmsd__get\"><b>You get:</b> Written findings within 48 hours.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> The most likely cause, and why we think so</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A fix list in order of importance</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Who makes each change: us or your team</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> An honest view of your chances</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-3\"><span class=\"pmsd__when\">Step 3 · Days 3–7</span><span class=\"pmsd__t\">Fix</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-3\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>Our developers update the website and we sort out the account issues: contact details, policies, claims, verification and billing.</p><p class=\"pmsd__get\"><b>You get:</b> Every change logged with before and after screenshots.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Contact, address and company details added</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Returns, shipping and privacy policies published</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Claims removed or backed up</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Billing and verification checked</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-4\"><span class=\"pmsd__when\">Step 4 · Days 7–8</span><span class=\"pmsd__t\">Appeal</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-4\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We write one clear appeal that explains what was wrong and what changed, and send it with you from your account.</p><p class=\"pmsd__get\"><b>You get:</b> The appeal, sent once and properly.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Written in plain, factual language</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Evidence of each change attached</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Sent through the right Google form</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A copy kept for your records</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-5\"><span class=\"pmsd__when\">Step 5 · After</span><span class=\"pmsd__t\">Follow up</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-5\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We handle Google’s questions, and if the answer is no, we give you a clear plan for what to do next.</p><p class=\"pmsd__get\"><b>You get:</b> A plan either way.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Replies to any questions from Google</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ads checked before they go live again</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A plan B if the appeal is refused</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tips to avoid future suspensions</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li></ol>\n\t\t</div>\n\t</section>",
+    "css": "google-ads-suspension",
+    "modules": [
+     "@intella/scroll-accordions"
+    ]
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Why accounts <em>get suspended</em>",
+    "lead": "Google’s email names a policy, but rarely the exact problem. These are the issues we find behind most suspensions, and how we fix each one.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "No contact details",
+      "problem": "No address, phone number or company details on the website, so Google can’t tell who is behind the ads.",
+      "beforeTitle": "Website check",
+      "before": [
+       {
+        "label": "Business address",
+        "value": "Missing",
+        "tone": "bad"
+       },
+       {
+        "label": "Phone number",
+        "value": "Missing",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Clear contact and business details on every page, matching your Google Ads account.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Business address",
+        "value": "In the footer",
+        "tone": "ok"
+       },
+       {
+        "label": "Phone number",
+        "value": "On every page",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Missing policies",
+      "problem": "Returns, refund or shipping policies are missing, vague or hard to find.",
+      "beforeTitle": "Policies",
+      "before": [
+       {
+        "label": "Returns policy",
+        "value": "Not found",
+        "tone": "bad"
+       },
+       {
+        "label": "Shipping times",
+        "value": "Unclear",
+        "tone": "warn"
+       }
+      ],
+      "fix": "Clear policies, written for your business and linked from the footer and checkout.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Returns policy",
+        "value": "Published",
+        "tone": "ok"
+       },
+       {
+        "label": "Shipping times",
+        "value": "Stated",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Claims you can’t prove",
+      "problem": "Claims like “#1”, “guaranteed results” or “lowest price” with nothing to back them up.",
+      "beforeTitle": "Claims on the site",
+      "before": [
+       {
+        "label": "“#1 in the country”",
+        "value": "No proof",
+        "tone": "bad"
+       },
+       {
+        "label": "“Guaranteed results”",
+        "value": "No terms",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Claims removed, reworded or supported with evidence such as awards or reviews.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Unproven claims",
+        "value": "None",
+        "tone": "ok"
+       },
+       {
+        "label": "Awards and reviews",
+        "value": "Linked",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Linked accounts",
+      "problem": "Several accounts share a payment card or users with one that was suspended before.",
+      "beforeTitle": "Linked accounts",
+      "before": [
+       {
+        "label": "Accounts sharing a card",
+        "value": "4",
+        "tone": "bad"
+       },
+       {
+        "label": "Previously suspended",
+        "value": "1",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Account links reviewed, removed where needed and explained in the appeal.",
+      "afterTitle": "After our review",
+      "after": [
+       {
+        "label": "Unneeded links",
+        "value": "Removed",
+        "tone": "ok"
+       },
+       {
+        "label": "Explained in the appeal",
+        "value": "Yes",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Payment problems",
+      "problem": "A payment failed, or the billing details looked unusual to Google.",
+      "beforeTitle": "Billing",
+      "before": [
+       {
+        "label": "Declined payments",
+        "value": "3",
+        "tone": "bad"
+       },
+       {
+        "label": "Billing country",
+        "value": "Mismatch",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Billing verified, the payment profile corrected and the payment history explained.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Payment profile",
+        "value": "Verified",
+        "tone": "ok"
+       },
+       {
+        "label": "Billing country",
+        "value": "Matches",
+        "tone": "ok"
+       }
+      ]
+     }
+    ],
+    "visual": "",
+    "alt": true
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your suspension review",
+    "html": "<section class=\"section section--cream pmreport\" aria-labelledby=\"h-174\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-174\">Your <span class=\"accent\">suspension review</span></h2>\n\t\t\t\t<p class=\"section-lead\">Clear, written findings you keep, even if Google says no.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrd__dl\">\n\t\t\t\t<a class=\"button button--primary button--lg\" href=\"{{media:assets/samples/google-ads-suspension-sample-review.pdf}}\" download>Download a sample report <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t<p>A real report layout with example data, so you know exactly what you’ll receive.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrv\">\n\t\t\t\t<ol class=\"pmrv__list\" role=\"list\"><li><span class=\"pmrv__n\">01</span><div><h3>Likely cause <small>1 page</small></h3><p>What we believe triggered the suspension, the evidence that points to it, and the other causes we ruled out, written so you can follow it without knowing Google’s policies.</p></div></li><li><span class=\"pmrv__n\">02</span><div><h3>Fix list <small>1–2 pages</small></h3><p>Every website and account change, in order of importance, with who makes it and when.</p></div></li><li><span class=\"pmrv__n\">03</span><div><h3>The appeal <small>1 page</small></h3><p>The exact appeal we send, so you know what Google has been told, with the evidence attached to it.</p></div></li><li><span class=\"pmrv__n\">04</span><div><h3>Plan B <small>1 page</small></h3><p>What to do if Google refuses: whether a second appeal makes sense, how to escalate with Google support, and other channels to keep leads coming while you wait.</p></div></li></ol>\n\t\t\t\t<a class=\"pmrv__pic\" href=\"{{media:assets/samples/google-ads-suspension-sample-review.pdf}}\" aria-label=\"Open the sample report (PDF)\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--3\" src=\"{{media:assets/samples/google-ads-suspension-sample-review-3.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--2\" src=\"{{media:assets/samples/google-ads-suspension-sample-review-2.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--1\" src=\"{{media:assets/samples/google-ads-suspension-sample-review-1.jpg}}\" alt=\"Cover of the sample report\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<span class=\"pmrv__tag\">Sample · example data</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "google-ads-suspension",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Alex Barsuk",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ]
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Google Ads Account Suspension Help questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "Why was my Google Ads account suspended?",
+      "answer": "Google suspends accounts for serious or repeated policy issues, such as misrepresentation, circumventing systems, unacceptable business practices or suspicious payments. The email names the policy, but rarely the exact problem."
+     },
+     {
+      "question": "What does misrepresentation mean in Google Ads?",
+      "answer": "Google believes your ads or website could mislead people, for example by hiding who you are, how to contact you, what things cost or what your policies are."
+     },
+     {
+      "question": "How long does a Google Ads appeal take?",
+      "answer": "Usually a few days to a few weeks. Sending an appeal without fixing the cause often leads to a quick rejection."
+     },
+     {
+      "question": "Can you guarantee my account will be reinstated?",
+      "answer": "No. Only Google can reinstate an account. We fix the likely causes and prepare a strong appeal, and we’re honest about the chances."
+     },
+     {
+      "question": "Should I open a new account?",
+      "answer": "No. Creating new accounts to get around a suspension breaks Google’s policies and usually leads to more suspensions."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Get your account <em>back on track</em>",
+    "lead": "Send us the suspension email. We’ll reply with the likely cause and what we’d fix.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "What reason did Google give, and when were you suspended?",
+    "service": "google-ads-suspension",
+    "buttonText": "Request a quote",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Related <em>services</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "search",
+      "title": "Google Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/",
+      "text": "Search, Performance Max and display."
+     },
+     {
+      "icon": "key",
+      "title": "Merchant Center Suspension Help",
+      "url": "/services/digital-marketing/performance-marketing/google-shopping-ads/merchant-center-suspension/",
+      "text": "Fix the cause and request a review."
+     },
+     {
+      "icon": "chart",
+      "title": "Performance Marketing Audit",
+      "url": "/audits/google-ads-audit/",
+      "text": "A full audit of your ad accounts and tracking."
+     }
+    ]
+   }
+  }
+ ]
+}

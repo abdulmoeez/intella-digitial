@@ -1,0 +1,458 @@
+{
+ "title": "LinkedIn Ads Agency",
+ "path": "/services/digital-marketing/performance-marketing/linkedin-ads/",
+ "seo": {
+  "title": "LinkedIn Ads Agency | LinkedIn Ads Management | Intella Digital",
+  "description": "A LinkedIn ads agency for B2B: reach decision makers by job title and company, with Lead Gen Forms connected to your CRM and reports in pipeline."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Services",
+      "url": "/services/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "LinkedIn Ads",
+      "url": ""
+     }
+    ],
+    "title": "A LinkedIn ads agency for <em>B2B pipeline</em>",
+    "lead": "LinkedIn campaigns that reach the people who sign off budgets, by job title, company and industry, with leads sent straight to your CRM.",
+    "buttonText": "Get a free LinkedIn review",
+    "formLabel": "Get a free LinkedIn review",
+    "service": "linkedin-ads",
+    "notes": [
+     "Targeting by role and company",
+     "Leads synced to your CRM",
+     "Reported in pipeline"
+    ],
+    "sliderLabel": "Common LinkedIn Ads problems",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "Leads from the wrong people",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">This month’s leads</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Students and job seekers</span><b>41%</b></li><li class=\"no\"><span>Junior staff</span><b>33%</b></li><li class=\"ok\"><span>Decision makers</span><b>26%</b></li></ul></div>",
+      "photo": "media:assets/images/people-cut/yellow-blazer.webp",
+      "fix": "Audiences rebuilt by job title, seniority and company size.",
+      "look": "wrong"
+     },
+     {
+      "kicker": "",
+      "title": "Expensive clicks, no meetings",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Last quarter</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"ok\"><span>Spend</span><b>$18,400</b></li><li class=\"ok\"><span>Clicks</span><b>1,960</b></li><li class=\"no\"><span>Meetings booked</span><b>3</b></li></ul></div>",
+      "photo": 0,
+      "fix": "Lead Gen Forms, offers worth a meeting and tighter audiences.",
+      "look": "cost"
+     },
+     {
+      "kicker": "",
+      "title": "Leads stuck in a spreadsheet",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Where leads go today</p><ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:70%\"><span>Downloaded weekly</span><b>70</b></li><li style=\"--w:20%\"><span>Followed up in 24 hours</span><b>20</b></li><li style=\"--w:10%\"><span>In the CRM</span><b>10</b></li></ul></div>",
+      "photo": 0,
+      "fix": "Lead Gen Forms synced to HubSpot, Salesforce or Dynamics.",
+      "look": "crm"
+     },
+     {
+      "kicker": "",
+      "title": "No idea which campaigns bring deals",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Tracking check</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Insight Tag</span><b>Missing</b></li><li class=\"no\"><span>Conversions</span><b>None set</b></li><li class=\"no\"><span>CRM deals</span><b>Not linked</b></li></ul></div>",
+      "photo": "media:assets/images/people-cut/man-smile.webp",
+      "fix": "Insight Tag, conversion tracking and offline conversions.",
+      "look": "track"
+     }
+    ],
+    "tools": "",
+    "visual": "",
+    "look": "cmhero cmhero--pm"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Every kind of LinkedIn campaign",
+    "html": "<section class=\"section section--white pmtypes\" aria-labelledby=\"h-62\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-62\">Every kind of <span class=\"accent\">LinkedIn campaign</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a campaign type to see when it works and what it brings.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmet\" data-tabs>\n\t\t\t\t<div class=\"cmet__tabs\" role=\"tablist\" aria-label=\"LinkedIn Ads campaign types\"><button class=\"cmet__tab cmet--1\" type=\"button\" role=\"tab\" id=\"ty-61-t-leadgen\" aria-controls=\"ty-61-leadgen\" aria-selected=\"true\"><span class=\"cmet__n\">01</span><b>Lead Gen Forms</b></button><button class=\"cmet__tab cmet--2\" type=\"button\" role=\"tab\" id=\"ty-61-t-abm\" aria-controls=\"ty-61-abm\" aria-selected=\"false\"><span class=\"cmet__n\">02</span><b>Account-based campaigns</b></button><button class=\"cmet__tab cmet--3\" type=\"button\" role=\"tab\" id=\"ty-61-t-thought\" aria-controls=\"ty-61-thought\" aria-selected=\"false\"><span class=\"cmet__n\">03</span><b>Thought leader ads</b></button><button class=\"cmet__tab cmet--4\" type=\"button\" role=\"tab\" id=\"ty-61-t-doc\" aria-controls=\"ty-61-doc\" aria-selected=\"false\"><span class=\"cmet__n\">04</span><b>Document and video ads</b></button><button class=\"cmet__tab cmet--5\" type=\"button\" role=\"tab\" id=\"ty-61-t-retarget\" aria-controls=\"ty-61-retarget\" aria-selected=\"false\"><span class=\"cmet__n\">05</span><b>Retargeting</b></button><button class=\"cmet__tab cmet--6\" type=\"button\" role=\"tab\" id=\"ty-61-t-convo\" aria-controls=\"ty-61-convo\" aria-selected=\"false\"><span class=\"cmet__n\">06</span><b>Conversation ads</b></button></div>\n\t\t\t\t<div class=\"cmet__panels\"><div class=\"cmet__panel cmet--1\" role=\"tabpanel\" id=\"ty-61-leadgen\" aria-labelledby=\"ty-61-t-leadgen\">\n\t\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t\t<p class=\"cmet__k\">1 of 6</p>\n\t\t\t\t\t\t\t<h3>Lead Gen Forms</h3>\n\t\t\t\t\t\t\t<p class=\"cmet__what\">Pre-filled forms inside LinkedIn, with leads sent straight to your CRM.</p>\n\t\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>When it works best</dt><dd>For guides, demos and consultations.</dd></div>\n\t\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>What it brings</dt><dd>Leads at a lower cost than landing pages.</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Lead Gen Form</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Pre-filled</span><b>Name, job, company</b></li><li><span>Qualifying question</span><b>Team size</b></li><li><span>Sent to</span><b>Salesforce</b></li></ul></div></div>\n\t\t\t\t\t</div><div class=\"cmet__panel cmet--2\" role=\"tabpanel\" id=\"ty-61-abm\" aria-labelledby=\"ty-61-t-abm\">\n\t\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t\t<p class=\"cmet__k\">2 of 6</p>\n\t\t\t\t\t\t\t<h3>Account-based campaigns</h3>\n\t\t\t\t\t\t\t<p class=\"cmet__what\">Ads shown only to the companies on your target list.</p>\n\t\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>When it works best</dt><dd>When you sell to a known list of accounts.</dd></div>\n\t\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>What it brings</dt><dd>Awareness and meetings inside target accounts.</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Target accounts</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Accounts uploaded</span><b>400</b></li><li><span>Reached this month</span><b>312</b></li><li><span>Engaged</span><b>96</b></li></ul></div></div>\n\t\t\t\t\t</div><div class=\"cmet__panel cmet--3\" role=\"tabpanel\" id=\"ty-61-thought\" aria-labelledby=\"ty-61-t-thought\">\n\t\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t\t<p class=\"cmet__k\">3 of 6</p>\n\t\t\t\t\t\t\t<h3>Thought leader ads</h3>\n\t\t\t\t\t\t\t<p class=\"cmet__what\">Posts from your leaders, promoted to the right audience.</p>\n\t\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>When it works best</dt><dd>When your experts have something worth saying.</dd></div>\n\t\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>What it brings</dt><dd>Trust before the sales conversation.</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"pmad pmad--social\"><div class=\"pmad__top\"><i></i><p><b>Vantage Payroll</b><span>Sponsored</span></p></div><p class=\"pmad__b\">Our CEO on the three hidden costs most agencies never see.</p><div class=\"pmad__img\"><b>Why agencies overpay for payroll</b></div><p class=\"pmad__cta\"><span>vantagepayroll.com</span><b>Read more</b></p></div></div>\n\t\t\t\t\t</div><div class=\"cmet__panel cmet--4\" role=\"tabpanel\" id=\"ty-61-doc\" aria-labelledby=\"ty-61-t-doc\">\n\t\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t\t<p class=\"cmet__k\">4 of 6</p>\n\t\t\t\t\t\t\t<h3>Document and video ads</h3>\n\t\t\t\t\t\t\t<p class=\"cmet__what\">Guides and videos people read inside LinkedIn.</p>\n\t\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>When it works best</dt><dd>For complex products that need explaining.</dd></div>\n\t\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>What it brings</dt><dd>Engaged audiences to retarget.</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Document ad</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Opened</span><b>2,410</b></li><li><span>Read to the end</span><b>38%</b></li><li><span>Downloaded</span><b>214</b></li></ul></div></div>\n\t\t\t\t\t</div><div class=\"cmet__panel cmet--5\" role=\"tabpanel\" id=\"ty-61-retarget\" aria-labelledby=\"ty-61-t-retarget\">\n\t\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t\t<p class=\"cmet__k\">5 of 6</p>\n\t\t\t\t\t\t\t<h3>Retargeting</h3>\n\t\t\t\t\t\t\t<p class=\"cmet__what\">Ads for people who visited, watched or opened a form.</p>\n\t\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>When it works best</dt><dd>When you have engaged audiences.</dd></div>\n\t\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>What it brings</dt><dd>Meetings from people who know you.</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Retargeting</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Website visitors</span><b>3,800</b></li><li><span>Video viewers</span><b>6,100</b></li><li><span>Form openers</span><b>420</b></li></ul></div></div>\n\t\t\t\t\t</div><div class=\"cmet__panel cmet--6\" role=\"tabpanel\" id=\"ty-61-convo\" aria-labelledby=\"ty-61-t-convo\">\n\t\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t\t<p class=\"cmet__k\">6 of 6</p>\n\t\t\t\t\t\t\t<h3>Conversation ads</h3>\n\t\t\t\t\t\t\t<p class=\"cmet__what\">Messages with clear choices, sent to the right people.</p>\n\t\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>When it works best</dt><dd>For events, demos and consultations.</dd></div>\n\t\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>What it brings</dt><dd>Direct replies from decision makers.</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Conversation ad</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Sent</span><b>1,800</b></li><li><span>Opened</span><b>61%</b></li><li><span>Booked a demo</span><b>34</b></li></ul></div></div>\n\t\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t\t<div class=\"cmedge__band pmband\"><p class=\"cmedge__bh\">How we look after every account</p><ol role=\"list\"><li><span class=\"cmedge__bn\">01</span><b>A specialist who knows your account</b><p>One LinkedIn specialist, not a rotating team.</p></li><li><span class=\"cmedge__bn\">02</span><b>Tracking you can trust</b><p>Every conversion tested, and matched to your CRM or store.</p></li><li><span class=\"cmedge__bn\">03</span><b>New ads every month</b><p>Written and designed in-house, and tested properly.</p></li><li><span class=\"cmedge__bn\">04</span><b>Reports in leads and sales</b><p>Cost per lead, cost per sale and return on ad spend.</p></li></ol></div>\n\t\t</div>\n\t</section>",
+    "css": "linkedin-ads",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Why LinkedIn ads <em>feel expensive</em>",
+    "lead": "What we see in most LinkedIn accounts.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "",
+      "problem": "Audience expansion shows ads to people outside your target.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Expansion switched off, and audiences built by job title, seniority and company.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Clicks cost $10 or more, and nobody converts on the landing page.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Lead Gen Forms and offers worth swapping details for.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Leads sit in a CSV for a week before anyone calls.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Forms synced to your CRM, with instant alerts to sales.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "No idea which campaigns bring deals.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Insight Tag, conversion tracking and offline conversions from your CRM.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "The same ad runs to the same people for months.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Frequency caps and new creative every month.",
+      "afterTitle": "",
+      "after": []
+     }
+    ],
+    "visual": "",
+    "alt": false
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "LinkedIn Ads help, one job at a time",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-64\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-64\">LinkedIn Ads help, <span class=\"accent\">one job at a time</span></h2>\n\t\t\t\t<p class=\"section-lead\">Need one thing fixed or set up properly? Each of these is a fixed-scope project, quoted after a short call. No retainer needed.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"pmjobs\" role=\"list\"><li class=\"pmjob\">\n\t\t\t\t\t<div class=\"pmjob__head\"><div><h3><a href=\"/services/digital-marketing/performance-marketing/linkedin-ads/lead-gen-forms/\">LinkedIn Lead Gen Forms and CRM</a></h3><p class=\"pmjob__by\">Lead Gen Forms, CRM sync, Insight Tag and conversion tracking.</p></div><a class=\"button button--outline pmjob__go\" href=\"/services/digital-marketing/performance-marketing/linkedin-ads/lead-gen-forms/\" tabindex=\"-1\" aria-hidden=\"true\">Explore <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a></div>\n\t\t\t\t\t<div class=\"pmjob__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"LinkedIn setup check: sample report\">\n\t<div class=\"pmrep__head\"><b>LinkedIn setup check</b><span>After our setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Lead Gen Form</span><span class=\"pmrep__s\">Live</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Synced to Salesforce</span><span class=\"pmrep__s\">Under 1 minute</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Insight Tag</span><span class=\"pmrep__s\">Firing</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Website conversions</span><span class=\"pmrep__s\">Tracked</span></li></ul>\n\t<p class=\"pmrep__foot\">Every lead tracked to pipeline</p>\n</figure></div>\n\t\t\t\t\t<div class=\"pmjob__body\">\n\t\t\t\t\t\t<p>Lead Gen Forms, CRM sync, Insight Tag and conversion tracking.</p>\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t</li></ul>\n\t\t</div>\n\t</section>",
+    "css": "linkedin-ads",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we run your LinkedIn Ads",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-65\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-65\">How we run <span class=\"accent\">your LinkedIn Ads</span></h2>\n\t\t\t\t<p class=\"section-lead\">The same clear rhythm on every account, run by people you can talk to, so you always know what’s happening and why.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrun\">\n\t\t\t\t<ol class=\"pmrun__steps\" role=\"list\"><li class=\"pmrun__s pmrun__s--1\">\n\t\t\t\t\t<p class=\"pmrun__when\">Week 1</p>\n\t\t\t\t\t<div class=\"pmrun__c\">\n\t\t\t\t\t\t<h3>Audit and goals</h3>\n\t\t\t\t\t\t<p>We go through your LinkedIn Ads account, tracking and landing pages, and work out what it really brings in today.</p>\n\t\t\t\t\t\t<ul class=\"pmrun__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Spend, campaigns and search terms reviewed line by line</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tracking checked against your CRM or store</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing pages tested on phone and desktop</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A written audit with a 90-day plan</li></ul>\n\t\t\t\t\t\t<p class=\"pmrun__you\"><b>Your part:</b> A 45-minute kick-off call about your customers, margins and what a good lead is worth.</p>\n\t\t\t\t\t</div>\n\t\t\t\t</li><li class=\"pmrun__s pmrun__s--2\">\n\t\t\t\t\t<p class=\"pmrun__when\">Week 2</p>\n\t\t\t\t\t<div class=\"pmrun__c\">\n\t\t\t\t\t\t<h3>Tracking and setup</h3>\n\t\t\t\t\t\t<p>Insight Tag and conversions checked, Lead Gen Forms connected to your CRM.</p>\n\t\t\t\t\t\t<ul class=\"pmrun__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Conversion actions set up and tested</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Values for each lead or sale agreed with you</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Dashboards connected to your data</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Account structure planned</li></ul>\n\t\t\t\t\t\t<p class=\"pmrun__you\"><b>Your part:</b> Give us access to your ad account, analytics and website tags.</p>\n\t\t\t\t\t</div>\n\t\t\t\t</li><li class=\"pmrun__s pmrun__s--3\">\n\t\t\t\t\t<p class=\"pmrun__when\">Weeks 3–4</p>\n\t\t\t\t\t<div class=\"pmrun__c\">\n\t\t\t\t\t\t<h3>Launch</h3>\n\t\t\t\t\t\t<p>The new campaign structure, audiences, ads and landing pages go live, with budgets agreed in writing.</p>\n\t\t\t\t\t\t<ul class=\"pmrun__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New campaigns built next to the old ones, then switched over</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ads written and designed in-house</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing pages built or improved by our web team</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Budgets and targets agreed before anything goes live</li></ul>\n\t\t\t\t\t\t<p class=\"pmrun__you\"><b>Your part:</b> Approve the ads, the pages and the budget. Nothing launches without your OK.</p>\n\t\t\t\t\t</div>\n\t\t\t\t</li><li class=\"pmrun__s pmrun__s--4\">\n\t\t\t\t\t<p class=\"pmrun__when\">Every week</p>\n\t\t\t\t\t<div class=\"pmrun__c\">\n\t\t\t\t\t\t<h3>Optimise</h3>\n\t\t\t\t\t\t<p>Audiences, bids, frequency and creative tests.</p>\n\t\t\t\t\t\t<ul class=\"pmrun__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Wasted spend cut</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Bids and budgets moved to what works</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> One test at a time, so we know what made the difference</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A short written update every week</li></ul>\n\t\t\t\t\t\t<p class=\"pmrun__you\"><b>Your part:</b> Tell us about leads that turned into customers, or didn’t.</p>\n\t\t\t\t\t</div>\n\t\t\t\t</li><li class=\"pmrun__s pmrun__s--5\">\n\t\t\t\t\t<p class=\"pmrun__when\">Every month</p>\n\t\t\t\t\t<div class=\"pmrun__c\">\n\t\t\t\t\t\t<h3>Report and plan</h3>\n\t\t\t\t\t\t<p>A plain-English report on leads, sales and cost per result, what we learned and what we’ll test next.</p>\n\t\t\t\t\t\t<ul class=\"pmrun__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A report you can forward to your boss</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> What worked, what didn’t and why</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> The plan and budget for next month</li></ul>\n\t\t\t\t\t\t<p class=\"pmrun__you\"><b>Your part:</b> A 30-minute call with your specialist. Bring questions, and anyone else who should hear it.</p>\n\t\t\t\t\t</div>\n\t\t\t\t</li></ol>\n\t\t\t\t<div class=\"pmrun__pic\" style=\"--n:4\" role=\"group\" aria-label=\"The people who run your account\"><figure class=\"pmrun__f\" style=\"--d:0s\">\n\t\t\t\t\t\t<img src=\"{{media:assets/images/team/team-3.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t\t<figcaption><b>LinkedIn Ads specialist</b>One named person plans, builds and optimises your campaigns, from the first audit to every monthly report.</figcaption>\n\t\t\t\t\t</figure><figure class=\"pmrun__f\" style=\"--d:5s\">\n\t\t\t\t\t\t<img src=\"{{media:assets/images/team/owner-call.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t\t<figcaption><b>Dedicated account manager</b>Your day-to-day contact for questions, approvals, budgets and the monthly call. Replies within one working day.</figcaption>\n\t\t\t\t\t</figure><figure class=\"pmrun__f\" style=\"--d:10s\">\n\t\t\t\t\t\t<img src=\"{{media:assets/images/team/owner-results.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t\t<figcaption><b>Tracking and analytics engineer</b>Sets up and tests conversion tracking, offline conversions and your dashboard, and checks it every month.</figcaption>\n\t\t\t\t\t</figure><figure class=\"pmrun__f\" style=\"--d:15s\">\n\t\t\t\t\t\t<img src=\"{{media:assets/images/team/team.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t\t<figcaption><b>Creative and web team</b>Designs new ads every month and builds the landing pages your ads send people to.</figcaption>\n\t\t\t\t\t</figure></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "linkedin-ads",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What you get every month",
+    "html": "<section class=\"section section--white pmmonthly\" aria-labelledby=\"h-66\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-66\">What you get <span class=\"accent\">every month</span></h2>\n\t\t\t\t<p class=\"section-lead\">Clear work, clear reporting and a specialist you can talk to.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"ccols\" role=\"list\"><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-target\"/></svg></span><h3 class=\"ccol__title\">Campaign work</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Audience and account list updates</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Bids, budgets and frequency</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Lead quality checks with your sales team</li></ul></li><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pen\"/></svg></span><h3 class=\"ccol__title\">Ads and pages</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New ads written and designed every month</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing page recommendations, or pages built by our web team</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Structured tests, one change at a time</li></ul></li><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-chart\"/></svg></span><h3 class=\"ccol__title\">Reporting and calls</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A live dashboard, updated daily</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A monthly report in plain English</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A monthly call with your specialist</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Exploratory calls whenever you plan something new</li></ul></li></ul>\n\t\t\t<div class=\"pmcall\">\n\t\t\t\t<div class=\"pmcall__top\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/team-2.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t<div class=\"pmcall__txt\">\n\t\t\t\t\t\t<h3>Not sure what your LinkedIn Ads account needs? Talk to us before you decide.</h3>\n\t\t\t\t\t\t<p>Choosing an agency is a big decision, and a sales pitch tells you very little. So before you sign anything, we do real work on your account for free. You judge us on what we find and how we explain it, and you keep the findings either way.</p>\n\t\t\t\t\t\t<ul class=\"pmcall__list\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> No obligation</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Read-only access is enough</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> We sign NDAs</li></ul>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<p class=\"pmcall__sh\">What we do before you hire us</p>\n\t\t\t\t<ol class=\"pmcall__steps\" role=\"list\"><li><span class=\"pmcall__n\">01</span><h4>A free account review</h4><p>With read-only access, a specialist goes through the last 90 days of your LinkedIn Ads account: spend, campaigns, search terms, tracking and landing pages.</p></li><li><span class=\"pmcall__n\">02</span><h4>An exploratory call</h4><p>Thirty to forty-five minutes about your customers, margins and sales cycle, and what a good lead is worth to you. We share what we found in your account.</p></li><li><span class=\"pmcall__n\">03</span><h4>A tracking check</h4><p>We test your main conversions, so we both know whether the numbers in your account can be trusted before anyone plans around them.</p></li><li><span class=\"pmcall__n\">04</span><h4>A written summary</h4><p>What’s working, where money is leaking and the first five things we’d change. It’s yours to keep, whether or not you hire us.</p></li><li><span class=\"pmcall__n\">05</span><h4>A 90-day plan and fixed quote</h4><p>What we’d do month by month, what we expect it to change, and a fixed monthly fee. Never a percentage of your ad spend.</p></li><li><span class=\"pmcall__n\">06</span><h4>Meet your specialist</h4><p>Talk to the person who would run your account, not just a salesperson, and ask them anything before you decide.</p></li></ol>\n\t\t\t\t<div class=\"pmcall__go\">\n\t\t\t\t\t<a class=\"button button--primary button--lg\" href=\"#proposal\">Book an exploratory call <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t\t<p>Free, 30 minutes. If we don’t think we can help, we’ll tell you.</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "linkedin-ads",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/case-study",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "look": "cmcase cmcase--pm cmcase--li",
+    "kicker": "Case study · LinkedIn Ads",
+    "title": "How Vantage Payroll turned LinkedIn into <em>$1.6M of pipeline</em>",
+    "client": "Vantage Payroll",
+    "clientInfo": "· B2B software · LinkedIn and Google",
+    "steps": [
+     {
+      "title": "The challenge",
+      "text": "LinkedIn leads were cheap but mostly students, juniors and other agencies."
+     },
+     {
+      "title": "What we did",
+      "text": "Audiences by job title and company size, Lead Gen Forms with a qualifying question and a HubSpot sync."
+     },
+     {
+      "title": "The outcome",
+      "text": "Fewer leads, but most were people sales wanted to call."
+     }
+    ],
+    "buttonText": "Read the case study",
+    "buttonUrl": "/case-studies/",
+    "stats": [
+     {
+      "value": "$1.6M",
+      "label": "pipeline from ads"
+     },
+     {
+      "value": "+140%",
+      "label": "sales-qualified leads"
+     },
+     {
+      "value": "−45%",
+      "label": "cost per qualified lead"
+     },
+     {
+      "value": "< 5 min",
+      "label": "from form to CRM"
+     }
+    ],
+    "chartTitle": "Sales-qualified leads from LinkedIn, per month",
+    "bars": [
+     {
+      "height": 27,
+      "label": "Month 1: 6"
+     },
+     {
+      "height": 32,
+      "label": "Month 2: 7"
+     },
+     {
+      "height": 41,
+      "label": "Month 3: 9"
+     },
+     {
+      "height": 45,
+      "label": "Month 4: 10"
+     },
+     {
+      "height": 55,
+      "label": "Month 5: 12"
+     },
+     {
+      "height": 64,
+      "label": "Month 6: 14"
+     },
+     {
+      "height": 68,
+      "label": "Month 7: 15"
+     },
+     {
+      "height": 77,
+      "label": "Month 8: 17"
+     },
+     {
+      "height": 82,
+      "label": "Month 9: 18"
+     },
+     {
+      "height": 86,
+      "label": "Month 10: 19"
+     },
+     {
+      "height": 95,
+      "label": "Month 11: 21"
+     },
+     {
+      "height": 100,
+      "label": "Month 12: 22"
+     }
+    ],
+    "axisStart": "Month 1",
+    "axisEnd": "Month 12"
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Alex Barsuk",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How to choose a LinkedIn Ads agency",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-70\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-70\">How to choose a <span class=\"accent\">LinkedIn Ads agency</span></h2>\n\t\t\t\t<p class=\"section-lead\">What to expect from a good agency, what to avoid, and the questions worth asking before you hand over your budget.</p>\n\t\t\t</div>\n\t\t\t<div class=\"dodont\">\n\t\t\t\t<div class=\"dodont__col dodont__col--do\"><h3 class=\"dodont__title\">What you get with us</h3><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ads run in your account. You own it, the data and the history</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Conversion tracking is checked and tested before we scale spend</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly reports in leads, sales and cost per result, not just clicks</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A named specialist who knows your account, not a rotating team</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A written plan for the first 90 days before we start</li></ul></div>\n\t\t\t\t<div class=\"dodont__col dodont__col--dont\"><h3 class=\"dodont__title\">What we never do</h3><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Lock you into long contracts or keep your account if you leave</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Take a hidden cut of your ad spend</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Report impressions and clicks as if they were results</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Promise rankings, results or approval from the platform</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Change budgets or targeting without telling you</li></ul></div>\n\t\t\t</div>\n\t\t\t<div class=\"pmq\">\n\t\t\t\t<h3 class=\"pmq__h\">Questions to ask any LinkedIn Ads agency</h3>\n\t\t\t\t<p class=\"pmq__lead\">Ask every agency you speak to, including us. The answers tell you more than any proposal.</p>\n\t\t\t\t<ol class=\"pmq__list\" role=\"list\"><li><span class=\"pmq__n\">Q1</span><h3>Who will manage my account day to day?</h3><p><b>Why ask:</b> Many agencies sell with senior people and hand the work to juniors. You want to know who makes the changes, and how much experience they have.</p></li><li><span class=\"pmq__n\">Q2</span><h3>Will the account be in my name, and do I keep it if we part ways?</h3><p><b>Why ask:</b> Your account history is valuable. If the agency owns the account, you can lose years of data and learning when you leave.</p></li><li><span class=\"pmq__n\">Q3</span><h3>How do you charge, and do you take a percentage of ad spend?</h3><p><b>Why ask:</b> A percentage of spend rewards spending more, not spending well. Know exactly what you pay and what it covers.</p></li><li><span class=\"pmq__n\">Q4</span><h3>How will you check our conversion tracking before spending more?</h3><p><b>Why ask:</b> If tracking is wrong, every bid and every report is wrong too. A good agency checks it first.</p></li><li><span class=\"pmq__n\">Q5</span><h3>What will you report on each month?</h3><p><b>Why ask:</b> Clicks and impressions are easy to grow. Ask for leads, sales, cost per result and what changed.</p></li><li><span class=\"pmq__n\">Q6</span><h3>What exactly happens in the first 90 days?</h3><p><b>Why ask:</b> A clear plan shows they have looked at your account. A vague answer usually means a template.</p></li><li><span class=\"pmq__n\">Q7</span><h3>Can you show results for a business like ours?</h3><p><b>Why ask:</b> Results in your industry, or with a similar sales cycle and budget, tell you far more than a list of logos.</p></li><li><span class=\"pmq__n\">Q8</span><h3>What is the notice period, and is there a minimum term?</h3><p><b>Why ask:</b> Long lock-ins protect the agency, not you. Good agencies keep clients because of results.</p></li></ol>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "linkedin-ads",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/why-intella",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "A LinkedIn Ads agency that <em>counts sales, not clicks</em>",
+    "items": [
+     {
+      "title": "Tracking before spend",
+      "text": "We check every conversion fires before we scale a single campaign."
+     },
+     {
+      "title": "One team, every platform",
+      "text": "Search, social, video and marketplaces planned together, not in silos."
+     },
+     {
+      "title": "Your accounts, your data",
+      "text": "Ads run in accounts you own. You keep everything if you ever leave."
+     },
+     {
+      "title": "We build the landing pages too",
+      "text": "Our web team builds and tests the pages your ads send people to."
+     }
+    ],
+    "facts": [
+     {
+      "value": "10",
+      "label": "ad platforms we manage"
+     },
+     {
+      "value": "100%",
+      "label": "of accounts owned by our clients"
+     },
+     {
+      "value": "48 h",
+      "label": "to a written audit of your account"
+     }
+    ],
+    "bigFacts": true,
+    "quote": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "LinkedIn Ads questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "Are LinkedIn ads worth it for B2B?",
+      "answer": "Often, yes. Clicks cost more than on other platforms, but you can reach decision makers by job title and company. For high-value deals, that usually pays."
+     },
+     {
+      "question": "What does a LinkedIn ads agency do?",
+      "answer": "It builds audiences, creates ads and Lead Gen Forms, connects them to your CRM, manages bids and reports on meetings and pipeline."
+     },
+     {
+      "question": "Can LinkedIn leads go straight into my CRM?",
+      "answer": "Yes. Lead Gen Forms connect to HubSpot, Salesforce, Dynamics and others, so sales can follow up within minutes."
+     },
+     {
+      "question": "How much does LinkedIn Ads management cost?",
+      "answer": "We charge a fixed monthly management fee on top of your ad spend, quoted after a free call. It depends on the size of the account and the work involved. We never take a hidden cut of your LinkedIn Ads spend."
+     },
+     {
+      "question": "Do I keep my LinkedIn Ads account if I leave?",
+      "answer": "Yes. Your ads run in an account you own. You keep the account, the data and all the history."
+     },
+     {
+      "question": "How soon will I see results?",
+      "answer": "Most accounts see improvements in the first month from fixing tracking and cutting waste. It usually takes two to three months of testing to settle at a good cost per result."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Turn LinkedIn into <em>meetings, not just clicks</em>",
+    "lead": "Give us read-only access and we’ll show you who your ads really reach.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "Who do you sell to (job titles and company size), and what’s a deal worth?",
+    "service": "linkedin-ads",
+    "buttonText": "Request my free account review",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "LinkedIn Ads works best <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "chart",
+      "title": "B2B Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/b2b/",
+      "text": "Paid ads for long B2B sales."
+     },
+     {
+      "icon": "users",
+      "title": "LinkedIn for B2B",
+      "url": "/linkedin-b2b/",
+      "text": "Company and founder content that builds authority."
+     },
+     {
+      "icon": "chart",
+      "title": "Performance Marketing Audit",
+      "url": "/audits/google-ads-audit/",
+      "text": "A full audit of your ad accounts and tracking."
+     }
+    ]
+   }
+  }
+ ]
+}

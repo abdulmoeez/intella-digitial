@@ -1,0 +1,135 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/home-audience",
+	"title": "Problems and fixes (video mosaic)",
+	"category": "intella",
+	"icon": "video-alt3",
+	"description": "Who we help, with a video mosaic, problem → fix steps and the tools we use.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/reels",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text"
+			},
+			{
+				"key": "buttonUrl",
+				"type": "url",
+				"label": "Button link"
+			},
+			{
+				"key": "tiles",
+				"type": "repeater",
+				"label": "Video tiles (4)",
+				"itemName": "tile",
+				"max": 4,
+				"panel": "Videos",
+				"fields": [
+					{
+						"key": "clips",
+						"type": "repeater",
+						"label": "Clips",
+						"itemName": "clip",
+						"fields": [
+							{
+								"key": "video",
+								"type": "image",
+								"label": "Video (MP4)",
+								"allowedTypes": [
+									"video"
+								]
+							},
+							{
+								"key": "poster",
+								"type": "image",
+								"label": "Still image"
+							}
+						],
+						"default": []
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "chips",
+				"type": "repeater",
+				"label": "Floating notes (2)",
+				"itemName": "note",
+				"max": 2,
+				"panel": "Videos",
+				"fields": [
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Title"
+					},
+					{
+						"key": "text",
+						"type": "text",
+						"label": "Small text"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "steps",
+				"type": "repeater",
+				"label": "Problems and fixes",
+				"itemName": "step",
+				"itemLabel": "problem",
+				"panel": "Problems and fixes",
+				"fields": [
+					{
+						"key": "problem",
+						"type": "text",
+						"label": "Problem"
+					},
+					{
+						"key": "answer",
+						"type": "textarea",
+						"label": "How we fix it"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "toolsTitle",
+				"type": "inline",
+				"label": "Tools heading",
+				"panel": "Tools"
+			},
+			{
+				"key": "toolsLead",
+				"type": "textarea",
+				"label": "Tools intro",
+				"panel": "Tools"
+			},
+			{
+				"key": "tools",
+				"type": "list",
+				"label": "Tools",
+				"panel": "Tools",
+				"help": "One tool name per line. Logos come from the theme’s tools folder.",
+				"default": []
+			}
+		],
+		"section": "white"
+	}
+}

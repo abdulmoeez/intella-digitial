@@ -1,0 +1,130 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/home-contact",
+	"title": "Contact with form",
+	"category": "intella",
+	"icon": "email",
+	"description": "Contact options, rotating “how we work” cards and the proposal form.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/human-cards",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "ways",
+				"type": "repeater",
+				"label": "Ways to reach us",
+				"itemName": "way",
+				"itemLabel": "label",
+				"fields": [
+					{
+						"key": "icon",
+						"type": "text",
+						"label": "Icon"
+					},
+					{
+						"key": "label",
+						"type": "text",
+						"label": "Label"
+					},
+					{
+						"key": "value",
+						"type": "text",
+						"label": "Text"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "cards",
+				"type": "repeater",
+				"label": "“How we work” cards",
+				"itemName": "card",
+				"itemLabel": "note",
+				"panel": "Cards",
+				"fields": [
+					{
+						"key": "style",
+						"type": "select",
+						"label": "Look",
+						"options": [
+							"reply",
+							"plan",
+							"report"
+						],
+						"default": "reply"
+					},
+					{
+						"key": "bubbles",
+						"type": "list",
+						"label": "Chat bubbles",
+						"default": []
+					},
+					{
+						"key": "image",
+						"type": "image",
+						"label": "Cut-out photo"
+					},
+					{
+						"key": "note",
+						"type": "text",
+						"label": "Note under the photo"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "formTitle",
+				"type": "text",
+				"label": "Form heading",
+				"panel": "Form"
+			},
+			{
+				"key": "formSub",
+				"type": "text",
+				"label": "Form subheading",
+				"panel": "Form"
+			},
+			{
+				"key": "services",
+				"type": "list",
+				"label": "“What do you need help with?” options",
+				"panel": "Form",
+				"default": []
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text",
+				"panel": "Form"
+			},
+			{
+				"key": "trust",
+				"type": "list",
+				"label": "Reassurance points",
+				"panel": "Form",
+				"default": []
+			}
+		],
+		"section": "cream"
+	}
+}

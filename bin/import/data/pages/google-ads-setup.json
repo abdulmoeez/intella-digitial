@@ -1,0 +1,490 @@
+{
+ "title": "Google Ads Account Setup Service",
+ "path": "/services/digital-marketing/performance-marketing/google-ads/setup/",
+ "seo": {
+  "title": "Google Ads Account Setup Service | Intella Digital",
+  "description": "Google Ads account setup done properly: tracking, campaign structure, keywords, ads and landing pages, ready to launch from day one."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "Google Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/"
+     },
+     {
+      "label": "Account Setup",
+      "url": ""
+     }
+    ],
+    "title": "A Google Ads account <em>built properly from day one</em>",
+    "lead": "For companies starting with Google Ads: we set up the account, tracking, campaigns, keywords and ads, so you start on solid ground.",
+    "buttonText": "Get my account set up",
+    "formLabel": "Get my account set up",
+    "service": "google-ads-setup",
+    "notes": [
+     "Tracking set up first",
+     "Campaigns built by a specialist",
+     "Ready to launch"
+    ],
+    "sliderLabel": "Common mistakes in new Google Ads accounts",
+    "fixLabel": "How we set it up",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "Broad match on day one",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Search terms, first week</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>“free accounting software”</span><b>$212</b></li><li class=\"no\"><span>“accountant salary”</span><b>$96</b></li><li class=\"ok\"><span>“accountant near me”</span><b>3 calls</b></li></ul><p class=\"cmhc__note\">Half the first budget went on searches that never buy</p></div>",
+      "photo": 0,
+      "fix": "Phrase and exact match first, with negative keyword lists in place before launch.",
+      "look": "match"
+     },
+     {
+      "kicker": "",
+      "title": "Display switched on by default",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Where the first $1,000 went</p><ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:48%\"><span>Display Network</span><b>$480</b></li><li style=\"--w:42%\"><span>Search</span><b>$420</b></li><li style=\"--w:10%\"><span>Search partners</span><b>$100</b></li></ul><p class=\"cmhc__note\">Most of the clicks came from mobile apps</p></div>",
+      "photo": 0,
+      "fix": "Search only, with Display and search partners off until there’s data.",
+      "look": "display"
+     },
+     {
+      "kicker": "",
+      "title": "Launched without tracking",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Conversion actions</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Contact form</span><b>Not set up</b></li><li class=\"no\"><span>Phone calls</span><b>Not set up</b></li><li class=\"no\"><span>Smart bidding</span><b>No data</b></li></ul><p class=\"cmhc__note\">Google can’t learn what a good click is</p></div>",
+      "photo": 0,
+      "fix": "Calls, forms and sales tracked and tested before the first click.",
+      "look": "track"
+     },
+     {
+      "kicker": "",
+      "title": "One campaign for everything",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Account structure</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Campaigns</span><b>1</b></li><li class=\"no\"><span>Ad groups</span><b>1</b></li><li class=\"no\"><span>Keywords in it</span><b>214</b></li></ul><p class=\"cmhc__note\">Every search gets the same generic ad</p></div>",
+      "photo": 0,
+      "fix": "Campaigns by service and location, with ad groups that match the search.",
+      "look": "struct"
+     },
+     {
+      "kicker": "",
+      "title": "Every ad goes to the homepage",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Landing pages</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Ads to the homepage</span><b>100%</b></li><li class=\"no\"><span>Page per service</span><b>None</b></li><li class=\"no\"><span>Form on mobile</span><b>Below the fold</b></li></ul><p class=\"cmhc__note\">People click, look around and leave</p></div>",
+      "photo": 0,
+      "fix": "Each ad group sends people to the page that answers their search.",
+      "look": "page"
+     }
+    ],
+    "tools": "<ul class=\"pmtools\" role=\"list\" aria-label=\"Tools we work in\"><li class=\"pmtools__i pmtools__i--1\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><g stroke-width=\"11\" stroke-linecap=\"round\" fill=\"none\"><path d=\"M21 10 9.5 30\" stroke=\"#FBBC04\"/><path d=\"M21 10 34 33\" stroke=\"#4285F4\"/></g><circle cx=\"11\" cy=\"35\" r=\"6\" fill=\"#34A853\"/></svg><span>Google Ads</span></li><li class=\"pmtools__i pmtools__i--2\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><rect x=\"10\" y=\"10\" width=\"28\" height=\"28\" rx=\"5\" transform=\"rotate(45 24 24)\" fill=\"#4285F4\"/><path d=\"M24 4.2 9.9 18.3a8 8 0 0 0 0 11.4L24 43.8l4.6-4.6L14.5 24 28.6 9.8z\" fill=\"#8AB4F8\"/><circle cx=\"24\" cy=\"24\" r=\"4.5\" fill=\"#fff\"/></svg><span>Google Tag Manager</span></li><li class=\"pmtools__i pmtools__i--3\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><rect x=\"29\" y=\"5\" width=\"11\" height=\"38\" rx=\"5.5\" fill=\"#F9AB00\"/><rect x=\"16\" y=\"18\" width=\"11\" height=\"25\" rx=\"5.5\" fill=\"#E37400\"/><circle cx=\"9.5\" cy=\"37.5\" r=\"5.5\" fill=\"#E37400\"/></svg><span>Google Analytics 4</span></li></ul>",
+    "visual": "",
+    "look": "cmhero cmhero--pm cmhero--job"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/sign-strips",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Signs you need a <em>proper account setup</em>",
+    "lead": "Most new accounts lose money in the first month for the same few reasons. If any of these sound like you, a proper setup usually pays for itself.",
+    "items": [
+     {
+      "title": "You’re about to run Google Ads for the first time",
+      "text": "Google makes it easy to start: a few clicks and your ads are live. The default settings, though, are built to spend, not to find customers. Broad keywords, Display placements and automatic bidding all switch on unless you turn them off.\n\nWe set the account up the way a specialist would run it: tracking first, then tight keywords, negative lists, campaigns by service and ads that match the search. Your first budget then buys useful data, not random clicks.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Launch readiness: sample report\">\n\t<div class=\"pmrep__head\"><b>Launch readiness</b><span>Today</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Conversion tracking</span><span class=\"pmrep__s\">None</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Keyword research</span><span class=\"pmrep__s\">A rough list</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Negative keywords</span><span class=\"pmrep__s\">None</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Landing pages</span><span class=\"pmrep__s\">Homepage only</span></li></ul>\n\t<p class=\"pmrep__foot\">Not ready to spend yet</p>\n</figure>"
+     },
+     {
+      "title": "Your first attempt cost money and brought nothing",
+      "text": "Many companies try Google Ads once, spend a few thousand and decide it doesn’t work. Usually the problem isn’t Google Ads: the account had no tracking, showed on Display and paid for searches that were never going to buy.\n\nWe look at what happened in the first attempt, keep what worked and rebuild the rest. You get a clean account with tracking tested, so this time you can see what each click brings.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"First attempt: sample report\">\n\t<div class=\"pmrep__head\"><b>First attempt</b><span>Three months</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Spent</span><span class=\"pmrep__s\">$4,800</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Leads tracked</span><span class=\"pmrep__s\">0</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Clicks from Display</span><span class=\"pmrep__s\">58%</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Search terms checked</span><span class=\"pmrep__s\">Never</span></li></ul>\n\t<p class=\"pmrep__foot\">Money spent, nothing learned</p>\n</figure>"
+     },
+     {
+      "title": "You started with a Smart campaign",
+      "text": "Smart campaigns, and accounts set up over the phone with Google, are quick to launch but give you little control. You can’t choose match types, you see few search terms and results are often counted as map clicks rather than enquiries.\n\nWe move you to standard Search campaigns with keywords you choose, proper conversion tracking and full search term reports. You keep the history and gain the control.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Smart campaign: sample report\">\n\t<div class=\"pmrep__head\"><b>Smart campaign</b><span>Last 60 days</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Keyword control</span><span class=\"pmrep__s\">None</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Search terms shown</span><span class=\"pmrep__s\">Partly</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Counted as results</span><span class=\"pmrep__s\">Map clicks</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Cost per enquiry</span><span class=\"pmrep__s\">Unknown</span></li></ul>\n\t<p class=\"pmrep__foot\">Easy to start, hard to control</p>\n</figure>"
+     },
+     {
+      "title": "You’re launching a new product, service or country",
+      "text": "A new market has its own searches, competitors, languages and costs. Adding it to an existing campaign mixes the results, so the new market either starves or takes budget from what already works.\n\nWe research the new market, build its own campaigns with its own budget and landing pages, and set the locations and languages correctly. You see clearly how the launch is doing.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"New market: UAE: sample report\">\n\t<div class=\"pmrep__head\"><b>New market: UAE</b><span>Plan</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Languages</span><span class=\"pmrep__s\">English and Arabic</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Locations</span><span class=\"pmrep__s\">Dubai, Abu Dhabi</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Own budget</span><span class=\"pmrep__s\">Yes</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Local landing page</span><span class=\"pmrep__s\">To build</span></li></ul>\n\t<p class=\"pmrep__foot\">A new market needs its own campaigns</p>\n</figure>"
+     },
+     {
+      "title": "You want to run it yourself, after a good start",
+      "text": "Plenty of companies can manage a small account in-house once it’s built well. What they don’t have is the time or experience to set up the structure, tracking and negatives properly the first time.\n\nWe build the account, then hand it over with an account map, a weekly checklist and a training call. For 30 days after launch you can ask us anything.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Handover: sample report\">\n\t<div class=\"pmrep__head\"><b>Handover</b><span>Week 2</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Training call</span><span class=\"pmrep__s\">1 hour</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Weekly checklist</span><span class=\"pmrep__s\">Included</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Account map</span><span class=\"pmrep__s\">Included</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Questions after launch</span><span class=\"pmrep__s\">30 days</span></li></ul>\n\t<p class=\"pmrep__foot\">Set up by us, run by you</p>\n</figure>"
+     },
+     {
+      "title": "Your account was set up by someone you can’t reach",
+      "text": "We often meet companies whose account, Tag Manager or Analytics was created by a freelancer or a former employee. Billing, admin access and the tracking all sit with someone who has moved on.\n\nWe make sure you own everything: the Google Ads account, billing, Tag Manager and GA4, with admin access in your name. Then we set it up properly from there.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Account access: sample report\">\n\t<div class=\"pmrep__head\"><b>Account access</b><span>Today</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Admin access</span><span class=\"pmrep__s\">Freelancer only</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Billing in your name</span><span class=\"pmrep__s\">No</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">GA4 linked</span><span class=\"pmrep__s\">Unknown</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Tag Manager owner</span><span class=\"pmrep__s\">Freelancer</span></li></ul>\n\t<p class=\"pmrep__foot\">You don’t own your own account</p>\n</figure>"
+     }
+    ],
+    "noteTitle": "A good start saves months",
+    "noteText": "Tracking, structure and negatives done right from day one, so your first budget teaches Google the right things.",
+    "buttonText": "Get this fixed",
+    "buttonUrl": "#proposal"
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Google Ads Account Setup, <em>done properly</em>",
+    "lead": "One fixed-scope project, quoted after a short call. No retainer needed.",
+    "name": "Google Ads account setup",
+    "price": "Fixed price, quoted after a 30-minute call",
+    "items": [
+     "Account, billing and admin access in your name",
+     "Conversion tracking for calls, forms and sales, tested",
+     "GA4 and Tag Manager linked",
+     "Keyword and competitor research",
+     "Campaigns by service or product",
+     "Ads, assets and landing page advice",
+     "Negative keyword lists",
+     "An account map, a checklist and a training call"
+    ],
+    "delivery": "Usually ready in 2 weeks",
+    "buttonText": "Request a quote",
+    "buttonUrl": "#proposal",
+    "visual": "<div class=\"pmhum\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/team-2.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t<div><p class=\"pmhum__t\">Built by hand, by a specialist</p><p>One Google Ads specialist researches your market, builds every campaign and goes through it with you before launch. No templates and no automatic setup.</p><ul role=\"list\"><li>Built by hand</li><li>Checked with you</li><li>30 days of support</li></ul></div>\n\t\t\t\t</div><div class=\"pmsc pmam\">\n\t\t\t\t\t<div class=\"pmsc__top\"><div><p class=\"pmsc__t\">Your account map</p><p class=\"pmsc__s\">Example: a dental clinic in two cities</p></div></div>\n\t\t\t\t\t<ul class=\"pmam__cs\" role=\"list\"><li class=\"pmam__c pmam__c--1\"><p class=\"pmam__ct\"><b>Dental implants</b><span>Search · 40% of budget</span></p><ul role=\"list\"><li><span>Dental implants</span><em>18 keywords</em></li><li><span>Implant cost</span><em>9</em></li><li><span>All-on-4</span><em>6</em></li></ul></li><li class=\"pmam__c pmam__c--2\"><p class=\"pmam__ct\"><b>Invisalign</b><span>Search · 30% of budget</span></p><ul role=\"list\"><li><span>Invisalign</span><em>11 keywords</em></li><li><span>Clear aligners</span><em>8</em></li></ul></li><li class=\"pmam__c pmam__c--3\"><p class=\"pmam__ct\"><b>Emergency dentist</b><span>Search · 20% of budget</span></p><ul role=\"list\"><li><span>Emergency dentist</span><em>12 keywords</em></li><li><span>Dentist open now</span><em>7</em></li></ul></li><li class=\"pmam__c pmam__c--4\"><p class=\"pmam__ct\"><b>Brand</b><span>Search · 10% of budget</span></p><ul role=\"list\"><li><span>Clinic name</span><em>4 keywords</em></li></ul></li></ul>\n\t\t\t\t\t<p class=\"pmsc__note\">One campaign per service, each with its own budget, ads and landing page. Negative keyword lists apply across the account.</p>\n\t\t\t\t</div>"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we set it up",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-299\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-299\">How we <span class=\"accent\">set it up</span></h2>\n\t\t\t\t<p class=\"section-lead\">About two weeks from brief to launch. You approve the plan and see every campaign before anything goes live.</p>\n\t\t\t</div>\n\n\t\t\t<ol class=\"pmsds\" role=\"list\" data-acc><li class=\"pmsd js-acc is-open\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"true\" aria-controls=\"pmsd-1\"><span class=\"pmsd__when\">Step 1 · Days 1–2</span><span class=\"pmsd__t\">Brief</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-1\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>A call to understand what you sell, who buys it, where they are and what a customer is worth to you. We also check what you already have: an old account, Analytics, Tag Manager, your website and any past results.</p><p class=\"pmsd__get\"><b>You get:</b> A one-page brief we agree on together.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> What you sell and to whom</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Which services or products matter most</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Locations, languages and opening hours</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> What a lead or sale is worth</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-2\"><span class=\"pmsd__when\">Step 2 · Days 2–4</span><span class=\"pmsd__t\">Research</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-2\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We research the keywords people use to find what you sell, what they cost and who else is bidding. We look at competitors’ ads and landing pages, and we list the searches you should never pay for.</p><p class=\"pmsd__get\"><b>You get:</b> A keyword plan and a budget you approve.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Keywords with volumes and costs</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Competitors’ ads and offers</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Negative keyword lists</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A budget estimate from real costs</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-3\"><span class=\"pmsd__when\">Step 3 · Days 4–6</span><span class=\"pmsd__t\">Tracking</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-3\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>Tracking comes before any campaign. We set up conversion actions for calls, forms and sales, link GA4 and Tag Manager, and test each one with real submissions and calls.</p><p class=\"pmsd__get\"><b>You get:</b> A tracking sheet showing each test.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Forms, calls and sales tracked</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Enhanced conversions where possible</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> GA4 and Tag Manager linked</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Every conversion tested</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-4\"><span class=\"pmsd__when\">Step 4 · Days 6–9</span><span class=\"pmsd__t\">Build</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-4\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We build the campaigns, ad groups, keywords and ads by hand, set locations, schedules and networks, and add every asset. If a landing page is weak, we tell you what to change before launch.</p><p class=\"pmsd__get\"><b>You get:</b> Every campaign ready, for you to review.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Campaigns by service or product</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ads and assets for each ad group</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Locations, schedule and networks set</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing page notes</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-5\"><span class=\"pmsd__when\">Step 5 · Day 10, then 30 days</span><span class=\"pmsd__t\">Launch and first month</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-5\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We launch with a sensible budget, check search terms in the first days and add negatives as they appear. You get a training call, an account map and a checklist, and 30 days to ask us anything.</p><p class=\"pmsd__get\"><b>You get:</b> A live account, and the know-how to run it.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Search terms checked in week one</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Negatives added as needed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A one-hour training call</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Answers for 30 days</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li></ol>\n\t\t\t<div class=\"pmau__head\"><p class=\"pmau__kick\">What we set up</p><h3>Eight parts of a new account, <span class=\"accent\">set up before launch</span></h3><p>For each part: why it matters, what we set up, the mistakes we see in new accounts and what you get.</p></div>\n\t\t\t<div class=\"pmau\" data-tabs>\n\t\t\t\t<div class=\"pmau__tabs\" role=\"tablist\" aria-orientation=\"vertical\" aria-label=\"Parts of a new Google Ads account\"><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-298-t0\" aria-controls=\"au-298-p0\" aria-selected=\"true\"><span>01</span>Account, billing and access<em>6 settings · 4 common mistakes</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-298-t1\" aria-controls=\"au-298-p1\" aria-selected=\"false\"><span>02</span>Conversion tracking<em>6 settings · 4 common mistakes</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-298-t2\" aria-controls=\"au-298-p2\" aria-selected=\"false\"><span>03</span>Keyword research<em>6 settings · 4 common mistakes</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-298-t3\" aria-controls=\"au-298-p3\" aria-selected=\"false\"><span>04</span>Campaign structure<em>6 settings · 4 common mistakes</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-298-t4\" aria-controls=\"au-298-p4\" aria-selected=\"false\"><span>05</span>Ads and assets<em>6 settings · 4 common mistakes</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-298-t5\" aria-controls=\"au-298-p5\" aria-selected=\"false\"><span>06</span>Negative keywords<em>6 settings · 4 common mistakes</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-298-t6\" aria-controls=\"au-298-p6\" aria-selected=\"false\"><span>07</span>Locations, networks and schedule<em>6 settings · 4 common mistakes</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-298-t7\" aria-controls=\"au-298-p7\" aria-selected=\"false\"><span>08</span>Budget and bidding<em>6 settings · 4 common mistakes</em></button></div>\n\t\t\t\t<div class=\"pmau__panels\"><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-298-p0\" aria-labelledby=\"au-298-t0\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 1 of 8</p><h4>Account, billing and access</h4><p class=\"pmau__why\">The account should belong to you. Many companies find later that a freelancer or former employee holds the only admin login, or that billing sits on someone’s personal card.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Access: sample report\">\n\t<div class=\"pmrep__head\"><b>Access</b><span>After setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Admin</span><span class=\"pmrep__s\">You</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Billing</span><span class=\"pmrep__s\">Company card</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Our access</span><span class=\"pmrep__s\">Standard</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Auto-tagging</span><span class=\"pmrep__s\">On</span></li></ul>\n\t<p class=\"pmrep__foot\">Your account, from day one</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Account created or recovered in your name</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Billing and invoices in your company name</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Admin access for you, standard for us</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Manager account link you can remove</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Time zone and currency</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Auto-tagging on</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">Mistakes we see</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Admin access held by a freelancer</li><li><span aria-hidden=\"true\">!</span> Billing on a personal card</li><li><span aria-hidden=\"true\">!</span> Wrong time zone, so reports never match</li><li><span aria-hidden=\"true\">!</span> Auto-tagging off, so GA4 can’t see the clicks</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> An account you fully own</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Clean billing and invoices</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Access you control, and can take away from us</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Settings that won’t need fixing later</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-298-p1\" aria-labelledby=\"au-298-t1\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 2 of 8</p><h4>Conversion tracking</h4><p class=\"pmau__why\">Tracking tells Google which clicks became customers. Without it you can’t see what works, and smart bidding has nothing to learn from.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Conversion actions: sample report\">\n\t<div class=\"pmrep__head\"><b>Conversion actions</b><span>Tested before launch</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Contact form</span><span class=\"pmrep__s\">Fires once</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Calls from ads</span><span class=\"pmrep__s\">Tracked</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Calls from site</span><span class=\"pmrep__s\">Tracked</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Purchase value</span><span class=\"pmrep__s\">Correct</span></li></ul>\n\t<p class=\"pmrep__foot\">Ready to learn from day one</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Form submissions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Calls from ads and from the website</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Purchases with their value</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Enhanced conversions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Primary and secondary goals</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A test of every action</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">Mistakes we see</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> No tracking at all</li><li><span aria-hidden=\"true\">!</span> Page views counted as conversions</li><li><span aria-hidden=\"true\">!</span> Calls not tracked, though most leads phone</li><li><span aria-hidden=\"true\">!</span> The same lead counted twice</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Every real enquiry and sale tracked</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Calls tracked with call reporting</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Only real results as primary goals</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A tracking sheet with each test</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-298-p2\" aria-labelledby=\"au-298-t2\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 3 of 8</p><h4>Keyword research</h4><p class=\"pmau__why\">Keywords decide which searches you pay for. The right list is specific, matched to what you sell and checked against what each click costs.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Keyword plan: sample report\">\n\t<div class=\"pmrep__head\"><b>Keyword plan</b><span>Example clinic</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Keywords</span><span class=\"pmrep__s\">75</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Ad groups</span><span class=\"pmrep__s\">9</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Average cost per click</span><span class=\"pmrep__s\">$3.40</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Broad match at launch</span><span class=\"pmrep__s\">None</span></li></ul>\n\t<p class=\"pmrep__foot\">Specific searches first</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Keywords by service or product</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Search volumes and costs</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Buying searches vs research searches</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Match types</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Competitor and brand terms</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Local and language variations</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">Mistakes we see</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> A handful of broad, expensive keywords</li><li><span aria-hidden=\"true\">!</span> Broad match with no negatives</li><li><span aria-hidden=\"true\">!</span> Keywords for things you don’t sell</li><li><span aria-hidden=\"true\">!</span> No local variations for a local business</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A keyword plan by campaign</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Phrase and exact match to start</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Costs and volumes for each group</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A shortlist to test later</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-298-p3\" aria-labelledby=\"au-298-t3\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 4 of 8</p><h4>Campaign structure</h4><p class=\"pmau__why\">Structure decides how budget is shared and which ad shows for which search. A clear structure is easy to read, easy to manage and easy to grow.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Structure: sample report\">\n\t<div class=\"pmrep__head\"><b>Structure</b><span>Before vs after</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Campaigns</span><span class=\"pmrep__s\">1 → 4</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Ad groups</span><span class=\"pmrep__s\">1 → 9</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Keywords per ad group</span><span class=\"pmrep__s\">214 → 8</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Brand campaign</span><span class=\"pmrep__s\">Added</span></li></ul>\n\t<p class=\"pmrep__foot\">Each search gets the right ad</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Campaigns by service, product or location</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ad groups by theme</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Budget per campaign</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A separate brand campaign</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Naming that anyone can follow</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Room to grow</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">Mistakes we see</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> One campaign with every keyword</li><li><span aria-hidden=\"true\">!</span> One ad group with 200 keywords</li><li><span aria-hidden=\"true\">!</span> Brand and non-brand mixed</li><li><span aria-hidden=\"true\">!</span> Budget going to the cheapest service, not the best</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A campaign for each thing you sell</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Tight ad groups with matching ads</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Budgets set by what each service is worth</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> An account map you can follow</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-298-p4\" aria-labelledby=\"au-298-t4\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 5 of 8</p><h4>Ads and assets</h4><p class=\"pmau__why\">The ad is what people see. It should repeat their search, say why you, and give a clear next step. Assets add calls, links and prices that make the ad bigger.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Ads and assets: sample report\">\n\t<div class=\"pmrep__head\"><b>Ads and assets</b><span>Per campaign</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Ads per ad group</span><span class=\"pmrep__s\">2</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Sitelinks</span><span class=\"pmrep__s\">6</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Call asset</span><span class=\"pmrep__s\">On</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Ad strength</span><span class=\"pmrep__s\">Good</span></li></ul>\n\t<p class=\"pmrep__foot\">Ads that match the search</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Responsive search ads per ad group</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Headlines that match the search</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Sitelinks, callouts and snippets</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Call and location assets</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Images and logo</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing page for each ad group</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">Mistakes we see</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> One ad for every keyword</li><li><span aria-hidden=\"true\">!</span> Headlines copied from the homepage</li><li><span aria-hidden=\"true\">!</span> No assets, so the ads are small</li><li><span aria-hidden=\"true\">!</span> Every ad sending people to the homepage</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Ads written for each ad group</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> All relevant assets added</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Calls and locations shown in the ad</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A page for each service, or notes on what to build</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-298-p5\" aria-labelledby=\"au-298-t5\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 6 of 8</p><h4>Negative keywords</h4><p class=\"pmau__why\">Negative keywords stop you paying for searches that will never buy, such as jobs, free, DIY or courses. They matter most in the first weeks.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Negative keywords: sample report\">\n\t<div class=\"pmrep__head\"><b>Negative keywords</b><span>At launch</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Account lists</span><span class=\"pmrep__s\">3</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Negative keywords</span><span class=\"pmrep__s\">180</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Campaign overlap</span><span class=\"pmrep__s\">None</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">First check</span><span class=\"pmrep__s\">Day 3</span></li></ul>\n\t<p class=\"pmrep__foot\">No paying for job seekers</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Account-level negative lists</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Jobs, free, DIY and training searches</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Competitor names you don’t want</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Locations you don’t serve</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Cross-campaign negatives</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A weekly search term check</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">Mistakes we see</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> No negatives at all</li><li><span aria-hidden=\"true\">!</span> Paying for “jobs” and “salary” searches</li><li><span aria-hidden=\"true\">!</span> Two campaigns bidding on the same searches</li><li><span aria-hidden=\"true\">!</span> Search terms never checked</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Negative lists in place before launch</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Clean separation between campaigns</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Search terms checked in week one</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A checklist to keep doing it</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-298-p6\" aria-labelledby=\"au-298-t6\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 7 of 8</p><h4>Locations, networks and schedule</h4><p class=\"pmau__why\">A few settings, left on their defaults, quietly send budget to the wrong places: people outside your area, Display placements and searches in the middle of the night.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Settings: sample report\">\n\t<div class=\"pmrep__head\"><b>Settings</b><span>Every campaign</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Location option</span><span class=\"pmrep__s\">Presence</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Display Network</span><span class=\"pmrep__s\">Off</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Search partners</span><span class=\"pmrep__s\">Off</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Schedule</span><span class=\"pmrep__s\">8am–7pm</span></li></ul>\n\t<p class=\"pmrep__foot\">No budget lost to defaults</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Locations by presence, not interest</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Display and search partners off</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ad schedule for your opening hours</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Languages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Devices</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Location exclusions</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">Mistakes we see</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Ads shown to people “interested in” your city from abroad</li><li><span aria-hidden=\"true\">!</span> Display Network on in a Search campaign</li><li><span aria-hidden=\"true\">!</span> Ads running when nobody can answer the phone</li><li><span aria-hidden=\"true\">!</span> Wrong language settings</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Locations set to people in your area</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Search only until there’s data</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Ads timed to when you can respond</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Settings checked on every campaign</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-298-p7\" aria-labelledby=\"au-298-t7\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 8 of 8</p><h4>Budget and bidding</h4><p class=\"pmau__why\">A new account has no data, so automatic bidding has nothing to learn from yet. The budget should be big enough to learn, and the bidding should match the stage you’re at.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Budget: sample report\">\n\t<div class=\"pmrep__head\"><b>Budget</b><span>First 90 days</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Monthly budget</span><span class=\"pmrep__s\">$3,000</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Clicks a week</span><span class=\"pmrep__s\">About 200</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Smart bidding</span><span class=\"pmrep__s\">From week 6</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Review points</span><span class=\"pmrep__s\">Weeks 1, 4, 8</span></li></ul>\n\t<p class=\"pmrep__foot\">Enough data to learn from</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Daily budgets per campaign</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A starting bid strategy</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> When to move to smart bidding</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Cost-per-click limits</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Budget forecast from real costs</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A plan for the first 90 days</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">Mistakes we see</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> A target cost per lead set on day one with no data</li><li><span aria-hidden=\"true\">!</span> A budget too small for even five clicks a day</li><li><span aria-hidden=\"true\">!</span> All budget going to one campaign</li><li><span aria-hidden=\"true\">!</span> No plan for when to change bidding</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What you get</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A budget that buys enough clicks to learn</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Manual or maximise clicks with limits to start</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Smart bidding once conversions come in</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A 90-day plan</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "google-ads-setup",
+    "modules": [
+     "@intella/scroll-accordions",
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Why new accounts <em>waste money</em>",
+    "lead": "The mistakes we see most in new accounts, what they look like in the first weeks, and how we set it up instead.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "Broad match with no negatives",
+      "problem": "Broad keywords with no negative lists pay for jobs, free and DIY searches from the first day.",
+      "beforeTitle": "First month",
+      "before": [
+       {
+        "label": "Spend on irrelevant searches",
+        "value": "46%",
+        "tone": "bad"
+       },
+       {
+        "label": "Negative keywords",
+        "value": "0",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Phrase and exact match to start, with negative lists built before launch.",
+      "afterTitle": "With our setup",
+      "after": [
+       {
+        "label": "Spend on irrelevant searches",
+        "value": "7%",
+        "tone": "ok"
+       },
+       {
+        "label": "Negative keywords",
+        "value": "180",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Display on in a Search campaign",
+      "problem": "New Search campaigns include Display by default, so budget goes to apps and websites.",
+      "beforeTitle": "First month",
+      "before": [
+       {
+        "label": "Spend on Display",
+        "value": "48%",
+        "tone": "bad"
+       },
+       {
+        "label": "Leads from Display",
+        "value": "1",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Search only at launch; Display tested later, in its own campaign.",
+      "afterTitle": "With our setup",
+      "after": [
+       {
+        "label": "Spend on Display",
+        "value": "0%",
+        "tone": "ok"
+       },
+       {
+        "label": "Leads from Search",
+        "value": "31",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "No conversion tracking",
+      "problem": "Without tracking you can’t tell which keywords bring customers, and Google can’t either.",
+      "beforeTitle": "First month",
+      "before": [
+       {
+        "label": "Leads tracked",
+        "value": "0",
+        "tone": "bad"
+       },
+       {
+        "label": "Cost per lead",
+        "value": "Unknown",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Calls, forms and sales tracked and tested before the first click.",
+      "afterTitle": "With our setup",
+      "after": [
+       {
+        "label": "Leads tracked",
+        "value": "31",
+        "tone": "ok"
+       },
+       {
+        "label": "Cost per lead",
+        "value": "$58",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Ads shown far from your area",
+      "problem": "The default location option includes people only “interested in” your area, wherever they are.",
+      "beforeTitle": "First month",
+      "before": [
+       {
+        "label": "Clicks from outside the area",
+        "value": "22%",
+        "tone": "bad"
+       },
+       {
+        "label": "Calls from abroad",
+        "value": "9",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Locations set to people in or regularly in your area, with exclusions.",
+      "afterTitle": "With our setup",
+      "after": [
+       {
+        "label": "Clicks from outside the area",
+        "value": "1%",
+        "tone": "ok"
+       },
+       {
+        "label": "Calls from abroad",
+        "value": "0",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Smart bidding with no data",
+      "problem": "A target cost per lead on day one leaves Google guessing, so it either overspends or barely spends.",
+      "beforeTitle": "First month",
+      "before": [
+       {
+        "label": "Budget spent",
+        "value": "18%",
+        "tone": "bad"
+       },
+       {
+        "label": "Status",
+        "value": "Limited",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Simple bidding with limits first, then smart bidding once conversions come in.",
+      "afterTitle": "With our setup",
+      "after": [
+       {
+        "label": "Budget spent",
+        "value": "96%",
+        "tone": "ok"
+       },
+       {
+        "label": "Smart bidding from",
+        "value": "Week 6",
+        "tone": "ok"
+       }
+      ]
+     }
+    ],
+    "visual": "",
+    "alt": true
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your launch pack",
+    "html": "<section class=\"section section--cream pmreport\" aria-labelledby=\"h-301\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-301\">Your <span class=\"accent\">launch pack</span></h2>\n\t\t\t\t<p class=\"section-lead\">Everything we set up, written down, so you or anyone else can run the account.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrd__dl\">\n\t\t\t\t<a class=\"button button--primary button--lg\" href=\"{{media:assets/samples/google-ads-setup-sample-launch-pack.pdf}}\" download>Download a sample report <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t<p>A real report layout with example data, so you know exactly what you’ll receive.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrv\">\n\t\t\t\t<ol class=\"pmrv__list\" role=\"list\"><li><span class=\"pmrv__n\">01</span><div><h3>Account map <small>1 page</small></h3><p>Every campaign, ad group and budget on one page, with why it’s set up that way.</p></div></li><li><span class=\"pmrv__n\">02</span><div><h3>Keyword plan and negatives <small>1–2 pages</small></h3><p>The keywords we chose, what they cost and the negative lists that protect your budget.</p></div></li><li><span class=\"pmrv__n\">03</span><div><h3>Tracking test sheet <small>1 page</small></h3><p>Each conversion action, how it was tested and the result.</p></div></li><li><span class=\"pmrv__n\">04</span><div><h3>Settings and budget <small>1 page</small></h3><p>Locations, networks, schedule, bidding and the budget plan for the first 90 days.</p></div></li><li><span class=\"pmrv__n\">05</span><div><h3>First-month checklist <small>1 page</small></h3><p>What to check each week after launch, and when to change the bidding.</p></div></li></ol>\n\t\t\t\t<a class=\"pmrv__pic\" href=\"{{media:assets/samples/google-ads-setup-sample-launch-pack.pdf}}\" aria-label=\"Open the sample report (PDF)\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--3\" src=\"{{media:assets/samples/google-ads-setup-sample-launch-pack-3.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--2\" src=\"{{media:assets/samples/google-ads-setup-sample-launch-pack-2.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--1\" src=\"{{media:assets/samples/google-ads-setup-sample-launch-pack-1.jpg}}\" alt=\"Cover of the sample report\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<span class=\"pmrv__tag\">Sample · example data</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "google-ads-setup",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Companies we’ve set up Google Ads for",
+    "html": "<section class=\"section section--white pmcsx\" aria-labelledby=\"h-303\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-303\">Companies we’ve <span class=\"accent\">set up Google Ads</span> for</h2>\n\t\t\t\t<p class=\"section-lead\">Who they are, why they came to us, what we set up and how the first months went. Pick a company to read its story.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmcs pmcs--ba\" data-tabs>\n\t\t\t\t<div class=\"pmcs__tabs\" role=\"tablist\" aria-orientation=\"vertical\" aria-label=\"Companies we have set up Google Ads for\"><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-302-t0\" aria-controls=\"ad-302-p0\" aria-selected=\"true\"><span class=\"cmlg\" style=\"--lc:#0369a1\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M8 10c4-4 9-3 12 0 3-3 8-4 12 0 3 4 1 10-1 14-2 5-3 11-6 11-2 0-2-7-5-7s-3 7-5 7c-3 0-4-6-6-11-2-4-4-10-1-14z\" fill=\"#0ea5e9\"/></svg><span class=\"cmlg__w\"><b>Brightsmile</b><span>Dental</span></span></span><span class=\"pmcs__ti\">Dental clinic</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-302-t1\" aria-controls=\"ad-302-p1\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"6\" y=\"6\" width=\"28\" height=\"28\" rx=\"7\" fill=\"#0f766e\"/><path d=\"M13 13v14h14\" stroke=\"#99f6e4\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Ledgerly</b><span>Software</span></span></span><span class=\"pmcs__ti\">Accounting software</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-302-t2\" aria-controls=\"ad-302-p2\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#15803d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"15\" fill=\"#22c55e\"/><path d=\"M13 13v14M27 13v14M13 20h14\" stroke=\"#fff\" stroke-width=\"3.5\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Hollis</b><span>Plumbing</span></span></span><span class=\"pmcs__ti\">Home services</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-302-t3\" aria-controls=\"ad-302-p3\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#0369a1\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M5 8h8l7 18 7-18h8L23 34h-6z\" fill=\"#0284c7\"/></svg><span class=\"cmlg__w\"><b>Vantage</b><span>Recruitment</span></span></span><span class=\"pmcs__ti\">B2B recruitment</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-302-t4\" aria-controls=\"ad-302-p4\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#9d174d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 3 34 9v10c0 9-6 15-14 18C12 34 6 28 6 19V9z\" fill=\"#be185d\"/><path d=\"m13 20 5 5 9-10\" stroke=\"#fff\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Solace</b><span>Therapy</span></span></span><span class=\"pmcs__ti\">Counselling clinic</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-302-t5\" aria-controls=\"ad-302-p5\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#1d4ed8\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"15\" cy=\"20\" r=\"10\" fill=\"#2563eb\"/><circle cx=\"25\" cy=\"20\" r=\"10\" fill=\"#60a5fa\" opacity=\"0.85\"/></svg><span class=\"cmlg__w\"><b>Tandem</b><span>Languages</span></span></span><span class=\"pmcs__ti\">Language school</span></button></div>\n\t\t\t\t<div class=\"pmcs__panels\"><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-302-p0\" aria-labelledby=\"ad-302-t0\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#0369a1\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M8 10c4-4 9-3 12 0 3-3 8-4 12 0 3 4 1 10-1 14-2 5-3 11-6 11-2 0-2-7-5-7s-3 7-5 7c-3 0-4-6-6-11-2-4-4-10-1-14z\" fill=\"#0ea5e9\"/></svg><span class=\"cmlg__w\"><b>Brightsmile</b><span>Dental</span></span></span><p>Dental clinic<span>Account setup · 2 weeks, then 30 days</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A dental clinic with two branches, offering implants, Invisalign and emergency appointments.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>They had run a Smart campaign for six months. The phone rang, but mostly for check-ups, and they couldn’t see which searches brought implant patients.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we set up</dt><dd><ul role=\"list\"><li>Four Search campaigns, one per service</li><li>Call tracking from ads and the website</li><li>Negative lists for jobs, courses and “free”</li><li>Locations set to people near each branch</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Implant and Invisalign enquiries could be tracked to the keyword for the first time, and the budget moved to the services that pay.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs first 90 days after launch</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Implant enquiries a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:24%\"></span><b>Before 4</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 17</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">325% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per enquiry</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $140</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:44%\"></span><b>After $62</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">56% lower</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-302-p1\" aria-labelledby=\"ad-302-t1\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"6\" y=\"6\" width=\"28\" height=\"28\" rx=\"7\" fill=\"#0f766e\"/><path d=\"M13 13v14h14\" stroke=\"#99f6e4\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Ledgerly</b><span>Software</span></span></span><p>Accounting software<span>Account setup and tracking · 3 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>Accounting software for small businesses, selling monthly plans with a free trial.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>A first attempt had spent $4,800 in three months with no trials tracked, and the team was close to giving up on Google Ads.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we set up</dt><dd><ul role=\"list\"><li>Trial sign-ups tracked, with paid plans fed back from their app</li><li>Campaigns for features, competitors and brand</li><li>Negative lists for “free”, “template” and “jobs”</li><li>Display and search partners switched off</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Every trial now ties back to a keyword, and spend goes to the searches that turn into paying customers.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs first 90 days after launch</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Trials a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:14%\"></span><b>Before 9</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 64</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">611% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per trial</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $530</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:13%\"></span><b>After $71</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">87% lower</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-302-p2\" aria-labelledby=\"ad-302-t2\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#15803d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"15\" fill=\"#22c55e\"/><path d=\"M13 13v14M27 13v14M13 20h14\" stroke=\"#fff\" stroke-width=\"3.5\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Hollis</b><span>Plumbing</span></span></span><p>Home services<span>Account setup · 2 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A plumbing and heating company covering one city and the towns around it, with most jobs booked by phone.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Their account was set up by a freelancer who had moved on. Nobody else had admin access and the ads showed across the whole country.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we set up</dt><dd><ul role=\"list\"><li>Account recovered and moved into their name</li><li>Locations set to their service area only</li><li>Call tracking for every ad</li><li>Ads scheduled for the hours they answer the phone</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Calls now come from the area they serve, during the hours they can answer, from an account they own.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs first 90 days after launch</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Calls from the service area</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:62%\"></span><b>Before 61%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 98%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">61% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per booked job</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $95</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:51%\"></span><b>After $48</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">49% lower</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-302-p3\" aria-labelledby=\"ad-302-t3\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#0369a1\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M5 8h8l7 18 7-18h8L23 34h-6z\" fill=\"#0284c7\"/></svg><span class=\"cmlg__w\"><b>Vantage</b><span>Recruitment</span></span></span><p>B2B recruitment<span>Account setup · 2 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A recruitment agency that fills finance and engineering roles for mid-sized companies.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>They wanted enquiries from employers, but every recruitment keyword also attracts job seekers.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we set up</dt><dd><ul role=\"list\"><li>Campaigns aimed at employers by sector</li><li>A 400-word negative list for jobs and salaries</li><li>Landing pages for employers, not candidates</li><li>Lead form tracking with job title captured</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Ads now reach hiring managers instead of job seekers, and most enquiries are from employers.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs first 90 days after launch</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Enquiries from employers</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:16%\"></span><b>Before 12%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 74%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">517% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per employer lead</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $410</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:29%\"></span><b>After $120</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">71% lower</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-302-p4\" aria-labelledby=\"ad-302-t4\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#9d174d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 3 34 9v10c0 9-6 15-14 18C12 34 6 28 6 19V9z\" fill=\"#be185d\"/><path d=\"m13 20 5 5 9-10\" stroke=\"#fff\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Solace</b><span>Therapy</span></span></span><p>Counselling clinic<span>Account setup · 2 weeks, then training</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A small counselling practice offering in-person and online sessions, run by its founder and four therapists.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>They wanted to run Google Ads themselves, but needed a careful setup that respects Google’s healthcare ad rules.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we set up</dt><dd><ul role=\"list\"><li>Campaigns for in-person and online sessions</li><li>Ads written to fit healthcare ad policies</li><li>Booking form tracking</li><li>A training call and a weekly checklist</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>They now run the account in-house in about an hour a week, using the checklist and account map from the setup.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs first 90 days after launch</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Bookings a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:29%\"></span><b>Before 6</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 21</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">250% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per booking</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $88</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:44%\"></span><b>After $39</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">56% lower</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-302-p5\" aria-labelledby=\"ad-302-t5\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#1d4ed8\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"15\" cy=\"20\" r=\"10\" fill=\"#2563eb\"/><circle cx=\"25\" cy=\"20\" r=\"10\" fill=\"#60a5fa\" opacity=\"0.85\"/></svg><span class=\"cmlg__w\"><b>Tandem</b><span>Languages</span></span></span><p>Language school<span>Account setup for a new market · 3 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A language school opening a second campus in Dubai, alongside its existing school in London.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>The new campus had been added to the London campaigns, so the two cities shared one budget and results were mixed together.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we set up</dt><dd><ul role=\"list\"><li>Separate Dubai campaigns in English and Arabic</li><li>Its own budget and landing pages</li><li>Course enquiry and call tracking</li><li>London and Dubai results split cleanly</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Dubai has its own campaigns and budget, and both campuses can see what their ads bring.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs first 90 days after launch</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Dubai enquiries a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:18%\"></span><b>Before 7</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 38</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">443% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Cost per Dubai enquiry</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before $160</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:34%\"></span><b>After $54</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">66% lower</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "google-ads-setup",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu",
+     "post:testimonial:Alex Barsuk"
+    ]
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Google Ads Account Setup questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "How do I set up a Google Ads account?",
+      "answer": "Create the account, set billing, add conversion tracking, research keywords, build campaigns and ads, then launch with a small budget and review search terms weekly."
+     },
+     {
+      "question": "How much should I spend on Google Ads to start?",
+      "answer": "Enough to get meaningful data, usually enough for at least 50 to 100 clicks a week on your main campaign. We estimate it from real costs in your market."
+     },
+     {
+      "question": "How long does a Google Ads setup take?",
+      "answer": "About two weeks from the brief to launch. Larger accounts or new markets can take three."
+     },
+     {
+      "question": "Can I run the account myself after setup?",
+      "answer": "Yes. You get an account map, a weekly checklist, a training call and 30 days of questions. Or we can manage it for you."
+     },
+     {
+      "question": "Will I own the account?",
+      "answer": "Yes. The account, billing, Tag Manager and Analytics are in your name. We only ever have access you can remove."
+     },
+     {
+      "question": "Do you set up Performance Max too?",
+      "answer": "Usually we start with Search, where you have the most control. Performance Max comes later, once tracking and data are in place."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Start Google Ads <em>on solid ground</em>",
+    "lead": "Tell us what you sell. We’ll quote the setup.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "What do you sell, and where do your customers come from today?",
+    "service": "google-ads-setup",
+    "buttonText": "Request a quote",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Related <em>services</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "search",
+      "title": "Google Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/",
+      "text": "Search, Performance Max and display."
+     },
+     {
+      "icon": "check",
+      "title": "Google Ads Conversion Tracking",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/conversion-tracking/",
+      "text": "Every conversion set up and tested."
+     },
+     {
+      "icon": "browser",
+      "title": "Landing Pages for Ads",
+      "url": "/services/digital-marketing/performance-marketing/landing-pages/",
+      "text": "Pages built for the ad, and tested."
+     }
+    ]
+   }
+  }
+ ]
+}

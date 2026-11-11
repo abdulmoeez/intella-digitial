@@ -21,3 +21,6 @@ bin/.deploy.env
 
 # macOS Finder files
 .DS_Store
+
+# Python cache from the import scripts
+__pycache__/

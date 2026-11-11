@@ -1,0 +1,119 @@
+{
+ "title": "Financial Services SEO",
+ "path": "/services/digital-marketing/seo/financial-services-seo/",
+ "seo": {
+  "title": "Financial Services SEO | SEO for finance, fintech and accounting firms | Intella Digital",
+  "description": "Financial services SEO for banks, fintech, insurance, wealth and accounting firms: expert content, trust signals, compliance-aware reviews and lead tracking."
+ },
+ "blocks": [
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Financial services SEO that builds trust and leads",
+    "html": "<section class=\"page-hero page-hero--center hero-wide\" aria-labelledby=\"page-title\">\n\t\t<div class=\"container\">\n\t\t\t<nav class=\"breadcrumb\" aria-label=\"Breadcrumb\"><ol><li><a href=\"/\">Home</a></li><li><a href=\"/services/\">Services</a></li><li><a href=\"/services/digital-marketing/seo/\">SEO</a></li><li aria-current=\"page\">Financial Services SEO</li></ol></nav>\n\t\t\t<h1 class=\"page-hero__title\" id=\"page-title\">Financial services SEO that builds <span class=\"accent\">trust and leads</span></h1>\n\t\t\t<p class=\"page-hero__lead\">Finance is one of the hardest markets to rank in. Google wants proof of expertise and trust. We build content and pages that show both, reviewed with your compliance team before anything goes live.</p>\n\t\t\t<div class=\"hero__actions hero__actions--center\">\n\t\t\t\t<a class=\"button button--primary button--lg\" href=\"#proposal\">Request a proposal <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t<a class=\"button button--outline button--lg\" href=\"#process-title\">See how we work</a>\n\t\t\t</div>\n\t\t\t<ul class=\"chip-row chip-row--plain\" role=\"list\"><li><span class=\"chip chip--static\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content written by finance specialists</span></li><li><span class=\"chip chip--static\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Compliance review built into every page</span></li><li><span class=\"chip chip--static\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Leads tracked from search to sign-up</span></li></ul>\n\t\t\t<div class=\"hero-wide__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Search visibility · Example</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-two\"><div><div class=\"mock-stats\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Top-10 keywords</div><div class=\"mock-stat__value\">286</div><span class=\"mock-up\">▲ +142</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Organic leads</div><div class=\"mock-stat__value\">418</div><span class=\"mock-up\">▲ +96%</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Pages reviewed by experts</div><div class=\"mock-stat__value\">100%</div><span class=\"mock-up\">▲ </span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Avg. position</div><div class=\"mock-stat__value\">6.2</div><span class=\"mock-up\">▲ from 14.8</span></div></div></div><div><p class=\"mock__heading\">Top pages from search</p><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Page</th><th class=\"num\">Leads</th></tr></thead><tbody><tr><td>/business-loans/</td><td class=\"num\">96</td></tr><tr><td>/guides/cash-flow-forecast/</td><td class=\"num\">74</td></tr><tr><td>/accounting-for-startups/</td><td class=\"num\">58</td></tr><tr><td>/compare/savings-accounts/</td><td class=\"num\">41</td></tr></tbody></table></div></div></div></div>\n</figure></div>\n\t\t</div>\n\t</section>",
+    "css": "financial-services-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What finance SEO needs to rank",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-57\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-57\">What finance SEO <span class=\"accent\">needs to rank</span></h2>\n\t\t\t\t<p class=\"section-lead\">Money topics are judged more strictly than most. These four things make the difference.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"tilt-grid tilt-grid--4\" role=\"list\">\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-user\"/></svg></span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Real expertise</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">Content written or reviewed by qualified people, with their credentials shown.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg></span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Trust signals</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">Clear company details, regulation, reviews and transparent pricing.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pen\"/></svg></span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Accurate content</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">Up-to-date rates, rules and examples, checked before and after publishing.</p>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"tilt-card\">\n\t\t\t\t\t<span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-link\"/></svg></span>\n\t\t\t\t\t<h3 class=\"tilt-card__title\">Authority</h3>\n\t\t\t\t\t<p class=\"tilt-card__text\">Mentions and links from respected finance and business publications.</p>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</section>",
+    "css": "financial-services-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What holds finance websites back",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-58\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-58\">What holds <span class=\"accent\">finance websites</span> back</h2>\n\t\t\t\t<p class=\"section-lead\">And how we fix it.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"pf-list\" role=\"list\">\n\t\t\t\t<li class=\"pf\">\n\t\t\t\t\t<div class=\"pf__problem\"><span class=\"pf__label\">The problem</span><p>Compliance slows every new page down, so content rarely gets published.</p></div>\n\t\t\t\t\t<span class=\"pf__arrow\" aria-hidden=\"true\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t<div class=\"pf__fix\"><span class=\"pf__label\">How we fix it</span><p>We agree a review process with your compliance team up front, with templates for claims and disclaimers.</p></div>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pf\">\n\t\t\t\t\t<div class=\"pf__problem\"><span class=\"pf__label\">The problem</span><p>Pages are thin, generic or written without real expertise.</p></div>\n\t\t\t\t\t<span class=\"pf__arrow\" aria-hidden=\"true\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t<div class=\"pf__fix\"><span class=\"pf__label\">How we fix it</span><p>Finance writers draft, your experts review, and author details are shown on every page.</p></div>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pf\">\n\t\t\t\t\t<div class=\"pf__problem\"><span class=\"pf__label\">The problem</span><p>Big comparison sites take the top spots for every product search.</p></div>\n\t\t\t\t\t<span class=\"pf__arrow\" aria-hidden=\"true\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t<div class=\"pf__fix\"><span class=\"pf__label\">How we fix it</span><p>We target the specific, high-intent searches they miss, and build tools and guides they can’t copy.</p></div>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pf\">\n\t\t\t\t\t<div class=\"pf__problem\"><span class=\"pf__label\">The problem</span><p>Rates and rules change, and old pages go out of date.</p></div>\n\t\t\t\t\t<span class=\"pf__arrow\" aria-hidden=\"true\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t<div class=\"pf__fix\"><span class=\"pf__label\">How we fix it</span><p>We schedule regular content reviews so every page stays accurate.</p></div>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</section>",
+    "css": "financial-services-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "SEO for every part of finance",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-59\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-59\">SEO for <span class=\"accent\">every part of finance</span></h2>\n\t\t\t\t<p class=\"section-lead\">Each part of the market has its own searches and rules.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"ccols\" role=\"list\"><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-trend\"/></svg></span><h3 class=\"ccol__title\">Fintech and banking</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Product and feature pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> App and sign-up tracking</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Comparison pages</li></ul></li><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-chart\"/></svg></span><h3 class=\"ccol__title\">Accounting and tax</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Service pages by client type</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tax deadline content</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Local SEO for offices</li></ul></li><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-layers\"/></svg></span><h3 class=\"ccol__title\">Insurance</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Policy and cover pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Quote journeys</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Claims FAQs</li></ul></li><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-target\"/></svg></span><h3 class=\"ccol__title\">Wealth and advice</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Adviser profiles</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Planning guides</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Enquiry tracking</li></ul></li></ul>\n\t\t</div>\n\t</section>",
+    "css": "financial-services-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your first three months",
+    "html": "<section class=\"section section--cream process\" aria-labelledby=\"process-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"timeline-wrap\">\n\t\t\t\t<div>\n\t\t\t<div class=\"section-head\">\n\t\t\t\t<h2 class=\"section-title\" id=\"process-title\">Your first <span class=\"accent\">three months</span></h2>\n\t\t\t\t<p class=\"section-lead\">Compliance is planned in from the start, so nothing gets stuck.</p>\n\t\t\t</div>\n\t\t\t\t\t<ol class=\"timeline\" role=\"list\">\n\t\t\t\t\t<li class=\"timeline__item\">\n\t\t\t\t\t\t<span class=\"timeline__when\">Week 1–2</span>\n\t\t\t\t\t\t<h3 class=\"timeline__title\">Audit and compliance set-up</h3>\n\t\t\t\t\t\t<p>A full SEO review and an agreed review process with your compliance team.</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"timeline__item\">\n\t\t\t\t\t\t<span class=\"timeline__when\">Week 3–6</span>\n\t\t\t\t\t\t<h3 class=\"timeline__title\">Fix and strengthen</h3>\n\t\t\t\t\t\t<p>Technical fixes, trust signals and updates to your key product pages.</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"timeline__item\">\n\t\t\t\t\t\t<span class=\"timeline__when\">Month 2–3</span>\n\t\t\t\t\t\t<h3 class=\"timeline__title\">Expert content</h3>\n\t\t\t\t\t\t<p>Guides and pages for the searches with the most value, reviewed by your experts.</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li class=\"timeline__item\">\n\t\t\t\t\t\t<span class=\"timeline__when\">Every month</span>\n\t\t\t\t\t\t<h3 class=\"timeline__title\">Report and review</h3>\n\t\t\t\t\t\t<p>Leads, rankings and content accuracy checks.</p>\n\t\t\t\t\t</li>\n\t\t\t\t\t</ol>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "financial-services-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Financial services SEO questions, answered",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-60\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-60\">Financial services SEO questions, <span class=\"accent\">answered</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a topic. Can’t find your answer? Ask us on a free 30-minute call.</p>\n\t\t\t</div>\n\t\t\t<div class=\"tabs tabs--pills faq-tabs\" data-tabs>\n\t\t\t\t<div class=\"tabs__list\" role=\"tablist\" aria-label=\"FAQ topics\">\n\t\t\t\t\t<button class=\"tabs__pill\" type=\"button\" role=\"tab\" id=\"tabs-61-tab-0\" aria-controls=\"tabs-61-panel-0\" aria-selected=\"true\">The service</button>\n\t\t\t\t\t<button class=\"tabs__pill\" type=\"button\" role=\"tab\" id=\"tabs-61-tab-1\" aria-controls=\"tabs-61-panel-1\" aria-selected=\"false\">Compliance</button>\n\t\t\t\t\t<button class=\"tabs__pill\" type=\"button\" role=\"tab\" id=\"tabs-61-tab-2\" aria-controls=\"tabs-61-panel-2\" aria-selected=\"false\">Results</button>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"tabs__panels\">\n\t\t\t\t\t<div class=\"tabs__panel tabs__panel--plain\" role=\"tabpanel\" id=\"tabs-61-panel-0\" aria-labelledby=\"tabs-61-tab-0\" tabindex=\"0\">\n\t\t\t\t\t\t<div class=\"faq__list\">\n\t\t\t\t\t\t<details class=\"faq-item\" open>\n\t\t\t\t\t\t\t<summary>What is financial services SEO? <span class=\"faq-item__icon\" aria-hidden=\"true\"></span></summary>\n\t\t\t\t\t\t\t<p class=\"faq-item__answer\">SEO for banks, fintech, insurance, wealth and accounting firms, with extra focus on expertise, trust and compliance.</p>\n\t\t\t\t\t\t</details>\n\t\t\t\t\t\t<details class=\"faq-item\">\n\t\t\t\t\t\t\t<summary>Do you work with accounting firms? <span class=\"faq-item__icon\" aria-hidden=\"true\"></span></summary>\n\t\t\t\t\t\t\t<p class=\"faq-item__answer\">Yes. We build service pages by client type, tax-season content and local SEO for each office.</p>\n\t\t\t\t\t\t</details>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"tabs__panel tabs__panel--plain\" role=\"tabpanel\" id=\"tabs-61-panel-1\" aria-labelledby=\"tabs-61-tab-1\" tabindex=\"0\">\n\t\t\t\t\t\t<div class=\"faq__list\">\n\t\t\t\t\t\t<details class=\"faq-item\" open>\n\t\t\t\t\t\t\t<summary>How do you handle compliance? <span class=\"faq-item__icon\" aria-hidden=\"true\"></span></summary>\n\t\t\t\t\t\t\t<p class=\"faq-item__answer\">We agree a review process with your compliance team before we start, and nothing goes live without approval.</p>\n\t\t\t\t\t\t</details>\n\t\t\t\t\t\t<details class=\"faq-item\">\n\t\t\t\t\t\t\t<summary>Can you work with our legal disclaimers? <span class=\"faq-item__icon\" aria-hidden=\"true\"></span></summary>\n\t\t\t\t\t\t\t<p class=\"faq-item__answer\">Yes. We build them into page templates so every page includes the right wording.</p>\n\t\t\t\t\t\t</details>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"tabs__panel tabs__panel--plain\" role=\"tabpanel\" id=\"tabs-61-panel-2\" aria-labelledby=\"tabs-61-tab-2\" tabindex=\"0\">\n\t\t\t\t\t\t<div class=\"faq__list\">\n\t\t\t\t\t\t<details class=\"faq-item\" open>\n\t\t\t\t\t\t\t<summary>How long does finance SEO take? <span class=\"faq-item__icon\" aria-hidden=\"true\"></span></summary>\n\t\t\t\t\t\t\t<p class=\"faq-item__answer\">Finance is competitive, so expect steady growth over six to twelve months, with quicker wins on specific, high-intent searches.</p>\n\t\t\t\t\t\t</details>\n\t\t\t\t\t\t<details class=\"faq-item\">\n\t\t\t\t\t\t\t<summary>How do you measure results? <span class=\"faq-item__icon\" aria-hidden=\"true\"></span></summary>\n\t\t\t\t\t\t\t<p class=\"faq-item__answer\">Leads, applications and sign-ups from search, tracked in your CRM, alongside rankings for your key products.</p>\n\t\t\t\t\t\t</details>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<p class=\"faq-tabs__more\"><a class=\"button button--outline\" href=\"/contact/\">Contact us</a></p>\n\t\t</div>\n\t</section>",
+    "css": "financial-services-seo",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/get-in-touch",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Grow your <em>financial services</em> leads from search",
+    "lead": "Tell us about your firm and products. We’ll reply with a plan and a quote, including how we’d work with your compliance team.",
+    "people": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ],
+    "formTitle": "Request a proposal",
+    "messageHint": "Which products or services matter most? *",
+    "service": "financial-services-seo",
+    "buttonText": "Send message",
+    "trust": [
+     "Your details stay private",
+     "No spam, ever",
+     "Free 30-minute call"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Finance SEO works best <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "pen",
+      "title": "SEO Content Writing",
+      "url": "/services/digital-marketing/seo/seo-content-writing/",
+      "text": "Pages and articles written to rank and to convert."
+     },
+     {
+      "icon": "link",
+      "title": "Link Building",
+      "url": "/services/digital-marketing/link-building/",
+      "text": "Earn links from relevant, trusted websites."
+     },
+     {
+      "icon": "target",
+      "title": "B2B and SaaS SEO",
+      "url": "/services/digital-marketing/seo/b2b-seo/",
+      "text": "Search that brings demos, trials and sales calls."
+     }
+    ]
+   }
+  }
+ ]
+}

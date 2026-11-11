@@ -1,0 +1,174 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/home-industries",
+	"title": "Industries and proof",
+	"category": "intella",
+	"icon": "chart-bar",
+	"description": "Industry photos, headline numbers, rotating outcomes and trust points.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": [
+		"@intella/count-up",
+		"@intella/results"
+	],
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "bigTitle",
+				"type": "toggle",
+				"label": "Large heading",
+				"default": false
+			},
+			{
+				"key": "sectors",
+				"type": "repeater",
+				"label": "Industries",
+				"itemName": "industry",
+				"itemLabel": "name",
+				"panel": "Industries",
+				"fields": [
+					{
+						"key": "image",
+						"type": "image",
+						"label": "Photo"
+					},
+					{
+						"key": "name",
+						"type": "text",
+						"label": "Name"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "stats",
+				"type": "repeater",
+				"label": "Numbers",
+				"itemName": "number",
+				"itemLabel": "label",
+				"panel": "Numbers",
+				"fields": [
+					{
+						"key": "number",
+						"type": "text",
+						"label": "Number",
+						"help": "Counts up from 0, e.g. 150 or 4.9"
+					},
+					{
+						"key": "suffix",
+						"type": "text",
+						"label": "After the number",
+						"help": "e.g. + or /5"
+					},
+					{
+						"key": "label",
+						"type": "text",
+						"label": "Label"
+					},
+					{
+						"key": "note",
+						"type": "text",
+						"label": "Note"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "resultsTitle",
+				"type": "text",
+				"label": "Outcomes heading",
+				"panel": "Outcomes"
+			},
+			{
+				"key": "results",
+				"type": "repeater",
+				"label": "Outcomes",
+				"itemName": "outcome",
+				"itemLabel": "value",
+				"panel": "Outcomes",
+				"help": "Shown four at a time, shuffling.",
+				"fields": [
+					{
+						"key": "icon",
+						"type": "text",
+						"label": "Icon"
+					},
+					{
+						"key": "value",
+						"type": "text",
+						"label": "Result"
+					},
+					{
+						"key": "label",
+						"type": "text",
+						"label": "What improved"
+					},
+					{
+						"key": "who",
+						"type": "text",
+						"label": "Client type"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "linkText",
+				"type": "text",
+				"label": "Link text",
+				"panel": "Outcomes"
+			},
+			{
+				"key": "linkUrl",
+				"type": "url",
+				"label": "Link",
+				"panel": "Outcomes"
+			},
+			{
+				"key": "trustTitle",
+				"type": "text",
+				"label": "Trust heading",
+				"panel": "Trust"
+			},
+			{
+				"key": "trust",
+				"type": "repeater",
+				"label": "Trust points",
+				"itemName": "point",
+				"panel": "Trust",
+				"fields": [
+					{
+						"key": "icon",
+						"type": "text",
+						"label": "Icon"
+					},
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Title"
+					},
+					{
+						"key": "text",
+						"type": "text",
+						"label": "Text"
+					}
+				],
+				"default": []
+			}
+		],
+		"section": "white"
+	}
+}

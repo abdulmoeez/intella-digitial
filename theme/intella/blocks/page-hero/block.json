@@ -1,0 +1,143 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/page-hero",
+	"title": "Page hero",
+	"category": "intella",
+	"icon": "cover-image",
+	"description": "Page title (H1), intro and buttons; centred with jump links, or split with service cards.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "layout",
+				"type": "select",
+				"label": "Layout",
+				"options": [
+					{
+						"label": "Centred",
+						"value": "center"
+					},
+					{
+						"label": "Split (cards on the right)",
+						"value": "split"
+					}
+				],
+				"default": "center"
+			},
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading (H1)"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "buttons",
+				"type": "repeater",
+				"label": "Buttons",
+				"itemName": "button",
+				"itemLabel": "text",
+				"max": 3,
+				"fields": [
+					{
+						"key": "text",
+						"type": "text",
+						"label": "Text"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					},
+					{
+						"key": "style",
+						"type": "select",
+						"label": "Style",
+						"options": [
+							{
+								"label": "Filled (with arrow)",
+								"value": "primary"
+							},
+							{
+								"label": "Outline",
+								"value": "outline"
+							}
+						],
+						"default": "primary"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "chipsLabel",
+				"type": "text",
+				"label": "Jump links label (for screen readers)",
+				"panel": "Jump links (centred)"
+			},
+			{
+				"key": "chips",
+				"type": "repeater",
+				"label": "Jump links",
+				"itemName": "link",
+				"itemLabel": "label",
+				"panel": "Jump links (centred)",
+				"fields": [
+					{
+						"key": "label",
+						"type": "text",
+						"label": "Label"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "cards",
+				"type": "repeater",
+				"label": "Cards",
+				"itemName": "card",
+				"panel": "Cards (split)",
+				"fields": [
+					{
+						"key": "icon",
+						"type": "text",
+						"label": "Icon"
+					},
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Title"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					},
+					{
+						"key": "text",
+						"type": "textarea",
+						"label": "Text"
+					},
+					{
+						"key": "dark",
+						"type": "toggle",
+						"label": "Dark card"
+					}
+				],
+				"default": []
+			}
+		]
+	}
+}

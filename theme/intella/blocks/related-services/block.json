@@ -1,0 +1,74 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/related-services",
+	"title": "Related services",
+	"category": "intella",
+	"icon": "admin-links",
+	"description": "Cards linking to related services.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "buttonText",
+				"type": "text",
+				"label": "Button text"
+			},
+			{
+				"key": "buttonUrl",
+				"type": "url",
+				"label": "Button link"
+			},
+			{
+				"key": "columns",
+				"type": "select",
+				"label": "Columns",
+				"options": [
+					"2",
+					"3",
+					"4"
+				],
+				"default": "3"
+			},
+			{
+				"key": "items",
+				"type": "repeater",
+				"label": "Services",
+				"itemName": "service",
+				"fields": [
+					{
+						"key": "icon",
+						"type": "text",
+						"label": "Icon"
+					},
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Name"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					},
+					{
+						"key": "text",
+						"type": "text",
+						"label": "Short description"
+					}
+				],
+				"default": []
+			}
+		],
+		"section": "cream"
+	}
+}

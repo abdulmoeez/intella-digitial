@@ -1,0 +1,126 @@
+/* signs: section styles, split from the prototype CSS (Code/frontend/assets/css) by bin/import/css_split.py. */
+
+.signs {
+	display: grid;
+	gap: var(--space-2xl);
+	align-items: start;
+
+	& .section-head {
+		margin-block-end: var(--space-xl);
+	}
+}
+.signs__list {
+	display: grid;
+	gap: var(--space-sm);
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.signs__item {
+	display: flex;
+	align-items: flex-start;
+	gap: 0.85rem;
+	padding: 1rem 1.15rem;
+	border: 1px solid var(--color-line);
+	border-radius: var(--radius-md);
+	background: var(--color-paper);
+	color: var(--color-ink);
+	line-height: 1.5;
+}
+.section--cream .signs__item {
+	border-color: var(--color-cream-deep);
+}
+.signs__check {
+	display: grid;
+	place-items: center;
+	width: 1.6rem;
+	height: 1.6rem;
+	border-radius: 50%;
+	background: var(--color-lavender);
+	color: var(--color-accent);
+	flex: none;
+
+	& svg {
+		width: 0.85rem;
+	}
+}
+.signs__aside {
+	display: grid;
+	gap: var(--space-md);
+	justify-items: start;
+	padding: var(--space-xl);
+	border-radius: var(--radius-xl);
+	background: var(--gradient-plum);
+	color: var(--color-on-dark-muted);
+	box-shadow: var(--shadow-float);
+	line-height: 1.6;
+}
+.signs__aside-title {
+	color: var(--color-on-dark);
+	font-family: var(--font-heading);
+	font-size: var(--text-2xl);
+	font-weight: var(--weight-bold);
+	letter-spacing: -0.02em;
+	line-height: 1.15;
+}
+@media (min-width: 40rem) {
+	.signs__list {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+@media (min-width: 64rem) {
+	.signs {
+		grid-template-columns: 1.6fr 1fr;
+		gap: 3.5rem;
+	}
+	.signs__aside {
+		position: sticky;
+		inset-block-start: 7.5rem;
+		margin-block-start: 3rem;
+		padding: 2.5rem;
+	}
+}
+.signs__aside--photo {
+	gap: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.signs__photo {
+	position: relative;
+	width: 100%;
+
+	& img {
+		display: block;
+		width: 100%;
+		height: 23rem;
+		object-fit: cover;
+		object-position: 50% 45%;
+	}
+}
+.signs__bubble {
+	position: absolute;
+	inset-inline: 1rem 2.5rem;
+	inset-block-start: 1rem;
+	padding: 0.75rem 1rem;
+	border-radius: 1rem 1rem 1rem 0.25rem;
+	background: var(--color-paper);
+	color: var(--color-ink);
+	font-size: var(--text-sm);
+	font-weight: var(--weight-medium);
+	line-height: 1.45;
+	box-shadow: 0 12px 30px -12px rgb(42 12 61 / 0.5);
+}
+.signs__aside-body {
+	display: grid;
+	gap: var(--space-md);
+	justify-items: start;
+	padding: var(--space-xl);
+}
+.signs__photo--short img { height: 15rem; object-position: 50% 50%; }
+@media (max-width: 40rem) {
+	.signs__aside .button {
+		max-width: 100%;
+		white-space: normal;
+		text-align: center;
+	}
+}

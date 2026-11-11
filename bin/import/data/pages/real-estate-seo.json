@@ -1,0 +1,149 @@
+{
+ "title": "Real Estate SEO Services",
+ "path": "/services/digital-marketing/seo/real-estate-seo/",
+ "seo": {
+  "title": "Real Estate SEO Services | SEO for agents, brokers and developers | Intella Digital",
+  "description": "Real estate SEO services for agencies, brokers and developers: area guides, listing and project pages, agent profiles and local SEO that bring buyer and seller leads."
+ },
+ "blocks": [
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Real estate SEO services that bring buyers and sellers",
+    "html": "<section class=\"page-hero\" aria-labelledby=\"page-title\">\n\t\t<div class=\"container page-hero__inner\">\n\t\t\t<div>\n\t\t\t\t<nav class=\"breadcrumb\" aria-label=\"Breadcrumb\"><ol><li><a href=\"/\">Home</a></li><li><a href=\"/services/\">Services</a></li><li><a href=\"/services/digital-marketing/seo/\">SEO</a></li><li aria-current=\"page\">Real Estate SEO</li></ol></nav>\n\t\t\t\t<h1 class=\"page-hero__title\" id=\"page-title\">Real estate SEO services that bring <span class=\"accent\">buyers and sellers</span></h1>\n\t\t\t\t<p class=\"page-hero__lead\">Most property searches start on Google, not on portals. We help agencies, brokers and developers rank for the areas, property types and projects people search for, and turn those visits into viewings.</p>\n\t\t\t\t<ul class=\"note-list\" role=\"list\">\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Area guides and project pages</li>\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Local SEO for every office</li>\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Leads tracked to viewings</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\n\t\t\t<!-- Validated in assets/js/main.js; the WordPress handler must repeat the checks on the server. -->\n\t\t\t<form class=\"form-card form-compact\" id=\"proposal\" action=\"thank-you.html\" method=\"post\" data-validate data-success=\"thank-you.html\">\n\t\t\t\t<div class=\"form-head\">\n\t\t\t\t\t<div><h2 class=\"form-head__title\">Request a proposal</h2><p class=\"form-head__sub\">Tell us your goals. We’ll reply with a plan and a quote.</p></div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"form-row\">\n\t\t\t\t<div class=\"field\">\n\t\t\t\t\t<label class=\"visually-hidden\" for=\"p-name\">Name</label>\n\t\t\t\t\t<input class=\"field__input\" id=\"p-name\" name=\"name\" type=\"text\" placeholder=\"Name\" required autocomplete=\"name\" data-error-required=\"Enter your name.\">\n\t\t\t\t</div>\n\t\t\t\t<div class=\"field\">\n\t\t\t\t\t<label class=\"visually-hidden\" for=\"p-email\">Email address</label>\n\t\t\t\t\t<input class=\"field__input\" id=\"p-email\" name=\"email\" type=\"email\" placeholder=\"Email address\" required autocomplete=\"email\" data-error-required=\"Enter your email address.\" data-error-format=\"Enter a valid email address, like name@company.com.\">\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"form-row\">\n\t\t\t\t<div class=\"field\">\n\t\t\t\t\t<label class=\"visually-hidden\" for=\"p-phone\">Phone number (optional)</label>\n\t\t\t\t\t<input class=\"field__input\" id=\"p-phone\" name=\"phone\" type=\"tel\" inputmode=\"tel\" placeholder=\"Phone (optional)\" autocomplete=\"tel\" data-validate-phone data-error-format=\"Enter a valid phone number: 6 to 14 digits.\">\n\t\t\t\t</div>\n\t\t\t\t<div class=\"field\">\n\t\t\t\t\t<label class=\"visually-hidden\" for=\"p-website\">Website URL (optional)</label>\n\t\t\t\t\t<input class=\"field__input\" id=\"p-website\" name=\"website\" type=\"text\" inputmode=\"url\" placeholder=\"Website (optional)\" autocomplete=\"url\" data-validate-url data-error-format=\"Enter a valid web address, like yourcompany.com.\">\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"field\">\n\t\t\t\t\t<label class=\"visually-hidden\" for=\"p-message\">Message</label>\n\t\t\t\t\t<textarea class=\"field__input\" id=\"p-message\" name=\"message\" rows=\"3\" placeholder=\"Which areas, property types or projects do you want to rank for?\" required minlength=\"10\" data-error-required=\"Tell us a little about what you need.\" data-error-short=\"Add a little more detail (at least 10 characters).\"></textarea>\n\t\t\t\t</div>\n\t\t\t\t<input type=\"hidden\" name=\"service\" value=\"real-estate-seo\">\n\t\t\t\t<div class=\"hp-field\" aria-hidden=\"true\"><label for=\"p-company\">Leave this empty</label><input id=\"p-company\" name=\"company_hp\" type=\"text\" tabindex=\"-1\" autocomplete=\"off\"></div>\n\t\t\t\t<p class=\"form-status\" role=\"alert\" data-form-status hidden></p>\n\t\t\t\t<button class=\"button button--primary button--lg button--block\" type=\"submit\" data-submit><span data-submit-label>Request a proposal</span> <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></button>\n\t\t\t\t<ul class=\"form-trust\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Your details stay private</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> No spam, ever</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Free 30-minute call</li></ul>\n\t\t\t</form>\n\t\t</div>\n\t</section>",
+    "css": "real-estate-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Pages that win property searches",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-63\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-63\">Pages that win <span class=\"accent\">property searches</span></h2>\n\t\t\t\t<p class=\"section-lead\">Three page types do most of the work in real estate SEO.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"vcards vcards--3\" role=\"list\">\n\t\t\t\t<li class=\"vcard\">\n\t\t\t\t\t<div class=\"vcard__visual\"><figure class=\"mock mk-browser\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mk-browser__url\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-key\"/></svg> youragency.com/areas/dubai-marina</span></div>\n\t<div class=\"mk-browser__body\"><div class=\"wf-hero\"><p class=\"wf-kicker\">Area guide</p><p class=\"wf-title\">Living in Dubai Marina</p><span class=\"wf-line\"></span><span class=\"wf-line wf-line--short\"></span><span class=\"wf-btn\">Book a visit</span></div><div class=\"wf-cards\"><span></span><span></span><span></span></div><div class=\"wf-split\"><div><svg class=\"mk-map\" viewBox=\"0 0 400 200\" role=\"img\" aria-label=\"Map with business pins\"><rect width=\"400\" height=\"200\" fill=\"#ece8e1\"/><path d=\"M0 60 C120 50 200 90 400 70\" stroke=\"#fff\" stroke-width=\"10\" fill=\"none\"/><path d=\"M60 0 C80 90 140 140 120 200\" stroke=\"#fff\" stroke-width=\"8\" fill=\"none\"/><path d=\"M0 150 C150 160 260 130 400 170\" stroke=\"#fff\" stroke-width=\"7\" fill=\"none\"/><path d=\"M280 0 L300 200\" stroke=\"#fff\" stroke-width=\"6\" fill=\"none\"/><rect x=\"190\" y=\"140\" width=\"60\" height=\"40\" rx=\"6\" fill=\"#d7ecd9\"/><rect x=\"310\" y=\"20\" width=\"70\" height=\"36\" rx=\"6\" fill=\"#d7ecd9\"/><g transform=\"translate(200 110)\"><path d=\"M0 0c-9-13-13-19-13-25a13 13 0 0 1 26 0c0 6-4 12-13 25z\" fill=\"#8f2cf4\"/><text x=\"0\" y=\"-21\" text-anchor=\"middle\" style=\"fill:#fff;font-size:11px;font-weight:700\">★</text></g></svg></div><div><span class=\"wf-line\"></span><span class=\"wf-line\"></span><span class=\"wf-line wf-line--short\"></span></div></div></div>\n</figure></div>\n\t\t\t\t\t<div class=\"vcard__body\"><h3 class=\"vcard__title\">Area guides</h3><p>Helpful guides to each neighbourhood: prices, schools, transport and lifestyle.</p></div>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"vcard\">\n\t\t\t\t\t<div class=\"vcard__visual\"><figure class=\"mock mk-browser\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mk-browser__url\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-key\"/></svg> youragency.com/projects/harbour-view</span></div>\n\t<div class=\"mk-browser__body\"><div class=\"wf-hero\"><p class=\"wf-kicker\">Off-plan · 2026 handover</p><p class=\"wf-title\">Harbour View Residences</p><span class=\"wf-line\"></span><span class=\"wf-line wf-line--short\"></span><span class=\"wf-btn\">Book a viewing</span></div><div class=\"wf-cards\"><span></span><span></span><span></span></div><div class=\"wf-faq\"><span></span><span></span><span></span></div></div>\n</figure></div>\n\t\t\t\t\t<div class=\"vcard__body\"><h3 class=\"vcard__title\">Project and listing pages</h3><p>Pages for each development and property type that rank above the portals.</p></div>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"vcard\">\n\t\t\t\t\t<div class=\"vcard__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Reviews · Google</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-stats mock-stats--3\"><div class=\"mock-stat mock-stat--violet\"><div class=\"mock-stat__label\">Average rating</div><div class=\"mock-stat__value\">4.9</div><span class=\"mock-up\">▲ from 4.2</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">New reviews / month</div><div class=\"mock-stat__value\">38</div><span class=\"mock-up\">▲ +29</span></div><div class=\"mock-stat\"><div class=\"mock-stat__label\">Reply rate</div><div class=\"mock-stat__value\">100%</div><span class=\"mock-up\">▲ from 12%</span></div></div><div class=\"mk-review\"><div class=\"mk-review__head\"><span class=\"mk-avatar\">S</span><div><p class=\"mk-review__name\">Sara K.</p><p class=\"mk-place__meta\"><span class=\"mk-stars\"><span aria-hidden=\"true\">★★★★★</span></span> · 2 days ago</p></div></div><p>Friendly team and spotless clinic. They explained every step and the price upfront.</p><p class=\"mk-review__reply\"><b>Response from the owner</b> Thank you, we’re glad the visit went well!</p></div><div class=\"mk-review\"><div class=\"mk-review__head\"><span class=\"mk-avatar\">O</span><div><p class=\"mk-review__name\">Omar H.</p><p class=\"mk-place__meta\"><span class=\"mk-stars\"><span aria-hidden=\"true\">★★★★★</span></span> · 1 week ago</p></div></div><p>Booked online the same day. No waiting, and the follow-up call was a nice touch.</p><p class=\"mk-review__reply\"><b>Response from the owner</b> Thank you, we’re glad the visit went well!</p></div></div>\n</figure></div>\n\t\t\t\t\t<div class=\"vcard__body\"><h3 class=\"vcard__title\">Agent profiles</h3><p>Profiles with reviews, sales history and areas covered, so people choose your agents.</p></div>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</section>",
+    "css": "real-estate-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Win the map in every area you cover",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-64\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"dark-split dark-split--flip\">\n\t\t\t\t<div class=\"dark-split__text\">\n\t\t\t\t\t<h2 class=\"dark-split__title\" id=\"h-64\">Win the map in <span class=\"accent accent--light\">every area you cover</span></h2>\n\t\t\t\t\t<p>People searching “estate agent near me” are ready to talk. We optimise each office’s Google Business Profile and check your rankings across every neighbourhood.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Google Business Profile for each office</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Rank checks across your areas</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Reviews and replies handled</li></ul>\n\t\t\t\t\t<a class=\"button button--light\" href=\"#proposal\">Get a free area check <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"dark-split__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Local rank grid · “real estate agent”</span></div>\n\t<div class=\"mock__body\"><div class=\"mk-grid\" role=\"img\" aria-label=\"Grid of local ranking positions around the business\"><span class=\"mk-grid__cell mk-grid__cell--mid\">6</span><span class=\"mk-grid__cell mk-grid__cell--mid\">5</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">5</span><span class=\"mk-grid__cell mk-grid__cell--mid\">6</span><span class=\"mk-grid__cell mk-grid__cell--mid\">5</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--top\">3</span><span class=\"mk-grid__cell mk-grid__cell--top\">3</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">5</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--top\">2</span><span class=\"mk-grid__cell mk-grid__cell--top\">1</span><span class=\"mk-grid__cell mk-grid__cell--top\">2</span><span class=\"mk-grid__cell mk-grid__cell--top\">3</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--top\">3</span><span class=\"mk-grid__cell mk-grid__cell--top\">1</span><span class=\"mk-grid__cell mk-grid__cell--top\">1</span><span class=\"mk-grid__cell mk-grid__cell--top\">1</span><span class=\"mk-grid__cell mk-grid__cell--top\">3</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--top\">3</span><span class=\"mk-grid__cell mk-grid__cell--top\">2</span><span class=\"mk-grid__cell mk-grid__cell--top\">1</span><span class=\"mk-grid__cell mk-grid__cell--top\">2</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">5</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--top\">3</span><span class=\"mk-grid__cell mk-grid__cell--top\">3</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">5</span><span class=\"mk-grid__cell mk-grid__cell--mid\">6</span><span class=\"mk-grid__cell mk-grid__cell--mid\">5</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">4</span><span class=\"mk-grid__cell mk-grid__cell--mid\">5</span><span class=\"mk-grid__cell mk-grid__cell--mid\">6</span></div><div class=\"mock-legend\"><span><i style=\"background:#16a35b\"></i>Top 3</span><span><i style=\"background:#e0a21b\"></i>4–10</span><span><i style=\"background:#d9516f\"></i>11+</span></div></div>\n</figure></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "real-estate-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Why real estate SEO pays off",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-65\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"split-list\">\n\t\t\t\t<div class=\"split-list__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Leads by source · Example</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-bars\"><div class=\"mock-bar mock-bar--you\"><span>Organic search</span><em><i style=\"width:100%\"></i></em><span class=\"num\">184</span></div><div class=\"mock-bar\"><span>Property portals</span><em><i style=\"width:82%\"></i></em><span class=\"num\">151</span></div><div class=\"mock-bar\"><span>Paid social</span><em><i style=\"width:40%\"></i></em><span class=\"num\">74</span></div><div class=\"mock-bar\"><span>Referrals</span><em><i style=\"width:28%\"></i></em><span class=\"num\">52</span></div></div></div>\n</figure></div>\n\t\t\t\t<div>\n\t\t\t<div class=\"section-head\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-65\">Why real estate SEO <span class=\"accent\">pays off</span></h2>\n\t\t\t\t<p class=\"section-lead\">Portals charge for every lead. Search brings leads you own.</p>\n\t\t\t</div>\n\t\t\t\t\t<ol class=\"nlist\" role=\"list\">\n<li class=\"nlist__item\"><span class=\"nlist__num\">01</span><div><h3 class=\"nlist__title\">Leads you own</h3><p>Visitors come to your website, not a portal listing next to competitors.</p></div></li>\n<li class=\"nlist__item\"><span class=\"nlist__num\">02</span><div><h3 class=\"nlist__title\">Lower cost over time</h3><p>Rankings keep bringing leads after the work is done.</p></div></li>\n<li class=\"nlist__item\"><span class=\"nlist__num\">03</span><div><h3 class=\"nlist__title\">Buyers and sellers</h3><p>Valuation and area pages attract sellers as well as buyers.</p></div></li>\n<li class=\"nlist__item\"><span class=\"nlist__num\">04</span><div><h3 class=\"nlist__title\">Off-plan launches</h3><p>Project pages build interest before launch day.</p></div></li>\n\t\t\t\t\t</ol>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "real-estate-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Real estate SEO plans",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-66\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-66\">Real estate SEO <span class=\"accent\">plans</span></h2>\n\t\t\t\t<p class=\"section-lead\">Plans for single offices, growing agencies and developers.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"packages\" role=\"list\">\n\t\t\t\t<li class=\"package\">\n\t\t\t\t\t\n\t\t\t\t\t<h3 class=\"package__name\">Local agency</h3>\n\t\t\t\t\t<p class=\"package__for\">For one or two offices</p>\n\t\t\t\t\t<p class=\"package__text\">Local SEO, area guides and agent profiles for the areas you cover.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Google Business Profile</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Area guides</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly report</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a quote <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"package package--featured\">\n\t\t\t\t\t<span class=\"package__badge\">Most popular</span>\n\t\t\t\t\t<h3 class=\"package__name\">Growing agency</h3>\n\t\t\t\t\t<p class=\"package__for\">For several offices</p>\n\t\t\t\t\t<p class=\"package__text\">Everything in Local, plus listing pages, content and links across all your areas.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Local agency</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Listing and property type pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content and links</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Lead tracking</li></ul>\n\t\t\t\t\t<a class=\"button button--light button--block\" href=\"#proposal\">Get a quote <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"package\">\n\t\t\t\t\t\n\t\t\t\t\t<h3 class=\"package__name\">Developer</h3>\n\t\t\t\t\t<p class=\"package__for\">For projects and launches</p>\n\t\t\t\t\t<p class=\"package__text\">Project pages, launch content and international reach for off-plan sales.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Project and launch pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> International buyer content</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Launch reporting</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a quote <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t\t<p class=\"packages__note\">Every plan is quoted after a free call, so you only pay for what you need.</p>\n\t\t</div>\n\t</section>",
+    "css": "real-estate-seo",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Real estate SEO questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What are real estate SEO services?",
+      "answer": "SEO for agencies, brokers and developers: area guides, listing and project pages, agent profiles, local SEO and lead tracking."
+     },
+     {
+      "question": "Can we rank above the property portals?",
+      "answer": "For broad searches, portals are hard to beat. For specific areas, projects and property types, a strong agency website often can."
+     },
+     {
+      "question": "Do you work with property developers?",
+      "answer": "Yes. We build project pages and launch content, including for international buyers."
+     },
+     {
+      "question": "Do you connect to our CRM or listing feed?",
+      "answer": "Yes, where your platform allows it, so listing pages stay up to date."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/talk",
+   "attrs": {
+    "background": "white",
+    "look": "sand",
+    "left": true,
+    "title": "See where you rank in <em>your areas</em>",
+    "lead": "Book a free 30-minute call. We’ll check your rankings for your top areas and share three quick wins.",
+    "buttons": [
+     {
+      "text": "Request a proposal",
+      "url": "#proposal",
+      "style": "primary"
+     },
+     {
+      "text": "Email us",
+      "url": "mailto:contact@intelladigital.com",
+      "style": "outline"
+     }
+    ],
+    "contact": true,
+    "people": [
+     {
+      "image": "media:assets/images/people-cut/man-smile.webp",
+      "size": ""
+     }
+    ],
+    "shots": [],
+    "noteReply": "",
+    "noteSkillsTitle": "",
+    "noteSkills": ""
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Real estate SEO works best <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "pin",
+      "title": "Local SEO",
+      "url": "/services/digital-marketing/local-seo/",
+      "text": "Win the map pack and local searches in the areas you serve."
+     },
+     {
+      "icon": "pen",
+      "title": "SEO Content Writing",
+      "url": "/services/digital-marketing/seo/seo-content-writing/",
+      "text": "Pages and articles written to rank and to convert."
+     },
+     {
+      "icon": "share",
+      "title": "International SEO",
+      "url": "/services/digital-marketing/seo/international-seo/",
+      "text": "Rank in every country and language you sell in."
+     }
+    ]
+   }
+  }
+ ]
+}

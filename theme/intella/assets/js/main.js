@@ -1,8 +1,15 @@
 /**
  * Front-end entry point, loaded on every page as an ES module (deferred).
- * Import features from @intella/* modules (assets/js/modules/) and start them here. Nothing else.
+ * Only the features every page needs: the top bar, header navigation, mega menu, footer and forms.
+ * Section features (tabs, carousels, sliders…) are loaded by the blocks that use them (block.json → viewScriptModule).
+ * Each module starts itself on import.
  */
 
-import { initNavigation } from '@intella/navigation';
-
-initNavigation();
+import '@intella/topbar';
+import '@intella/navigation';
+import '@intella/mega-menu';
+import '@intella/footer-groups';
+import '@intella/phone-fields';
+import '@intella/form-validation';
+import '@intella/campaign-fields';
+import '@intella/year';

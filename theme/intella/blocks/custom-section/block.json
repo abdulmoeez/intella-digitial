@@ -1,0 +1,20 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/custom-section",
+	"title": "Custom section (HTML)",
+	"category": "intella",
+	"icon": "editor-code",
+	"description": "A one-off section kept as HTML. Its styles live in the theme (assets/css/custom/). Forms inside it send leads like every other form.",
+	"supports": { "html": false },
+	"render": "file:./render.php",
+	"intella": {
+		"help": "One-off section. Edit the text in the HTML below. If you need to change this section often, ask for it to be turned into a proper block.",
+		"fields": [
+			{ "key": "label", "type": "text", "label": "Name (admin only)", "help": "Helps you find this section in the editor." },
+			{ "key": "html", "type": "code", "label": "Section HTML", "rows": 20 },
+			{ "key": "css", "type": "text", "label": "Stylesheet", "help": "File name in assets/css/custom/ (without .css).", "panel": "Advanced" },
+			{ "key": "modules", "type": "list", "label": "Scripts", "help": "One module per line, e.g. @intella/tabs.", "panel": "Advanced" }
+		]
+	}
+}

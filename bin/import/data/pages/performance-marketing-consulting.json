@@ -1,0 +1,373 @@
+{
+ "title": "Performance Marketing Consultant",
+ "path": "/services/digital-marketing/performance-marketing/consulting/",
+ "seo": {
+  "title": "Performance Marketing Consultant | Performance Marketing Consulting | Intella Digital",
+  "description": "Performance marketing consulting for in-house teams: channel plans, audits, budgets, tracking and senior reviews from an experienced performance marketing consultant."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Services",
+      "url": "/services/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "Performance Marketing Consulting",
+      "url": ""
+     }
+    ],
+    "title": "Performance marketing consulting <em>for in-house teams</em>",
+    "lead": "Senior advice for teams that run their own ads: plans, audits, budgets, tracking and regular reviews, without handing over your accounts.",
+    "buttonText": "Book a consulting call",
+    "formLabel": "Book a consulting call",
+    "service": "performance-marketing-consulting",
+    "notes": [
+     "Your team keeps control",
+     "Senior, independent advice",
+     "Plans you can act on"
+    ],
+    "sliderLabel": "Common performance marketing questions",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "No clear channel plan",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Budget today</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Google Ads</span><b>Most of it</b></li><li class=\"no\"><span>Meta</span><b>Whatever is left</b></li><li class=\"no\"><span>Plan</span><b>None</b></li></ul></div>",
+      "photo": "media:assets/images/people-cut/suit.webp",
+      "fix": "A plan for which platforms do which job.",
+      "look": "plan"
+     },
+     {
+      "kicker": "",
+      "title": "Numbers nobody agrees on",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Leads last month</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Google says</span><b>212</b></li><li class=\"no\"><span>Meta says</span><b>148</b></li><li class=\"ok\"><span>CRM says</span><b>97</b></li></ul></div>",
+      "photo": 0,
+      "fix": "One source of truth for leads and sales.",
+      "look": "trust"
+     },
+     {
+      "kicker": "",
+      "title": "A team without a senior reviewer",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Your team</p><ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:60%\"><span>Specialists</span><b>2</b></li><li style=\"--w:4%\"><span>Senior review</span><b>0</b></li></ul></div>",
+      "photo": 0,
+      "fix": "Monthly senior reviews and training.",
+      "look": "team"
+     },
+     {
+      "kicker": "",
+      "title": "An agency you can’t check",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Agency report</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"ok\"><span>Clicks</span><b>Up</b></li><li class=\"no\"><span>Leads</span><b>Flat</b></li><li class=\"no\"><span>Explanation</span><b>None</b></li></ul></div>",
+      "photo": "media:assets/images/people-cut/duo-business.webp",
+      "fix": "Independent oversight of your agency.",
+      "look": "agency"
+     }
+    ],
+    "tools": "",
+    "visual": "",
+    "look": "cmhero cmhero--pm"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What a performance marketing consultant fixes",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-309\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-309\">What a performance marketing <span class=\"accent\">consultant fixes</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a situation to see how we help.</p>\n\t\t\t</div>\n\t\t\t<div class=\"wpvt cmvt\" data-tabs>\n\t\t\t\t<div class=\"wpvt__list\" role=\"tablist\" aria-label=\"Consulting situations\" aria-orientation=\"vertical\"><button class=\"wpvt__tab cmvt__tab cmvt__tab--1\" type=\"button\" role=\"tab\" id=\"bh-308-t-strategy\" aria-controls=\"bh-308-strategy\" aria-selected=\"true\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">01</i>No clear plan</b><span>Your team runs campaigns, but nobody has stepped back to ask which platforms, budgets and goals make sense.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--2\" type=\"button\" role=\"tab\" id=\"bh-308-t-audit\" aria-controls=\"bh-308-audit\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">02</i>You’re not sure what’s working</b><span>Results are flat, and you can’t tell if it’s the ads, the tracking or the pages.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--3\" type=\"button\" role=\"tab\" id=\"bh-308-t-team\" aria-controls=\"bh-308-team\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">03</i>Your team needs a sounding board</b><span>Your specialists are good, but there’s nobody senior to check their thinking.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--4\" type=\"button\" role=\"tab\" id=\"bh-308-t-agency\" aria-controls=\"bh-308-agency\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">04</i>Your agency isn’t delivering</b><span>You pay an agency, but reports are vague and results are flat.</span>\n\t\t\t\t\t</button></div>\n\t\t\t\t<div class=\"wpvt__panels\"><div class=\"wpvt__panel cmvt__panel cmvt__panel--1\" role=\"tabpanel\" id=\"bh-308-strategy\" aria-labelledby=\"bh-308-t-strategy\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Your team runs campaigns, but nobody has stepped back to ask which platforms, budgets and goals make sense.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">A channel plan your team can run with.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>In-house teams are busy running campaigns. A consultant gives you the time and outside view to plan properly.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Workshops with marketing, sales and finance</li><li>Targets based on your margins</li><li>A clear role for each platform</li><li>A roadmap your team owns</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>A plan makes every weekly decision easier.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Channel plan</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Google Ads</span><b>Capture demand</b></li><li><span>Meta</span><b>Create demand</b></li><li><span>LinkedIn</span><b>Reach buyers</b></li><li><span>Budget split</span><b>50 / 30 / 20</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Goals and numbers</b><p>What a lead or sale is worth, and what you can afford to pay.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Channel plan</b><p>Which platforms do which job.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Budget model</b><p>How much to spend where, and when to scale.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>90-day roadmap</b><p>The order to do things in.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A channel plan</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A budget model</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A 90-day roadmap</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--2\" role=\"tabpanel\" id=\"bh-308-audit\" aria-labelledby=\"bh-308-t-audit\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Results are flat, and you can’t tell if it’s the ads, the tracking or the pages.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">An independent audit, with a ranked fix list.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>An outside view finds what people close to the account no longer see.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>All platforms reviewed</li><li>Tracking checked against your CRM</li><li>Waste sized in money</li><li>Fixes your team can make</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Most audits pay for themselves in the first month.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Audit summary</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Wasted spend</span><b>$4,860 / month</b></li><li><span>Tracking issues</span><b>3</b></li><li class=tot><span>Quick wins</span><b>9</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Account audits</b><p>Every platform you run, checked by hand.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Tracking audit</b><p>Every conversion tested.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Landing page review</b><p>Where clicks are lost.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Fix list</b><p>Ranked by value and effort.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Audit reports</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A ranked fix list</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A walkthrough call</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--3\" role=\"tabpanel\" id=\"bh-308-team\" aria-labelledby=\"bh-308-t-team\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Your specialists are good, but there’s nobody senior to check their thinking.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">A senior consultant on call, without hiring one.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>Many companies don’t need an agency; they need a senior person to check the work.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Reviews with your specialists, not instead of them</li><li>Clear, written recommendations</li><li>Training where there are gaps</li><li>No lock-in</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Your team grows, and you keep control.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">This month</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Accounts reviewed</span><b>4</b></li><li><span>Recommendations</span><b>12</b></li><li><span>Training sessions</span><b>2</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Monthly reviews</b><p>A senior review of every account.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Weekly calls</b><p>Answers to the questions that come up.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Test design</b><p>Experiments set up to give clear answers.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Training</b><p>Workshops on tracking, bidding and creative.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly account reviews</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A weekly call</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Training sessions</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--4\" role=\"tabpanel\" id=\"bh-308-agency\" aria-labelledby=\"bh-308-t-agency\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>You pay an agency, but reports are vague and results are flat.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">An independent check on your agency.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>Sometimes the fix is a better brief and closer oversight, not a new agency.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Agency work reviewed against best practice</li><li>Reports checked against your CRM</li><li>Targets agreed in writing</li><li>Monthly oversight</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>You get the results you’re paying for, or the evidence to change.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Agency check</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Search terms reviewed</span><b>Last: 4 months ago</b></li><li><span>Tracking</span><b>Counts twice</b></li><li><span>Report</span><b>Clicks only</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Agency audit</b><p>What they do, what they don’t, and what it’s worth.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Reporting review</b><p>Are the numbers right?</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Brief and targets</b><p>Clear goals for your agency.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Oversight</b><p>Monthly checks on their work.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> An agency audit</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Clear targets</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly oversight</li></ul></div>\n\t\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing-consulting",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Consulting in four stages",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-311\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-311\">Consulting in <span class=\"accent\">four stages</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a stage to see what we do with your team.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmst2\" data-tabs style=\"--n:4\">\n\t\t\t\t<div class=\"cmst2__tabs\" role=\"tablist\" aria-label=\"Consulting stages\"><button class=\"cmst2__tab cmst2__tab--attract\" type=\"button\" role=\"tab\" id=\"bs-310-t-attract\" aria-controls=\"bs-310-attract\" aria-selected=\"true\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">1</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Assess</b><span>Where are we now?</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--trust\" type=\"button\" role=\"tab\" id=\"bs-310-t-trust\" aria-controls=\"bs-310-trust\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">2</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Plan</b><span>What should we do?</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--convert\" type=\"button\" role=\"tab\" id=\"bs-310-t-convert\" aria-controls=\"bs-310-convert\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">3</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Build</b><span>How do we do it?</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--keep\" type=\"button\" role=\"tab\" id=\"bs-310-t-keep\" aria-controls=\"bs-310-keep\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">4</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Review</b><span>Is it working?</span></span>\n\t\t\t\t</button></div>\n\t\t\t\t<div class=\"cmst2__panel cmst2__panel--attract\" role=\"tabpanel\" id=\"bs-310-attract\" aria-labelledby=\"bs-310-t-attract\" tabindex=\"0\">\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 1 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Assess</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“Where are we now?”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Find out what’s really happening</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>An agreed picture of today</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>2</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Account audits</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Every platform checked by hand.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Your marketing lead</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Reports, calls</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Shows what’s working and what isn’t</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Wasted spend sized in money</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Tracking audit</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Every conversion tested against your CRM.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Marketing and sales</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Test report</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Numbers you can trust</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>One source of truth</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--trust\" role=\"tabpanel\" id=\"bs-310-trust\" aria-labelledby=\"bs-310-t-trust\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 2 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Plan</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“What should we do?”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Agree goals, channels and budgets</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>A plan everyone signs off</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>2</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Channel plan</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Which platforms do which job.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Leadership</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Workshop, plan</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Focus</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Google captures, Meta creates</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Budget model</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Spend, targets and when to scale.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Finance and marketing</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Spreadsheet model</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Confident budgets</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Target cost per sale by channel</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--convert\" role=\"tabpanel\" id=\"bs-310-convert\" aria-labelledby=\"bs-310-t-convert\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 3 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Build</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“How do we do it?”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Help your team put it in place</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Changes made and working</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>2</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Hands-on help</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">We work with your team on the hard parts.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Your specialists</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Working sessions</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Faster progress</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Tracking rebuilt together</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Training</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Workshops where there are gaps.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Your team</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Workshops</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>A stronger team</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Bidding and creative testing</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--keep\" role=\"tabpanel\" id=\"bs-310-keep\" aria-labelledby=\"bs-310-t-keep\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 4 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Review</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“Is it working?”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Keep improving</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Monthly progress against targets</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>2</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Monthly reviews</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">A senior check of every account.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Your team</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Call and notes</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Fewer mistakes</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>12 recommendations this month</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Quarterly planning</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Budgets and tests for the next quarter.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Leadership</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Workshop</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Steady growth</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Next quarter’s budget split</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing-consulting",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/case-study",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "look": "cmcase cmcase--pm cmcase--consult",
+    "kicker": "Case study · Consulting",
+    "title": "How Vantage’s in-house team <em>doubled qualified leads</em>",
+    "client": "Vantage Payroll",
+    "clientInfo": "· B2B software · In-house team of two",
+    "steps": [
+     {
+      "title": "The challenge",
+      "text": "Two specialists running Google and LinkedIn with no senior reviewer and no shared plan."
+     },
+     {
+      "title": "What we did",
+      "text": "A channel plan, a tracking rebuild, monthly reviews and training on bidding and lead quality."
+     },
+     {
+      "title": "The outcome",
+      "text": "The team kept control and doubled qualified leads in nine months."
+     }
+    ],
+    "buttonText": "Read the case study",
+    "buttonUrl": "/case-studies/",
+    "stats": [
+     {
+      "value": "2×",
+      "label": "qualified leads"
+     },
+     {
+      "value": "9",
+      "label": "months"
+     },
+     {
+      "value": "12",
+      "label": "training sessions"
+     },
+     {
+      "value": "0",
+      "label": "accounts handed over"
+     }
+    ],
+    "chartTitle": "Qualified leads, per month",
+    "bars": [
+     {
+      "height": 50,
+      "label": "Month 1: 20"
+     },
+     {
+      "height": 55,
+      "label": "Month 2: 22"
+     },
+     {
+      "height": 62,
+      "label": "Month 3: 25"
+     },
+     {
+      "height": 68,
+      "label": "Month 4: 27"
+     },
+     {
+      "height": 75,
+      "label": "Month 5: 30"
+     },
+     {
+      "height": 82,
+      "label": "Month 6: 33"
+     },
+     {
+      "height": 90,
+      "label": "Month 7: 36"
+     },
+     {
+      "height": 95,
+      "label": "Month 8: 38"
+     },
+     {
+      "height": 100,
+      "label": "Month 9: 40"
+     }
+    ],
+    "axisStart": "Month 1",
+    "axisEnd": "Month 9"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Teams we’ve advised",
+    "html": "<section class=\"section section--white cmwk2s\" aria-labelledby=\"h-314\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-314\">Teams we’ve <span class=\"accent\">advised</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a company to see what we did.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmwk2\" data-tabs>\n\t\t\t\t<div class=\"cmwk2__tabs\" role=\"tablist\" aria-label=\"Clients\"><button class=\"cmwk2__tab cmwk2__tab--1\" type=\"button\" role=\"tab\" id=\"bw-313-t-ferrow\" aria-controls=\"bw-313-ferrow\" aria-selected=\"true\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"6\" y=\"6\" width=\"28\" height=\"28\" rx=\"8\" fill=\"#14b8a6\"/><path d=\"M14 27V13h12M14 20h9\" stroke=\"#fff\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Ferrow</b><span>Home</span></span></span><span class=\"cmwk2__ind\">eCommerce, homeware</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--2\" type=\"button\" role=\"tab\" id=\"bw-313-t-vantage\" aria-controls=\"bw-313-vantage\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#0369a1\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M5 8h8l7 18 7-18h8L23 34h-6z\" fill=\"#0284c7\"/></svg><span class=\"cmlg__w\"><b>Vantage</b><span>Payroll</span></span></span><span class=\"cmwk2__ind\">B2B software</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--3\" type=\"button\" role=\"tab\" id=\"bw-313-t-calder\" aria-controls=\"bw-313-calder\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#be123c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M8 32V8h8l4 10 4-10h8v24\" fill=\"none\" stroke=\"#e11d48\" stroke-width=\"4\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Calder</b><span>Clinics</span></span></span><span class=\"cmwk2__ind\">Group of private clinics</span>\n\t\t\t\t</button></div>\n\t\t\t\t<article class=\"cmwk2__panel cmwk2__panel--1\" role=\"tabpanel\" id=\"bw-313-ferrow\" aria-labelledby=\"bw-313-t-ferrow\" tabindex=\"0\">\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Ferrow Home</h3>\n\t\t\t\t\t\t\t<p>eCommerce, homeware · 35 people · 14 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Google Shopping</li><li>Meta Ads</li><li>Tracking</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Google Shopping and Meta were run by two freelancers, and both claimed the same sales.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> One plan across Google Shopping, Performance Max and Meta</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Server-side tracking and the Conversions API</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Product feed rebuilt in Merchant Center</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New video ads every month</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Profitable growth they could trust, measured in Shopify, not in ad platforms.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>3.9×</b><span>return on ad spend</span></li><li><b>+64%</b><span>online revenue</span></li><li><b>−31%</b><span>cost per sale</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--2\" role=\"tabpanel\" id=\"bw-313-vantage\" aria-labelledby=\"bw-313-t-vantage\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Vantage Payroll</h3>\n\t\t\t\t\t\t\t<p>B2B software · 90 people · 10 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>LinkedIn Ads</li><li>Google Ads</li><li>HubSpot</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>LinkedIn and Google brought plenty of leads, but sales said most were students and job seekers.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Qualifying questions on every form</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Offline conversions sent from HubSpot</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> LinkedIn audiences by job title and company size</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing pages for each audience</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Fewer, better leads that sales would actually call.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>+140%</b><span>sales-qualified leads</span></li><li><b>−45%</b><span>cost per qualified lead</span></li><li><b>$1.6M</b><span>pipeline from ads</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--3\" role=\"tabpanel\" id=\"bw-313-calder\" aria-labelledby=\"bw-313-t-calder\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Calder Clinics</h3>\n\t\t\t\t\t\t\t<p>Group of private clinics · 6 locations · 18 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Google Ads</li><li>Call tracking</li><li>Meta Ads</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Google Ads was suspended twice, and phone bookings weren’t tracked at all.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Website fixes and a successful appeal</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Call tracking for every clinic</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Search campaigns by treatment</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Meta ads for new treatments</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Steady bookings for each clinic, without account scares.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>+82%</b><span>booked consultations</span></li><li><b>0</b><span>suspensions since</span></li><li><b>−28%</b><span>cost per booking</span></li></ul></div>\n\t\t\t\t</article>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing-consulting",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Alex Barsuk",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Ways to work with us, from one-off to ongoing",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-317\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-317\">Ways to work with us, <span class=\"accent\">from one-off to ongoing</span></h2>\n\t\t\t\t<p class=\"section-lead\">Three ways to work with us. Each is a fixed monthly price, quoted after a free call.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"cmplans\" role=\"list\"><li class=\"cmplan cmplan--1\">\n\t\t\t\t\t<p class=\"cmplan__name\">Audit</p>\n\t\t\t\t\t<p class=\"cmplan__for\">A one-off review</p>\n\t\t\t\t\t<p class=\"cmplan__d\">An independent audit with a fix list.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Account and tracking audits</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A ranked fix list</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A walkthrough call</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--2 cmplan--main\">\n\t\t\t\t\t<p class=\"cmplan__name\">Advisor</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Monthly senior support</p>\n\t\t\t\t\t<p class=\"cmplan__d\">A senior consultant for your team.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly account reviews</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A weekly call</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Test design</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Training sessions</li></ul>\n\t\t\t\t\t<a class=\"button button--primary button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--3\">\n\t\t\t\t\t<p class=\"cmplan__name\">Fractional lead</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Part-time head of paid</p>\n\t\t\t\t\t<p class=\"cmplan__d\">Leadership without a full-time hire.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Advisor</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Planning and budgets</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Agency and freelancer oversight</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Reporting to leadership</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li></ul>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing-consulting",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/why-intella",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "A performance marketing consultant who <em>has run the accounts</em>",
+    "items": [
+     {
+      "title": "Tracking before spend",
+      "text": "We check every conversion fires before we scale a single campaign."
+     },
+     {
+      "title": "One team, every platform",
+      "text": "Search, social, video and marketplaces planned together, not in silos."
+     },
+     {
+      "title": "Your accounts, your data",
+      "text": "Ads run in accounts you own. You keep everything if you ever leave."
+     },
+     {
+      "title": "We build the landing pages too",
+      "text": "Our web team builds and tests the pages your ads send people to."
+     }
+    ],
+    "facts": [
+     {
+      "value": "10",
+      "label": "ad platforms we manage"
+     },
+     {
+      "value": "100%",
+      "label": "of accounts owned by our clients"
+     },
+     {
+      "value": "48 h",
+      "label": "to a written audit of your account"
+     }
+    ],
+    "bigFacts": true,
+    "quote": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Performance marketing consulting questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What does a performance marketing consultant do?",
+      "answer": "A performance marketing consultant advises your team on channels, budgets, tracking and campaigns, audits what you run today and helps your team improve, without taking over the accounts."
+     },
+     {
+      "question": "Consultant or agency: which do I need?",
+      "answer": "If you have people running your ads, a consultant usually adds more value. If you don’t, an agency that runs the accounts is a better fit."
+     },
+     {
+      "question": "How much does performance marketing consulting cost?",
+      "answer": "A fixed monthly fee or a fixed project price, quoted after a free call."
+     },
+     {
+      "question": "Can you oversee our current agency?",
+      "answer": "Yes. We review their work, check reports against your CRM and help set clear targets."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Get a senior second opinion <em>on your ads</em>",
+    "lead": "Tell us about your team and accounts. We’ll suggest the right way to help.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "Who runs your ads today, and what would you like help with?",
+    "service": "performance-marketing-consulting",
+    "buttonText": "Request my free account review",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Consulting works best <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "chart",
+      "title": "Performance Marketing Audit",
+      "url": "/audits/google-ads-audit/",
+      "text": "A full audit of your ad accounts and tracking."
+     },
+     {
+      "icon": "target",
+      "title": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/",
+      "text": "Paid ads on every major platform."
+     },
+     {
+      "icon": "search",
+      "title": "SEO Consulting",
+      "url": "/services/digital-marketing/seo/seo-consulting/",
+      "text": "Senior SEO advice for in-house teams."
+     }
+    ]
+   }
+  }
+ ]
+}

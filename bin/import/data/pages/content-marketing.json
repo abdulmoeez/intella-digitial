@@ -1,0 +1,388 @@
+{
+ "title": "Content Marketing Services",
+ "path": "/services/digital-marketing/content-marketing/",
+ "seo": {
+  "title": "Content Marketing Services | Content Marketing Agency | Intella Digital",
+  "description": "Content marketing services from a content marketing agency that writes everything by hand: strategy, articles, case studies, research and distribution, reported in leads."
+ },
+ "blocks": [
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Content marketing services that turn readers into customers",
+    "html": "<section class=\"page-hero cmhero cmhero--main\" aria-labelledby=\"page-title\">\n\t\t<div class=\"container page-hero__inner\">\n\t\t\t<div>\n\t\t\t\t<nav class=\"breadcrumb\" aria-label=\"Breadcrumb\"><ol><li><a href=\"/\">Home</a></li><li><a href=\"/services/\">Services</a></li><li aria-current=\"page\">Content Marketing</li></ol></nav>\n\t\t\t\t<h1 class=\"page-hero__title\" id=\"page-title\">Content marketing services that turn <span class=\"accent\">readers into customers</span></h1>\n\t\t\t\t<p class=\"page-hero__lead\">A content marketing agency for businesses that want to be the trusted name in their field. We plan, write and distribute content your buyers look for, and report what it brings in.</p>\n\t\t\t\t<!-- Validated in assets/js/main.js; the WordPress handler must repeat the checks. -->\n\t\t\t\t<form class=\"wpform\" id=\"content-marketing-form\" action=\"thank-you.html\" method=\"post\" data-validate data-success=\"thank-you.html\" aria-label=\"Get a content plan\">\n\t\t\t\t\t<div class=\"field\">\n\t\t\t\t\t\t<label class=\"visually-hidden\" for=\"content-marketing-site\">Your website</label>\n\t\t\t\t\t\t<input class=\"field__input\" id=\"content-marketing-site\" name=\"site_url\" type=\"text\" inputmode=\"url\" placeholder=\"Your website\" required autocomplete=\"url\" data-validate-url data-error-required=\"Enter your website address.\" data-error-format=\"Enter a valid web address, like yourcompany.com.\">\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"field\">\n\t\t\t\t\t\t<label class=\"visually-hidden\" for=\"content-marketing-email\">Work email</label>\n\t\t\t\t\t\t<input class=\"field__input\" id=\"content-marketing-email\" name=\"email\" type=\"email\" placeholder=\"Work email\" required autocomplete=\"email\" data-error-required=\"Enter your email address.\" data-error-format=\"Enter a valid email address, like name@company.com.\">\n\t\t\t\t\t</div>\n\t\t\t\t\t<input type=\"hidden\" name=\"service\" value=\"content-marketing\">\n\t\t\t\t\t<div class=\"hp-field\" aria-hidden=\"true\"><label for=\"content-marketing-company\">Leave this empty</label><input id=\"content-marketing-company\" name=\"company_hp\" type=\"text\" tabindex=\"-1\" autocomplete=\"off\"></div>\n\t\t\t\t\t<button class=\"button button--primary button--lg\" type=\"submit\" data-submit><span data-submit-label>Get a content plan</span> <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></button>\n\t\t\t\t\t<p class=\"form-status\" role=\"alert\" data-form-status hidden></p>\n\t\t\t\t</form>\n\t\t\t\t<ul class=\"note-list wphero__notes\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Written by people, not AI</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Planned around search</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Reported in leads</li></ul>\n\t\t\t</div>\n\t\t\t<div class=\"page-hero__visual cmhero__visual\"><figure class=\"cmo\" data-orbit style=\"--n:5\" role=\"group\" aria-label=\"One guide turned into search traffic, AI citations, LinkedIn posts, a newsletter and sales emails\">\n\t\t<div class=\"cmo__stage\">\n\t\t\t<div class=\"cmo__ring\" aria-hidden=\"false\"><ul class=\"cmo__nodes\" role=\"list\"><li class=\"cmo__node cmo__node--search\" style=\"--a:90deg\"><button type=\"button\" data-orbit-node=\"0\" aria-label=\"Show Google\" aria-current=\"true\"><span>Google</span></button></li><li class=\"cmo__node cmo__node--ai\" style=\"--a:162deg\"><button type=\"button\" data-orbit-node=\"1\" aria-label=\"Show AI answers\"><span>AI answers</span></button></li><li class=\"cmo__node cmo__node--li\" style=\"--a:234deg\"><button type=\"button\" data-orbit-node=\"2\" aria-label=\"Show LinkedIn\"><span>LinkedIn</span></button></li><li class=\"cmo__node cmo__node--mail\" style=\"--a:306deg\"><button type=\"button\" data-orbit-node=\"3\" aria-label=\"Show Newsletter\"><span>Newsletter</span></button></li><li class=\"cmo__node cmo__node--sales\" style=\"--a:378deg\"><button type=\"button\" data-orbit-node=\"4\" aria-label=\"Show Sales team\"><span>Sales team</span></button></li></ul></div>\n\t\t\t<div class=\"cmo__core\">\n\t\t\t\t<p class=\"cmo__tag\">Guide · 2,400 words</p>\n\t\t\t\t<p class=\"cmo__title\">How finance teams close the month in five days</p>\n\t\t\t\t<p class=\"cmo__by\"><i aria-hidden=\"true\">M</i>Written by Maya</p>\n\t\t\t\t<div class=\"cmo__stats\"><p><b>63</b>leads</p><p><b>$210K</b>pipeline</p></div>\n\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"cmo__outs\" aria-live=\"polite\"><div class=\"cmo__out cmo__out--search is-on\" data-orbit-slide>\n\t\t\t\t<p class=\"cmo__lab\"><b>Google</b><span>Ranks #2 · 1,900 visits a month</span></p>\n\t\t\t\t<div class=\"cmo__serp\"><p class=\"cmo__q\">month-end close process</p>\n\t\t\t\t<p class=\"cmo__res cmo__res--dim\"><i></i><i class=\"cmo__l\"></i></p>\n\t\t\t\t<p class=\"cmo__res cmo__res--you\"><span>ardentsupply.com › guides</span><b>How finance teams close the month in five days</b><i class=\"cmo__l cmo__l--s\"></i></p>\n\t\t\t\t<p class=\"cmo__res cmo__res--dim\"><i></i><i class=\"cmo__l\"></i></p></div>\n\t\t\t</div><div class=\"cmo__out cmo__out--ai\" data-orbit-slide>\n\t\t\t\t<p class=\"cmo__lab\"><b>AI answers</b><span>Cited in ChatGPT and AI Overviews</span></p>\n\t\t\t\t<div class=\"cmo__chat\"><p class=\"cmo__ask\">How can we close the books faster?</p>\n\t\t\t\t<div class=\"cmo__ans\"><i class=\"cmo__l\"></i><i class=\"cmo__l\"></i><i class=\"cmo__l cmo__l--s\"></i><span class=\"cmo__cite\">Source: ardentsupply.com</span></div></div>\n\t\t\t</div><div class=\"cmo__out cmo__out--li\" data-orbit-slide>\n\t\t\t\t<p class=\"cmo__lab\"><b>LinkedIn</b><span>5 posts · 214 reactions on the first</span></p>\n\t\t\t\t<div class=\"cmo__post\"><p class=\"cmo__who\"><img src=\"{{media:assets/images/people/examples/example-3.jpg}}\" alt=\"\" width=\"40\" height=\"40\"><span><b>Your CFO</b>3 posts a week</span></p>\n\t\t\t\t<i class=\"cmo__l\"></i><i class=\"cmo__l cmo__l--s\"></i><div class=\"cmo__card\"><b>We close the month in five days. Here’s the order we do it in.</b></div><p class=\"cmo__react\">♥ 214 · 38 comments</p></div>\n\t\t\t</div><div class=\"cmo__out cmo__out--mail\" data-orbit-slide>\n\t\t\t\t<p class=\"cmo__lab\"><b>Newsletter</b><span>Sent to 12,400 · 48% opened</span></p>\n\t\t\t\t<div class=\"cmo__mail\"><p class=\"cmo__from\"><i></i>Ardent Supply · Monthly</p><p class=\"cmo__subj\">Five days to close: the playbook</p><i class=\"cmo__l\"></i><i class=\"cmo__l\"></i><i class=\"cmo__l cmo__l--s\"></i><span class=\"cmo__btn\">Read the guide</span></div>\n\t\t\t</div><div class=\"cmo__out cmo__out--sales\" data-orbit-slide>\n\t\t\t\t<p class=\"cmo__lab\"><b>Sales team</b><span>Used in 31 follow-up emails</span></p>\n\t\t\t\t<div class=\"cmo__mail\"><p class=\"cmo__from\"><i></i>From: your sales lead</p><p class=\"cmo__subj\">Re: our call on Tuesday</p><i class=\"cmo__l\"></i><i class=\"cmo__l cmo__l--s\"></i><span class=\"cmo__att\"><i></i>Month-end-close-guide.pdf</span></div>\n\t\t\t</div></div>\n\t</figure></div>\n\t\t</div>\n\t</section>",
+    "css": "content-marketing",
+    "modules": [
+     "@intella/cm-orbit"
+    ]
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Content that earns attention, instead of buying it",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-1\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"csw\">\n\t\t\t\t<div>\n\t\t\t\t\t<h2 class=\"section-title\" id=\"h-1\">Content that earns attention, <span class=\"accent\">instead of buying it</span></h2>\n\t\t\t\t\t<p class=\"section-lead\">Content marketing means creating useful articles, guides, case studies and reports that your buyers actively look for, then getting them in front of the right people. It builds trust before the first sales call, and keeps bringing in leads long after it’s published.</p>\n\t\t\t\t\t<p class=\"csw__more\">A content marketing agency plans what to publish, writes it, gets it seen and measures what it brings in. Ours does all four, with every word written by people.</p>\n\t\t\t\t</div>\n\t\t\t\t<figure class=\"cmearn\" aria-label=\"Sample chart: traffic from paid ads stops the month the budget stops, while traffic from content keeps growing for months\">\n\t\t\t\t\t\t<figcaption class=\"cmearn__head\"><b>Visitors a month</b><span class=\"cmearn__key\"><i class=\"cmearn__k cmearn__k--c\"></i>Content<i class=\"cmearn__k cmearn__k--a\"></i>Paid ads</span></figcaption>\n\t\t\t\t\t\t<svg viewBox=\"0 0 520 240\" aria-hidden=\"true\">\n\t\t\t\t\t\t\t<defs><linearGradient id=\"cmearn-g\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#0d8a7e\" stop-opacity=\"0.28\"/><stop offset=\"1\" stop-color=\"#0d8a7e\" stop-opacity=\"0\"/></linearGradient></defs>\n\t\t\t\t\t\t\t<g class=\"cmearn__grid\"><line x1=\"44\" x2=\"500.5\" y1=\"170.2\" y2=\"170.2\"/><line x1=\"44\" x2=\"500.5\" y1=\"126.5\" y2=\"126.5\"/><line x1=\"44\" x2=\"500.5\" y1=\"82.8\" y2=\"82.8\"/><line x1=\"44\" x2=\"500.5\" y1=\"39.0\" y2=\"39.0\"/></g>\n\t\t\t\t\t\t\t<line class=\"cmearn__base\" x1=\"44\" x2=\"500.5\" y1=\"214\" y2=\"214\"/>\n\t\t\t\t\t\t\t<line class=\"cmearn__stop\" x1=\"316.0\" x2=\"316.0\" y1=\"30\" y2=\"214\"/>\n\t\t\t\t\t\t\t<text class=\"cmearn__note\" x=\"324.0\" y=\"200\">Ad budget stops</text>\n\t\t\t\t\t\t\t<path d=\"M44.0 207.0 L85.5 201.8 L127.0 194.8 L168.5 186.0 L210.0 175.5 L251.5 161.5 L293.0 145.8 L334.5 130.0 L376.0 112.5 L417.5 95.0 L459.0 75.8 L500.5 56.5 L500.5 214 L44.0 214 Z\" fill=\"url(#cmearn-g)\"/>\n\t\t\t\t\t\t\t<path class=\"cmearn__a\" d=\"M44.0 105.5 L85.5 102.0 L127.0 103.8 L168.5 100.2 L210.0 102.0 L251.5 103.8 L293.0 105.5 L313.0 105.5 L319.0 214.0 L500.5 214.0\"/>\n\t\t\t\t\t\t\t<path class=\"cmearn__c\" d=\"M44.0 207.0 L85.5 201.8 L127.0 194.8 L168.5 186.0 L210.0 175.5 L251.5 161.5 L293.0 145.8 L334.5 130.0 L376.0 112.5 L417.5 95.0 L459.0 75.8 L500.5 56.5\"/>\n\t\t\t\t\t\t\t<circle class=\"cmearn__dot\" cx=\"500.5\" cy=\"56.5\" r=\"5\"/>\n\t\t\t\t\t\t\t<text class=\"cmearn__ax\" x=\"44\" y=\"232\">Month 1</text><text class=\"cmearn__ax\" x=\"500.5\" y=\"232\" text-anchor=\"end\">Month 12</text>\n\t\t\t\t\t\t</svg>\n\t\t\t\t\t\t<p class=\"cmearn__tag cmearn__tag--c\"><b>Content</b>Keeps growing after it’s published</p>\n\t\t\t\t\t\t<p class=\"cmearn__tag cmearn__tag--a\"><b>Paid ads</b>Traffic stops the day you stop paying</p>\n\t\t\t\t\t\t<ul class=\"cmearn__facts\" role=\"list\">\n\t\t\t\t\t\t\t<li><b>Builds trust</b>Buyers read you before they call</li>\n\t\t\t\t\t\t\t<li><b>Compounds</b>Every piece adds to the last</li>\n\t\t\t\t\t\t\t<li><b>Pays back for years</b>No cost per click</li>\n\t\t\t\t\t\t</ul>\n\t\t\t\t\t</figure>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Content for every stage of the buying journey",
+    "html": "<section class=\"section section--white cmstack\" aria-labelledby=\"h-2\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-2\">Content for every stage of <span class=\"accent\">the buying journey</span></h2>\n\t\t\t\t<p class=\"section-lead\">From the first search to the renewal. Scroll through the four stages to see what we create for each.</p>\n\t\t\t</div>\n\t\t\t<div class=\"astack\" data-astack style=\"--n:4\">\n\t\t\t\t<div class=\"astack__view\">\n\t\t\t\t\t<ol class=\"astack__list\" role=\"list\"><li class=\"astack__card cmstack__card cmstack__card--attract\" style=\"--i:0\" data-astack-card>\n\t\t\t\t\t\t<button class=\"astack__bar\" type=\"button\" data-astack-bar tabindex=\"-1\"><span class=\"astack__n\">01<span class=\"cmstack__st\"> · Attract</span></span><h3>Be found when buyers start looking</h3><span class=\"astack__open\">Open <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m6 15 6-6 6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></button>\n\t\t\t\t\t\t<div class=\"astack__body\">\n\t\t\t\t\t\t\t<p>Most buyers start with a question, not a supplier. Articles, guides and research put your name in front of them at that first search, and in the AI answers they read.</p>\n\t\t\t\t\t\t\t<ul class=\"astack__tags\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Articles and guides</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Original research reports</li></ul>\n\t\t\t\t\t\t\t<div class=\"astack__shot\"><ul class=\"cmpieces\" role=\"list\"><li class=\"cmpiece\"><div class=\"cmth\" role=\"img\" aria-label=\"Example: How finance teams close the month in five days\"><div class=\"cmth__doc\"><p class=\"cmth__t\">How finance teams close the month in five days</p><i class=\"cmth__l\"></i><i class=\"cmth__l\"></i><i class=\"cmth__l cmth__l--s\"></i></div><span class=\"cmth__chip cmth__chip--a\">#2 on Google</span></div><b>Articles and guides</b><span>In-depth answers to the questions your buyers search for, planned around the topics that lead to a sale.</span></li><li class=\"cmpiece\"><div class=\"cmth\" role=\"img\" aria-label=\"Example: The 2027 state of B2B payments: 400 finance leaders surveyed\"><div class=\"cmth__doc\"><p class=\"cmth__t\">The 2027 state of B2B payments</p><div class=\"cmth__bars\"><i style=\"--h:40%\"></i><i style=\"--h:65%\"></i><i style=\"--h:52%\"></i><i style=\"--h:88%\"></i><i style=\"--h:74%\"></i></div></div><span class=\"cmth__chip cmth__chip--a\">Linked by 38 sites</span></div><b>Original research reports</b><span>Surveys and data studies that journalists, bloggers and AI tools quote and link to.</span></li></ul></div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li><li class=\"astack__card cmstack__card cmstack__card--trust\" style=\"--i:1\" data-astack-card>\n\t\t\t\t\t\t<button class=\"astack__bar\" type=\"button\" data-astack-bar tabindex=\"-1\"><span class=\"astack__n\">02<span class=\"cmstack__st\"> · Build trust</span></span><h3>Show you know the subject better than anyone</h3><span class=\"astack__open\">Open <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m6 15 6-6 6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></button>\n\t\t\t\t\t\t<div class=\"astack__body\">\n\t\t\t\t\t\t\t<p>Once buyers know you exist, they look for proof. Thought leadership, case studies and in-depth guides show that you understand their problem and have solved it before.</p>\n\t\t\t\t\t\t\t<ul class=\"astack__tags\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Thought leadership</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Case studies</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Whitepapers and ebooks</li></ul>\n\t\t\t\t\t\t\t<div class=\"astack__shot\"><ul class=\"cmpieces\" role=\"list\"><li class=\"cmpiece\"><div class=\"cmth\" role=\"img\" aria-label=\"Example: Why we stopped selling annual contracts\"><div class=\"cmth__doc cmth__doc--row\"><img src=\"{{media:assets/images/people/examples/example-3.jpg}}\" alt=\"\" width=\"80\" height=\"80\" loading=\"lazy\"><div><p class=\"cmth__q\">“Why we stopped selling annual contracts”</p><p class=\"cmth__by\">By your CEO, written with Maya</p></div></div></div><b>Thought leadership</b><span>Articles in your experts’ voice, written from interviews, with opinions only your team can give.</span></li><li class=\"cmpiece\"><div class=\"cmth\" role=\"img\" aria-label=\"Example: How Halden & Rowe cut onboarding time by 60%\"><div class=\"cmth__doc\"><p class=\"cmth__by\"><span class=\"txlogo txlogo--m3\"><i aria-hidden=\"true\"></i><b>Halden</b><span>&amp; Rowe</span></span></p><p class=\"cmth__big\">−60%<span>onboarding time</span></p><div class=\"cmth__ba\"><i style=\"--w:100%\"></i><i style=\"--w:40%\"></i></div></div></div><b>Case studies</b><span>Customer stories with the problem, the approach and the numbers, written to convince the buying committee.</span></li><li class=\"cmpiece\"><div class=\"cmth\" role=\"img\" aria-label=\"Example: The buyer’s guide to procurement software\"><div class=\"cmth__book\"><p>The buyer’s guide to procurement software</p><span>Free ebook</span></div><div class=\"cmth__form\"><i></i><b>Download</b></div></div><b>Whitepapers and ebooks</b><span>Deeper guides people trade their email address for, so readers become named leads.</span></li></ul></div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li><li class=\"astack__card cmstack__card cmstack__card--convert\" style=\"--i:2\" data-astack-card>\n\t\t\t\t\t\t<button class=\"astack__bar\" type=\"button\" data-astack-bar tabindex=\"-1\"><span class=\"astack__n\">03<span class=\"cmstack__st\"> · Convert</span></span><h3>Help them choose you</h3><span class=\"astack__open\">Open <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m6 15 6-6 6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></button>\n\t\t\t\t\t\t<div class=\"astack__body\">\n\t\t\t\t\t\t\t<p>When buyers have a shortlist, they need answers to the last questions: how you compare, what it costs, what happens next. This content makes the decision easy.</p>\n\t\t\t\t\t\t\t<ul class=\"astack__tags\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Comparison and alternatives pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Website and landing page copy</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Sales enablement content</li></ul>\n\t\t\t\t\t\t\t<div class=\"astack__shot\"><ul class=\"cmpieces\" role=\"list\"><li class=\"cmpiece\"><div class=\"cmth\" role=\"img\" aria-label=\"Example: Ardent vs SupplyHub: which is right for you?\"><div class=\"cmth__doc\"><p class=\"cmth__t\">Ardent vs SupplyHub</p><table class=\"cmth__tbl\"><tr><td>Setup in a day</td><td class=\"y\">✓</td><td class=\"n\">✕</td></tr><tr><td>Price per user</td><td class=\"y\">✓</td><td class=\"y\">✓</td></tr><tr><td>ERP sync</td><td class=\"y\">✓</td><td class=\"n\">✕</td></tr></table></div></div><b>Comparison and alternatives pages</b><span>Honest “you vs them” pages for buyers who already have a shortlist.</span></li><li class=\"cmpiece\"><div class=\"cmth\" role=\"img\" aria-label=\"Example: A rewritten pricing page and three service pages\"><div class=\"cmth__doc cmth__lp\"><p class=\"cmth__t\">Buy faster, without the paperwork</p><i class=\"cmth__l\"></i><i class=\"cmth__btn\">Book a demo</i><div class=\"cmth__cols\"><i></i><i></i><i></i></div></div></div><b>Website and landing page copy</b><span>Service, product and landing pages written to answer objections and lead to the next step.</span></li><li class=\"cmpiece\"><div class=\"cmth\" role=\"img\" aria-label=\"Example: Five questions to ask before you switch suppliers\"><div class=\"cmth__doc\"><p class=\"cmth__t\">Five questions to ask before you switch suppliers</p><ol class=\"cmth__ol\"><li></li><li></li><li></li></ol></div><span class=\"cmth__chip cmth__chip--a\">Sent in 31 follow-ups</span></div><b>Sales enablement content</b><span>One-pagers, battle cards and email follow-ups your sales team can actually use.</span></li></ul></div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li><li class=\"astack__card cmstack__card cmstack__card--keep\" style=\"--i:3\" data-astack-card>\n\t\t\t\t\t\t<button class=\"astack__bar\" type=\"button\" data-astack-bar tabindex=\"-1\"><span class=\"astack__n\">04<span class=\"cmstack__st\"> · Keep customers</span></span><h3>Keep customers, and turn them into advocates</h3><span class=\"astack__open\">Open <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"m6 15 6-6 6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></button>\n\t\t\t\t\t\t<div class=\"astack__body\">\n\t\t\t\t\t\t\t<p>Content doesn’t stop at the sale. Onboarding guides, newsletters and refreshed resources keep customers getting value, renewing and recommending you.</p>\n\t\t\t\t\t\t\t<ul class=\"astack__tags\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Newsletters</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Help and onboarding content</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content refreshes</li></ul>\n\t\t\t\t\t\t\t<div class=\"astack__shot\"><ul class=\"cmpieces\" role=\"list\"><li class=\"cmpiece\"><div class=\"cmth\" role=\"img\" aria-label=\"Example: A monthly what changed this month newsletter\"><div class=\"cmth__doc cmth__mail\"><p class=\"cmth__from\"><i></i>Ardent · Monthly</p><p class=\"cmth__t\">What changed this month</p><i class=\"cmth__l\"></i><i class=\"cmth__l cmth__l--s\"></i></div><span class=\"cmth__chip cmth__chip--a\">52% open rate</span></div><b>Newsletters</b><span>A regular, useful email your customers look forward to, written by people who know the subject.</span></li><li class=\"cmpiece\"><div class=\"cmth\" role=\"img\" aria-label=\"Example: Your first 30 days: a setup checklist\"><div class=\"cmth__doc\"><p class=\"cmth__t\">Your first 30 days</p><ul class=\"cmth__chk\"><li class=\"on\">Connect your ERP</li><li class=\"on\">Invite your team</li><li>Set approval rules</li></ul><div class=\"cmth__prog\"><i style=\"--w:66%\"></i></div></div></div><b>Help and onboarding content</b><span>Guides that help new customers get value quickly, so they stay.</span></li><li class=\"cmpiece\"><div class=\"cmth\" role=\"img\" aria-label=\"Example: 12 guides updated with new data and examples\"><div class=\"cmth__doc\"><p class=\"cmth__t\">Month-end close guide</p><p class=\"cmth__diff\"><s>2024 survey data</s><ins>2026 survey data</ins></p><p class=\"cmth__by\">Updated November 2026</p></div><span class=\"cmth__chip cmth__chip--a\">Back to #1</span></div><b>Content refreshes</b><span>Updates to older pieces that are slipping in search or no longer accurate.</span></li></ul></div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</li></ol>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "content-marketing",
+    "modules": [
+     "@intella/audit-stack"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Content marketing for your industry",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-3\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-3\">Content marketing for <span class=\"accent\">your industry</span></h2>\n\t\t\t\t<p class=\"section-lead\">Writers who know your field, and a process built around how your buyers decide.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"cminds\" role=\"list\"><li class=\"cmind cmind--b2b\">\n\t\t\t\t\t<a href=\"/services/digital-marketing/content-marketing/b2b-content-marketing/\">\n\t\t\t\t\t\t<span class=\"cmind__top\" aria-hidden=\"true\"><img src=\"{{media:assets/images/team/team-2.jpg}}\" alt=\"\" width=\"640\" height=\"420\" loading=\"lazy\" decoding=\"async\"><span class=\"cmind__tag\">B2B</span></span>\n\t\t\t\t\t\t<span class=\"cmind__body\">\n\t\t\t\t\t\t\t<h3>B2B Content Marketing</h3>\n\t\t\t\t\t\t\t<p>Content for long sales cycles and buying committees, from thought leadership to sales enablement.</p>\n\t\t\t\t\t\t\t<span class=\"cmind__more\">Read more <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</li><li class=\"cmind cmind--saas\">\n\t\t\t\t\t<a href=\"/services/digital-marketing/content-marketing/saas-content-marketing/\">\n\t\t\t\t\t\t<span class=\"cmind__top\" aria-hidden=\"true\"><img src=\"{{media:assets/images/industries/software.jpg}}\" alt=\"\" width=\"640\" height=\"420\" loading=\"lazy\" decoding=\"async\"><span class=\"cmind__tag\">SaaS</span></span>\n\t\t\t\t\t\t<span class=\"cmind__body\">\n\t\t\t\t\t\t\t<h3>SaaS Content Marketing</h3>\n\t\t\t\t\t\t\t<p>Product-led guides, templates and comparison pages that turn readers into trials and sign-ups.</p>\n\t\t\t\t\t\t\t<span class=\"cmind__more\">Read more <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</li><li class=\"cmind cmind--fintech\">\n\t\t\t\t\t<a href=\"/services/digital-marketing/content-marketing/fintech/\">\n\t\t\t\t\t\t<span class=\"cmind__top\" aria-hidden=\"true\"><img src=\"{{media:assets/images/industries/finance.jpg}}\" alt=\"\" width=\"640\" height=\"420\" loading=\"lazy\" decoding=\"async\"><span class=\"cmind__tag\">Fintech</span></span>\n\t\t\t\t\t\t<span class=\"cmind__body\">\n\t\t\t\t\t\t\t<h3>Fintech Content Marketing</h3>\n\t\t\t\t\t\t\t<p>Accurate, compliance-ready content for banks, fintechs and financial services brands.</p>\n\t\t\t\t\t\t\t<span class=\"cmind__more\">Read more <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</li><li class=\"cmind cmind--health\">\n\t\t\t\t\t<a href=\"/services/digital-marketing/content-marketing/healthcare/\">\n\t\t\t\t\t\t<span class=\"cmind__top\" aria-hidden=\"true\"><img src=\"{{media:assets/images/industries/clinics.jpg}}\" alt=\"\" width=\"640\" height=\"420\" loading=\"lazy\" decoding=\"async\"><span class=\"cmind__tag\">Healthcare</span></span>\n\t\t\t\t\t\t<span class=\"cmind__body\">\n\t\t\t\t\t\t\t<h3>Healthcare Content Marketing</h3>\n\t\t\t\t\t\t\t<p>Medically reviewed content for patients and clinicians, with sources on every page.</p>\n\t\t\t\t\t\t\t<span class=\"cmind__more\">Read more <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</li></ul>\n\t\t\t<p class=\"cminds__also\">We also write for professional services, technology, eCommerce, logistics and more. <a href=\"#proposal\">Tell us about your industry</a>.</p>\n\t\t</div>\n\t</section>",
+    "css": "content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Written by people, checked by experts",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-4\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"cmed\">\n\t\t\t\t<div>\n\t\t\t\t\t<h2 class=\"section-title\" id=\"h-4\">Written by people, <span class=\"accent\">checked by experts</span></h2>\n\t\t\t\t\t<p class=\"section-lead\">Readers can tell when content has nothing to say. We use AI for one thing only: research. Every word you publish is written by an in-house writer who knows your field, edited by a second person and checked by someone who knows the subject.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Research: your buyers, competitors and the questions people ask</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> An interview with your expert for anything that needs real experience</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Written by a specialist writer from our in-house team</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Edited by a second person for clarity and accuracy</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Every fact and figure checked against a source</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> SEO review: search intent, headings and internal links</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Your approval before anything goes live</li></ul>\n\t\t\t\t</div>\n\t\t\t\t<figure class=\"cmcrew\" aria-label=\"The people behind one guide: research, an interview, writing, editing and your approval\">\n\t\t\t\t\t<p class=\"cmcrew__head\"><b>How finance teams close the month in five days</b><span>The people behind one guide</span></p>\n\t\t\t\t\t<ol class=\"cmcrew__list\" role=\"list\"><li class=\"cmcrew__s cmcrew__s--ai\">\n\t\t\t\t\t\t\t<div class=\"cmcrew__face\"><span class=\"cmcrew__ai\" aria-hidden=\"true\">AI</span><img src=\"{{media:assets/images/people/examples/example-2.jpg}}\" alt=\"\" width=\"80\" height=\"80\" loading=\"lazy\" decoding=\"async\"></div>\n\t\t\t\t\t\t\t<div><p class=\"cmcrew__step\">1 · Research</p><p class=\"cmcrew__who\">AI helps, a person decides</p><p class=\"cmcrew__what\">AI tools help us find the questions buyers ask and the sources AI search cites. Elena checks every source and writes the brief.</p></div>\n\t\t\t\t\t\t</li><li class=\"cmcrew__s cmcrew__s--talk\">\n\t\t\t\t\t\t\t<div class=\"cmcrew__face\"><img src=\"{{media:assets/images/people/examples/example-4.jpg}}\" alt=\"\" width=\"80\" height=\"80\" loading=\"lazy\" decoding=\"async\"></div>\n\t\t\t\t\t\t\t<div><p class=\"cmcrew__step\">2 · Interview</p><p class=\"cmcrew__who\">Your expert, 30 minutes</p><p class=\"cmcrew__what\">Maya interviews your expert, so the piece has real experience in it.</p></div>\n\t\t\t\t\t\t</li><li class=\"cmcrew__s cmcrew__s--write\">\n\t\t\t\t\t\t\t<div class=\"cmcrew__face\"><img src=\"{{media:assets/images/people/examples/example-4.jpg}}\" alt=\"\" width=\"80\" height=\"80\" loading=\"lazy\" decoding=\"async\"></div>\n\t\t\t\t\t\t\t<div><p class=\"cmcrew__step\">3 · Writing</p><p class=\"cmcrew__who\">Maya, senior writer</p><p class=\"cmcrew__what\">Written from scratch, in your voice. 2,400 words, no AI drafts.</p></div>\n\t\t\t\t\t\t</li><li class=\"cmcrew__s cmcrew__s--edit\">\n\t\t\t\t\t\t\t<div class=\"cmcrew__face\"><img src=\"{{media:assets/images/people/examples/example-5.jpg}}\" alt=\"\" width=\"80\" height=\"80\" loading=\"lazy\" decoding=\"async\"></div>\n\t\t\t\t\t\t\t<div><p class=\"cmcrew__step\">4 · Editing</p><p class=\"cmcrew__who\">Tom, managing editor</p><p class=\"cmcrew__what\">Edited for clarity, and 14 facts checked against their sources.</p></div>\n\t\t\t\t\t\t</li><li class=\"cmcrew__s cmcrew__s--ok\">\n\t\t\t\t\t\t\t<div class=\"cmcrew__face\"><i class=\"cmcrew__you\" aria-hidden=\"true\">You</i></div>\n\t\t\t\t\t\t\t<div><p class=\"cmcrew__step\">5 · Approval</p><p class=\"cmcrew__who\">Your team</p><p class=\"cmcrew__what\">You review it, suggest changes and approve it before it goes live.</p></div>\n\t\t\t\t\t\t</li></ol>\n\t\t\t\t\t<p class=\"cmcrew__foot\"><span><b>4</b> people</span><span><b>14</b> facts checked</span><span><b>0</b> AI-written words</span></p>\n\t\t\t\t</figure>\n\t\t\t</div>\n\t\t\t<div class=\"cmteam\">\n\t\t\t\t<div class=\"cmteam__text\">\n\t\t\t\t\t<h3 class=\"cmteam__title\">An in-house writing team, <span class=\"accent\">not a freelance pool</span></h3>\n\t\t\t\t\t<p>Our writers and editors are on our own team and work together every day. Each client gets a lead writer who learns the business, plus an editor and a strategist, so your voice stays the same from the first piece to the fiftieth.</p>\n\t\t\t\t\t<p class=\"cmteam__h\">How we write</p>\n\t\t\t\t\t<ul class=\"cmteam__ways\" role=\"list\"><li><b>Reader first</b>We start from what your buyer needs to know, then fit the keywords in, never the other way round.</li><li><b>Something only you can say</b>Every piece includes your expert’s view, a real example or your own data.</li><li><b>Plain words</b>Short sentences, no jargon for its own sake, and examples instead of adjectives.</li><li><b>A source for every claim</b>If we can’t point to where a number came from, it doesn’t go in.</li></ul>\n\t\t\t\t\t<p class=\"cmteam__h\">Our writing week</p>\n\t\t\t\t\t<ol class=\"cmwk\" role=\"list\"><li class=\"cmwk__d cmwk__d--1\"><b>Mon</b><span>Brief and interview</span></li><li class=\"cmwk__d cmwk__d--2\"><b>Tue</b><span>Draft</span></li><li class=\"cmwk__d cmwk__d--3\"><b>Wed</b><span>Draft</span></li><li class=\"cmwk__d cmwk__d--4\"><b>Thu</b><span>Edit and fact-check</span></li><li class=\"cmwk__d cmwk__d--5\"><b>Fri</b><span>Your review</span></li></ol>\n\t\t\t\t\t<p class=\"cmteam__note\">Long pieces get a full week, so nothing is rushed. Research and interviews happen before a word is written.</p>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"cmteam__people\">\n\t\t\t\t\t<p class=\"cmteam__h\">Meet some of our writers</p>\n\t\t\t\t\t<ul class=\"cmws\" role=\"list\"><li class=\"cmw cmw--1\">\n\t\t\t\t\t\t<img class=\"cmw__ph\" src=\"{{media:assets/images/people/examples/example-4.jpg}}\" alt=\"Maya Collins\" width=\"300\" height=\"300\" loading=\"lazy\" decoding=\"async\">\n\t\t\t\t\t\t<div class=\"cmw__main\">\n\t\t\t\t\t\t\t<p class=\"cmw__name\">Maya Collins</p>\n\t\t\t\t\t\t\t<p class=\"cmw__role\">Senior content writer</p>\n\t\t\t\t\t\t\t<p class=\"cmw__meta\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pin\"/></svg> London, UK</span><span><b>9</b> years writing</span></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmw__tags\" role=\"list\"><li>B2B and SaaS</li><li>Long-form guides</li><li>Expert interviews</li></ul>\n\t\t\t\t\t</li><li class=\"cmw cmw--2\">\n\t\t\t\t\t\t<img class=\"cmw__ph\" src=\"{{media:assets/images/people/examples/example-5.jpg}}\" alt=\"Tom Hargreaves\" width=\"300\" height=\"300\" loading=\"lazy\" decoding=\"async\">\n\t\t\t\t\t\t<div class=\"cmw__main\">\n\t\t\t\t\t\t\t<p class=\"cmw__name\">Tom Hargreaves</p>\n\t\t\t\t\t\t\t<p class=\"cmw__role\">Managing editor</p>\n\t\t\t\t\t\t\t<p class=\"cmw__meta\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pin\"/></svg> Manchester, UK</span><span><b>12</b> years writing</span></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmw__tags\" role=\"list\"><li>Editing</li><li>Fact-checking</li><li>Style guides</li></ul>\n\t\t\t\t\t</li><li class=\"cmw cmw--3\">\n\t\t\t\t\t\t<img class=\"cmw__ph\" src=\"{{media:assets/images/people/examples/example-2.jpg}}\" alt=\"Elena Rossi\" width=\"300\" height=\"300\" loading=\"lazy\" decoding=\"async\">\n\t\t\t\t\t\t<div class=\"cmw__main\">\n\t\t\t\t\t\t\t<p class=\"cmw__name\">Elena Rossi</p>\n\t\t\t\t\t\t\t<p class=\"cmw__role\">Content strategist</p>\n\t\t\t\t\t\t\t<p class=\"cmw__meta\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pin\"/></svg> Lisbon, Portugal</span><span><b>8</b> years writing</span></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmw__tags\" role=\"list\"><li>Content strategy</li><li>SEO briefs</li><li>AI search</li></ul>\n\t\t\t\t\t</li><li class=\"cmw cmw--4\">\n\t\t\t\t\t\t<img class=\"cmw__ph\" src=\"{{media:assets/images/people/examples/example-6.jpg}}\" alt=\"Rohan Kapoor\" width=\"300\" height=\"300\" loading=\"lazy\" decoding=\"async\">\n\t\t\t\t\t\t<div class=\"cmw__main\">\n\t\t\t\t\t\t\t<p class=\"cmw__name\">Rohan Kapoor</p>\n\t\t\t\t\t\t\t<p class=\"cmw__role\">Finance writer</p>\n\t\t\t\t\t\t\t<p class=\"cmw__meta\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pin\"/></svg> Mumbai, India</span><span><b>8</b> years writing</span></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmw__tags\" role=\"list\"><li>Fintech</li><li>Payments</li><li>Compliance-ready copy</li></ul>\n\t\t\t\t\t</li><li class=\"cmw cmw--5\">\n\t\t\t\t\t\t<img class=\"cmw__ph\" src=\"{{media:assets/images/people/examples/example-9.jpg}}\" alt=\"Amara Okafor\" width=\"300\" height=\"300\" loading=\"lazy\" decoding=\"async\">\n\t\t\t\t\t\t<div class=\"cmw__main\">\n\t\t\t\t\t\t\t<p class=\"cmw__name\">Amara Okafor</p>\n\t\t\t\t\t\t\t<p class=\"cmw__role\">Healthcare writer</p>\n\t\t\t\t\t\t\t<p class=\"cmw__meta\"><span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-pin\"/></svg> Cape Town, South Africa</span><span><b>10</b> years writing</span></p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmw__tags\" role=\"list\"><li>Healthcare</li><li>Patient guides</li><li>Medical review</li></ul>\n\t\t\t\t\t</li></ul>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How a content programme comes together",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-5\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-5\">How a content programme <span class=\"accent\">comes together</span></h2>\n\t\t\t\t<p class=\"section-lead\">A clear rhythm from the first month, so you always know what’s coming next.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"cmsteps\" role=\"list\"><li class=\"cmstep cmstep--1\">\n\t\t\t\t\t<p class=\"cmstep__when\">Weeks 1–2</p>\n\t\t\t\t\t<p class=\"cmstep__n\">1</p>\n\t\t\t\t\t<h3>Research</h3>\n\t\t\t\t\t<p>Your buyers, competitors and the searches and questions that lead to a sale.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--2\">\n\t\t\t\t\t<p class=\"cmstep__when\">Weeks 2–3</p>\n\t\t\t\t\t<p class=\"cmstep__n\">2</p>\n\t\t\t\t\t<h3>Strategy</h3>\n\t\t\t\t\t<p>Topics, formats and goals, ranked by what they should bring in.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--3\">\n\t\t\t\t\t<p class=\"cmstep__when\">Week 3</p>\n\t\t\t\t\t<p class=\"cmstep__n\">3</p>\n\t\t\t\t\t<h3>Calendar</h3>\n\t\t\t\t\t<p>Three months of content planned, with owners and dates.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--4\">\n\t\t\t\t\t<p class=\"cmstep__when\">Every month</p>\n\t\t\t\t\t<p class=\"cmstep__n\">4</p>\n\t\t\t\t\t<h3>Create</h3>\n\t\t\t\t\t<p>Interviews, writing, editing and fact-checking, then your approval.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--5\">\n\t\t\t\t\t<p class=\"cmstep__when\">Every month</p>\n\t\t\t\t\t<p class=\"cmstep__n\">5</p>\n\t\t\t\t\t<h3>Distribute</h3>\n\t\t\t\t\t<p>Search, LinkedIn, email, sales and outreach for every piece.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--6\">\n\t\t\t\t\t<p class=\"cmstep__when\">Every quarter</p>\n\t\t\t\t\t<p class=\"cmstep__n\">6</p>\n\t\t\t\t\t<h3>Measure and refresh</h3>\n\t\t\t\t\t<p>What worked, what to do more of, and which pieces to update.</p>\n\t\t\t\t</li></ol>\n\t\t</div>\n\t</section>",
+    "css": "content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Publishing is half the job",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-6\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-6\">Publishing is <span class=\"accent\">half the job</span></h2>\n\t\t\t\t<p class=\"section-lead\">A great article nobody sees does nothing. Every piece we create follows the same cycle: published, shared, tuned, reused, cited and refreshed, on a steady publishing cadence across search, social, email and sales.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmcyc\">\n\t\t\t\t<p class=\"cmcyc__title\">The life of one piece of content, and how often we publish</p>\n\t\t\t\t<ol class=\"cmcyc__list\" role=\"list\"><li class=\"cmcyc__c cmcyc__c--1\">\n\t\t\t\t\t<span class=\"cmcyc__num\" aria-hidden=\"true\">01</span>\n\t\t\t\t\t<p class=\"cmcyc__when\">Launch day</p>\n\t\t\t\t\t<h3>Published</h3>\n\t\t\t\t\t<p>Live on your site and sent to the people who already know you.</p>\n\t\t\t\t\t<ul class=\"cmcyc__ch\" role=\"list\"><li>Newsletter</li><li>Sales team</li></ul>\n\t\t\t\t\t<span class=\"cmcyc__arr\" aria-hidden=\"true\"><svg viewBox=\"0 0 40 16\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M2 8h34m-6-6 6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span>\n\t\t\t\t</li><li class=\"cmcyc__c cmcyc__c--2\">\n\t\t\t\t\t<span class=\"cmcyc__num\" aria-hidden=\"true\">02</span>\n\t\t\t\t\t<p class=\"cmcyc__when\">Week 1</p>\n\t\t\t\t\t<h3>Shared</h3>\n\t\t\t\t\t<p>Posts from your experts, and outreach to sites that cover the topic.</p>\n\t\t\t\t\t<ul class=\"cmcyc__ch\" role=\"list\"><li>LinkedIn · 3 a week</li><li>Outreach</li></ul>\n\t\t\t\t\t<span class=\"cmcyc__arr\" aria-hidden=\"true\"><svg viewBox=\"0 0 40 16\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M2 8h34m-6-6 6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span>\n\t\t\t\t</li><li class=\"cmcyc__c cmcyc__c--3\">\n\t\t\t\t\t<span class=\"cmcyc__num\" aria-hidden=\"true\">03</span>\n\t\t\t\t\t<p class=\"cmcyc__when\">Month 1</p>\n\t\t\t\t\t<h3>Climbing</h3>\n\t\t\t\t\t<p>Rankings checked, titles tuned and links added from older pieces.</p>\n\t\t\t\t\t<ul class=\"cmcyc__ch\" role=\"list\"><li>Search</li></ul>\n\t\t\t\t\t<span class=\"cmcyc__arr\" aria-hidden=\"true\"><svg viewBox=\"0 0 40 16\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M2 8h34m-6-6 6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span>\n\t\t\t\t</li><li class=\"cmcyc__c cmcyc__c--4\">\n\t\t\t\t\t<span class=\"cmcyc__num\" aria-hidden=\"true\">04</span>\n\t\t\t\t\t<p class=\"cmcyc__when\">Month 3</p>\n\t\t\t\t\t<h3>Reused</h3>\n\t\t\t\t\t<p>Turned into checklists, slides and one-pagers for sales.</p>\n\t\t\t\t\t<ul class=\"cmcyc__ch\" role=\"list\"><li>Sales decks</li></ul>\n\t\t\t\t\t<span class=\"cmcyc__arr\" aria-hidden=\"true\"><svg viewBox=\"0 0 40 16\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M2 8h34m-6-6 6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span>\n\t\t\t\t</li><li class=\"cmcyc__c cmcyc__c--5\">\n\t\t\t\t\t<span class=\"cmcyc__num\" aria-hidden=\"true\">05</span>\n\t\t\t\t\t<p class=\"cmcyc__when\">Month 6</p>\n\t\t\t\t\t<h3>Cited</h3>\n\t\t\t\t\t<p>Clear answers that ChatGPT and AI Overviews quote.</p>\n\t\t\t\t\t<ul class=\"cmcyc__ch\" role=\"list\"><li>AI answers · quarterly</li></ul>\n\t\t\t\t\t<span class=\"cmcyc__arr\" aria-hidden=\"true\"><svg viewBox=\"0 0 40 16\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M2 8h34m-6-6 6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span>\n\t\t\t\t</li><li class=\"cmcyc__c cmcyc__c--6\">\n\t\t\t\t\t<span class=\"cmcyc__num\" aria-hidden=\"true\">06</span>\n\t\t\t\t\t<p class=\"cmcyc__when\">Every year</p>\n\t\t\t\t\t<h3>Refreshed</h3>\n\t\t\t\t\t<p>New data and examples, so it keeps ranking. Then the cycle starts again.</p>\n\t\t\t\t\t<ul class=\"cmcyc__ch\" role=\"list\"><li>Refresh · yearly</li></ul>\n\t\t\t\t\t<span class=\"cmcyc__arr\" aria-hidden=\"true\"><svg viewBox=\"0 0 40 16\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M2 8h34m-6-6 6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span>\n\t\t\t\t</li></ol>\n\t\t\t\t<p class=\"cmcyc__loop\"><span aria-hidden=\"true\">↻</span> Then the cycle starts again, with the refreshed piece</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmval\">\n\t\t\t\t<p class=\"cmval__h\">What a steady cadence gives you</p>\n\t\t\t\t<ul role=\"list\"><li class=\"cmval__i cmval__i--traffic\"><div class=\"cmval__ill\" aria-hidden=\"true\"><svg viewBox=\"0 0 200 110\"><g fill=\"none\" stroke-linecap=\"round\"><path d=\"M10 100h180\" stroke=\"rgb(255 255 255 / 0.2)\" stroke-width=\"2\"/></g>\n<path d=\"M14 98 L50 92 L86 82 L122 64 L158 40 L186 16 L186 98 Z\" fill=\"#7fe0bf\" opacity=\"0.18\"/>\n<path d=\"M14 98 L50 95 L86 88 L122 76 L158 60 L186 44 L186 98 Z\" fill=\"#7fe0bf\" opacity=\"0.25\"/>\n<path d=\"M14 98 L50 97 L86 94 L122 88 L158 80 L186 72 L186 98 Z\" fill=\"#7fe0bf\" opacity=\"0.4\"/>\n<path d=\"M14 98 L50 92 L86 82 L122 64 L158 40 L186 16\" fill=\"none\" stroke=\"#7fe0bf\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n<circle cx=\"186\" cy=\"16\" r=\"5\" fill=\"#7fe0bf\"/></svg></div><b>Compounding traffic</b>Every month adds to what’s already ranking, instead of starting from zero.</li><li class=\"cmval__i cmval__i--calls\"><div class=\"cmval__ill\" aria-hidden=\"true\"><svg viewBox=\"0 0 200 110\"><rect x=\"12\" y=\"14\" width=\"118\" height=\"34\" rx=\"10\" fill=\"rgb(255 255 255 / 0.12)\"/><rect x=\"24\" y=\"26\" width=\"70\" height=\"5\" rx=\"2.5\" fill=\"rgb(255 255 255 / 0.55)\"/><rect x=\"24\" y=\"35\" width=\"48\" height=\"5\" rx=\"2.5\" fill=\"rgb(255 255 255 / 0.3)\"/>\n<rect x=\"70\" y=\"58\" width=\"118\" height=\"38\" rx=\"10\" fill=\"#ffb27a\"/><rect x=\"82\" y=\"70\" width=\"80\" height=\"5\" rx=\"2.5\" fill=\"#5a2a0c\" opacity=\"0.7\"/><rect x=\"82\" y=\"80\" width=\"56\" height=\"5\" rx=\"2.5\" fill=\"#5a2a0c\" opacity=\"0.4\"/>\n<circle cx=\"150\" cy=\"30\" r=\"14\" fill=\"#ffb27a\"/><path d=\"M144 30l4 4 8-8\" fill=\"none\" stroke=\"#5a2a0c\" stroke-width=\"2.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></div><b>Warmer sales calls</b>Prospects arrive having read your thinking, so calls start further along.</li><li class=\"cmval__i cmval__i--name\"><div class=\"cmval__ill\" aria-hidden=\"true\"><svg viewBox=\"0 0 200 110\"><g fill=\"rgb(255 255 255 / 0.1)\"><rect x=\"10\" y=\"12\" width=\"52\" height=\"40\" rx=\"8\"/><rect x=\"74\" y=\"12\" width=\"52\" height=\"40\" rx=\"8\"/><rect x=\"138\" y=\"12\" width=\"52\" height=\"40\" rx=\"8\"/><rect x=\"10\" y=\"60\" width=\"52\" height=\"40\" rx=\"8\"/><rect x=\"138\" y=\"60\" width=\"52\" height=\"40\" rx=\"8\"/></g>\n<g fill=\"#9fc1ff\" opacity=\"0.5\"><circle cx=\"36\" cy=\"32\" r=\"7\"/><circle cx=\"100\" cy=\"32\" r=\"7\"/><circle cx=\"164\" cy=\"32\" r=\"7\"/><circle cx=\"36\" cy=\"80\" r=\"7\"/><circle cx=\"164\" cy=\"80\" r=\"7\"/></g>\n<rect x=\"66\" y=\"54\" width=\"68\" height=\"52\" rx=\"10\" fill=\"#9fc1ff\"/><circle cx=\"100\" cy=\"74\" r=\"10\" fill=\"#0b2a3d\"/><rect x=\"84\" y=\"90\" width=\"32\" height=\"5\" rx=\"2.5\" fill=\"#0b2a3d\" opacity=\"0.6\"/></svg></div><b>A name people recognise</b>Showing up week after week is what makes buyers remember you.</li><li class=\"cmval__i cmval__i--cost\"><div class=\"cmval__ill\" aria-hidden=\"true\"><svg viewBox=\"0 0 200 110\"><path d=\"M10 100h180\" stroke=\"rgb(255 255 255 / 0.2)\" stroke-width=\"2\"/>\n<g fill=\"#f7a8cf\"><rect x=\"22\" y=\"18\" width=\"22\" height=\"82\" rx=\"4\"/><rect x=\"56\" y=\"34\" width=\"22\" height=\"66\" rx=\"4\" opacity=\"0.9\"/><rect x=\"90\" y=\"52\" width=\"22\" height=\"48\" rx=\"4\" opacity=\"0.8\"/><rect x=\"124\" y=\"66\" width=\"22\" height=\"34\" rx=\"4\" opacity=\"0.7\"/><rect x=\"158\" y=\"78\" width=\"22\" height=\"22\" rx=\"4\" opacity=\"0.6\"/></g>\n<path d=\"M30 10 C 80 20, 130 50, 176 66\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 5\" opacity=\"0.6\"/><path d=\"M168 58l9 8-11 3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" opacity=\"0.7\"/></svg></div><b>Lower cost per lead</b>Content keeps working after it’s paid for. Ads don’t.</li></ul>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Reporting in leads, not likes",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-7\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-7\">Reporting in <span class=\"accent\">leads, not likes</span></h2>\n\t\t\t\t<p class=\"section-lead\">Every month you see what each piece brought in: readers, leads and the deals it touched, straight from your analytics and CRM.</p>\n\t\t\t</div>\n\t\t\t<figure class=\"cmrep\" aria-label=\"A monthly content report: 41,200 readers from search, 286 leads, $1.3M of pipeline influenced and the top four pieces by leads\">\n\t\t\t\t<div class=\"cmrep__bar\"><b>Content performance</b><span>Last 6 months · sample data</span></div>\n\t\t\t\t<div class=\"cmrep__kpis\"><div class=\"cmrep__kpi\"><span>Readers from search</span><b>41.2K</b><i>+58%</i></div><div class=\"cmrep__kpi\"><span>Leads from content</span><b>286</b><i>+2.1×</i></div><div class=\"cmrep__kpi\"><span>Pipeline influenced</span><b>$1.3M</b><i>in 6 months</i></div><div class=\"cmrep__kpi\"><span>Pieces live</span><b>64</b><i>12 refreshed</i></div></div>\n\t\t\t\t<table class=\"tx-table\"><thead><tr><th>Piece</th><th>Type</th><th class=\"num\">Readers</th><th class=\"num\">Leads</th></tr></thead><tbody><tr><td>Month-end close guide</td><td><span class=\"cmrep__type\">Guide</span></td><td class=\"num\">4,180</td><td class=\"num\">63</td></tr><tr><td>2027 B2B payments report</td><td><span class=\"cmrep__type\">Research</span></td><td class=\"num\">2,960</td><td class=\"num\">118</td></tr><tr><td>Ardent vs SupplyHub</td><td><span class=\"cmrep__type\">Comparison</span></td><td class=\"num\">1,240</td><td class=\"num\">41</td></tr><tr><td>Halden & Rowe case study</td><td><span class=\"cmrep__type\">Case study</span></td><td class=\"num\">860</td><td class=\"num\">22</td></tr></tbody></table>\n\t\t\t</figure>\n\t\t</div>\n\t</section>",
+    "css": "content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Content marketing with SEO built in",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-8\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"cmseo\">\n\t\t\t\t<div>\n\t\t\t\t\t<h2 class=\"section-title\" id=\"h-8\">Content marketing with <span class=\"accent\">SEO built in</span></h2>\n\t\t\t\t\t<p class=\"section-lead\">Most of the people who read your content will find it through search. So every piece starts with keyword research, matches what the searcher wants and links into the rest of your site. One team plans the SEO and the content, so nothing gets lost between agencies.</p>\n\t\t\t\t</div>\n\t\t\t\t<ul class=\"cmseo__links\" role=\"list\"><li class=\"cmseo__l cmseo__l--teal\"><a href=\"/services/digital-marketing/seo/seo-content-writing/\"><span class=\"cmseo__dot\" aria-hidden=\"true\">1</span><span class=\"cmseo__txt\"><b>SEO Content Writing</b><span>Pages and articles written to rank</span></span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a></li><li class=\"cmseo__l cmseo__l--amber\"><a href=\"/audits/content-audit/\"><span class=\"cmseo__dot\" aria-hidden=\"true\">2</span><span class=\"cmseo__txt\"><b>Content Audit</b><span>Find gaps, quick wins and pages to improve</span></span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a></li><li class=\"cmseo__l cmseo__l--blue\"><a href=\"/services/digital-marketing/seo/\"><span class=\"cmseo__dot\" aria-hidden=\"true\">3</span><span class=\"cmseo__txt\"><b>SEO services</b><span>Technical SEO, links and strategy</span></span><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a></li></ul>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/case-study",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "look": "cmcase cmcase--main",
+    "kicker": "Case study · Content marketing",
+    "title": "How Ardent Supply became the name buyers <em>quote back to sales</em>",
+    "client": "Ardent Supply",
+    "clientInfo": "· Procurement software · Two-person marketing team",
+    "steps": [
+     {
+      "title": "The challenge",
+      "text": "A good product with a blog nobody read. Sales calls started from zero, because buyers had never heard of Ardent before the first meeting."
+     },
+     {
+      "title": "What we did",
+      "text": "A strategy around the questions procurement leads ask, an annual research report, 40 guides, six case studies and a LinkedIn plan for two founders."
+     },
+     {
+      "title": "The outcome",
+      "text": "Organic readers grew five times in a year, and new prospects now arrive having read the report and quoting it back to sales."
+     }
+    ],
+    "buttonText": "Read the case study",
+    "buttonUrl": "/case-studies/",
+    "stats": [
+     {
+      "value": "5×",
+      "label": "organic readers in 12 months"
+     },
+     {
+      "value": "412",
+      "label": "leads from content"
+     },
+     {
+      "value": "38",
+      "label": "links to the research report"
+     },
+     {
+      "value": "$2.1M",
+      "label": "pipeline influenced"
+     }
+    ],
+    "chartTitle": "Leads from content, per month",
+    "bars": [
+     {
+      "height": 13,
+      "label": "Month 1: 8"
+     },
+     {
+      "height": 18,
+      "label": "Month 2: 11"
+     },
+     {
+      "height": 23,
+      "label": "Month 3: 14"
+     },
+     {
+      "height": 31,
+      "label": "Month 4: 19"
+     },
+     {
+      "height": 36,
+      "label": "Month 5: 22"
+     },
+     {
+      "height": 44,
+      "label": "Month 6: 27"
+     },
+     {
+      "height": 51,
+      "label": "Month 7: 31"
+     },
+     {
+      "height": 59,
+      "label": "Month 8: 36"
+     },
+     {
+      "height": 69,
+      "label": "Month 9: 42"
+     },
+     {
+      "height": 77,
+      "label": "Month 10: 47"
+     },
+     {
+      "height": 90,
+      "label": "Month 11: 55"
+     },
+     {
+      "height": 100,
+      "label": "Month 12: 61"
+     }
+    ],
+    "axisStart": "Month 1",
+    "axisEnd": "Month 12"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Companies that trust us with their content",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-10\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-10\">Companies that trust us with <span class=\"accent\">their content</span></h2>\n\t\t\t\t<p class=\"section-lead\">From software and finance to healthcare and law, these teams use our content marketing every month.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"cmcls\" role=\"list\"><li class=\"cmcl__c\">\n\t\t\t\t\t<div class=\"cmcl__logo\"><span class=\"cmlg\" style=\"--lc:#1f3a8a\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 4 36 34H4z\" fill=\"#1f3a8a\"/><path d=\"M20 16 29 34H11z\" fill=\"#60a5fa\"/></svg><span class=\"cmlg__w\"><b>Ardent</b><span>Supply</span></span></span></div>\n\t\t\t\t\t<p class=\"cmcl__ind\">Procurement software</p>\n\t\t\t\t\t<p class=\"cmcl__what\"><span>What we create</span>Guides, research report, LinkedIn</p>\n\t\t\t\t\t<p class=\"cmcl__res\">5× organic readers</p>\n\t\t\t\t</li><li class=\"cmcl__c\">\n\t\t\t\t\t<div class=\"cmcl__logo\"><span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"9\" y=\"9\" width=\"22\" height=\"22\" rx=\"3\" transform=\"rotate(45 20 20)\" fill=\"#0f766e\"/><circle cx=\"20\" cy=\"20\" r=\"5\" fill=\"#99f6e4\"/></svg><span class=\"cmlg__w\"><b>Halden</b><span>& Rowe</span></span></span></div>\n\t\t\t\t\t<p class=\"cmcl__ind\">Engineering services</p>\n\t\t\t\t\t<p class=\"cmcl__what\"><span>What we create</span>Thought leadership, case studies</p>\n\t\t\t\t\t<p class=\"cmcl__res\">$2.4M pipeline</p>\n\t\t\t\t</li><li class=\"cmcl__c\">\n\t\t\t\t\t<div class=\"cmcl__logo\"><span class=\"cmlg\" style=\"--lc:#1e40af\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"16\" fill=\"#2563eb\"/><rect x=\"12\" y=\"20\" width=\"4\" height=\"8\" rx=\"1\" fill=\"#fff\"/><rect x=\"18\" y=\"15\" width=\"4\" height=\"13\" rx=\"1\" fill=\"#fff\"/><rect x=\"24\" y=\"11\" width=\"4\" height=\"17\" rx=\"1\" fill=\"#fff\"/></svg><span class=\"cmlg__w\"><b>Plotline</b><span>Analytics</span></span></span></div>\n\t\t\t\t\t<p class=\"cmcl__ind\">SaaS</p>\n\t\t\t\t\t<p class=\"cmcl__what\"><span>What we create</span>Product guides, comparison pages</p>\n\t\t\t\t\t<p class=\"cmcl__res\">+72% trials from content</p>\n\t\t\t\t</li><li class=\"cmcl__c\">\n\t\t\t\t\t<div class=\"cmcl__logo\"><span class=\"cmlg\" style=\"--lc:#166534\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M6 30C6 14 18 6 34 6c0 16-8 28-24 28z\" fill=\"#15803d\"/><path d=\"M8 32 26 14\" stroke=\"#bbf7d0\" stroke-width=\"2.5\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Mintwise</b><span>Pay</span></span></span></div>\n\t\t\t\t\t<p class=\"cmcl__ind\">Fintech</p>\n\t\t\t\t\t<p class=\"cmcl__what\"><span>What we create</span>Compliance-ready guides, newsletter</p>\n\t\t\t\t\t<p class=\"cmcl__res\">3× newsletter sign-ups</p>\n\t\t\t\t</li><li class=\"cmcl__c\">\n\t\t\t\t\t<div class=\"cmcl__logo\"><span class=\"cmlg\" style=\"--lc:#7e22ce\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><ellipse cx=\"20\" cy=\"20\" rx=\"17\" ry=\"11\" fill=\"#9333ea\"/><circle cx=\"20\" cy=\"20\" r=\"6.5\" fill=\"#fff\"/><circle cx=\"20\" cy=\"20\" r=\"3.5\" fill=\"#9333ea\"/></svg><span class=\"cmlg__w\"><b>Clearview</b><span>Eye Clinics</span></span></span></div>\n\t\t\t\t\t<p class=\"cmcl__ind\">Healthcare</p>\n\t\t\t\t\t<p class=\"cmcl__what\"><span>What we create</span>Medically reviewed patient guides</p>\n\t\t\t\t\t<p class=\"cmcl__res\">+140% bookings from search</p>\n\t\t\t\t</li><li class=\"cmcl__c\">\n\t\t\t\t\t<div class=\"cmcl__logo\"><span class=\"cmlg\" style=\"--lc:#9a3412\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"4\" y=\"4\" width=\"32\" height=\"32\" rx=\"8\" fill=\"#b4532a\"/><path d=\"M20 10v20M12 16h16M12 16l-4 8h8zM28 16l-4 8h8z\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Oakfield</b><span>Legal</span></span></span></div>\n\t\t\t\t\t<p class=\"cmcl__ind\">Law firm</p>\n\t\t\t\t\t<p class=\"cmcl__what\"><span>What we create</span>Practice area guides, FAQs</p>\n\t\t\t\t\t<p class=\"cmcl__res\">61 enquiries a month</p>\n\t\t\t\t</li><li class=\"cmcl__c\">\n\t\t\t\t\t<div class=\"cmcl__logo\"><span class=\"cmlg\" style=\"--lc:#9a3412\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M4 26h22l8-8-8-8\" fill=\"none\" stroke=\"#c2410c\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"8\" cy=\"14\" r=\"4\" fill=\"#fdba74\"/></svg><span class=\"cmlg__w\"><b>Northline</b><span>Freight</span></span></span></div>\n\t\t\t\t\t<p class=\"cmcl__ind\">Logistics software</p>\n\t\t\t\t\t<p class=\"cmcl__what\"><span>What we create</span>Comparison pages, sales one-pagers</p>\n\t\t\t\t\t<p class=\"cmcl__res\">2.4× demo requests</p>\n\t\t\t\t</li><li class=\"cmcl__c\">\n\t\t\t\t\t<div class=\"cmcl__logo\"><span class=\"cmlg\" style=\"--lc:#9d174d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 3 34 9v10c0 9-6 15-14 18C12 34 6 28 6 19V9z\" fill=\"#be185d\"/><path d=\"m13 20 5 5 9-10\" stroke=\"#fff\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Solace</b><span>Security</span></span></span></div>\n\t\t\t\t\t<p class=\"cmcl__ind\">Cybersecurity</p>\n\t\t\t\t\t<p class=\"cmcl__what\"><span>What we create</span>Whitepapers, buyer guides</p>\n\t\t\t\t\t<p class=\"cmcl__res\">410 named leads</p>\n\t\t\t\t</li></ul>\n\t\t</div>\n\t</section>",
+    "css": "content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What our clients say about us",
+    "html": "<section class=\"section cmtests\" aria-labelledby=\"h-11\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-11\">What our clients <span class=\"accent\">say about us</span></h2>\n\t\t\t\t<p class=\"section-lead\">Founders and product leaders on what it’s like to work with our team.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"cmts\" role=\"list\"><li class=\"cmt cmt--1\">\n\t\t\t\t\t<div class=\"cmt__photo\"><img src=\"{{media:assets/images/people/david-clarke.jpg}}\" alt=\"David Clarke\" width=\"300\" height=\"300\" loading=\"lazy\" decoding=\"async\"></div>\n\t\t\t\t\t<p class=\"cmt__stars\" role=\"img\" aria-label=\"Rated 5 out of 5\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg></p>\n\t\t\t\t\t<blockquote class=\"cmt__q\"><p>“The team exceeded our expectations from start to finish. They built a modern, high-performing platform that has helped us better engage our customers and confidently showcase our product.”</p></blockquote>\n\t\t\t\t\t<p class=\"cmt__name\">David Clarke</p>\n\t\t\t\t\t<p class=\"cmt__role\">CEO &amp; Founder, Cupello</p>\n\t\t\t\t\t<p class=\"cmt__label\">Project</p>\n\t\t\t\t\t<ul class=\"cmt__tags\" role=\"list\"><li>Web app</li><li>Design and build</li></ul>\n\t\t\t\t</li><li class=\"cmt cmt--2\">\n\t\t\t\t\t<div class=\"cmt__photo\"><img src=\"{{media:assets/images/people/andra-simina-mocanu.jpg}}\" alt=\"Andra-Simina Mocanu\" width=\"300\" height=\"300\" loading=\"lazy\" decoding=\"async\"></div>\n\t\t\t\t\t<p class=\"cmt__stars\" role=\"img\" aria-label=\"Rated 5 out of 5\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg></p>\n\t\t\t\t\t<blockquote class=\"cmt__q\"><p>“Intella Digital delivered a website that perfectly captured our brand and vision. Their attention to detail, responsiveness, and ability to turn ideas into reality made the entire process smooth and enjoyable.”</p></blockquote>\n\t\t\t\t\t<p class=\"cmt__name\">Andra-Simina Mocanu</p>\n\t\t\t\t\t<p class=\"cmt__role\">CEO &amp; Founder, The Other Glasses</p>\n\t\t\t\t\t<p class=\"cmt__label\">Project</p>\n\t\t\t\t\t<ul class=\"cmt__tags\" role=\"list\"><li>eCommerce</li><li>Design and build</li></ul>\n\t\t\t\t</li><li class=\"cmt cmt--3\">\n\t\t\t\t\t<div class=\"cmt__photo\"><img src=\"{{media:assets/images/people/alex-barsuk.jpg}}\" alt=\"Alex Barsuk\" width=\"300\" height=\"300\" loading=\"lazy\" decoding=\"async\"></div>\n\t\t\t\t\t<p class=\"cmt__stars\" role=\"img\" aria-label=\"Rated 5 out of 5\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M12 17.3 18.2 21l-1.6-7L22 9.2l-7.2-.6L12 2 9.2 8.6 2 9.2 7.4 14l-1.6 7z\"/></svg></p>\n\t\t\t\t\t<blockquote class=\"cmt__q\"><p>“The recommendations were developer-friendly, and the level of detail uncovered simply wasn’t possible through automated website auditing tools alone. Every issue was clearly explained, along with its impact and the recommended solution.”</p></blockquote>\n\t\t\t\t\t<p class=\"cmt__name\">Alex Barsuk</p>\n\t\t\t\t\t<p class=\"cmt__role\">Director of Product Design, Pacaso</p>\n\t\t\t\t\t<p class=\"cmt__label\">Project</p>\n\t\t\t\t\t<ul class=\"cmt__tags\" role=\"list\"><li>Technical SEO audit</li><li>Developer reviews</li></ul>\n\t\t\t\t</li></ul>\n\t\t</div>\n\t</section>",
+    "css": "content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Content programmes for every stage of growth",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-12\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-12\">Content programmes for <span class=\"accent\">every stage of growth</span></h2>\n\t\t\t\t<p class=\"section-lead\">Three ways to work with us. Each is a fixed monthly price, quoted after a free call.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"cmplans\" role=\"list\"><li class=\"cmplan cmplan--1\">\n\t\t\t\t\t<p class=\"cmplan__name\">Starter</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Getting content going</p>\n\t\t\t\t\t<p class=\"cmplan__d\">A steady flow of strong pieces, built on a clear plan.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content strategy and calendar</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Four pieces a month</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> SEO review on every piece</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly report</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--2 cmplan--main\">\n\t\t\t\t\t<p class=\"cmplan__name\">Growth</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Building a pipeline from content</p>\n\t\t\t\t\t<p class=\"cmplan__d\">More content, more formats and a plan to get each piece seen.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Starter</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Eight pieces a month</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A lead magnet every quarter</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> LinkedIn and newsletter versions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Reporting in your CRM</li></ul>\n\t\t\t\t\t<a class=\"button button--primary button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--3\">\n\t\t\t\t\t<p class=\"cmplan__name\">Scale</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Owning your topic</p>\n\t\t\t\t\t<p class=\"cmplan__d\">A full content team for companies that want to lead their category.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Growth</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> An annual research report</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Thought leadership for your experts</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content refreshes</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A dedicated content lead</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li></ul>\n\t\t</div>\n\t</section>",
+    "css": "content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/why-intella",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "A content marketing agency that <em>writes like your best expert</em>",
+    "items": [
+     {
+      "title": "Writers who know your field",
+      "text": "Specialist writers for B2B, SaaS, finance and healthcare, briefed by your experts."
+     },
+     {
+      "title": "No AI-written content",
+      "text": "Everything is written and edited by people. AI is for research only."
+     },
+     {
+      "title": "SEO and content in one team",
+      "text": "Every piece is planned to rank, and linked into the rest of your site."
+     },
+     {
+      "title": "Reported in leads",
+      "text": "We measure what each piece brings in, not just how many people read it."
+     }
+    ],
+    "facts": [
+     {
+      "value": "30+",
+      "label": "countries our writers work from"
+     },
+     {
+      "value": "2",
+      "label": "people check every piece"
+     },
+     {
+      "value": "0",
+      "label": "AI-written words"
+     }
+    ],
+    "bigFacts": true,
+    "quote": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Content marketing questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What are content marketing services?",
+      "answer": "Content marketing services cover planning, creating and distributing useful content, such as articles, guides, case studies and reports, that attracts your buyers and turns them into leads and customers."
+     },
+     {
+      "question": "What does a content marketing agency do?",
+      "answer": "A content marketing agency researches your buyers, plans what to publish, writes and edits the content, gets it seen through search, social and email, and reports what it brings in."
+     },
+     {
+      "question": "How much do content marketing services cost?",
+      "answer": "It depends on how much content you need and how specialist it is. Every programme is a fixed monthly price, quoted after a free 30-minute call."
+     },
+     {
+      "question": "How long does content marketing take to work?",
+      "answer": "Most programmes see steady growth in readers within three to six months. Leads usually follow once the first pieces rank and get shared."
+     },
+     {
+      "question": "Is content marketing the same as SEO?",
+      "answer": "No, but they work best together. SEO makes your site easy to find. Content marketing gives people something worth finding, reading and sharing."
+     },
+     {
+      "question": "Do you use AI to write content?",
+      "answer": "No. Every piece is written and edited by people. We use AI only for research, and to see which sources AI search tools cite."
+     },
+     {
+      "question": "How do you choose a content marketing agency?",
+      "answer": "Look for writers who know your field, a clear editorial process, SEO built in, and reporting in leads rather than page views. Ask to see work in your industry."
+     },
+     {
+      "question": "Can you write in other languages?",
+      "answer": "Yes. Our writers work from more than 30 countries, so we can create content for several markets."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Turn your content into <em>a lead engine</em>",
+    "lead": "Tell us what you sell and who buys it. We’ll look at your content and reply with a plan and a fixed quote.",
+    "steps": [
+     {
+      "title": "We read your content first",
+      "text": "What you publish today, what ranks and what’s missing."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your buyers, your goals and who signs off content."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "The first pieces to create, and what they should achieve."
+     }
+    ],
+    "formTitle": "Request a content plan",
+    "messageHint": "What do you sell, and who to? For example procurement software for mid-sized companies",
+    "service": "content-marketing",
+    "buttonText": "Request my content plan",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "We sign NDAs",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Content marketing works best <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "pen",
+      "title": "SEO Content Writing",
+      "url": "/services/digital-marketing/seo/seo-content-writing/",
+      "text": "Pages and articles written to rank."
+     },
+     {
+      "icon": "search",
+      "title": "Content Audit",
+      "url": "/audits/content-audit/",
+      "text": "Find gaps, quick wins and pages to improve."
+     },
+     {
+      "icon": "play",
+      "title": "Social Content Creation",
+      "url": "/social-content-creation/",
+      "text": "Graphics, reels and short videos for each platform."
+     }
+    ]
+   }
+  }
+ ]
+}

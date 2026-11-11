@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/tools",
+	"title": "Tools we use",
+	"category": "intella",
+	"icon": "admin-tools",
+	"description": "Logo wall of the platforms we use.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "tools",
+				"type": "list",
+				"label": "Tools",
+				"help": "One tool name per line.",
+				"default": []
+			}
+		],
+		"section": "cream"
+	}
+}

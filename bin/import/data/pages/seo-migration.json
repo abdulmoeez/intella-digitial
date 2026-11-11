@@ -1,0 +1,166 @@
+{
+ "title": "SEO Migration Services",
+ "path": "/services/digital-marketing/seo/seo-migration/",
+ "seo": {
+  "title": "SEO Migration Services | Move or redesign your site without losing rankings | Intella Digital",
+  "description": "SEO website migration services: redirect mapping, pre-launch checks and post-launch monitoring for redesigns, re-platforms, domain changes and mergers."
+ },
+ "blocks": [
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "SEO migration services that protect your rankings",
+    "html": "<section class=\"page-hero\" aria-labelledby=\"page-title\">\n\t\t<div class=\"container page-hero__inner\">\n\t\t\t<div>\n\t\t\t\t<nav class=\"breadcrumb\" aria-label=\"Breadcrumb\"><ol><li><a href=\"/\">Home</a></li><li><a href=\"/services/\">Services</a></li><li><a href=\"/services/digital-marketing/seo/\">SEO</a></li><li aria-current=\"page\">SEO Migration</li></ol></nav>\n\t\t\t\t<h1 class=\"page-hero__title\" id=\"page-title\">SEO migration services that <span class=\"accent\">protect your rankings</span></h1>\n\t\t\t\t<p class=\"page-hero__lead\">A new website, platform or domain can wipe out years of rankings overnight. We plan every redirect, test before launch and watch closely afterwards, so your traffic moves with you.</p>\n\t\t\t\t<ul class=\"note-list\" role=\"list\">\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Every URL mapped and redirected</li>\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Pre-launch checks on staging</li>\n\t\t\t\t\t<li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Daily monitoring after launch</li>\n\t\t\t\t</ul>\n\t\t\t\t<div class=\"hero__actions\">\n\t\t\t\t\t<a class=\"button button--primary button--lg\" href=\"#proposal\">Request a proposal <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t\t<a class=\"button button--outline button--lg\" href=\"#process-title\">See the checklist</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"page-hero__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Organic traffic · Before and after migration</span></div>\n\t<div class=\"mock__body\"><svg class=\"mock-chart\" viewBox=\"0 0 640 190\" role=\"img\" aria-label=\"Organic traffic held steady through launch, then grew\"><defs><linearGradient id=\"g30490\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0\" stop-color=\"#8f2cf4\" stop-opacity=\"0.28\"/><stop offset=\"1\" stop-color=\"#8f2cf4\" stop-opacity=\"0\"/></linearGradient></defs><line x1=\"16\" x2=\"622\" y1=\"12.0\" y2=\"12.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"50.0\" y2=\"50.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"88.0\" y2=\"88.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"126.0\" y2=\"126.0\" stroke=\"#efeaf2\"/><line x1=\"16\" x2=\"622\" y1=\"164.0\" y2=\"164.0\" stroke=\"#efeaf2\"/><path d=\"M16.0,66.0 L71.1,61.3 L126.2,63.6 L181.3,59.4 L236.4,56.6 L291.5,58.5 L346.5,60.8 L401.6,54.8 L456.7,48.2 L511.8,42.2 L566.9,33.8 L622.0,25.8 L622.0,164 L16.0,164 Z\" fill=\"url(#g30490)\"/><path d=\"M16.0,66.0 L71.1,61.3 L126.2,63.6 L181.3,59.4 L236.4,56.6 L291.5,58.5 L346.5,60.8 L401.6,54.8 L456.7,48.2 L511.8,42.2 L566.9,33.8 L622.0,25.8\" fill=\"none\" stroke=\"#8f2cf4\" stroke-width=\"2.5\" stroke-linejoin=\"round\" stroke-linecap=\"round\"/><circle cx=\"622.0\" cy=\"25.8\" r=\"4\" fill=\"#fff\" stroke=\"#8f2cf4\" stroke-width=\"2.5\"/><text x=\"16.0\" y=\"184\" text-anchor=\"middle\">W-6</text><text x=\"126.2\" y=\"184\" text-anchor=\"middle\">W-4</text><text x=\"236.4\" y=\"184\" text-anchor=\"middle\">W-2</text><text x=\"346.5\" y=\"184\" text-anchor=\"middle\">Live</text><text x=\"456.7\" y=\"184\" text-anchor=\"middle\">W+2</text><text x=\"566.9\" y=\"184\" text-anchor=\"middle\">W+4</text><text x=\"622.0\" y=\"184\" text-anchor=\"middle\">W+5</text></svg><div class=\"mock-legend\"><span><i style=\"background:#8f2cf4\"></i>Organic sessions</span></div><p class=\"mock-note\" style=\"text-align:left;margin-top:.5rem\">Launch week marked “Live”.</p></div>\n</figure></div>\n\t\t</div>\n\t</section>",
+    "css": "seo-migration",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What a website migration can cost you",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-39\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-39\">What a website migration <span class=\"accent\">can cost you</span></h2>\n\t\t\t\t<p class=\"section-lead\">Most traffic drops after a migration are avoidable.</p>\n\t\t\t</div>\n\t\t\t<div class=\"ba\">\n\t\t\t\t<div class=\"ba__col ba__col--before\"><span class=\"ba__tag\">Migration without SEO</span><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Old URLs return 404 errors</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Rankings drop for pages that moved</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Links from other sites point to nowhere</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Tracking stops working on launch day</li></ul></div>\n\t\t\t\t<span class=\"ba__arrow\" aria-hidden=\"true\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t<div class=\"ba__col ba__col--after\"><span class=\"ba__tag\">Migration with SEO</span><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Every old URL redirects to the right new page</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Rankings carry over to the new pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Link authority is kept</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Analytics and conversions tracked from day one</li></ul></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "seo-migration",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Every URL, mapped by hand",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-40\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"dark-split\">\n\t\t\t\t<div class=\"dark-split__text\">\n\t\t\t\t\t<h2 class=\"dark-split__title\" id=\"h-40\">Every URL, <span class=\"accent accent--light\">mapped by hand</span></h2>\n\t\t\t\t\t<p>Automatic redirects send too many pages to the homepage. We map each old URL to its closest new page, so visitors and rankings land in the right place.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Full crawl of the old site</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> One-to-one redirect map</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Redirects tested before launch</li></ul>\n\t\t\t\t\t<a class=\"button button--light\" href=\"#proposal\">Plan my migration <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"dark-split__visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Redirect map · 1,284 URLs</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Old URL</th><th>New URL</th><th>Status</th></tr></thead><tbody><tr><td>/services.php?id=12</td><td>/services/seo/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr><tr><td>/blog/2019/05/seo-tips</td><td>/articles/seo-tips/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr><tr><td>/about-us.html</td><td>/about/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr><tr><td>/old-landing</td><td>/services/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr><tr><td>/products/item-445</td><td>/shop/linen-shirt/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr></tbody></table></div></div>\n</figure></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "seo-migration",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Our website migration SEO checklist",
+    "html": "<section class=\"section section--cream process\" aria-labelledby=\"process-title\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"process-title\">Our website migration <span class=\"accent\">SEO checklist</span></h2>\n\t\t\t\t<p class=\"section-lead\">Click each stage to see what we do before, during and after launch.</p>\n\t\t\t</div>\n\t\t\t<div class=\"tabs tabs--steps\" data-tabs>\n\t\t\t\t<div class=\"tabs__list\" role=\"tablist\" aria-label=\"Process steps\">\n\t\t\t\t\t<button class=\"tabs__step\" type=\"button\" role=\"tab\" id=\"tabs-41-tab-0\" aria-controls=\"tabs-41-panel-0\" aria-selected=\"true\"><span class=\"tabs__step-num\">01</span><span class=\"tabs__step-title\">Plan</span></button>\n\t\t\t\t\t<button class=\"tabs__step\" type=\"button\" role=\"tab\" id=\"tabs-41-tab-1\" aria-controls=\"tabs-41-panel-1\" aria-selected=\"false\"><span class=\"tabs__step-num\">02</span><span class=\"tabs__step-title\">Map</span></button>\n\t\t\t\t\t<button class=\"tabs__step\" type=\"button\" role=\"tab\" id=\"tabs-41-tab-2\" aria-controls=\"tabs-41-panel-2\" aria-selected=\"false\"><span class=\"tabs__step-num\">03</span><span class=\"tabs__step-title\">Test</span></button>\n\t\t\t\t\t<button class=\"tabs__step\" type=\"button\" role=\"tab\" id=\"tabs-41-tab-3\" aria-controls=\"tabs-41-panel-3\" aria-selected=\"false\"><span class=\"tabs__step-num\">04</span><span class=\"tabs__step-title\">Launch</span></button>\n\t\t\t\t\t<button class=\"tabs__step\" type=\"button\" role=\"tab\" id=\"tabs-41-tab-4\" aria-controls=\"tabs-41-panel-4\" aria-selected=\"false\"><span class=\"tabs__step-num\">05</span><span class=\"tabs__step-title\">Monitor</span></button>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"tabs__panels\">\n\t\t\t\t\t<div class=\"tabs__panel tabs__panel--step\" role=\"tabpanel\" id=\"tabs-41-panel-0\" aria-labelledby=\"tabs-41-tab-0\" tabindex=\"0\">\n\t\t\t\t\t\t<div class=\"tabs__panel-text\">\n\t\t\t\t\t\t\t<span class=\"step-time\">4–8 weeks before</span>\n\t\t\t\t\t\t\t<h3 class=\"tabs__panel-title\">Plan</h3>\n\t\t\t\t\t\t\t<p>We crawl the old site, record rankings and traffic, and agree the new URL structure.</p>\n\t\t\t\t\t\t\t<p class=\"tabs__deliv-label\">What you get</p>\n\t\t\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Benchmark of rankings and traffic</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> List of every URL and its value</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New URL structure agreed</li></ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"step-card__big\" aria-hidden=\"true\"><span>01</span></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"tabs__panel tabs__panel--step\" role=\"tabpanel\" id=\"tabs-41-panel-1\" aria-labelledby=\"tabs-41-tab-1\" tabindex=\"0\">\n\t\t\t\t\t\t<div class=\"tabs__panel-text\">\n\t\t\t\t\t\t\t<span class=\"step-time\">2–4 weeks before</span>\n\t\t\t\t\t\t\t<h3 class=\"tabs__panel-title\">Map</h3>\n\t\t\t\t\t\t\t<p>Every old URL is mapped to its new page, with content and metadata checked.</p>\n\t\t\t\t\t\t\t<p class=\"tabs__deliv-label\">What you get</p>\n\t\t\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Redirect map</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content and metadata checks</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Internal link updates</li></ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"tabs__panel-visual\"><figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Redirect map · 1,284 URLs</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Old URL</th><th>New URL</th><th>Status</th></tr></thead><tbody><tr><td>/services.php?id=12</td><td>/services/seo/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr><tr><td>/blog/2019/05/seo-tips</td><td>/articles/seo-tips/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr><tr><td>/about-us.html</td><td>/about/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr><tr><td>/old-landing</td><td>/services/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr><tr><td>/products/item-445</td><td>/shop/linen-shirt/</td><td><span class=\"mock-chip mock-chip--ok\">301</span></td></tr></tbody></table></div></div>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"tabs__panel tabs__panel--step\" role=\"tabpanel\" id=\"tabs-41-panel-2\" aria-labelledby=\"tabs-41-tab-2\" tabindex=\"0\">\n\t\t\t\t\t\t<div class=\"tabs__panel-text\">\n\t\t\t\t\t\t\t<span class=\"step-time\">1–2 weeks before</span>\n\t\t\t\t\t\t\t<h3 class=\"tabs__panel-title\">Test</h3>\n\t\t\t\t\t\t\t<p>We test the new site on staging: redirects, indexing, speed, structured data and tracking.</p>\n\t\t\t\t\t\t\t<p class=\"tabs__deliv-label\">What you get</p>\n\t\t\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Staging crawl report</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Redirect test results</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tracking checks</li></ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"step-card__big\" aria-hidden=\"true\"><span>03</span></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"tabs__panel tabs__panel--step\" role=\"tabpanel\" id=\"tabs-41-panel-3\" aria-labelledby=\"tabs-41-tab-3\" tabindex=\"0\">\n\t\t\t\t\t\t<div class=\"tabs__panel-text\">\n\t\t\t\t\t\t\t<span class=\"step-time\">Launch day</span>\n\t\t\t\t\t\t\t<h3 class=\"tabs__panel-title\">Launch</h3>\n\t\t\t\t\t\t\t<p>We check redirects, robots rules, sitemaps and Search Console the moment the site goes live.</p>\n\t\t\t\t\t\t\t<p class=\"tabs__deliv-label\">What you get</p>\n\t\t\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Launch checklist signed off</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New sitemaps submitted</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Change of address if needed</li></ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"step-card__big\" aria-hidden=\"true\"><span>04</span></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"tabs__panel tabs__panel--step\" role=\"tabpanel\" id=\"tabs-41-panel-4\" aria-labelledby=\"tabs-41-tab-4\" tabindex=\"0\">\n\t\t\t\t\t\t<div class=\"tabs__panel-text\">\n\t\t\t\t\t\t\t<span class=\"step-time\">4–8 weeks after</span>\n\t\t\t\t\t\t\t<h3 class=\"tabs__panel-title\">Monitor</h3>\n\t\t\t\t\t\t\t<p>Daily checks on errors, indexing and rankings, with fixes made straight away.</p>\n\t\t\t\t\t\t\t<p class=\"tabs__deliv-label\">What you get</p>\n\t\t\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Daily error checks</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Weekly ranking reports</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Final migration report</li></ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"step-card__big\" aria-hidden=\"true\"><span>05</span></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "seo-migration",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "SEO for every kind of move",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-42\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-42\">SEO for <span class=\"accent\">every kind of move</span></h2>\n\t\t\t\t<p class=\"section-lead\">Each type of migration has its own risks. We plan for them.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"ccols\" role=\"list\"><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-browser\"/></svg></span><h3 class=\"ccol__title\">Redesigns</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New templates and navigation</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content changes</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> URL changes</li></ul></li><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-swap\"/></svg></span><h3 class=\"ccol__title\">Re-platforms</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> WordPress, Shopify, Laravel</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Headless and custom builds</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Different URL patterns</li></ul></li><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-link\"/></svg></span><h3 class=\"ccol__title\">Domain changes</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New brand or domain</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Merging websites</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> HTTP to HTTPS</li></ul></li><li class=\"ccol\"><div class=\"ccol__head\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-share\"/></svg></span><h3 class=\"ccol__title\">International</h3></div><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New country versions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Moving to subfolders</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Hreflang updates</li></ul></li></ul>\n\t\t</div>\n\t</section>",
+    "css": "seo-migration",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "A website migration SEO plan with a <em>fixed price</em>",
+    "lead": "Most migrations fit a fixed scope, agreed before we start.",
+    "name": "SEO migration package",
+    "price": "Fixed price, quoted after a free call",
+    "items": [
+     "Benchmark and full crawl",
+     "Redirect map for every URL",
+     "Staging tests and launch checks",
+     "6 weeks of monitoring after launch",
+     "Final report"
+    ],
+    "delivery": "Starts 4–8 weeks before launch",
+    "buttonText": "Plan my migration",
+    "buttonUrl": "#proposal",
+    "visual": "<figure class=\"mock\">\n\t<div class=\"mock__bar\"><span class=\"mock__dots\" aria-hidden=\"true\"><i></i><i></i><i></i></span><span class=\"mock__title\">Launch checklist · Example</span></div>\n\t<div class=\"mock__body\"><div class=\"mock-scroll\"><table class=\"mock-table\"><thead><tr><th>Check</th><th>Status</th></tr></thead><tbody><tr><td>Redirects tested</td><td><span class=\"mock-chip mock-chip--ok\">Done</span></td></tr><tr><td>Robots and noindex removed</td><td><span class=\"mock-chip mock-chip--ok\">Done</span></td></tr><tr><td>Sitemaps submitted</td><td><span class=\"mock-chip mock-chip--ok\">Done</span></td></tr><tr><td>Tracking firing</td><td><span class=\"mock-chip mock-chip--ok\">Done</span></td></tr><tr><td>Search Console verified</td><td><span class=\"mock-chip mock-chip--warn\">Today</span></td></tr></tbody></table></div></div>\n</figure>"
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "SEO migration questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What are SEO migration services?",
+      "answer": "Planning and checks that protect your rankings when you redesign, change platform or move domain: redirect mapping, staging tests, launch checks and monitoring."
+     },
+     {
+      "question": "When should we involve SEO in a migration?",
+      "answer": "As early as possible, ideally before the new design and URL structure are final. Four to eight weeks before launch is the minimum."
+     },
+     {
+      "question": "Will we lose traffic after the migration?",
+      "answer": "A small dip for a week or two is normal. With proper redirects and checks, most sites recover quickly and often grow afterwards."
+     },
+     {
+      "question": "Can you help after a migration went wrong?",
+      "answer": "Yes. We can find the missing redirects and fix the problems causing the drop."
+     },
+     {
+      "question": "Can your developers build the new site too?",
+      "answer": "Yes. Our web team builds WordPress, Shopify and Laravel sites, with SEO planned from day one."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/get-in-touch",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Planning a new website? <em>Protect your rankings</em>",
+    "lead": "Tell us about your current site and what’s changing. We’ll reply with the risks, a migration plan and a quote.",
+    "people": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ],
+    "formTitle": "Request a proposal",
+    "messageHint": "What are you changing: design, platform or domain? *",
+    "service": "seo-migration",
+    "buttonText": "Send message",
+    "trust": [
+     "Your details stay private",
+     "No spam, ever",
+     "Free 30-minute call"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Migrations go better <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "zap",
+      "title": "SEO Audit",
+      "url": "/audits/seo-audit/",
+      "text": "A full check of technical health, content, links and keywords."
+     },
+     {
+      "icon": "code",
+      "title": "Technical SEO Audit",
+      "url": "/audits/website-audit/technical-seo-audit/",
+      "text": "A one-off check of everything that stops Google ranking you."
+     },
+     {
+      "icon": "browser",
+      "title": "WordPress SEO",
+      "url": "/services/digital-marketing/seo/wordpress-seo/",
+      "text": "SEO for WordPress sites, from plugins to page speed."
+     }
+    ]
+   }
+  }
+ ]
+}

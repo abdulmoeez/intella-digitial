@@ -1,0 +1,79 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/tilt-cards",
+	"title": "Cards (steps or ideas)",
+	"category": "intella",
+	"icon": "grid-view",
+	"description": "A row of cards: numbered steps (optionally with a time) or ideas with icons.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "inline",
+				"label": "Intro"
+			},
+			{
+				"key": "numbered",
+				"type": "toggle",
+				"label": "Numbered steps"
+			},
+			{
+				"key": "columns",
+				"type": "select",
+				"label": "Columns",
+				"options": [
+					{
+						"label": "Auto",
+						"value": ""
+					},
+					{
+						"label": "3",
+						"value": "3"
+					}
+				],
+				"default": ""
+			},
+			{
+				"key": "items",
+				"type": "repeater",
+				"label": "Cards",
+				"itemName": "card",
+				"fields": [
+					{
+						"key": "icon",
+						"type": "text",
+						"label": "Icon (optional)"
+					},
+					{
+						"key": "time",
+						"type": "text",
+						"label": "Time label (optional)"
+					},
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Title"
+					},
+					{
+						"key": "text",
+						"type": "textarea",
+						"label": "Text"
+					}
+				],
+				"default": []
+			}
+		],
+		"section": "white"
+	}
+}

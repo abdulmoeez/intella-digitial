@@ -1,0 +1,284 @@
+{
+ "title": "LinkedIn Lead Gen Forms Integration",
+ "path": "/services/digital-marketing/performance-marketing/linkedin-ads/lead-gen-forms/",
+ "seo": {
+  "title": "LinkedIn Lead Gen Forms Integration | Salesforce, HubSpot, Dynamics | Intella Digital",
+  "description": "LinkedIn Lead Gen Forms connected to Salesforce, HubSpot or Dynamics, with the Insight Tag and conversion tracking set up and tested."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "LinkedIn Ads",
+      "url": "/services/digital-marketing/performance-marketing/linkedin-ads/"
+     },
+     {
+      "label": "LinkedIn Lead Gen Forms and CRM",
+      "url": ""
+     }
+    ],
+    "title": "LinkedIn leads <em>in your CRM in seconds</em>",
+    "lead": "We connect LinkedIn Lead Gen Forms to your CRM, set up the Insight Tag and conversion tracking, and test every step.",
+    "buttonText": "Connect my LinkedIn leads",
+    "formLabel": "Connect my LinkedIn leads",
+    "service": "linkedin-lead-gen-forms",
+    "notes": [
+     "Salesforce, HubSpot, Dynamics",
+     "Insight Tag and conversions",
+     "Tested end to end"
+    ],
+    "sliderLabel": "",
+    "fixLabel": "How we fix it",
+    "slides": [],
+    "tools": "",
+    "visual": "<figure class=\"pmrep \" role=\"img\" aria-label=\"LinkedIn setup check: sample report\">\n\t<div class=\"pmrep__head\"><b>LinkedIn setup check</b><span>After our setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Lead Gen Form</span><span class=\"pmrep__s\">Live</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Synced to Salesforce</span><span class=\"pmrep__s\">Under 1 minute</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Insight Tag</span><span class=\"pmrep__s\">Firing</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Website conversions</span><span class=\"pmrep__s\">Tracked</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Offline conversions</span><span class=\"pmrep__s\">From CRM</span></li></ul>\n\t<p class=\"pmrep__foot\">Every lead tracked to pipeline</p>\n</figure>",
+    "look": "cmhero cmhero--pm cmhero--job"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/signs",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Signs your LinkedIn setup <em>is leaking leads</em>",
+    "lead": "Slow follow-up costs B2B deals.",
+    "items": [
+     "Leads downloaded as CSV files",
+     "Sales hears about leads days later",
+     "The Insight Tag isn’t installed or doesn’t fire",
+     "No website conversions in Campaign Manager",
+     "No idea which campaigns create pipeline",
+     "Duplicate contacts in the CRM"
+    ],
+    "icon": "sparkle",
+    "asideTitle": "Minutes matter in B2B",
+    "asideText": "The fastest follow-up usually wins the meeting.",
+    "buttonText": "Get this fixed",
+    "buttonUrl": "#proposal",
+    "photo": 0,
+    "photoAlt": "",
+    "bubble": "",
+    "shortPhoto": false
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "LinkedIn Lead Gen Forms and CRM, <em>done properly</em>",
+    "lead": "One fixed-scope project, quoted after a short call. No retainer needed.",
+    "name": "LinkedIn lead and tracking setup",
+    "price": "Fixed price, quoted after a 30-minute call",
+    "items": [
+     "Lead Gen Forms with qualifying questions",
+     "Native sync to Salesforce, HubSpot or Dynamics",
+     "Field mapping and duplicate rules",
+     "Insight Tag installed and checked",
+     "Website conversion tracking",
+     "Offline conversions from your CRM",
+     "Alerts to sales"
+    ],
+    "delivery": "Usually done in 1 to 2 weeks",
+    "buttonText": "Request a quote",
+    "buttonUrl": "#proposal",
+    "visual": "<figure class=\"pmrep pmrep--side\" role=\"img\" aria-label=\"What you receive: sample report\">\n\t<div class=\"pmrep__head\"><b>What you receive</b><span>Setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Forms</span><span class=\"pmrep__s\">2</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">CRM sync</span><span class=\"pmrep__s\">Live</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Insight Tag</span><span class=\"pmrep__s\">Firing</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Tested</span><span class=\"pmrep__s\">Yes</span></li></ul>\n\t<p class=\"pmrep__foot\">Leads where sales can see them</p>\n</figure>"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we set it up",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-250\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-250\">How we <span class=\"accent\">set it up</span></h2>\n\t\t\t\t<p class=\"section-lead\">Ready in one to two weeks.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"cmsteps\" role=\"list\"><li class=\"cmstep cmstep--1\">\n\t\t\t\t\t<p class=\"cmstep__when\">Days 1–2</p>\n\t\t\t\t\t<p class=\"cmstep__n\">1</p>\n\t\t\t\t\t<h3>Audit</h3>\n\t\t\t\t\t<p>Forms, tag, conversions and CRM.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--2\">\n\t\t\t\t\t<p class=\"cmstep__when\">Days 3–4</p>\n\t\t\t\t\t<p class=\"cmstep__n\">2</p>\n\t\t\t\t\t<h3>Design</h3>\n\t\t\t\t\t<p>Questions and field mapping.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--3\">\n\t\t\t\t\t<p class=\"cmstep__when\">Days 5–7</p>\n\t\t\t\t\t<p class=\"cmstep__n\">3</p>\n\t\t\t\t\t<h3>Connect</h3>\n\t\t\t\t\t<p>CRM sync, tag and conversions.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--4\">\n\t\t\t\t\t<p class=\"cmstep__when\">Days 8–9</p>\n\t\t\t\t\t<p class=\"cmstep__n\">4</p>\n\t\t\t\t\t<h3>Test</h3>\n\t\t\t\t\t<p>Test leads checked end to end.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--5\">\n\t\t\t\t\t<p class=\"cmstep__when\">Day 10</p>\n\t\t\t\t\t<p class=\"cmstep__n\">5</p>\n\t\t\t\t\t<h3>Hand over</h3>\n\t\t\t\t\t<p>A summary and walkthrough.</p>\n\t\t\t\t</li></ol>\n\t\t</div>\n\t</section>",
+    "css": "linkedin-lead-gen-forms",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Why LinkedIn leads <em>go cold</em>",
+    "lead": "What we fix most often.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "",
+      "problem": "Leads arrive days late.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "A native CRM sync and instant alerts.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Fields don’t map, so data is missing.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Field mapping agreed with sales.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "The Insight Tag never fires.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Tag installed through Tag Manager and tested.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "No link between ads and pipeline.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Offline conversions from the CRM.",
+      "afterTitle": "",
+      "after": []
+     }
+    ],
+    "visual": "",
+    "alt": true
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your setup summary",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-252\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-252\">Your <span class=\"accent\">setup summary</span></h2>\n\t\t\t\t<p class=\"section-lead\">How leads move from LinkedIn to sales.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"chaps\" role=\"list\"><li class=\"chap\"><span class=\"chap__num\">01</span><h3 class=\"chap__title\">Forms and fields</h3><p>Questions and mapping.</p><span class=\"chap__pages\">1 page</span></li><li class=\"chap\"><span class=\"chap__num\">02</span><h3 class=\"chap__title\">Integration</h3><p>How leads reach the CRM.</p><span class=\"chap__pages\">1 page</span></li><li class=\"chap\"><span class=\"chap__num\">03</span><h3 class=\"chap__title\">Tracking</h3><p>Tag and conversions tested.</p><span class=\"chap__pages\">1 page</span></li></ol>\n\t\t</div>\n\t</section>",
+    "css": "linkedin-lead-gen-forms",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Alex Barsuk",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ]
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "LinkedIn Lead Gen Forms and CRM questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "How do I connect LinkedIn Lead Gen Forms to Salesforce?",
+      "answer": "Use LinkedIn’s native integration in Campaign Manager or Salesforce’s connector, map the fields, then test with a sample lead."
+     },
+     {
+      "question": "Is the LinkedIn Insight Tag installed correctly?",
+      "answer": "Check Campaign Manager’s Insight Tag status and use a browser extension to see if it fires. We test on every page that matters."
+     },
+     {
+      "question": "Can LinkedIn track offline conversions?",
+      "answer": "Yes. LinkedIn accepts conversions from your CRM, so you can see which campaigns create pipeline."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Get LinkedIn leads <em>to sales in seconds</em>",
+    "lead": "Tell us your CRM. We’ll quote the setup.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "Which CRM do you use, and who follows up leads?",
+    "service": "linkedin-lead-gen-forms",
+    "buttonText": "Request a quote",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Related <em>services</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "users",
+      "title": "LinkedIn Ads",
+      "url": "/services/digital-marketing/performance-marketing/linkedin-ads/",
+      "text": "B2B campaigns by role and company."
+     },
+     {
+      "icon": "swap",
+      "title": "CRM Setup",
+      "url": "/services/digital-marketing/crm-setup/",
+      "text": "A CRM your sales team will actually use."
+     },
+     {
+      "icon": "layers",
+      "title": "Server-Side Tracking",
+      "url": "/services/digital-marketing/performance-marketing/server-side-tracking/",
+      "text": "Tracking that survives ad blockers and browsers."
+     }
+    ]
+   }
+  }
+ ]
+}

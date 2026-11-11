@@ -1,0 +1,31 @@
+/* why-intella: section styles, split from the prototype CSS (Code/frontend/assets/css) by bin/import/css_split.py. */
+
+.wpwhy { display: grid; gap: var(--space-2xl); }
+@media (min-width: 64rem) {
+	.wpwhy { grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr); gap: 4rem; align-items: center; }
+}
+.wpwhy .section-title { margin-block-start: var(--space-sm); }
+.wpwhy__list { display: grid; gap: var(--space-lg); margin: var(--space-xl) 0 0; padding: 0; list-style: none; }
+@media (min-width: 40rem) {
+	.wpwhy__list { grid-template-columns: 1fr 1fr; }
+}
+.wpwhy__list h3 { color: var(--color-ink); font-size: var(--text-base); }
+.wpwhy__list p { margin-block-start: 4px; color: var(--color-text); font-size: var(--text-sm); line-height: 1.6; }
+.wpwhy__quote { margin: 0; padding: var(--space-xl); border-radius: var(--radius-lg); background: var(--color-paper); box-shadow: var(--shadow-card); }
+.wpwhy__stars { display: flex; gap: 2px; color: #f5a623; }
+.wpwhy__stars svg { width: 1.1rem; height: 1.1rem; fill: currentColor; }
+.wpwhy__quote blockquote { margin: var(--space-md) 0 0; color: var(--color-ink); font-size: var(--text-md); line-height: 1.7; }
+.wpwhy__quote figcaption { display: flex; gap: var(--space-sm); align-items: center; margin-block-start: var(--space-lg); }
+.wpwhy__quote img { width: 3rem; height: 3rem; border-radius: 50%; object-fit: cover; }
+.wpwhy__quote figcaption span { display: grid; color: var(--color-muted); font-size: var(--text-sm); }
+.wpwhy__quote figcaption b { color: var(--color-ink); }
+.wpwhy > * { min-width: 0; }
+.cmwhy__side { display: grid; gap: var(--space-md); }
+.cmfacts { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--space-sm); margin: 0; padding: 0; list-style: none; }
+.cmfacts li { display: grid; gap: 2px; padding: var(--space-md); border-radius: var(--radius-md); background: var(--color-paper); text-align: center; }
+.cmfacts b { color: var(--acc, #0d8a7e); font-family: var(--font-heading); font-size: 1.6rem; line-height: 1.1; }
+.cmfacts span { color: var(--color-text); font-size: 12px; line-height: 1.35; }
+.cmfacts--big { grid-template-columns: 1fr; }
+.cmfacts--big li { grid-template-columns: 6rem 1fr; align-items: center; padding: var(--space-lg); text-align: start; }
+.cmfacts--big b { font-size: 2.4rem; }
+.cmfacts--big span { font-size: var(--text-base); }

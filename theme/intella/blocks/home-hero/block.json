@@ -1,0 +1,110 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/home-hero",
+	"title": "Homepage hero",
+	"category": "intella",
+	"icon": "cover-image",
+	"description": "Big heading with buttons, and a rotating stack of service cards with tool logos.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/deck",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading (H1)"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "buttons",
+				"type": "repeater",
+				"label": "Buttons",
+				"itemName": "button",
+				"itemLabel": "text",
+				"max": 3,
+				"fields": [
+					{
+						"key": "text",
+						"type": "text",
+						"label": "Text"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					},
+					{
+						"key": "style",
+						"type": "select",
+						"label": "Style",
+						"options": [
+							{
+								"label": "Filled (with arrow)",
+								"value": "primary"
+							},
+							{
+								"label": "Outline",
+								"value": "outline"
+							}
+						],
+						"default": "primary"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "cards",
+				"type": "repeater",
+				"label": "Service cards",
+				"itemName": "card",
+				"panel": "Service cards",
+				"fields": [
+					{
+						"key": "icon",
+						"type": "text",
+						"label": "Icon",
+						"help": "Sprite icon name, e.g. search, sparkle, megaphone."
+					},
+					{
+						"key": "title",
+						"type": "text",
+						"label": "Title"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					},
+					{
+						"key": "text",
+						"type": "textarea",
+						"label": "Text"
+					},
+					{
+						"key": "tags",
+						"type": "list",
+						"label": "Tags",
+						"default": []
+					},
+					{
+						"key": "tools",
+						"type": "list",
+						"label": "Tool logos",
+						"help": "One tool per line (3–5), e.g. Semrush. Logos come from the theme’s tools folder.",
+						"default": []
+					}
+				],
+				"default": []
+			}
+		]
+	}
+}

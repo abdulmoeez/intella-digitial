@@ -1,0 +1,73 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/thanks-hero",
+	"title": "Thank-you hero",
+	"category": "intella",
+	"icon": "yes-alt",
+	"description": "Confirmation after a form is sent. {name} is replaced by the visitor’s first name.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/thanks-name",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading (H1)",
+				"help": "{name} shows the visitor’s first name, e.g. “Thank you{name}.”"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "buttons",
+				"type": "repeater",
+				"label": "Buttons",
+				"itemName": "button",
+				"itemLabel": "text",
+				"max": 3,
+				"fields": [
+					{
+						"key": "text",
+						"type": "text",
+						"label": "Text"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					},
+					{
+						"key": "style",
+						"type": "select",
+						"label": "Style",
+						"options": [
+							{
+								"label": "Filled (with arrow)",
+								"value": "primary"
+							},
+							{
+								"label": "Outline",
+								"value": "outline"
+							}
+						],
+						"default": "primary"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "urgent",
+				"type": "text",
+				"label": "Urgent line",
+				"help": "{phone} and {email} come from Settings → Intella site."
+			}
+		]
+	}
+}

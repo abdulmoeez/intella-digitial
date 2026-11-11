@@ -1,0 +1,385 @@
+{
+ "title": "B2B Performance Marketing Agency",
+ "path": "/services/digital-marketing/performance-marketing/b2b/",
+ "seo": {
+  "title": "B2B Performance Marketing Agency | B2B Paid Ads and LinkedIn | Intella Digital",
+  "description": "A B2B performance marketing agency: Google, LinkedIn and Microsoft ads for long sales cycles, with offline conversions from your CRM and reports in pipeline."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Services",
+      "url": "/services/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "B2B Performance Marketing",
+      "url": ""
+     }
+    ],
+    "title": "B2B performance marketing <em>measured in pipeline</em>",
+    "lead": "Google, LinkedIn and Microsoft ads for B2B and SaaS companies, with leads qualified, synced to your CRM and reported as pipeline.",
+    "buttonText": "Get a free B2B ads review",
+    "formLabel": "Get a free B2B ads review",
+    "service": "b2b-performance-marketing",
+    "notes": [
+     "Leads that match your ideal customer",
+     "Offline conversions from your CRM",
+     "Reported in pipeline"
+    ],
+    "sliderLabel": "Common B2B advertising problems",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "Leads that sales won’t call",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Leads this month</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"ok\"><span>Ideal fit</span><b>24%</b></li><li class=\"no\"><span>Students and job seekers</span><b>46%</b></li><li class=\"no\"><span>Too small</span><b>30%</b></li></ul></div>",
+      "photo": "media:assets/images/people-cut/yellow-blazer.webp",
+      "fix": "Targeting and forms that qualify.",
+      "look": "fit"
+     },
+     {
+      "kicker": "",
+      "title": "No idea what ads bring in",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Pipeline by campaign</p><ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:20%\"><span>Known</span><b>20</b></li><li style=\"--w:80%\"><span>Unknown</span><b>80</b></li></ul></div>",
+      "photo": 0,
+      "fix": "CRM stages tracked by campaign.",
+      "look": "pipe"
+     },
+     {
+      "kicker": "",
+      "title": "Trials that never pay",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">This month</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"ok\"><span>Trials</span><b>1,240</b></li><li class=\"no\"><span>Paying</span><b>149</b></li></ul></div>",
+      "photo": 0,
+      "fix": "Activation and payment tracked.",
+      "look": "trial"
+     },
+     {
+      "kicker": "",
+      "title": "Leads followed up days later",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Time to first call</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Today</span><b>3 days</b></li><li class=\"ok\"><span>With sync</span><b>5 minutes</b></li></ul></div>",
+      "photo": "media:assets/images/people-cut/duo-business.webp",
+      "fix": "Instant CRM sync and alerts.",
+      "look": "slow"
+     }
+    ],
+    "tools": "",
+    "visual": "",
+    "look": "cmhero cmhero--pm"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "B2B ads have a harder job",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-335\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-335\">B2B ads have <span class=\"accent\">a harder job</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a challenge to see how we handle it.</p>\n\t\t\t</div>\n\t\t\t<div class=\"wpvt cmvt\" data-tabs>\n\t\t\t\t<div class=\"wpvt__list\" role=\"tablist\" aria-label=\"B2B advertising challenges\" aria-orientation=\"vertical\"><button class=\"wpvt__tab cmvt__tab cmvt__tab--1\" type=\"button\" role=\"tab\" id=\"bh-334-t-quality\" aria-controls=\"bh-334-quality\" aria-selected=\"true\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">01</i>Leads sales won’t call</b><span>Forms fill up with students, job seekers and tiny companies.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--2\" type=\"button\" role=\"tab\" id=\"bh-334-t-cycle\" aria-controls=\"bh-334-cycle\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">02</i>Long sales cycles</b><span>Deals take months, so ads look expensive in the short term.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--3\" type=\"button\" role=\"tab\" id=\"bh-334-t-committee\" aria-controls=\"bh-334-committee\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">03</i>Many people decide</b><span>The user, the manager, IT and finance all need convincing.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--4\" type=\"button\" role=\"tab\" id=\"bh-334-t-saas\" aria-controls=\"bh-334-saas\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">04</i>SaaS trials that never pay</b><span>Sign-ups arrive, but few activate or convert.</span>\n\t\t\t\t\t</button></div>\n\t\t\t\t<div class=\"wpvt__panels\"><div class=\"wpvt__panel cmvt__panel cmvt__panel--1\" role=\"tabpanel\" id=\"bh-334-quality\" aria-labelledby=\"bh-334-t-quality\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Forms fill up with students, job seekers and tiny companies.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Leads that match your ideal customer.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>In B2B, one good lead is worth more than a hundred poor ones.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Ideal customer profile agreed with sales</li><li>Targeting by role and company</li><li>Forms that qualify</li><li>Outcomes fed back weekly</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Sales stops ignoring marketing leads.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Leads by fit</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Ideal fit</span><b>62%</b></li><li><span>Partial fit</span><b>28%</b></li><li><span>Poor fit</span><b>10%</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Targeting</b><p>Job titles, seniority and company size.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Qualifying forms</b><p>Questions that filter out poor fits.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>CRM feedback</b><p>Sales outcomes sent back to the platforms.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Negative audiences</b><p>Students, job seekers and competitors excluded.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Better targeting</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Qualifying forms</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> CRM feedback</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--2\" role=\"tabpanel\" id=\"bh-334-cycle\" aria-labelledby=\"bh-334-t-cycle\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Deals take months, so ads look expensive in the short term.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Measure pipeline, not just leads.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>A campaign that costs more per lead can bring far more pipeline.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>CRM stages tracked</li><li>Opportunities by campaign</li><li>Remarketing to open deals</li><li>Quarterly reviews</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Budget goes to campaigns that create deals.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Pipeline by channel</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Google search</span><b>$820K</b></li><li><span>LinkedIn</span><b>$610K</b></li><li><span>Meta</span><b>$90K</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Offline conversions</b><p>CRM stages sent to Google and LinkedIn.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Pipeline reporting</b><p>Opportunities and revenue by campaign.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Nurture</b><p>Remarketing during the sale.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Patience</b><p>Budgets judged on the right timescale.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Pipeline tracking</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Nurture campaigns</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Pipeline reports</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--3\" role=\"tabpanel\" id=\"bh-334-committee\" aria-labelledby=\"bh-334-t-committee\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>The user, the manager, IT and finance all need convincing.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Reach the whole buying committee.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>Deals stall when one person isn’t convinced.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Target account lists</li><li>Ads for each role</li><li>Offers for each stage</li><li>Sales briefed</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Your champion isn’t selling alone.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Target accounts</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Reached</span><b>312 of 400</b></li><li><span>Engaged</span><b>96</b></li><li><span>Opportunities</span><b>18</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Account-based ads</b><p>Ads to target companies.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Role-based messages</b><p>Different ads for each role.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Content offers</b><p>Guides that answer each role’s questions.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Sales alignment</b><p>Campaigns planned with sales.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Account-based campaigns</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Role-based ads</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content offers</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--4\" role=\"tabpanel\" id=\"bh-334-saas\" aria-labelledby=\"bh-334-t-saas\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Sign-ups arrive, but few activate or convert.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Optimise for activated and paying users.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>A cheap trial that never activates is the most expensive kind.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Activation events tracked</li><li>Trials scored by quality</li><li>Ads during the trial</li><li>Payback by channel</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Growth that pays back.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Trials</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Started</span><b>1,240</b></li><li><span>Activated</span><b>384</b></li><li><span>Paid</span><b>149</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Product events</b><p>Activation and payment sent to the platforms.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Trial quality</b><p>Targeting that brings real users.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Onboarding ads</b><p>Remarketing during the trial.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Payback</b><p>Cost per paying user tracked.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Activation tracking</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Trial remarketing</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Payback reports</li></ul></div>\n\t\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "b2b-performance-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Ads for every stage of the deal",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-337\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-337\">Ads for <span class=\"accent\">every stage of the deal</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a stage to see what buyers think, and what we run.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmst2\" data-tabs style=\"--n:4\">\n\t\t\t\t<div class=\"cmst2__tabs\" role=\"tablist\" aria-label=\"Deal stages\"><button class=\"cmst2__tab cmst2__tab--attract\" type=\"button\" role=\"tab\" id=\"bs-336-t-attract\" aria-controls=\"bs-336-attract\" aria-selected=\"true\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">1</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Aware</b><span>We have a problem</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--trust\" type=\"button\" role=\"tab\" id=\"bs-336-t-trust\" aria-controls=\"bs-336-trust\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">2</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Research</b><span>What are our options?</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--convert\" type=\"button\" role=\"tab\" id=\"bs-336-t-convert\" aria-controls=\"bs-336-convert\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">3</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Decide</b><span>Who should we choose?</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--keep\" type=\"button\" role=\"tab\" id=\"bs-336-t-keep\" aria-controls=\"bs-336-keep\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">4</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Expand</b><span>Should we buy more?</span></span>\n\t\t\t\t</button></div>\n\t\t\t\t<div class=\"cmst2__panel cmst2__panel--attract\" role=\"tabpanel\" id=\"bs-336-attract\" aria-labelledby=\"bs-336-t-attract\" tabindex=\"0\">\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 1 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Aware</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“We have a problem”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Reach the right companies early</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Reach in target accounts</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>2</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Thought leader ads</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Your experts’ posts, promoted.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Senior buyers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>LinkedIn</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Trust</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>CEO on the hidden cost of payroll</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Video</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Short explainers.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Your ideal customers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>LinkedIn, YouTube</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Awareness</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A 30-second product story</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--trust\" role=\"tabpanel\" id=\"bs-336-trust\" aria-labelledby=\"bs-336-t-trust\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 2 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Research</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“What are our options?”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Be found while they research</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Engaged accounts, content downloads</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>2</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Search ads</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Problem and category searches.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Researchers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Google, Microsoft</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>High intent</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>payroll software for agencies</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Content offers</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Guides and tools behind a form.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Researchers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>LinkedIn, Meta</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Named leads</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A buyer’s guide</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--convert\" role=\"tabpanel\" id=\"bs-336-convert\" aria-labelledby=\"bs-336-t-convert\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 3 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Decide</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“Who should we choose?”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Win the shortlist</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Demos, opportunities</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>2</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Comparison and brand search</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Your name and “vs” searches.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Shortlisters</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Google</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Demos</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>vantage vs payflow</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Account remarketing</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Proof for engaged accounts.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Buying committee</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>LinkedIn, Google</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Meetings</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A case study for IT</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--keep\" role=\"tabpanel\" id=\"bs-336-keep\" aria-labelledby=\"bs-336-t-keep\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 4 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Expand</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“Should we buy more?”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Grow accounts</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Upsell pipeline</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>2</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Customer campaigns</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">New features for customers.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Customers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>LinkedIn, Meta</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Upsell</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A new module</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Exclusions</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Customers out of acquisition ads.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Customers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>All platforms</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>No wasted spend</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>CRM lists synced</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "b2b-performance-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/case-study",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "look": "cmcase cmcase--pm cmcase--b2bpm",
+    "kicker": "Case study · B2B",
+    "title": "How Vantage Payroll built <em>$1.6M of pipeline from ads</em>",
+    "client": "Vantage Payroll",
+    "clientInfo": "· B2B software · Google, LinkedIn and Microsoft",
+    "steps": [
+     {
+      "title": "The challenge",
+      "text": "Lots of cheap leads that sales ignored."
+     },
+     {
+      "title": "What we did",
+      "text": "Targeting by role, qualifying forms, HubSpot sync and offline conversions."
+     },
+     {
+      "title": "The outcome",
+      "text": "Fewer, better leads and a clear line from ads to pipeline."
+     }
+    ],
+    "buttonText": "Read the case study",
+    "buttonUrl": "/case-studies/",
+    "stats": [
+     {
+      "value": "$1.6M",
+      "label": "pipeline from ads"
+     },
+     {
+      "value": "+140%",
+      "label": "sales-qualified leads"
+     },
+     {
+      "value": "−45%",
+      "label": "cost per qualified lead"
+     },
+     {
+      "value": "5 min",
+      "label": "to first follow-up"
+     }
+    ],
+    "chartTitle": "Sales-qualified leads, per month",
+    "bars": [
+     {
+      "height": 41,
+      "label": "Month 1: 18"
+     },
+     {
+      "height": 45,
+      "label": "Month 2: 20"
+     },
+     {
+      "height": 55,
+      "label": "Month 3: 24"
+     },
+     {
+      "height": 61,
+      "label": "Month 4: 27"
+     },
+     {
+      "height": 70,
+      "label": "Month 5: 31"
+     },
+     {
+      "height": 75,
+      "label": "Month 6: 33"
+     },
+     {
+      "height": 82,
+      "label": "Month 7: 36"
+     },
+     {
+      "height": 86,
+      "label": "Month 8: 38"
+     },
+     {
+      "height": 93,
+      "label": "Month 9: 41"
+     },
+     {
+      "height": 98,
+      "label": "Month 10: 43"
+     },
+     {
+      "height": 95,
+      "label": "Month 11: 42"
+     },
+     {
+      "height": 100,
+      "label": "Month 12: 44"
+     }
+    ],
+    "axisStart": "Month 1",
+    "axisEnd": "Month 12"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "B2B companies we run ads for",
+    "html": "<section class=\"section section--white cmwk2s\" aria-labelledby=\"h-340\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-340\">B2B companies we <span class=\"accent\">run ads for</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a company to see what we did.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmwk2\" data-tabs>\n\t\t\t\t<div class=\"cmwk2__tabs\" role=\"tablist\" aria-label=\"B2B clients\"><button class=\"cmwk2__tab cmwk2__tab--1\" type=\"button\" role=\"tab\" id=\"bw-339-t-vantage\" aria-controls=\"bw-339-vantage\" aria-selected=\"true\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#0369a1\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M5 8h8l7 18 7-18h8L23 34h-6z\" fill=\"#0284c7\"/></svg><span class=\"cmlg__w\"><b>Vantage</b><span>Payroll</span></span></span><span class=\"cmwk2__ind\">B2B software</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--2\" type=\"button\" role=\"tab\" id=\"bw-339-t-calder\" aria-controls=\"bw-339-calder\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#be123c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M8 32V8h8l4 10 4-10h8v24\" fill=\"none\" stroke=\"#e11d48\" stroke-width=\"4\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Calder</b><span>Clinics</span></span></span><span class=\"cmwk2__ind\">Group of private clinics</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--3\" type=\"button\" role=\"tab\" id=\"bw-339-t-packwise\" aria-controls=\"bw-339-packwise\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#4338ca\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 4 34 12v16L20 36 6 28V12z\" fill=\"#6366f1\"/><path d=\"M6 12l14 8 14-8M20 20v16\" stroke=\"#c7d2fe\" stroke-width=\"2.5\" fill=\"none\"/></svg><span class=\"cmlg__w\"><b>Packwise</b><span>Supplies</span></span></span><span class=\"cmwk2__ind\">Packaging, eCommerce and Amazon</span>\n\t\t\t\t</button></div>\n\t\t\t\t<article class=\"cmwk2__panel cmwk2__panel--1\" role=\"tabpanel\" id=\"bw-339-vantage\" aria-labelledby=\"bw-339-t-vantage\" tabindex=\"0\">\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Vantage Payroll</h3>\n\t\t\t\t\t\t\t<p>B2B software · 90 people · 10 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>LinkedIn Ads</li><li>Google Ads</li><li>HubSpot</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>LinkedIn and Google brought plenty of leads, but sales said most were students and job seekers.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Qualifying questions on every form</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Offline conversions sent from HubSpot</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> LinkedIn audiences by job title and company size</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing pages for each audience</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Fewer, better leads that sales would actually call.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>+140%</b><span>sales-qualified leads</span></li><li><b>−45%</b><span>cost per qualified lead</span></li><li><b>$1.6M</b><span>pipeline from ads</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--2\" role=\"tabpanel\" id=\"bw-339-calder\" aria-labelledby=\"bw-339-t-calder\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Calder Clinics</h3>\n\t\t\t\t\t\t\t<p>Group of private clinics · 6 locations · 18 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Google Ads</li><li>Call tracking</li><li>Meta Ads</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Google Ads was suspended twice, and phone bookings weren’t tracked at all.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Website fixes and a successful appeal</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Call tracking for every clinic</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Search campaigns by treatment</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Meta ads for new treatments</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Steady bookings for each clinic, without account scares.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>+82%</b><span>booked consultations</span></li><li><b>0</b><span>suspensions since</span></li><li><b>−28%</b><span>cost per booking</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--3\" role=\"tabpanel\" id=\"bw-339-packwise\" aria-labelledby=\"bw-339-t-packwise\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Packwise Supplies</h3>\n\t\t\t\t\t\t\t<p>Packaging, eCommerce and Amazon · 50 people · 12 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Amazon Ads</li><li>Google Shopping</li><li>Microsoft Ads</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Amazon sales were growing, but advertising ate most of the margin.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Amazon Sponsored Products restructured by margin</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Google Shopping for the website</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Microsoft Ads for business buyers</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> One report across all three</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>More profitable sales on Amazon and their own site.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>−36%</b><span>Amazon advertising cost of sales</span></li><li><b>+48%</b><span>website revenue</span></li><li><b>3</b><span>platforms, one report</span></li></ul></div>\n\t\t\t\t</article>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "b2b-performance-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Alex Barsuk",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "B2B programmes, sized to your pipeline goals",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-343\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-343\">B2B programmes, <span class=\"accent\">sized to your pipeline goals</span></h2>\n\t\t\t\t<p class=\"section-lead\">Three ways to work with us. Each is a fixed monthly price, quoted after a free call.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"cmplans\" role=\"list\"><li class=\"cmplan cmplan--1\">\n\t\t\t\t\t<p class=\"cmplan__name\">Foundation</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Search and tracking</p>\n\t\t\t\t\t<p class=\"cmplan__d\">For B2B companies starting paid ads properly.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tracking and CRM sync</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Google and Microsoft search</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly report</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--2 cmplan--main\">\n\t\t\t\t\t<p class=\"cmplan__name\">Pipeline</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Search and LinkedIn</p>\n\t\t\t\t\t<p class=\"cmplan__d\">For companies ready to reach buyers early.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Foundation</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> LinkedIn campaigns</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Offline conversions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Pipeline reporting</li></ul>\n\t\t\t\t\t<a class=\"button button--primary button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--3\">\n\t\t\t\t\t<p class=\"cmplan__name\">Account-based</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Target accounts</p>\n\t\t\t\t\t<p class=\"cmplan__d\">For companies selling to a known list.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Pipeline</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Account-based campaigns</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Role-based ads</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Sales alignment</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li></ul>\n\t\t</div>\n\t</section>",
+    "css": "b2b-performance-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/why-intella",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "A B2B performance marketing agency that <em>talks to sales</em>",
+    "items": [
+     {
+      "title": "Tracking before spend",
+      "text": "We check every conversion fires before we scale a single campaign."
+     },
+     {
+      "title": "One team, every platform",
+      "text": "Search, social, video and marketplaces planned together, not in silos."
+     },
+     {
+      "title": "Your accounts, your data",
+      "text": "Ads run in accounts you own. You keep everything if you ever leave."
+     },
+     {
+      "title": "We build the landing pages too",
+      "text": "Our web team builds and tests the pages your ads send people to."
+     }
+    ],
+    "facts": [
+     {
+      "value": "10",
+      "label": "ad platforms we manage"
+     },
+     {
+      "value": "100%",
+      "label": "of accounts owned by our clients"
+     },
+     {
+      "value": "48 h",
+      "label": "to a written audit of your account"
+     }
+    ],
+    "bigFacts": true,
+    "quote": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "B2B performance marketing questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What is B2B performance marketing?",
+      "answer": "Paid ads for companies that sell to other businesses, such as Google, LinkedIn and Microsoft ads, measured by qualified leads, pipeline and revenue."
+     },
+     {
+      "question": "Which platforms work best for B2B?",
+      "answer": "Google and Microsoft search for people already looking, LinkedIn for reaching decision makers by role and company."
+     },
+     {
+      "question": "How do you measure B2B ads?",
+      "answer": "Through your CRM: which campaigns create qualified leads, opportunities and revenue."
+     },
+     {
+      "question": "Do you work with SaaS companies?",
+      "answer": "Yes. We track trials, activation and payment, and optimise for paying users."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Turn ads into <em>pipeline sales can see</em>",
+    "lead": "Give us read-only access. We’ll show you what your ads really bring in.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "Who do you sell to, and which CRM do you use?",
+    "service": "b2b-performance-marketing",
+    "buttonText": "Request my free account review",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "B2B ads work best <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "users",
+      "title": "LinkedIn Ads",
+      "url": "/services/digital-marketing/performance-marketing/linkedin-ads/",
+      "text": "B2B campaigns by role and company."
+     },
+     {
+      "icon": "chart",
+      "title": "B2B Content Marketing",
+      "url": "/services/digital-marketing/content-marketing/b2b-content-marketing/",
+      "text": "Content for long sales cycles."
+     },
+     {
+      "icon": "chart",
+      "title": "B2B and SaaS SEO",
+      "url": "/services/digital-marketing/seo/b2b-seo/",
+      "text": "SEO that builds pipeline."
+     }
+    ]
+   }
+  }
+ ]
+}

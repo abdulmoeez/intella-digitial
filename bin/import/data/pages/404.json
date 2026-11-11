@@ -1,0 +1,73 @@
+{
+ "title": "Page not found",
+ "path": "/page-not-found/",
+ "seo": {
+  "title": "Page not found | Intella Digital",
+  "description": "The page you were looking for could not be found."
+ },
+ "blocks": [
+  {
+   "name": "intella/not-found",
+   "attrs": {
+    "title": "We couldn’t find <em>that page</em>",
+    "lead": "The link may be old, or the page may have moved. Search for the page you need, or try one of the pages below.",
+    "placeholder": "Search for a page, e.g. SEO audit",
+    "sitemap": "Or <a href=\"/sitemap/\">browse every page in the sitemap</a>.",
+    "buttons": [
+     {
+      "text": "Go to the homepage",
+      "url": "/",
+      "style": "primary"
+     },
+     {
+      "text": "Contact us",
+      "url": "/contact/",
+      "style": "outline"
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/link-list",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Popular pages",
+    "links": [
+     {
+      "title": "Services",
+      "description": "Everything we do, in one place.",
+      "url": "/services/"
+     },
+     {
+      "title": "Free website audit",
+      "description": "Find out what’s holding your site back.",
+      "url": "/audits/website-audit/"
+     },
+     {
+      "title": "Case studies",
+      "description": "Real projects and what changed.",
+      "url": "/case-studies/"
+     },
+     {
+      "title": "Articles",
+      "description": "Guides on SEO, AI search and the web.",
+      "url": "/articles/"
+     },
+     {
+      "title": "About us",
+      "description": "Who we are and how we work.",
+      "url": "/about/"
+     },
+     {
+      "title": "Sitemap",
+      "description": "Every page on the site.",
+      "url": "/sitemap/"
+     }
+    ]
+   }
+  }
+ ],
+ "status": "private",
+ "noindex": true
+}

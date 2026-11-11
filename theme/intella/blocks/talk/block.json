@@ -1,0 +1,183 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/talk",
+	"title": "Let’s talk (call to action)",
+	"category": "intella",
+	"icon": "megaphone",
+	"description": "Closing call to action panel with cut-out people or a photo collage.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "look",
+				"type": "select",
+				"label": "Look",
+				"options": [
+					{
+						"label": "Plain",
+						"value": ""
+					},
+					{
+						"label": "Light",
+						"value": "light"
+					},
+					{
+						"label": "Sand",
+						"value": "sand"
+					},
+					{
+						"label": "Violet",
+						"value": "violet"
+					},
+					{
+						"label": "Plum",
+						"value": "plum"
+					},
+					{
+						"label": "Mark",
+						"value": "mark"
+					},
+					{
+						"label": "Sides",
+						"value": "sides"
+					}
+				],
+				"default": ""
+			},
+			{
+				"key": "left",
+				"type": "toggle",
+				"label": "People on the left"
+			},
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "buttons",
+				"type": "repeater",
+				"label": "Buttons",
+				"itemName": "button",
+				"itemLabel": "text",
+				"max": 3,
+				"fields": [
+					{
+						"key": "text",
+						"type": "text",
+						"label": "Text"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					},
+					{
+						"key": "style",
+						"type": "select",
+						"label": "Style",
+						"options": [
+							{
+								"label": "Filled (with arrow)",
+								"value": "primary"
+							},
+							{
+								"label": "Outline",
+								"value": "outline"
+							}
+						],
+						"default": "primary"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "contact",
+				"type": "toggle",
+				"label": "Show phone and email",
+				"default": true
+			},
+			{
+				"key": "people",
+				"type": "repeater",
+				"label": "Cut-out people",
+				"itemName": "person",
+				"panel": "Pictures",
+				"help": "Transparent WebP cut-outs.",
+				"fields": [
+					{
+						"key": "image",
+						"type": "image",
+						"label": "Image"
+					},
+					{
+						"key": "size",
+						"type": "select",
+						"label": "Size",
+						"options": [
+							{
+								"label": "Normal",
+								"value": ""
+							},
+							{
+								"label": "Wide",
+								"value": "wide"
+							},
+							{
+								"label": "Large",
+								"value": "l"
+							}
+						],
+						"default": ""
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "shots",
+				"type": "repeater",
+				"label": "Collage photos (instead of people)",
+				"itemName": "photo",
+				"max": 2,
+				"panel": "Pictures",
+				"fields": [
+					{
+						"key": "image",
+						"type": "image",
+						"label": "Photo"
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "noteReply",
+				"type": "text",
+				"label": "Collage note 1",
+				"panel": "Pictures"
+			},
+			{
+				"key": "noteSkillsTitle",
+				"type": "text",
+				"label": "Collage note 2 title",
+				"panel": "Pictures"
+			},
+			{
+				"key": "noteSkills",
+				"type": "text",
+				"label": "Collage note 2 text",
+				"panel": "Pictures"
+			}
+		],
+		"section": "white"
+	}
+}

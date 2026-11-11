@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/story",
+	"title": "Story and mission",
+	"category": "intella",
+	"icon": "book",
+	"description": "A heading with a few paragraphs, and a mission statement band.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "body",
+				"type": "textarea",
+				"label": "Text",
+				"rows": 10,
+				"help": "Leave an empty line between paragraphs."
+			},
+			{
+				"key": "mission",
+				"type": "inline",
+				"label": "Mission statement"
+			}
+		],
+		"section": "white"
+	}
+}

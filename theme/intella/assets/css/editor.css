@@ -1,0 +1,43 @@
+/* Sidebar form for Intella section blocks (admin only). */
+
+.intella-repeater .intella-repeater__item {
+	border: 1px solid #e0e0e0;
+	border-radius: 4px;
+	margin-block-end: 8px;
+}
+
+.intella-repeater__actions {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 4px;
+	margin-block-start: 8px;
+}
+
+.intella-image-field {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 8px;
+}
+
+.intella-image-field img {
+	width: 64px;
+	height: 64px;
+	object-fit: cover;
+	border-radius: 4px;
+}
+
+.intella-code textarea {
+	font-family: ui-monospace, Menlo, monospace;
+	font-size: 11px;
+}
+
+.intella-field-heading {
+	margin: 16px 0 8px;
+	font-size: 11px;
+	text-transform: uppercase;
+}
+
+.intella-block-help {
+	padding: 0 16px 16px;
+}

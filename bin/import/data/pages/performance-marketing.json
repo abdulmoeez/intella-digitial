@@ -1,0 +1,447 @@
+{
+ "title": "Performance Marketing Agency",
+ "path": "/services/digital-marketing/performance-marketing/",
+ "seo": {
+  "title": "Performance Marketing Agency | Paid Ads Management | Intella Digital",
+  "description": "A performance marketing agency for Google, Meta, LinkedIn, TikTok, Amazon and ChatGPT ads, with tested tracking and reports in leads and sales."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Services",
+      "url": "/services/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": ""
+     }
+    ],
+    "title": "A performance marketing agency that <em>counts sales, not clicks</em>",
+    "lead": "We plan, run and improve paid ads on every major platform, with tracking you can trust and reports in leads, sales and return on ad spend.",
+    "buttonText": "Get a free account review",
+    "formLabel": "Get a free account review",
+    "service": "performance-marketing",
+    "notes": [
+     "Tracking tested before we spend",
+     "Ten platforms, one team",
+     "Your accounts, your data"
+    ],
+    "sliderLabel": "Common paid advertising problems",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "Ad spend going up, leads staying flat",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Last 90 days, all platforms</p>\n\t\t\t\t<div class=\"cmhc__kpi\"><span>Ad spend</span><b>$42,600</b><i></i><em class=\"up\">+38%</em></div>\n\t\t\t\t<div class=\"cmhc__kpi\"><span>Qualified leads</span><b>61</b><i></i><em class=\"flat\">+2%</em></div>\n\t\t\t\t<p class=\"cmhc__note\"><b>$18,900</b> spent on searches that never convert</p></div>",
+      "photo": "media:assets/images/people-cut/suit.webp",
+      "fix": "Every pound and dollar traced from click to enquiry, then moved to what works.",
+      "look": "spend"
+     },
+     {
+      "kicker": "",
+      "title": "Tracking nobody trusts",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Leads last month</p>\n\t\t\t\t<ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Google Ads says</span><b>212</b></li><li class=\"no\"><span>Meta says</span><b>148</b></li><li class=\"ok\"><span>Your CRM says</span><b>97</b></li></ul>\n\t\t\t\t<p class=\"cmhc__note\">Both platforms claim the same leads</p></div>",
+      "photo": 0,
+      "fix": "We set up and test conversion tracking on every platform before we scale.",
+      "look": "track"
+     },
+     {
+      "kicker": "",
+      "title": "Every platform run on its own",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Who runs what today</p>\n\t\t\t\t<ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:100%\"><span>Google Ads · freelancer</span><b>£</b></li><li style=\"--w:70%\"><span>Meta · in-house</span><b>£</b></li><li style=\"--w:40%\"><span>LinkedIn · another agency</span><b>£</b></li><li style=\"--w:15%\"><span>Shared plan</span><b>None</b></li></ul></div>",
+      "photo": 0,
+      "fix": "One team and one plan across search, social, video and marketplaces.",
+      "look": "silos"
+     },
+     {
+      "kicker": "",
+      "title": "Leads that never buy",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">This month’s leads</p>\n\t\t\t\t<ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:100%\"><span>Form fills</span><b>240</b></li><li style=\"--w:38%\"><span>Qualified</span><b>91</b></li><li style=\"--w:14%\"><span>Became customers</span><b>33</b></li></ul>\n\t\t\t\t<p class=\"cmhc__note\">Optimised for form fills, not customers</p></div>",
+      "photo": "media:assets/images/people-cut/phone-b.webp",
+      "fix": "We optimise for sales your CRM confirms, not form fills.",
+      "look": "leads"
+     }
+    ],
+    "tools": "",
+    "visual": "",
+    "look": "cmhero cmhero--pm"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What does a performance marketing agency actually do?",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-1\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"pmdef\">\n\t\t\t\t<div>\n\t\t\t\t\t<h2 class=\"section-title\" id=\"h-1\">What does a performance marketing agency <span class=\"accent\">actually do?</span></h2>\n\t\t\t\t\t<p class=\"section-lead\">A performance marketing agency plans, runs and improves paid ads where you pay for measurable results, such as leads and sales, rather than for being seen. It sets up tracking, chooses the platforms, writes and tests the ads, and moves budget to whatever brings customers at the lowest cost.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Paid search, social, video and marketplace ads</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Conversion tracking connected to your CRM</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing pages and creative that turn clicks into enquiries</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Reports in cost per lead, sales and return on ad spend</li></ul>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"pmdef__tbl\">\n\t\t\t\t\t<table>\n\t\t\t\t\t\t<caption>Performance marketing compared with brand advertising</caption>\n\t\t\t\t\t\t<thead><tr><th scope=\"col\"><span class=\"visually-hidden\">Question</span></th><th scope=\"col\">Performance marketing</th><th scope=\"col\">Brand advertising</th></tr></thead>\n\t\t\t\t\t\t<tbody><tr><th scope=\"row\">What you pay for</th><td class=\"pmdef__us\">Results: leads, sales, bookings</td><td>Reach: views and impressions</td></tr><tr><th scope=\"row\">How success is measured</th><td class=\"pmdef__us\">Cost per lead or sale, return on ad spend</td><td>Awareness and brand recall</td></tr><tr><th scope=\"row\">How fast you see it</th><td class=\"pmdef__us\">Within weeks</td><td>Over months or years</td></tr><tr><th scope=\"row\">Main channels</th><td class=\"pmdef__us\">Google, Meta, LinkedIn, TikTok, Amazon</td><td>TV, outdoor, sponsorship</td></tr></tbody>\n\t\t\t\t\t</table>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Performance marketing on every major platform",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-2\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-2\">Performance marketing on <span class=\"accent\">every major platform</span></h2>\n\t\t\t\t<p class=\"section-lead\">Each platform has its own specialists. One plan connects them, so your budget goes where it works best.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"svc-grid svc-grid--5\" role=\"list\">\n\t\t\t\t<li>\n\t\t\t\t\t<a class=\"svc-card\" href=\"/services/digital-marketing/performance-marketing/google-ads/\">\n\t\t\t\t\t\t<span class=\"svc-card__top\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-search\"/></svg></span><span class=\"svc-card__num\">01</span></span>\n\t\t\t\t\t\t<h3 class=\"svc-card__title\">Google Ads</h3>\n\t\t\t\t\t\t<p class=\"svc-card__text\">Search, Performance Max and display campaigns for people ready to buy.</p>\n\t\t\t\t\t\t<span class=\"svc-card__more\">Explore <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t</a>\n\t\t\t\t</li>\n\t\t\t\t<li>\n\t\t\t\t\t<a class=\"svc-card\" href=\"/services/digital-marketing/performance-marketing/facebook-ads/\">\n\t\t\t\t\t\t<span class=\"svc-card__top\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-heart\"/></svg></span><span class=\"svc-card__num\">02</span></span>\n\t\t\t\t\t\t<h3 class=\"svc-card__title\">Meta Ads</h3>\n\t\t\t\t\t\t<p class=\"svc-card__text\">Facebook and Instagram campaigns that build demand and bring enquiries.</p>\n\t\t\t\t\t\t<span class=\"svc-card__more\">Explore <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t</a>\n\t\t\t\t</li>\n\t\t\t\t<li>\n\t\t\t\t\t<a class=\"svc-card\" href=\"/services/digital-marketing/performance-marketing/linkedin-ads/\">\n\t\t\t\t\t\t<span class=\"svc-card__top\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-users\"/></svg></span><span class=\"svc-card__num\">03</span></span>\n\t\t\t\t\t\t<h3 class=\"svc-card__title\">LinkedIn Ads</h3>\n\t\t\t\t\t\t<p class=\"svc-card__text\">Reach decision makers by job title, company and industry.</p>\n\t\t\t\t\t\t<span class=\"svc-card__more\">Explore <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t</a>\n\t\t\t\t</li>\n\t\t\t\t<li>\n\t\t\t\t\t<a class=\"svc-card\" href=\"/services/digital-marketing/performance-marketing/tiktok-ads/\">\n\t\t\t\t\t\t<span class=\"svc-card__top\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-play\"/></svg></span><span class=\"svc-card__num\">04</span></span>\n\t\t\t\t\t\t<h3 class=\"svc-card__title\">TikTok Ads</h3>\n\t\t\t\t\t\t<p class=\"svc-card__text\">Short video ads, Spark ads and TikTok Shop for brands that sell online.</p>\n\t\t\t\t\t\t<span class=\"svc-card__more\">Explore <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t</a>\n\t\t\t\t</li>\n\t\t\t\t<li>\n\t\t\t\t\t<a class=\"svc-card\" href=\"/services/digital-marketing/performance-marketing/google-shopping-ads/\">\n\t\t\t\t\t\t<span class=\"svc-card__top\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-cart\"/></svg></span><span class=\"svc-card__num\">05</span></span>\n\t\t\t\t\t\t<h3 class=\"svc-card__title\">Google Shopping Ads</h3>\n\t\t\t\t\t\t<p class=\"svc-card__text\">Product ads and Merchant Center feeds that sell your catalogue.</p>\n\t\t\t\t\t\t<span class=\"svc-card__more\">Explore <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t</a>\n\t\t\t\t</li>\n\t\t\t\t<li>\n\t\t\t\t\t<a class=\"svc-card\" href=\"/services/digital-marketing/performance-marketing/chatgpt-ads/\">\n\t\t\t\t\t\t<span class=\"svc-card__top\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-chat\"/></svg></span><span class=\"svc-card__num\">06</span></span>\n\t\t\t\t\t\t<h3 class=\"svc-card__title\">ChatGPT Ads</h3>\n\t\t\t\t\t\t<p class=\"svc-card__text\">Ads shown next to ChatGPT answers, from OpenAI’s new ad platform.</p>\n\t\t\t\t\t\t<span class=\"svc-card__more\">Explore <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t</a>\n\t\t\t\t</li>\n\t\t\t\t<li>\n\t\t\t\t\t<a class=\"svc-card\" href=\"/services/digital-marketing/performance-marketing/instagram-ads/\">\n\t\t\t\t\t\t<span class=\"svc-card__top\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-sparkle\"/></svg></span><span class=\"svc-card__num\">07</span></span>\n\t\t\t\t\t\t<h3 class=\"svc-card__title\">Instagram Ads</h3>\n\t\t\t\t\t\t<p class=\"svc-card__text\">Reels, Stories and feed ads that stop the scroll.</p>\n\t\t\t\t\t\t<span class=\"svc-card__more\">Explore <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t</a>\n\t\t\t\t</li>\n\t\t\t\t<li>\n\t\t\t\t\t<a class=\"svc-card\" href=\"/services/digital-marketing/performance-marketing/youtube-ads/\">\n\t\t\t\t\t\t<span class=\"svc-card__top\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-play\"/></svg></span><span class=\"svc-card__num\">08</span></span>\n\t\t\t\t\t\t<h3 class=\"svc-card__title\">YouTube Ads</h3>\n\t\t\t\t\t\t<p class=\"svc-card__text\">Video campaigns that build awareness and drive action.</p>\n\t\t\t\t\t\t<span class=\"svc-card__more\">Explore <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t</a>\n\t\t\t\t</li>\n\t\t\t\t<li>\n\t\t\t\t\t<a class=\"svc-card\" href=\"/services/digital-marketing/performance-marketing/amazon-ads/\">\n\t\t\t\t\t\t<span class=\"svc-card__top\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-cart\"/></svg></span><span class=\"svc-card__num\">09</span></span>\n\t\t\t\t\t\t<h3 class=\"svc-card__title\">Amazon Ads</h3>\n\t\t\t\t\t\t<p class=\"svc-card__text\">Sponsored Products and Brands that win the marketplace.</p>\n\t\t\t\t\t\t<span class=\"svc-card__more\">Explore <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t</a>\n\t\t\t\t</li>\n\t\t\t\t<li>\n\t\t\t\t\t<a class=\"svc-card\" href=\"/services/digital-marketing/performance-marketing/microsoft-ads/\">\n\t\t\t\t\t\t<span class=\"svc-card__top\"><span class=\"icon-tile\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-search\"/></svg></span><span class=\"svc-card__num\">10</span></span>\n\t\t\t\t\t\t<h3 class=\"svc-card__title\">Microsoft Ads</h3>\n\t\t\t\t\t\t<p class=\"svc-card__text\">Bing search ads that reach buyers Google misses, for less.</p>\n\t\t\t\t\t\t<span class=\"svc-card__more\">Explore <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></span>\n\t\t\t\t\t</a>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Why paid ads stop paying",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-4\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-4\">Why paid ads <span class=\"accent\">stop paying</span></h2>\n\t\t\t\t<p class=\"section-lead\">The same seven problems turn up in almost every account we audit. Pick one to see how we fix it.</p>\n\t\t\t</div>\n\t\t\t<div class=\"wpvt cmvt\" data-tabs>\n\t\t\t\t<div class=\"wpvt__list\" role=\"tablist\" aria-label=\"Paid advertising problems\" aria-orientation=\"vertical\"><button class=\"wpvt__tab cmvt__tab cmvt__tab--1\" type=\"button\" role=\"tab\" id=\"bh-3-t-waste\" aria-controls=\"bh-3-waste\" aria-selected=\"true\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">01</i>Wasted spend</b><span>Budget leaks into irrelevant searches, broad audiences and placements that never convert.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--2\" type=\"button\" role=\"tab\" id=\"bh-3-t-tracking\" aria-controls=\"bh-3-tracking\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">02</i>Tracking you can’t trust</b><span>Platforms over-count, double-count or miss conversions, so nobody knows what’s working.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--3\" type=\"button\" role=\"tab\" id=\"bh-3-t-quality\" aria-controls=\"bh-3-quality\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">03</i>Leads that don’t buy</b><span>Campaigns optimise for cheap form fills, and sales spends its week chasing people who were never going to buy.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--4\" type=\"button\" role=\"tab\" id=\"bh-3-t-silos\" aria-controls=\"bh-3-silos\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">04</i>Platforms run in silos</b><span>Google Ads with one freelancer, Meta with another, LinkedIn in-house. Nobody sees the whole picture.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--5\" type=\"button\" role=\"tab\" id=\"bh-3-t-creative\" aria-controls=\"bh-3-creative\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">05</i>Ads that stop working</b><span>The same three ads run for months. Costs creep up as people stop noticing them.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--6\" type=\"button\" role=\"tab\" id=\"bh-3-t-pages\" aria-controls=\"bh-3-pages\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">06</i>Clicks that land nowhere</b><span>Ads send people to a homepage or a slow page that doesn’t match the ad.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--7\" type=\"button\" role=\"tab\" id=\"bh-3-t-report\" aria-controls=\"bh-3-report\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">07</i>Reports in clicks, not revenue</b><span>Monthly reports full of impressions and click-through rates, but nothing about sales.</span>\n\t\t\t\t\t</button></div>\n\t\t\t\t<div class=\"wpvt__panels\"><div class=\"wpvt__panel cmvt__panel cmvt__panel--1\" role=\"tabpanel\" id=\"bh-3-waste\" aria-labelledby=\"bh-3-t-waste\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Budget leaks into irrelevant searches, broad audiences and placements that never convert.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Find the waste first, then move that money to what already works.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>Most accounts we audit waste between a fifth and a third of their budget. The fix is rarely clever: it’s regular, careful housekeeping.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Search terms reviewed every week and poor ones excluded</li><li>Display and app placements checked and blocked</li><li>Broad audiences narrowed using your customer data</li><li>Budget moved monthly to the lowest cost per sale</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Cutting waste is the fastest win in any account. The money is already in your budget.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Search terms, last 30 days</p><ul class=\"cmv__rows\" role=\"list\"><li><span>“free ad templates”</span><b>$1,240</b></li><li><span>“ad agency jobs”</span><b>$860</b></li><li><span>“what is ppc”</span><b>$540</b></li><li class=tot><span>Excluded and saved</span><b>$2,640</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Search term review</b><p>Every search you paid for, with the ones that never convert excluded.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Placement clean-up</b><p>Apps, sites and audiences that eat budget, removed.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Budget by result</b><p>Money moved to the campaigns with the lowest cost per sale.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Weekly checks</b><p>Spend watched every week, not once a month.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A waste report</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A negative keyword list</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A budget plan</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--2\" role=\"tabpanel\" id=\"bh-3-tracking\" aria-labelledby=\"bh-3-t-tracking\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Platforms over-count, double-count or miss conversions, so nobody knows what’s working.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Make every conversion count once, and match it to your CRM.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>If tracking is wrong, every decision after it is wrong too. Platforms optimise towards whatever you tell them is a conversion.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Each conversion action checked to fire once, at the right moment</li><li>Enhanced conversions and the Conversions API set up</li><li>Offline conversions sent back from your CRM</li><li>A test report you can keep</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Good tracking is what lets Google and Meta find more of your best customers.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><figure class=\"pmrep \" role=\"img\" aria-label=\"Conversion check: sample report\">\n\t<div class=\"pmrep__head\"><b>Conversion check</b><span>Your website</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Lead form</span><span class=\"pmrep__s\">Fires once</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Phone calls</span><span class=\"pmrep__s\">Not tracked</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Purchase</span><span class=\"pmrep__s\">Counted twice</span></li></ul>\n\t<p class=\"pmrep__foot\">1 of 3 actions correct</p>\n</figure></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Tracking audit</b><p>Every tag, event and conversion action checked.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Server-side tracking</b><p>Conversions API and server-side tags that survive ad blockers.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>CRM connection</b><p>Offline conversions sent back, so platforms learn which leads became sales.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>A test report</b><p>Proof that each conversion fires once, with screenshots.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A tracking audit</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tested conversion setup</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> CRM-matched reporting</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--3\" role=\"tabpanel\" id=\"bh-3-quality\" aria-labelledby=\"bh-3-t-quality\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Campaigns optimise for cheap form fills, and sales spends its week chasing people who were never going to buy.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Optimise for customers, not form fills.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>Cheap leads are easy. Leads that become customers take more work: better forms, better signals and better feedback.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Forms that ask one or two qualifying questions</li><li>Lead values sent to the platforms</li><li>Sales outcomes fed back weekly</li><li>Landing pages that set clear expectations</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>A lead that costs twice as much but buys three times as often is a better deal.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Leads by campaign</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Cheap lead campaign</span><b>4% buy</b></li><li><span>Qualified lead campaign</span><b>19% buy</b></li><li class=tot><span>Cost per customer</span><b>−52%</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Qualifying questions</b><p>Forms that filter out poor leads before they reach sales.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Value-based bidding</b><p>Platforms told what each lead was worth.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Lead scoring feedback</b><p>Sales outcomes sent back to Google and Meta.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Landing page tests</b><p>Pages that set the right expectations.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Better lead quality</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Value-based bidding</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Lead feedback loop</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--4\" role=\"tabpanel\" id=\"bh-3-silos\" aria-labelledby=\"bh-3-t-silos\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Google Ads with one freelancer, Meta with another, LinkedIn in-house. Nobody sees the whole picture.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">One plan across every platform, with one report.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>Buyers move between Google, Instagram, LinkedIn and YouTube before they enquire. Your campaigns should work together the same way.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>A channel plan that gives each platform a clear job</li><li>Audiences and exclusions shared across platforms</li><li>Budget compared across platforms by cost per sale</li><li>One report and one specialist</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>When platforms are planned together, each one does its job and they stop claiming the same sale.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--bars\"><p class=\"cmv__t\">Sales claimed by each platform</p><ul class=\"cmv__vb\" role=\"list\"><li style=\"--h:80%\"><b>96</b><span>Google</span></li><li style=\"--h:60%\"><b>71</b><span>Meta</span></li><li style=\"--h:25%\"><b>22</b><span>LinkedIn</span></li><li style=\"--h:92%\"><b>112</b><span>Real</span></li></ul><p class=\"cmv__src\">Real = sales in your CRM</p></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Channel plan</b><p>The job each platform does, from first touch to sale.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Shared audiences</b><p>Remarketing and exclusions coordinated across platforms.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>One budget view</b><p>Spend and results for every platform side by side.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>One report</b><p>One monthly report and one call.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A cross-platform plan</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> One dashboard</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> One point of contact</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--5\" role=\"tabpanel\" id=\"bh-3-creative\" aria-labelledby=\"bh-3-t-creative\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>The same three ads run for months. Costs creep up as people stop noticing them.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Keep new creative flowing, and test it properly.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>On social platforms, the ad is the targeting. Fresh creative is the biggest lever on cost per result.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>New concepts every month, made by our designers</li><li>Clear tests: hook, offer, format, one at a time</li><li>Winners scaled, losers paused quickly</li><li>Learnings shared in your monthly report</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Accounts with a steady flow of new ads keep costs down as they grow.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--bars\"><p class=\"cmv__t\">Cost per lead by week of the same ad</p><ul class=\"cmv__vb\" role=\"list\"><li style=\"--h:35%\"><b>$31</b><span>Wk 1</span></li><li style=\"--h:45%\"><b>$38</b><span>Wk 4</span></li><li style=\"--h:65%\"><b>$52</b><span>Wk 8</span></li><li style=\"--h:90%\"><b>$74</b><span>Wk 12</span></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Monthly creative</b><p>New images, videos and copy every month.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Structured tests</b><p>One change at a time, so you know what worked.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Creative reports</b><p>Which hooks, offers and formats win.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Design in-house</b><p>Our designers make the ads, so there’s no waiting.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New ads every month</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A testing calendar</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Creative learnings</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--6\" role=\"tabpanel\" id=\"bh-3-pages\" aria-labelledby=\"bh-3-t-pages\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Ads send people to a homepage or a slow page that doesn’t match the ad.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Landing pages built for the ad, and tested.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>Most landing pages lose more customers than the ads ever do. Because we build websites, we fix the page as well as the ad.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>A page for each campaign or offer</li><li>Fast, mobile-first pages</li><li>Forms with as few fields as possible</li><li>Tests on headlines, offers and forms</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Doubling the conversion rate halves the cost per lead, without spending a cent more on ads.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Same ad, two pages</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Homepage</span><b>1.9%</b></li><li><span>Landing page</span><b>6.4%</b></li><li class=tot><span>Cost per lead</span><b>−70%</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Message match</b><p>The page repeats what the ad promised.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Speed</b><p>Pages that load in under two seconds on a phone.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>One clear action</b><p>One form, one button, no distractions.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>A/B tests</b><p>Headlines, forms and offers tested on real traffic.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ad-specific landing pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Speed fixes</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly tests</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--7\" role=\"tabpanel\" id=\"bh-3-report\" aria-labelledby=\"bh-3-t-report\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Monthly reports full of impressions and click-through rates, but nothing about sales.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Report what the business cares about.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>A good report answers three questions: what did we spend, what did it bring in, and what are we doing next?</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Goals agreed before we start</li><li>A dashboard you can check any day</li><li>A one-page monthly summary</li><li>A monthly call with your specialist</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>When everyone can see what the ads bring in, decisions about budget get easy.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">This month</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Spend</span><b>$24,000</b></li><li><span>Qualified leads</span><b>168</b></li><li><span>New customers</span><b>41</b></li><li class=tot><span>Return on ad spend</span><b>4.2×</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Agreed goals</b><p>Cost per lead, cost per sale and return on ad spend, agreed up front.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>A live dashboard</b><p>Spend and results by platform, updated daily.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Plain-English report</b><p>What happened, why, and what we’ll do next.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Monthly call</b><p>Thirty minutes with your specialist.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A live dashboard</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A monthly report</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A monthly call</li></ul></div>\n\t\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "We check the tracking before we spend a cent",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-5\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"dark-split\">\n\t\t\t\t<div class=\"dark-split__text\">\n\t\t\t\t\t<h2 class=\"dark-split__title\" id=\"h-5\">We check the tracking <span class=\"accent accent--light\">before we spend a cent</span></h2>\n\t\t\t\t\t<p>Ad platforms learn from the conversions you send them. If tracking is wrong, they learn the wrong thing. So every account starts with a tracking check, and we fix what’s broken before scaling.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> <a href=\"/services/digital-marketing/performance-marketing/google-ads/conversion-tracking/\">Google Ads conversion tracking</a></li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> <a href=\"/services/digital-marketing/performance-marketing/facebook-ads/conversions-api/\">Meta Pixel and Conversions API</a></li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> <a href=\"/services/digital-marketing/performance-marketing/server-side-tracking/\">Server-side tracking</a></li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> <a href=\"/services/digital-marketing/performance-marketing/tiktok-ads/events-api/\">TikTok Pixel and Events API</a></li></ul>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t<div class=\"dark-split__visual\"><figure class=\"pmrep \" role=\"img\" aria-label=\"Tracking check: sample report\">\n\t<div class=\"pmrep__head\"><b>Tracking check</b><span>Week 1 of every account</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Google Ads: lead form</span><span class=\"pmrep__s\">Fires once</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Google Ads: calls</span><span class=\"pmrep__s\">Tracked</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Meta: Pixel + CAPI</span><span class=\"pmrep__s\">Deduplicated</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">CRM: offline sales</span><span class=\"pmrep__s\">Sent back daily</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">LinkedIn: Insight Tag</span><span class=\"pmrep__s\">Fixed on day 3</span></li></ul>\n\t<p class=\"pmrep__foot\">All conversions tested before scaling</p>\n</figure></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Campaigns for every step to a sale",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-7\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-7\">Campaigns for <span class=\"accent\">every step to a sale</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a stage to see what buyers are thinking, and the campaigns we run for it.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmst2\" data-tabs style=\"--n:4\">\n\t\t\t\t<div class=\"cmst2__tabs\" role=\"tablist\" aria-label=\"Funnel stages\"><button class=\"cmst2__tab cmst2__tab--attract\" type=\"button\" role=\"tab\" id=\"bs-6-t-attract\" aria-controls=\"bs-6-attract\" aria-selected=\"true\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">1</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Reach</b><span>I didn’t know this existed</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--trust\" type=\"button\" role=\"tab\" id=\"bs-6-t-trust\" aria-controls=\"bs-6-trust\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">2</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Consider</b><span>Let me compare my options</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--convert\" type=\"button\" role=\"tab\" id=\"bs-6-t-convert\" aria-controls=\"bs-6-convert\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">3</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Convert</b><span>I’m ready, who should I choose?</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--keep\" type=\"button\" role=\"tab\" id=\"bs-6-t-keep\" aria-controls=\"bs-6-keep\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">4</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Retain</b><span>I’ve bought, now what?</span></span>\n\t\t\t\t</button></div>\n\t\t\t\t<div class=\"cmst2__panel cmst2__panel--attract\" role=\"tabpanel\" id=\"bs-6-attract\" aria-labelledby=\"bs-6-t-attract\" tabindex=\"0\">\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 1 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Reach</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“I didn’t know this existed”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Get in front of the right people early</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Reach, video views, new site visitors</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>3</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Video and Reels</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Short videos that introduce the problem you solve.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>People who fit your customer profile</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>YouTube, Reels, TikTok</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Builds awareness at low cost</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A 20-second “before and after” video</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Prospecting audiences</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Lookalikes and interest audiences built from your best customers.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>New people like your customers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Meta, TikTok, LinkedIn</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Finds new buyers</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A 1% lookalike of last year’s buyers</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">03</p>\n\t\t\t\t\t\t\t<h3>Demand Gen and display</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Visual ads across Google’s apps and sites.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>People researching the category</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Google Demand Gen, display</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Fills the top of the funnel</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A carousel of your three best products</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--trust\" role=\"tabpanel\" id=\"bs-6-trust\" aria-labelledby=\"bs-6-t-trust\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 2 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Consider</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“Let me compare my options”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Be the option they remember</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Return visits, engaged sessions, lead magnet downloads</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>3</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Search ads</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Ads on the searches people make while they compare.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Active researchers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Google, Microsoft</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Captures people already looking</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>best payroll software for agencies</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Remarketing</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Ads for people who visited but didn’t enquire.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Recent site visitors</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Google, Meta, LinkedIn</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Brings people back</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A case study shown to pricing-page visitors</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">03</p>\n\t\t\t\t\t\t\t<h3>Lead magnets</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Guides and tools people swap their email for.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>People not ready to talk</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>LinkedIn and Meta lead forms</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Turns visitors into contacts</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A free cost calculator</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--convert\" role=\"tabpanel\" id=\"bs-6-convert\" aria-labelledby=\"bs-6-t-convert\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 3 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Convert</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“I’m ready, who should I choose?”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Turn intent into enquiries and sales</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Leads, sales, cost per acquisition</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>3</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Brand and high-intent search</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Your name and the searches closest to a sale.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>People ready to act</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Google, Microsoft</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Lowest cost per sale</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>[your brand] pricing</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Shopping and Performance Max</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Product ads with prices and reviews.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Shoppers ready to buy</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Google Shopping, PMax, Amazon</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Online sales</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Your best-sellers with price and rating</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">03</p>\n\t\t\t\t\t\t\t<h3>Offer and lead ads</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Clear offers with a simple form.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Warm audiences</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Meta, LinkedIn, TikTok</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Enquiries at a set cost</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A free audit, booked in two taps</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--keep\" role=\"tabpanel\" id=\"bs-6-keep\" aria-labelledby=\"bs-6-t-keep\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 4 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Retain</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“I’ve bought, now what?”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Bring customers back and grow their value</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Repeat purchase rate, lifetime value</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>3</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Customer remarketing</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Ads to existing customers for the next purchase.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Customers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Meta, Google</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Repeat sales</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A refill reminder after 30 days</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Upsell campaigns</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Upgrades and add-ons for the right customers.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Customers on a lower plan</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Meta, LinkedIn</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Higher order value</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>An upgrade offer to active users</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">03</p>\n\t\t\t\t\t\t\t<h3>Exclusions</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Customers removed from acquisition ads.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Everyone you already won</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>All platforms</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Stops paying for people you already have</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Customer lists synced weekly</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "From audit to scaling what works",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-8\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-8\">From audit to <span class=\"accent\">scaling what works</span></h2>\n\t\t\t\t<p class=\"section-lead\">A clear rhythm, so you always know what’s happening and why.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"cmsteps\" role=\"list\"><li class=\"cmstep cmstep--1\">\n\t\t\t\t\t<p class=\"cmstep__when\">Week 1</p>\n\t\t\t\t\t<p class=\"cmstep__n\">1</p>\n\t\t\t\t\t<h3>Audit</h3>\n\t\t\t\t\t<p>Accounts, tracking, landing pages and what each platform really brings in.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--2\">\n\t\t\t\t\t<p class=\"cmstep__when\">Week 2</p>\n\t\t\t\t\t<p class=\"cmstep__n\">2</p>\n\t\t\t\t\t<h3>Fix tracking</h3>\n\t\t\t\t\t<p>Conversion tracking set up and tested on every platform.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--3\">\n\t\t\t\t\t<p class=\"cmstep__when\">Weeks 3–4</p>\n\t\t\t\t\t<p class=\"cmstep__n\">3</p>\n\t\t\t\t\t<h3>Plan and launch</h3>\n\t\t\t\t\t<p>Channel plan, budgets, audiences, ads and landing pages.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--4\">\n\t\t\t\t\t<p class=\"cmstep__when\">Every week</p>\n\t\t\t\t\t<p class=\"cmstep__n\">4</p>\n\t\t\t\t\t<h3>Optimise</h3>\n\t\t\t\t\t<p>Search terms, bids, audiences and creative tests.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--5\">\n\t\t\t\t\t<p class=\"cmstep__when\">Every month</p>\n\t\t\t\t\t<p class=\"cmstep__n\">5</p>\n\t\t\t\t\t<h3>Report and scale</h3>\n\t\t\t\t\t<p>Results in plain English, and budget moved to what works.</p>\n\t\t\t\t</li></ol>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Reports in leads, sales and revenue",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-9\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"stat-split\">\n\t\t\t\t<div>\n\t\t\t\t\t<h2 class=\"section-title\" id=\"h-9\">Reports in <span class=\"accent\">leads, sales and revenue</span></h2>\n\t\t\t\t\t<p class=\"section-lead\">Every account has a live dashboard with spend and results by platform, matched to your CRM or store. Your monthly report says what happened, why, and what we’ll do next.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Cost per lead and cost per sale</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Return on ad spend by platform</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Lead quality from your CRM</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Creative and landing page tests</li></ul>\n\t\t\t\t</div>\n\t\t\t\t<div>\n\t\t\t\t\t<ul class=\"bignums\" role=\"list\"><li class=\"bignum bignum--dark\"><span class=\"bignum__value\">4.2×</span><span class=\"bignum__label\">return on ad spend</span></li><li class=\"bignum\"><span class=\"bignum__value\">$58</span><span class=\"bignum__label\">cost per qualified lead</span></li><li class=\"bignum\"><span class=\"bignum__value\">41</span><span class=\"bignum__label\">new customers</span></li><li class=\"bignum\"><span class=\"bignum__value\">−24%</span><span class=\"bignum__label\">cost per sale vs last quarter</span></li></ul>\n\t\t\t\t\t<p class=\"mock-note\">Sample dashboard figures. We share real client reports on our call.</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/case-study",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "look": "cmcase cmcase--pm cmcase--pmmain",
+    "kicker": "Case study · Performance marketing",
+    "title": "How Ferrow grew online revenue <em>by 64% in a year</em>",
+    "client": "Ferrow Home",
+    "clientInfo": "· Homeware eCommerce · Google, Meta and Shopping",
+    "steps": [
+     {
+      "title": "The challenge",
+      "text": "Two freelancers ran Google and Meta separately. Both claimed the same sales, and nobody trusted the numbers."
+     },
+     {
+      "title": "What we did",
+      "text": "Server-side tracking, a rebuilt product feed, one plan across Google Shopping, Performance Max and Meta, and new video ads every month."
+     },
+     {
+      "title": "The outcome",
+      "text": "Revenue measured in Shopify, not in the ad platforms, grew every month while cost per sale fell."
+     }
+    ],
+    "buttonText": "Read the case study",
+    "buttonUrl": "/case-studies/",
+    "stats": [
+     {
+      "value": "3.9×",
+      "label": "return on ad spend"
+     },
+     {
+      "value": "+64%",
+      "label": "online revenue"
+     },
+     {
+      "value": "−31%",
+      "label": "cost per sale"
+     },
+     {
+      "value": "1",
+      "label": "report for every platform"
+     }
+    ],
+    "chartTitle": "Online revenue from ads, per month",
+    "bars": [
+     {
+      "height": 59,
+      "label": "Month 1: 42"
+     },
+     {
+      "height": 63,
+      "label": "Month 2: 45"
+     },
+     {
+      "height": 66,
+      "label": "Month 3: 47"
+     },
+     {
+      "height": 73,
+      "label": "Month 4: 52"
+     },
+     {
+      "height": 77,
+      "label": "Month 5: 55"
+     },
+     {
+      "height": 82,
+      "label": "Month 6: 58"
+     },
+     {
+      "height": 86,
+      "label": "Month 7: 61"
+     },
+     {
+      "height": 89,
+      "label": "Month 8: 63"
+     },
+     {
+      "height": 93,
+      "label": "Month 9: 66"
+     },
+     {
+      "height": 96,
+      "label": "Month 10: 68"
+     },
+     {
+      "height": 100,
+      "label": "Month 11: 71"
+     },
+     {
+      "height": 97,
+      "label": "Month 12: 69"
+     }
+    ],
+    "axisStart": "Month 1",
+    "axisEnd": "Month 12"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Companies we run ads for",
+    "html": "<section class=\"section section--white cmwk2s\" aria-labelledby=\"h-12\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-12\">Companies we <span class=\"accent\">run ads for</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a company to see why they came to us, the work we did, what they wanted and what they got.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmwk2\" data-tabs>\n\t\t\t\t<div class=\"cmwk2__tabs\" role=\"tablist\" aria-label=\"Performance marketing clients\"><button class=\"cmwk2__tab cmwk2__tab--1\" type=\"button\" role=\"tab\" id=\"bw-11-t-ferrow\" aria-controls=\"bw-11-ferrow\" aria-selected=\"true\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"6\" y=\"6\" width=\"28\" height=\"28\" rx=\"8\" fill=\"#14b8a6\"/><path d=\"M14 27V13h12M14 20h9\" stroke=\"#fff\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Ferrow</b><span>Home</span></span></span><span class=\"cmwk2__ind\">eCommerce, homeware</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--2\" type=\"button\" role=\"tab\" id=\"bw-11-t-vantage\" aria-controls=\"bw-11-vantage\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#0369a1\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M5 8h8l7 18 7-18h8L23 34h-6z\" fill=\"#0284c7\"/></svg><span class=\"cmlg__w\"><b>Vantage</b><span>Payroll</span></span></span><span class=\"cmwk2__ind\">B2B software</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--3\" type=\"button\" role=\"tab\" id=\"bw-11-t-calder\" aria-controls=\"bw-11-calder\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#be123c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M8 32V8h8l4 10 4-10h8v24\" fill=\"none\" stroke=\"#e11d48\" stroke-width=\"4\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Calder</b><span>Clinics</span></span></span><span class=\"cmwk2__ind\">Group of private clinics</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--4\" type=\"button\" role=\"tab\" id=\"bw-11-t-packwise\" aria-controls=\"bw-11-packwise\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#4338ca\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 4 34 12v16L20 36 6 28V12z\" fill=\"#6366f1\"/><path d=\"M6 12l14 8 14-8M20 20v16\" stroke=\"#c7d2fe\" stroke-width=\"2.5\" fill=\"none\"/></svg><span class=\"cmlg__w\"><b>Packwise</b><span>Supplies</span></span></span><span class=\"cmwk2__ind\">Packaging, eCommerce and Amazon</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--5\" type=\"button\" role=\"tab\" id=\"bw-11-t-orbitly\" aria-controls=\"bw-11-orbitly\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#7c3aed\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"6\" fill=\"#8b5cf6\"/><ellipse cx=\"20\" cy=\"20\" rx=\"16\" ry=\"7\" fill=\"none\" stroke=\"#c4b5fd\" stroke-width=\"3\" transform=\"rotate(-25 20 20)\"/></svg><span class=\"cmlg__w\"><b>Orbitly</b><span>Apps</span></span></span><span class=\"cmwk2__ind\">Consumer subscription brand</span>\n\t\t\t\t</button></div>\n\t\t\t\t<article class=\"cmwk2__panel cmwk2__panel--1\" role=\"tabpanel\" id=\"bw-11-ferrow\" aria-labelledby=\"bw-11-t-ferrow\" tabindex=\"0\">\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Ferrow Home</h3>\n\t\t\t\t\t\t\t<p>eCommerce, homeware · 35 people · 14 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Google Shopping</li><li>Meta Ads</li><li>Tracking</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Google Shopping and Meta were run by two freelancers, and both claimed the same sales.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> One plan across Google Shopping, Performance Max and Meta</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Server-side tracking and the Conversions API</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Product feed rebuilt in Merchant Center</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New video ads every month</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Profitable growth they could trust, measured in Shopify, not in ad platforms.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>3.9×</b><span>return on ad spend</span></li><li><b>+64%</b><span>online revenue</span></li><li><b>−31%</b><span>cost per sale</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--2\" role=\"tabpanel\" id=\"bw-11-vantage\" aria-labelledby=\"bw-11-t-vantage\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Vantage Payroll</h3>\n\t\t\t\t\t\t\t<p>B2B software · 90 people · 10 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>LinkedIn Ads</li><li>Google Ads</li><li>HubSpot</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>LinkedIn and Google brought plenty of leads, but sales said most were students and job seekers.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Qualifying questions on every form</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Offline conversions sent from HubSpot</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> LinkedIn audiences by job title and company size</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing pages for each audience</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Fewer, better leads that sales would actually call.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>+140%</b><span>sales-qualified leads</span></li><li><b>−45%</b><span>cost per qualified lead</span></li><li><b>$1.6M</b><span>pipeline from ads</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--3\" role=\"tabpanel\" id=\"bw-11-calder\" aria-labelledby=\"bw-11-t-calder\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Calder Clinics</h3>\n\t\t\t\t\t\t\t<p>Group of private clinics · 6 locations · 18 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Google Ads</li><li>Call tracking</li><li>Meta Ads</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Google Ads was suspended twice, and phone bookings weren’t tracked at all.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Website fixes and a successful appeal</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Call tracking for every clinic</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Search campaigns by treatment</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Meta ads for new treatments</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Steady bookings for each clinic, without account scares.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>+82%</b><span>booked consultations</span></li><li><b>0</b><span>suspensions since</span></li><li><b>−28%</b><span>cost per booking</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--4\" role=\"tabpanel\" id=\"bw-11-packwise\" aria-labelledby=\"bw-11-t-packwise\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Packwise Supplies</h3>\n\t\t\t\t\t\t\t<p>Packaging, eCommerce and Amazon · 50 people · 12 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Amazon Ads</li><li>Google Shopping</li><li>Microsoft Ads</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Amazon sales were growing, but advertising ate most of the margin.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Amazon Sponsored Products restructured by margin</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Google Shopping for the website</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Microsoft Ads for business buyers</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> One report across all three</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>More profitable sales on Amazon and their own site.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>−36%</b><span>Amazon advertising cost of sales</span></li><li><b>+48%</b><span>website revenue</span></li><li><b>3</b><span>platforms, one report</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--5\" role=\"tabpanel\" id=\"bw-11-orbitly\" aria-labelledby=\"bw-11-t-orbitly\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Orbitly Apps</h3>\n\t\t\t\t\t\t\t<p>Consumer subscription brand · 25 people · 8 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>TikTok Ads</li><li>Creative</li><li>Tracking</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>TikTok drove views but very few trials, and they couldn’t tell which videos worked.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> TikTok Pixel and Events API</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Spark ads with creators</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Weekly creative tests</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Meta remarketing for engaged viewers</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Trials at a cost that made the subscription profitable.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>−58%</b><span>cost per trial</span></li><li><b>42</b><span>videos tested</span></li><li><b>2.7×</b><span>trials per month</span></li></ul></div>\n\t\t\t\t</article>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu",
+     "post:testimonial:Alex Barsuk"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Ways to work with us, sized to your spend",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-15\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-15\">Ways to work with us, <span class=\"accent\">sized to your spend</span></h2>\n\t\t\t\t<p class=\"section-lead\">Three ways to work with us. Each is a fixed monthly price, quoted after a free call.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"cmplans\" role=\"list\"><li class=\"cmplan cmplan--1\">\n\t\t\t\t\t<p class=\"cmplan__name\">Launch</p>\n\t\t\t\t\t<p class=\"cmplan__for\">One or two platforms</p>\n\t\t\t\t\t<p class=\"cmplan__d\">For companies starting paid ads properly.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tracking set up and tested</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Up to two platforms</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New ads every month</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly report and call</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--2 cmplan--main\">\n\t\t\t\t\t<p class=\"cmplan__name\">Growth</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Several platforms together</p>\n\t\t\t\t\t<p class=\"cmplan__d\">For companies ready to scale what works.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Launch</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Up to four platforms</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Landing page tests</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> CRM and offline conversions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Weekly optimisation</li></ul>\n\t\t\t\t\t<a class=\"button button--primary button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--3\">\n\t\t\t\t\t<p class=\"cmplan__name\">Scale</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Every platform, one plan</p>\n\t\t\t\t\t<p class=\"cmplan__d\">For larger budgets across many channels.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Growth</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> All platforms you need</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Server-side tracking</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A dedicated ads lead</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li></ul>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How to choose a performance marketing agency",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-16\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-16\">How to choose a <span class=\"accent\">performance marketing agency</span></h2>\n\t\t\t\t<p class=\"section-lead\">What to expect from a good agency, what to avoid, and the questions worth asking before you hand over your budget.</p>\n\t\t\t</div>\n\t\t\t<div class=\"dodont\">\n\t\t\t\t<div class=\"dodont__col dodont__col--do\"><h3 class=\"dodont__title\">What you get with us</h3><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ads run in your account. You own it, the data and the history</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Conversion tracking is checked and tested before we scale spend</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly reports in leads, sales and cost per result, not just clicks</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A named specialist who knows your account, not a rotating team</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A written plan for the first 90 days before we start</li></ul></div>\n\t\t\t\t<div class=\"dodont__col dodont__col--dont\"><h3 class=\"dodont__title\">What we never do</h3><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Lock you into long contracts or keep your account if you leave</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Take a hidden cut of your ad spend</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Report impressions and clicks as if they were results</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Promise rankings, results or approval from the platform</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-close\"/></svg> Change budgets or targeting without telling you</li></ul></div>\n\t\t\t</div>\n\t\t\t<div class=\"pmq\">\n\t\t\t\t<h3 class=\"pmq__h\">Questions to ask any performance marketing agency</h3>\n\t\t\t\t<p class=\"pmq__lead\">Ask every agency you speak to, including us. The answers tell you more than any proposal.</p>\n\t\t\t\t<ol class=\"pmq__list\" role=\"list\"><li><span class=\"pmq__n\">Q1</span><h3>Who will manage my account day to day?</h3><p><b>Why ask:</b> Many agencies sell with senior people and hand the work to juniors. You want to know who makes the changes, and how much experience they have.</p></li><li><span class=\"pmq__n\">Q2</span><h3>Will the account be in my name, and do I keep it if we part ways?</h3><p><b>Why ask:</b> Your account history is valuable. If the agency owns the account, you can lose years of data and learning when you leave.</p></li><li><span class=\"pmq__n\">Q3</span><h3>How do you charge, and do you take a percentage of ad spend?</h3><p><b>Why ask:</b> A percentage of spend rewards spending more, not spending well. Know exactly what you pay and what it covers.</p></li><li><span class=\"pmq__n\">Q4</span><h3>How will you check our conversion tracking before spending more?</h3><p><b>Why ask:</b> If tracking is wrong, every bid and every report is wrong too. A good agency checks it first.</p></li><li><span class=\"pmq__n\">Q5</span><h3>What will you report on each month?</h3><p><b>Why ask:</b> Clicks and impressions are easy to grow. Ask for leads, sales, cost per result and what changed.</p></li><li><span class=\"pmq__n\">Q6</span><h3>What exactly happens in the first 90 days?</h3><p><b>Why ask:</b> A clear plan shows they have looked at your account. A vague answer usually means a template.</p></li><li><span class=\"pmq__n\">Q7</span><h3>Can you show results for a business like ours?</h3><p><b>Why ask:</b> Results in your industry, or with a similar sales cycle and budget, tell you far more than a list of logos.</p></li><li><span class=\"pmq__n\">Q8</span><h3>What is the notice period, and is there a minimum term?</h3><p><b>Why ask:</b> Long lock-ins protect the agency, not you. Good agencies keep clients because of results.</p></li></ol>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "performance-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/why-intella",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "A performance marketing agency that <em>builds the whole funnel</em>",
+    "items": [
+     {
+      "title": "Tracking before spend",
+      "text": "We check every conversion fires before we scale a single campaign."
+     },
+     {
+      "title": "One team, every platform",
+      "text": "Search, social, video and marketplaces planned together, not in silos."
+     },
+     {
+      "title": "Your accounts, your data",
+      "text": "Ads run in accounts you own. You keep everything if you ever leave."
+     },
+     {
+      "title": "We build the landing pages too",
+      "text": "Our web team builds and tests the pages your ads send people to."
+     }
+    ],
+    "facts": [
+     {
+      "value": "10",
+      "label": "ad platforms we manage"
+     },
+     {
+      "value": "100%",
+      "label": "of accounts owned by our clients"
+     },
+     {
+      "value": "48 h",
+      "label": "to a written audit of your account"
+     }
+    ],
+    "bigFacts": true,
+    "quote": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Performance marketing questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What is a performance marketing agency?",
+      "answer": "A performance marketing agency runs paid ads where you pay for measurable results, such as leads and sales. It sets up tracking, chooses platforms, writes and tests ads, and moves budget to what brings customers at the lowest cost."
+     },
+     {
+      "question": "What is the difference between performance marketing and digital marketing?",
+      "answer": "Digital marketing covers everything online, including SEO, content and email. Performance marketing is the paid part that’s measured by results: leads, sales and return on ad spend."
+     },
+     {
+      "question": "How much does a performance marketing agency cost?",
+      "answer": "Most agencies charge a monthly management fee on top of your ad spend. We quote a fixed monthly fee after a free call, based on the platforms and the work involved. We never take a hidden cut of your ad spend."
+     },
+     {
+      "question": "Which ad platforms should my business use?",
+      "answer": "It depends on who buys from you. Google and Microsoft catch people searching, Meta and TikTok create demand, LinkedIn reaches business buyers, and Amazon and Shopping ads sell products. We recommend a mix after the audit."
+     },
+     {
+      "question": "How long before paid ads bring results?",
+      "answer": "Search campaigns usually bring leads in the first few weeks. Most accounts take two to three months of testing to settle at a good cost per lead."
+     },
+     {
+      "question": "Do I keep my ad accounts if I leave?",
+      "answer": "Yes. Ads run in accounts you own. If you ever leave, you keep the accounts, the data and the history."
+     },
+     {
+      "question": "What is a good return on ad spend?",
+      "answer": "It depends on your margins. A business with 60% margins can be profitable at 2×, while one with 20% margins may need 5× or more. We agree a target based on your numbers."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Find out what your ads <em>really bring in</em>",
+    "lead": "Give us read-only access, and we’ll show you where the budget leaks and what we’d fix first.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "Which platforms do you advertise on, and roughly how much do you spend a month?",
+    "service": "performance-marketing",
+    "buttonText": "Request my free account review",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Performance marketing works best <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "chart",
+      "title": "Performance Marketing Audit",
+      "url": "/audits/google-ads-audit/",
+      "text": "A full audit of your ad accounts and tracking."
+     },
+     {
+      "icon": "layers",
+      "title": "Conversion Rate Optimisation",
+      "url": "/services/digital-marketing/conversion-rate-optimisation/",
+      "text": "Turn more of your visitors into customers."
+     },
+     {
+      "icon": "search",
+      "title": "SEO",
+      "url": "/services/digital-marketing/seo/",
+      "text": "Organic traffic that grows while your ads run."
+     }
+    ]
+   }
+  }
+ ]
+}

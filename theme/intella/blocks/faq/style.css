@@ -1,0 +1,82 @@
+/* faq: section styles, split from the prototype CSS (Code/frontend/assets/css) by bin/import/css_split.py. */
+
+.faq {
+	display: grid;
+	gap: var(--space-2xl);
+	align-items: start;
+}
+.faq__actions {
+	margin-block-start: var(--space-xl);
+}
+.faq__list {
+	display: grid;
+	gap: 0.75rem;
+}
+.faq-item {
+	border: 1px solid var(--color-line);
+	border-radius: var(--radius-lg);
+	background: var(--color-paper);
+	box-shadow: 0 10px 30px -22px rgb(34 16 47 / 0.25);
+
+	& summary {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: var(--space-md);
+		padding: 1.4rem 1.6rem;
+		color: var(--color-ink);
+		font-size: var(--text-md);
+		font-weight: var(--weight-semibold);
+		list-style: none;
+		cursor: pointer;
+
+		&::-webkit-details-marker {
+			display: none;
+		}
+	}
+}
+.faq-item__icon {
+	position: relative;
+	display: inline-grid;
+	place-items: center;
+	width: 2rem;
+	height: 2rem;
+	border-radius: 50%;
+	background: var(--color-lavender);
+	color: var(--color-accent);
+	flex: none;
+	transition: background-color var(--transition), color var(--transition);
+
+	&::before,
+	&::after {
+		content: "";
+		position: absolute;
+		width: 0.75rem;
+		height: 1.5px;
+		background: currentColor;
+		transition: transform var(--transition);
+	}
+
+	&::after {
+		transform: rotate(90deg);
+	}
+}
+.faq-item[open] .faq-item__icon {
+	background: var(--gradient-button);
+	color: var(--color-on-dark);
+
+	&::after {
+		transform: rotate(0deg);
+	}
+}
+.faq-item__answer {
+	padding: 0 1.6rem 1.5rem;
+	font-size: var(--text-base);
+	line-height: 1.65;
+}
+@media (min-width: 64rem) {
+	.faq {
+		grid-template-columns: 0.75fr 1fr;
+		gap: 5rem;
+	}
+}

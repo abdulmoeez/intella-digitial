@@ -1,0 +1,490 @@
+{
+ "title": "Facebook Ad Account Disabled? Help and Review Requests",
+ "path": "/services/digital-marketing/performance-marketing/facebook-ads/account-disabled/",
+ "seo": {
+  "title": "Facebook Ad Account Disabled? Help and Review Requests | Intella Digital",
+  "description": "Help when your Facebook or Meta ad account is disabled or restricted: we find the likely cause, fix it and help you request a review."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "Meta Ads",
+      "url": "/services/digital-marketing/performance-marketing/facebook-ads/"
+     },
+     {
+      "label": "Account Disabled Help",
+      "url": ""
+     }
+    ],
+    "title": "Facebook ad account disabled? <em>Here’s what we can do</em>",
+    "lead": "We look at why your ad account, profile or business was disabled or restricted, fix what we can, and help you request a review. Meta makes the final decision, so we’re honest about your chances.",
+    "buttonText": "Get help with my account",
+    "formLabel": "Get help with my account",
+    "service": "meta-account-disabled",
+    "notes": [
+     "Likely cause found",
+     "Policy, payment and security checks",
+     "Honest about the outcome"
+    ],
+    "sliderLabel": "Common reasons Meta ad accounts are disabled",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "Disabled after a failed payment",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Payment settings</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Card declined</span><b>2 times</b></li><li class=\"no\"><span>Balance owed</span><b>$1,240</b></li><li class=\"no\"><span>Card used on</span><b>3 ad accounts</b></li></ul><p class=\"cmhc__note\">Meta reads this as unusual activity</p></div>",
+      "photo": 0,
+      "fix": "Payment method checked, balance cleared and the history explained.",
+      "look": "pay"
+     },
+     {
+      "kicker": "",
+      "title": "Too many rejected ads",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Rejected ads, last 90 days</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Before-and-after images</span><b>9</b></li><li class=\"no\"><span>Personal attributes</span><b>6</b></li><li class=\"no\"><span>Health claims</span><b>4</b></li></ul><p class=\"cmhc__note\">Each rejection counts against the account</p></div>",
+      "photo": 0,
+      "fix": "Ads rewritten within the rules, before the next one is rejected.",
+      "look": "policy"
+     },
+     {
+      "kicker": "",
+      "title": "Hacked, then disabled",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Account security</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Unknown admin</span><b>Added 3 days ago</b></li><li class=\"no\"><span>Two-factor login</span><b>Off</b></li><li class=\"no\"><span>Ads you didn’t run</span><b>$2,800</b></li></ul><p class=\"cmhc__note\">Meta disabled the account to stop the spend</p></div>",
+      "photo": 0,
+      "fix": "Access secured first, unknown people removed, then a review request.",
+      "look": "hack"
+     },
+     {
+      "kicker": "",
+      "title": "Your profile is the problem",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">People with access</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Admin profile</span><b>Restricted</b></li><li class=\"no\"><span>Other admins</span><b>None</b></li><li class=\"no\"><span>Business portfolio</span><b>Can’t advertise</b></li></ul><p class=\"cmhc__note\">One profile can stop the whole business</p></div>",
+      "photo": 0,
+      "fix": "The restricted admin profile fixed or replaced, so the business can advertise again.",
+      "look": "profile"
+     },
+     {
+      "kicker": "",
+      "title": "Where the leads went",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Leads a week from Meta</p><ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:100%\"><span>Before</span><b>64</b></li><li style=\"--w:2%\"><span>Week 1 disabled</span><b>0</b></li><li style=\"--w:2%\"><span>Week 2 disabled</span><b>0</b></li></ul><p class=\"cmhc__note\">Every day disabled is a day without leads</p></div>",
+      "photo": 0,
+      "fix": "Other channels kept running while the review goes through.",
+      "look": "spend"
+     }
+    ],
+    "tools": "<ul class=\"pmtools\" role=\"list\" aria-label=\"Tools we work in\"><li class=\"pmtools__i pmtools__i--1\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><rect x=\"4\" y=\"4\" width=\"40\" height=\"40\" rx=\"11\" fill=\"#0866FF\"/><path d=\"M13 30c0-8 3-13 6-13 4 0 6 13 10 13 3 0 5-4 5-8s-2-5-4-5c-4 0-7 13-11 13-4 0-6-4-6-8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg><span>Meta Business Suite</span></li><li class=\"pmtools__i pmtools__i--2\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><rect x=\"4\" y=\"6\" width=\"40\" height=\"36\" rx=\"7\" fill=\"#1c2b4a\"/><rect x=\"11\" y=\"26\" width=\"6\" height=\"10\" rx=\"1.5\" fill=\"#4d9bff\"/><rect x=\"21\" y=\"18\" width=\"6\" height=\"18\" rx=\"1.5\" fill=\"#0866FF\"/><rect x=\"31\" y=\"12\" width=\"6\" height=\"24\" rx=\"1.5\" fill=\"#9ec5ff\"/></svg><span>Ads Manager</span></li><li class=\"pmtools__i pmtools__i--3\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><defs><linearGradient id=\"igg\" x1=\"0\" y1=\"1\" x2=\"1\" y2=\"0\"><stop offset=\"0\" stop-color=\"#F9A825\"/><stop offset=\".5\" stop-color=\"#E1306C\"/><stop offset=\"1\" stop-color=\"#7B3FE4\"/></linearGradient></defs><rect x=\"5\" y=\"5\" width=\"38\" height=\"38\" rx=\"11\" fill=\"url(#igg)\"/><circle cx=\"24\" cy=\"24\" r=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"3.2\"/><circle cx=\"34\" cy=\"14\" r=\"2.2\" fill=\"#fff\"/></svg><span>Instagram</span></li></ul>",
+    "visual": "",
+    "look": "cmhero cmhero--pm cmhero--job"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/sign-strips",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Problems <em>we help with</em>",
+    "lead": "The notices we see most often. Meta gives a reason, but rarely the detail.",
+    "items": [
+     {
+      "title": "Ad account disabled for unusual activity",
+      "text": "The most common notice, and the vaguest. It can mean a failed payment, a sudden jump in spend, logins from new places, or a card used on several accounts. Meta rarely says which.\n\nWe look at payments, logins, spend and recent changes to find the most likely trigger, fix it, and explain it clearly in the review request.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Account Quality: sample report\">\n\t<div class=\"pmrep__head\"><b>Account Quality</b><span>Ad account</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Status</span><span class=\"pmrep__s\">Disabled</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Reason</span><span class=\"pmrep__s\">Unusual activity</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Failed payments</span><span class=\"pmrep__s\">2</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">New login country</span><span class=\"pmrep__s\">Yes</span></li></ul>\n\t<p class=\"pmrep__foot\">Several possible triggers</p>\n</figure>"
+     },
+     {
+      "title": "Disabled after too many rejected ads",
+      "text": "Every rejected ad counts against the account. Before-and-after photos, “Are you…?” headlines and health or money claims are the usual causes, and after enough of them, the account goes.\n\nWe review every rejected ad, rewrite the ones that matter within Meta’s rules, and set up a simple checklist so new ads don’t get rejected.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Rejected ads: sample report\">\n\t<div class=\"pmrep__head\"><b>Rejected ads</b><span>Last 90 days</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Before and after</span><span class=\"pmrep__s\">9</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Personal attributes</span><span class=\"pmrep__s\">6</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Health claims</span><span class=\"pmrep__s\">4</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Rewritten by us</span><span class=\"pmrep__s\">19</span></li></ul>\n\t<p class=\"pmrep__foot\">Ads within the rules</p>\n</figure>"
+     },
+     {
+      "title": "Your profile or business is restricted",
+      "text": "Sometimes it isn’t the ad account at all. A restricted personal profile, or a business portfolio that can’t advertise, stops every ad account under it.\n\nWe map who and what is connected to your business, find the restricted part, and fix it: a review for the profile, a new admin, or business verification.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"People and business: sample report\">\n\t<div class=\"pmrep__head\"><b>People and business</b><span>Restrictions</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Admin profile</span><span class=\"pmrep__s\">Restricted</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Business portfolio</span><span class=\"pmrep__s\">Can’t advertise</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Second admin</span><span class=\"pmrep__s\">None</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Verification</span><span class=\"pmrep__s\">Not started</span></li></ul>\n\t<p class=\"pmrep__foot\">The ad account was only the symptom</p>\n</figure>"
+     },
+     {
+      "title": "Hacked, then disabled",
+      "text": "Someone got into a profile, added themselves as an admin and ran ads you never approved. Meta disabled the account to stop it, and now you’re locked out too.\n\nWe secure every login first, remove unknown people, report the unauthorised spend, and only then request a review, with the evidence.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Security: sample report\">\n\t<div class=\"pmrep__head\"><b>Security</b><span>Before our fixes</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Unknown admins</span><span class=\"pmrep__s\">1</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Two-factor login</span><span class=\"pmrep__s\">Off</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Ads you didn’t run</span><span class=\"pmrep__s\">$2,800</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Reported to Meta</span><span class=\"pmrep__s\">No</span></li></ul>\n\t<p class=\"pmrep__foot\">Locked out of your own account</p>\n</figure>"
+     },
+     {
+      "title": "Special ad category problems",
+      "text": "Housing, jobs, credit and political ads have their own rules. Running them without the right category, or targeting by age or postcode, gets ads rejected and accounts restricted.\n\nWe set the right special ad category, rebuild targeting within the rules and complete any authorisation Meta asks for.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Ad categories: sample report\">\n\t<div class=\"pmrep__head\"><b>Ad categories</b><span>Before our fixes</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Housing ads</span><span class=\"pmrep__s\">No category</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Age targeting</span><span class=\"pmrep__s\">25–45</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Postcode targeting</span><span class=\"pmrep__s\">Yes</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Authorisation</span><span class=\"pmrep__s\">Missing</span></li></ul>\n\t<p class=\"pmrep__foot\">Rejected for the wrong category</p>\n</figure>"
+     },
+     {
+      "title": "A review request already refused",
+      "text": "Meta often gives one review. If it’s refused, the decision can be final, so a rushed request in a panic is the most expensive mistake.\n\nIf you haven’t requested a review yet, we prepare it properly first. If it was already refused, we look at what’s still possible and plan how to keep leads coming.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Review history: sample report\">\n\t<div class=\"pmrep__head\"><b>Review history</b><span>Before we started</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Review 1</span><span class=\"pmrep__s\">Refused</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Changes made</span><span class=\"pmrep__s\">None</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Further review</span><span class=\"pmrep__s\">Not offered</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Plan B</span><span class=\"pmrep__s\">Ready</span></li></ul>\n\t<p class=\"pmrep__foot\">One careful request beats a rushed one</p>\n</figure>"
+     }
+    ],
+    "noteTitle": "One careful request beats five rushed ones",
+    "noteText": "We check what Meta is likely to look at, fix it, then request a review once.",
+    "buttonText": "Get this fixed",
+    "buttonUrl": "#proposal"
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Meta Ad Account Disabled Help, <em>done properly</em>",
+    "lead": "One fixed-scope project, quoted after a short call. No retainer needed.",
+    "name": "Account review and request",
+    "price": "Fixed price, quoted after a 30-minute call",
+    "items": [
+     "A review of the notices and account history",
+     "Business portfolio, people and assets mapped",
+     "Policy check on recent and rejected ads",
+     "Payment and billing checks",
+     "Login security and two-factor for every admin",
+     "Business verification where needed",
+     "A review request, sent once, properly",
+     "Follow-up, and a plan B"
+    ],
+    "delivery": "First findings within 48 hours",
+    "buttonText": "Request a quote",
+    "buttonUrl": "#proposal",
+    "visual": "<div class=\"pmhum\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/support-agent.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t<div><p class=\"pmhum__t\">Talk to a real person</p><p>Locked out and losing leads? Call or email us and a person answers, not a ticket queue. Your Meta specialist stays with your case until Meta replies.</p><ul role=\"list\"><li>A reply the same working day</li><li>Updates at every step</li><li>Honest about your chances</li></ul></div>\n\t\t\t\t</div><div class=\"pmsc pmbm\">\n\t\t\t\t\t<div class=\"pmsc__top\"><div><p class=\"pmsc__t\">Your business account</p><p class=\"pmsc__s\">Example business</p></div></div>\n\t\t\t\t\t<p class=\"pmbm__root pmbm__a--ok\"><span class=\"pmbm__k\">Business portfolio</span><b>Calla Skin Clinic</b><em>Verified</em></p>\n\t\t\t\t\t<ul class=\"pmbm__as\" role=\"list\"><li class=\"pmbm__a pmbm__a--bad\"><span class=\"pmbm__k\">Ad account</span><b>Calla Skin · AED</b><em>Disabled</em></li><li class=\"pmbm__a pmbm__a--bad\"><span class=\"pmbm__k\">Admin</span><b>Owner’s profile</b><em>Restricted</em></li><li class=\"pmbm__a pmbm__a--warn\"><span class=\"pmbm__k\">Payment</span><b>Visa ending 4412</b><em>Failed twice</em></li><li class=\"pmbm__a pmbm__a--warn\"><span class=\"pmbm__k\">Ad account</span><b>Old account</b><em>Same card</em></li><li class=\"pmbm__a pmbm__a--ok\"><span class=\"pmbm__k\">Page</span><b>Facebook Page</b><em>Active</em></li><li class=\"pmbm__a pmbm__a--ok\"><span class=\"pmbm__k\">Instagram</span><b>@callaskin</b><em>Active</em></li></ul>\n\t\t\t\t\t<p class=\"pmsc__note\">The disabled ad account was the symptom. A restricted admin profile and failed payments were the cause.</p>\n\t\t\t\t</div>"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "What happens after you contact us",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-239\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-239\">What happens <span class=\"accent\">after you contact us</span></h2>\n\t\t\t\t<p class=\"section-lead\">First a call, then five steps. Careful, and honest about the outcome.</p>\n\t\t\t</div>\n\n\t\t\t<div class=\"pmcb\">\n\t\t\t\t<span class=\"pmcb__i\" aria-hidden=\"true\"><svg viewBox=\"0 0 24 24\"><path d=\"M6.6 10.8a15 15 0 0 0 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1A17 17 0 0 1 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1z\" fill=\"currentColor\"/></svg></span>\n\t\t\t\t<div><p class=\"pmcb__t\">A call back within 24 hours</p><p>Send us the notice. A Meta specialist calls you back within one working day to go through it with you, before any work starts.</p></div>\n\t\t\t\t<ul role=\"list\"><li>A real person</li><li>No obligation</li><li>Plain English</li></ul>\n\t\t\t</div>\n\t\t\t<ol class=\"pmsds\" role=\"list\" data-acc><li class=\"pmsd js-acc is-open\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"true\" aria-controls=\"pmsd-1\"><span class=\"pmsd__when\">Step 1 · Day 1</span><span class=\"pmsd__t\">Review</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-1\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>With access to your business portfolio, we read every notice in Account Quality, check payments, people and logins, and look at your recent and rejected ads.</p><p class=\"pmsd__get\"><b>You get:</b> A clear picture of what Meta is likely seeing.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Notices in Account Quality</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> People, pages and ad accounts mapped</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Payments and billing history</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Recent and rejected ads</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-2\"><span class=\"pmsd__when\">Step 2 · Day 2</span><span class=\"pmsd__t\">Findings</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-2\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We tell you the most likely cause in plain English, what needs to change, and honestly how strong your case is, including whether a review is still possible.</p><p class=\"pmsd__get\"><b>You get:</b> Written findings within 48 hours.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> The most likely cause, and why we think so</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A fix list in order of importance</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Whether a review is still offered</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> An honest view of your chances</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-3\"><span class=\"pmsd__when\">Step 3 · Days 3–5</span><span class=\"pmsd__t\">Fix</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-3\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We fix what Meta is likely to check: ads, landing pages, payments, security, people and verification.</p><p class=\"pmsd__get\"><b>You get:</b> Every change logged with screenshots.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Rejected ads rewritten within the rules</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Payment method fixed and balance cleared</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Two-factor login and unknown people removed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Business verification completed</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-4\"><span class=\"pmsd__when\">Step 4 · Day 5</span><span class=\"pmsd__t\">Request review</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-4\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>Once everything is fixed, we request a review with you, from the right place, with a short, factual explanation.</p><p class=\"pmsd__get\"><b>You get:</b> One review request, sent properly.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Review requested from Account Quality</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A clear explanation of what changed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Evidence ready if Meta asks</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A copy kept for your records</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-5\"><span class=\"pmsd__when\">Step 5 · After</span><span class=\"pmsd__t\">Plan</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-5\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We follow up on Meta’s reply. If the account comes back, we check it before ads restart. If not, we give you a plan to keep leads coming.</p><p class=\"pmsd__get\"><b>You get:</b> A plan either way.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ads checked before they restart</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A safe restart with lower budgets</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A plan B if the review fails</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tips to avoid another restriction</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li></ol>\n\t\t\t<div class=\"pmau__head\"><p class=\"pmau__kick\">What we check</p><h3>Eight things Meta looks at, <span class=\"accent\">checked and fixed</span></h3><p>For each one: why it matters, what we check, what we often find and what we change.</p></div>\n\t\t\t<div class=\"pmau\" data-tabs>\n\t\t\t\t<div class=\"pmau__tabs\" role=\"tablist\" aria-orientation=\"vertical\" aria-label=\"What Meta looks at when an ad account is disabled\"><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-238-t0\" aria-controls=\"au-238-p0\" aria-selected=\"true\"><span>01</span>Account Quality notices<em>6 checks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-238-t1\" aria-controls=\"au-238-p1\" aria-selected=\"false\"><span>02</span>Payments and billing<em>6 checks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-238-t2\" aria-controls=\"au-238-p2\" aria-selected=\"false\"><span>03</span>Ads and creative<em>6 checks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-238-t3\" aria-controls=\"au-238-p3\" aria-selected=\"false\"><span>04</span>Landing pages<em>6 checks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-238-t4\" aria-controls=\"au-238-p4\" aria-selected=\"false\"><span>05</span>People and access<em>6 checks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-238-t5\" aria-controls=\"au-238-p5\" aria-selected=\"false\"><span>06</span>Business verification<em>6 checks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-238-t6\" aria-controls=\"au-238-p6\" aria-selected=\"false\"><span>07</span>Special ad categories<em>6 checks · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-238-t7\" aria-controls=\"au-238-p7\" aria-selected=\"false\"><span>08</span>Review request and plan B<em>6 checks · 4 common issues</em></button></div>\n\t\t\t\t<div class=\"pmau__panels\"><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-238-p0\" aria-labelledby=\"au-238-t0\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 1 of 8</p><h4>Account Quality notices</h4><p class=\"pmau__why\">Account Quality is where Meta shows what’s restricted and why. It’s the starting point, even when the reason is vague.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Account Quality: sample report\">\n\t<div class=\"pmrep__head\"><b>Account Quality</b><span>Notices</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Ad account</span><span class=\"pmrep__s\">Disabled</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Admin profile</span><span class=\"pmrep__s\">Restricted</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Page</span><span class=\"pmrep__s\">No issues</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Review</span><span class=\"pmrep__s\">Offered</span></li></ul>\n\t<p class=\"pmrep__foot\">Two problems, not one</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Every notice and its date</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Which asset is restricted</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Whether a review is offered</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Earlier decisions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ad, profile and business notices</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Deadlines</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> A notice nobody saw for weeks</li><li><span aria-hidden=\"true\">!</span> The ad account blamed, but the profile is restricted</li><li><span aria-hidden=\"true\">!</span> A review offered, but not yet used</li><li><span aria-hidden=\"true\">!</span> Old warnings never resolved</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A list of every restriction, by asset</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> The real problem found</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A review used only when ready</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Old warnings closed where possible</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-238-p1\" aria-labelledby=\"au-238-t1\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 2 of 8</p><h4>Payments and billing</h4><p class=\"pmau__why\">Failed payments and unusual billing are among the most common triggers for “unusual activity”.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Payments: sample report\">\n\t<div class=\"pmrep__head\"><b>Payments</b><span>After our fixes</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Failed charges</span><span class=\"pmrep__s\">Cleared</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Balance</span><span class=\"pmrep__s\">$0</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Billing country</span><span class=\"pmrep__s\">Matches</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Spending limit</span><span class=\"pmrep__s\">Set</span></li></ul>\n\t<p class=\"pmrep__foot\">Nothing unusual left</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Payment methods</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Failed charges</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Outstanding balance</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Billing country and currency</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Cards shared across accounts</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Spending limits</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> A card that declined twice</li><li><span aria-hidden=\"true\">!</span> One card on three ad accounts</li><li><span aria-hidden=\"true\">!</span> Billing country different from the business</li><li><span aria-hidden=\"true\">!</span> A sudden jump in daily spend</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> One verified payment method</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Balance cleared</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Billing details that match the business</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Spending limits for a safe restart</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-238-p2\" aria-labelledby=\"au-238-t2\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 3 of 8</p><h4>Ads and creative</h4><p class=\"pmau__why\">Repeated rejections build up against an account. Most come from a few rules that are easy to break by accident.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Ads: sample report\">\n\t<div class=\"pmrep__head\"><b>Ads</b><span>After our fixes</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Rejected ads</span><span class=\"pmrep__s\">19 → 0</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Rewritten</span><span class=\"pmrep__s\">19</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Checklist</span><span class=\"pmrep__s\">Shared</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">New rejections</span><span class=\"pmrep__s\">None in 60 days</span></li></ul>\n\t<p class=\"pmrep__foot\">Ads Meta approves</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Rejected ads and the reasons</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Before-and-after images</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Personal attributes (“Are you…?”)</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Health, money and weight claims</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Text in images</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Restricted products</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Nine before-and-after images</li><li><span aria-hidden=\"true\">!</span> “Struggling with acne?” headlines</li><li><span aria-hidden=\"true\">!</span> Claims of guaranteed results</li><li><span aria-hidden=\"true\">!</span> Ads appealed again and again</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Ads rewritten within the rules</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Images that show the service, not the body</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Claims removed or backed up</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A checklist for new ads</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-238-p3\" aria-labelledby=\"au-238-t3\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 4 of 8</p><h4>Landing pages</h4><p class=\"pmau__why\">Meta reviews where your ads send people too. A page that doesn’t match the ad, or makes claims the ad doesn’t, can get ads rejected.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Landing pages: sample report\">\n\t<div class=\"pmrep__head\"><b>Landing pages</b><span>Checked</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Match the ad</span><span class=\"pmrep__s\">Yes</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Claims</span><span class=\"pmrep__s\">In the rules</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Privacy policy</span><span class=\"pmrep__s\">Linked</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Redirects</span><span class=\"pmrep__s\">None</span></li></ul>\n\t<p class=\"pmrep__foot\">Pages Meta is happy to send people to</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Page matches the ad</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Claims on the page</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Contact details and policies</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Pop-ups and redirects</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Page speed on phone</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Pixel and Conversions API</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Pages with stronger claims than the ads</li><li><span aria-hidden=\"true\">!</span> No contact details or privacy policy</li><li><span aria-hidden=\"true\">!</span> Redirects to another domain</li><li><span aria-hidden=\"true\">!</span> Pop-ups that block the page</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Pages that match the ad</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Claims in line with the rules</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Contact details and privacy policy</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> No redirects or blocking pop-ups</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-238-p4\" aria-labelledby=\"au-238-t4\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 5 of 8</p><h4>People and access</h4><p class=\"pmau__why\">Every person with access is a way in. A restricted or hacked profile can stop the whole business.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"People: sample report\">\n\t<div class=\"pmrep__head\"><b>People</b><span>After our fixes</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Unknown admins</span><span class=\"pmrep__s\">Removed</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Two-factor</span><span class=\"pmrep__s\">Everyone</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Backup admin</span><span class=\"pmrep__s\">Added</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Old agency</span><span class=\"pmrep__s\">Removed</span></li></ul>\n\t<p class=\"pmrep__foot\">Access you control</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Admins and their roles</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Unknown people</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Former staff and agencies</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Two-factor login</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Restricted profiles</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Backup admins</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> An admin nobody recognises</li><li><span aria-hidden=\"true\">!</span> A former agency still with full control</li><li><span aria-hidden=\"true\">!</span> Two-factor login off for everyone</li><li><span aria-hidden=\"true\">!</span> One admin, and that profile is restricted</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Only the people who need access</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Two-factor login for every admin</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A second admin as backup</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Roles that match what people do</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-238-p5\" aria-labelledby=\"au-238-t5\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 6 of 8</p><h4>Business verification</h4><p class=\"pmau__why\">A verified business is easier for Meta to trust, and some actions need it.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Verification: sample report\">\n\t<div class=\"pmrep__head\"><b>Verification</b><span>After our fixes</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Business</span><span class=\"pmrep__s\">Verified</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Domain</span><span class=\"pmrep__s\">Verified</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Documents</span><span class=\"pmrep__s\">Match</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Website details</span><span class=\"pmrep__s\">Added</span></li></ul>\n\t<p class=\"pmrep__foot\">A business Meta can trust</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Business details</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Legal name and documents</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Website and domain</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Phone and email</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Domain verification</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Status of verification</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Verification never started</li><li><span aria-hidden=\"true\">!</span> Documents in a different name</li><li><span aria-hidden=\"true\">!</span> Domain not verified</li><li><span aria-hidden=\"true\">!</span> Website without business details</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Business verification completed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Documents that match</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Domain verified</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Business details on the website</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-238-p6\" aria-labelledby=\"au-238-t6\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 7 of 8</p><h4>Special ad categories</h4><p class=\"pmau__why\">Housing, jobs, credit, social issues and politics have their own rules for targeting and authorisation.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Categories: sample report\">\n\t<div class=\"pmrep__head\"><b>Categories</b><span>After our fixes</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Category set</span><span class=\"pmrep__s\">All campaigns</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Targeting</span><span class=\"pmrep__s\">In the rules</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Authorisation</span><span class=\"pmrep__s\">Done</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Rejections</span><span class=\"pmrep__s\">None</span></li></ul>\n\t<p class=\"pmrep__foot\">The right rules for your industry</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Whether a category applies</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Targeting by age, gender or postcode</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Authorisation for political ads</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Country rules</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Lookalike audiences</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Ad wording</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Housing ads with no category</li><li><span aria-hidden=\"true\">!</span> Age and postcode targeting on job ads</li><li><span aria-hidden=\"true\">!</span> Loan ads with interest claims</li><li><span aria-hidden=\"true\">!</span> Authorisation missing</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> The right category on every campaign</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Targeting within the rules</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Authorisation completed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Wording checked</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-238-p7\" aria-labelledby=\"au-238-t7\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 8 of 8</p><h4>Review request and plan B</h4><p class=\"pmau__why\">Meta often gives one review, so when and how you ask matters as much as what you fix.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Review: sample report\">\n\t<div class=\"pmrep__head\"><b>Review</b><span>Plan</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Fixes in place</span><span class=\"pmrep__s\">Yes</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Review request</span><span class=\"pmrep__s\">Day 5</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Plan B</span><span class=\"pmrep__s\">Google Ads ready</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Restart</span><span class=\"pmrep__s\">Lower budget first</span></li></ul>\n\t<p class=\"pmrep__foot\">A way forward either way</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we check</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Whether a review is offered</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> What to say</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Evidence to have ready</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> When to ask</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> What happens if refused</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Other channels</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> A review requested in a panic, with nothing fixed</li><li><span aria-hidden=\"true\">!</span> A new account opened to get around the block</li><li><span aria-hidden=\"true\">!</span> No backup if Meta says no</li><li><span aria-hidden=\"true\">!</span> Leads stopped completely</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> One review request, once everything is fixed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> No new accounts to get around the block</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Google Ads or other channels ready</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A safe restart plan</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "meta-account-disabled",
+    "modules": [
+     "@intella/scroll-accordions",
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Why ad accounts <em>get disabled</em>",
+    "lead": "The causes we see most often, what they look like and how we fix them.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "Failed or unusual payments",
+      "problem": "A declined card, a balance owed, or one card shared across several ad accounts.",
+      "beforeTitle": "Payments",
+      "before": [
+       {
+        "label": "Declined charges",
+        "value": "2",
+        "tone": "bad"
+       },
+       {
+        "label": "Accounts on one card",
+        "value": "3",
+        "tone": "bad"
+       }
+      ],
+      "fix": "One verified payment method, the balance cleared and the history explained in the review request.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Declined charges",
+        "value": "Cleared",
+        "tone": "ok"
+       },
+       {
+        "label": "Accounts on one card",
+        "value": "1",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Rejected ads piling up",
+      "problem": "Before-and-after images, personal attributes and health claims, rejected again and again.",
+      "beforeTitle": "Last 90 days",
+      "before": [
+       {
+        "label": "Rejected ads",
+        "value": "19",
+        "tone": "bad"
+       },
+       {
+        "label": "Appeals sent",
+        "value": "14",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Ads rewritten within the rules, with a checklist so new ones are approved.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Rejected ads",
+        "value": "0",
+        "tone": "ok"
+       },
+       {
+        "label": "Ads approved first time",
+        "value": "All",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "A hacked profile",
+      "problem": "An unknown admin added and ads you never approved, so Meta disabled the account.",
+      "beforeTitle": "Security",
+      "before": [
+       {
+        "label": "Unknown admins",
+        "value": "1",
+        "tone": "bad"
+       },
+       {
+        "label": "Two-factor login",
+        "value": "Off",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Logins secured, unknown people removed, the spend reported, then a review request.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Unknown admins",
+        "value": "0",
+        "tone": "ok"
+       },
+       {
+        "label": "Two-factor login",
+        "value": "Everyone",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "One restricted admin",
+      "problem": "The only admin’s profile is restricted, so the whole business can’t advertise.",
+      "beforeTitle": "People",
+      "before": [
+       {
+        "label": "Admins",
+        "value": "1, restricted",
+        "tone": "bad"
+       },
+       {
+        "label": "Business can advertise",
+        "value": "No",
+        "tone": "bad"
+       }
+      ],
+      "fix": "A second admin added, the profile reviewed, and roles set so one person can’t stop the business.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Admins",
+        "value": "2, both active",
+        "tone": "ok"
+       },
+       {
+        "label": "Business can advertise",
+        "value": "Yes",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "No business verification",
+      "problem": "A new business with no verification, no verified domain and no details on the website.",
+      "beforeTitle": "Business",
+      "before": [
+       {
+        "label": "Verification",
+        "value": "Not started",
+        "tone": "bad"
+       },
+       {
+        "label": "Domain",
+        "value": "Not verified",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Business and domain verified, with matching details on the website.",
+      "afterTitle": "After our fix",
+      "after": [
+       {
+        "label": "Verification",
+        "value": "Complete",
+        "tone": "ok"
+       },
+       {
+        "label": "Domain",
+        "value": "Verified",
+        "tone": "ok"
+       }
+      ]
+     }
+    ],
+    "visual": "",
+    "alt": true
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your account review",
+    "html": "<section class=\"section section--cream pmreport\" aria-labelledby=\"h-241\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-241\">Your <span class=\"accent\">account review</span></h2>\n\t\t\t\t<p class=\"section-lead\">Clear, written findings you keep, even if Meta says no.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrd__dl\">\n\t\t\t\t<a class=\"button button--primary button--lg\" href=\"{{media:assets/samples/meta-account-disabled-sample-review.pdf}}\" download>Download a sample report <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t<p>A real report layout with example data, so you know exactly what you’ll receive.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrv\">\n\t\t\t\t<ol class=\"pmrv__list\" role=\"list\"><li><span class=\"pmrv__n\">01</span><div><h3>Likely cause <small>1 page</small></h3><p>What we believe triggered the restriction, the evidence for it, and what we ruled out.</p></div></li><li><span class=\"pmrv__n\">02</span><div><h3>Account map <small>1 page</small></h3><p>Your business portfolio, people, ad accounts, pages and payments, with the status of each.</p></div></li><li><span class=\"pmrv__n\">03</span><div><h3>Fix list <small>1–2 pages</small></h3><p>Every change to ads, pages, payments, security and verification, with screenshots.</p></div></li><li><span class=\"pmrv__n\">04</span><div><h3>Review request <small>1 page</small></h3><p>What we sent to Meta and when, for your records.</p></div></li><li><span class=\"pmrv__n\">05</span><div><h3>Plan B and safe restart <small>1 page</small></h3><p>What to do if the review fails, and how to restart ads safely if it succeeds.</p></div></li></ol>\n\t\t\t\t<a class=\"pmrv__pic\" href=\"{{media:assets/samples/meta-account-disabled-sample-review.pdf}}\" aria-label=\"Open the sample report (PDF)\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--3\" src=\"{{media:assets/samples/meta-account-disabled-sample-review-3.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--2\" src=\"{{media:assets/samples/meta-account-disabled-sample-review-2.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--1\" src=\"{{media:assets/samples/meta-account-disabled-sample-review-1.jpg}}\" alt=\"Cover of the sample report\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<span class=\"pmrv__tag\">Sample · example data</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "meta-account-disabled",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Businesses we’ve helped get advertising again",
+    "html": "<section class=\"section section--white pmcsx\" aria-labelledby=\"h-243\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-243\">Businesses we’ve helped <span class=\"accent\">get advertising again</span></h2>\n\t\t\t\t<p class=\"section-lead\">Who they are, why they came to us, what we found and what changed. Pick a business to read its story.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmcs pmcs--ba\" data-tabs>\n\t\t\t\t<div class=\"pmcs__tabs\" role=\"tablist\" aria-orientation=\"vertical\" aria-label=\"Businesses we have helped with disabled Meta ad accounts\"><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-242-t0\" aria-controls=\"ad-242-p0\" aria-selected=\"true\"><span class=\"cmlg\" style=\"--lc:#9d174d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 4c9 6 12 16 6 26-3 5-9 5-12 0C8 20 11 10 20 4z\" fill=\"#f472b6\"/><path d=\"M20 12v24\" stroke=\"#9d174d\" stroke-width=\"2.5\"/></svg><span class=\"cmlg__w\"><b>Calla</b><span>Skin</span></span></span><span class=\"pmcs__ti\">Skin clinic</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-242-t1\" aria-controls=\"ad-242-p1\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#c2410c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"4\" y=\"15\" width=\"6\" height=\"10\" rx=\"2\" fill=\"#f97316\"/><rect x=\"30\" y=\"15\" width=\"6\" height=\"10\" rx=\"2\" fill=\"#f97316\"/><rect x=\"10\" y=\"18\" width=\"20\" height=\"4\" fill=\"#c2410c\"/></svg><span class=\"cmlg__w\"><b>Fitlane</b><span>Studio</span></span></span><span class=\"pmcs__ti\">Fitness studio</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-242-t2\" aria-controls=\"ad-242-p2\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#1d4ed8\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M5 34V18L20 6l15 12v16h-9V24h-12v10z\" fill=\"#3b82f6\"/></svg><span class=\"cmlg__w\"><b>Arcway</b><span>Realty</span></span></span><span class=\"pmcs__ti\">Real estate agency</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-242-t3\" aria-controls=\"ad-242-p3\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"15\" fill=\"#14b8a6\"/><path d=\"M15 12v16h11\" stroke=\"#fff\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Lendora</b><span>Finance</span></span></span><span class=\"pmcs__ti\">Lending company</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-242-t4\" aria-controls=\"ad-242-p4\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#be123c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><g fill=\"#fb7185\"><circle cx=\"20\" cy=\"11\" r=\"6\"/><circle cx=\"29\" cy=\"20\" r=\"6\"/><circle cx=\"20\" cy=\"29\" r=\"6\"/><circle cx=\"11\" cy=\"20\" r=\"6\"/></g><circle cx=\"20\" cy=\"20\" r=\"5\" fill=\"#be123c\"/></svg><span class=\"cmlg__w\"><b>Bloomly</b><span>Flowers</span></span></span><span class=\"pmcs__ti\">Florist</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-242-t5\" aria-controls=\"ad-242-p5\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#4338ca\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M4 15 20 7l16 8-16 8z\" fill=\"#6366f1\"/><path d=\"M11 19v8c5 4 13 4 18 0v-8\" fill=\"none\" stroke=\"#4338ca\" stroke-width=\"3\"/></svg><span class=\"cmlg__w\"><b>Tutorly</b><span>Learning</span></span></span><span class=\"pmcs__ti\">Online tutoring</span></button></div>\n\t\t\t\t<div class=\"pmcs__panels\"><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-242-p0\" aria-labelledby=\"ad-242-t0\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#9d174d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 4c9 6 12 16 6 26-3 5-9 5-12 0C8 20 11 10 20 4z\" fill=\"#f472b6\"/><path d=\"M20 12v24\" stroke=\"#9d174d\" stroke-width=\"2.5\"/></svg><span class=\"cmlg__w\"><b>Calla</b><span>Skin</span></span></span><p>Skin clinic<span>Ad account disabled · 2 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A skin clinic in Dubai that gets most of its bookings from Instagram and Facebook ads.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Their ad account was disabled for unusual activity, and the owner’s own profile was restricted the same week.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>A card that declined twice</li><li>Nine before-and-after images in recent ads</li><li>The owner was the only admin</li><li>An old ad account on the same card</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Payments fixed, ads rewritten, a second admin added and the profile reviewed. The ad account was restored and bookings came back.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Bookings a month from Meta</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:0%\"></span><b>Before 0</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 118</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Up from zero</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Rejected ads in 60 days</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before 9</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:1%\"></span><b>After 0</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Down to zero</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-242-p1\" aria-labelledby=\"ad-242-t1\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#c2410c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"4\" y=\"15\" width=\"6\" height=\"10\" rx=\"2\" fill=\"#f97316\"/><rect x=\"30\" y=\"15\" width=\"6\" height=\"10\" rx=\"2\" fill=\"#f97316\"/><rect x=\"10\" y=\"18\" width=\"20\" height=\"4\" fill=\"#c2410c\"/></svg><span class=\"cmlg__w\"><b>Fitlane</b><span>Studio</span></span></span><p>Fitness studio<span>Policy review · 10 days</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A fitness studio with three locations, running lead ads for free trial classes.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>After months of rejected ads, Meta disabled the ad account for repeated policy violations.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>“Tired of your belly fat?” headlines</li><li>Weight-loss claims with numbers</li><li>Before-and-after photos</li><li>14 appeals in 90 days</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>New ads that sell the classes, not the body, and a checklist for the team. The review was approved and leads restarted.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Trial sign-ups a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:0%\"></span><b>Before 0</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 210</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Up from zero</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Ads rejected a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before 7</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:1%\"></span><b>After 0</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Down to zero</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-242-p2\" aria-labelledby=\"ad-242-t2\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#1d4ed8\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M5 34V18L20 6l15 12v16h-9V24h-12v10z\" fill=\"#3b82f6\"/></svg><span class=\"cmlg__w\"><b>Arcway</b><span>Realty</span></span></span><p>Real estate agency<span>Special ad category · 2 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A real estate agency advertising apartments for sale and rent.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Their ads kept being rejected, and the ad account was restricted for not using the housing category.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>Housing ads with no special ad category</li><li>Age targeting of 30 to 55</li><li>Postcode targeting</li><li>A lookalike audience Meta doesn’t allow</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Every campaign moved to the housing category with targeting within the rules. The restriction was lifted.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Leads a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:23%\"></span><b>Before 22</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 96</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">336% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Campaigns restricted</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before 6</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:2%\"></span><b>After 0</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Down to zero</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-242-p3\" aria-labelledby=\"ad-242-t3\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"15\" fill=\"#14b8a6\"/><path d=\"M15 12v16h11\" stroke=\"#fff\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Lendora</b><span>Finance</span></span></span><p>Lending company<span>Verification and policy · 3 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A lending company offering personal and small business loans online.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>The business portfolio was restricted, so none of their ad accounts could run ads.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>Business verification never started</li><li>Loan ads with no credit category</li><li>“Guaranteed approval” claims</li><li>Website missing licence details</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Business verified, licence details added to the site, and ads rewritten in the credit category. The business can advertise again.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Ad accounts able to advertise</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:5%\"></span><b>Before 0</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 2</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Up from zero</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Applications a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:0%\"></span><b>Before 0</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 340</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Up from zero</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-242-p4\" aria-labelledby=\"ad-242-t4\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#be123c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><g fill=\"#fb7185\"><circle cx=\"20\" cy=\"11\" r=\"6\"/><circle cx=\"29\" cy=\"20\" r=\"6\"/><circle cx=\"20\" cy=\"29\" r=\"6\"/><circle cx=\"11\" cy=\"20\" r=\"6\"/></g><circle cx=\"20\" cy=\"20\" r=\"5\" fill=\"#be123c\"/></svg><span class=\"cmlg__w\"><b>Bloomly</b><span>Flowers</span></span></span><p>Florist<span>Hacked account · 1 week</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>An online florist that sells most of its bouquets through Facebook and Instagram ads.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Someone took over a staff member’s profile, ran ads for another business and the account was disabled.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>An unknown admin added 3 days earlier</li><li>$2,800 of ads they never ran</li><li>Two-factor login off for everyone</li><li>A former agency still with full access</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Access secured, unknown people removed and the spend reported. The account was restored in time for Valentine’s Day.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">People with admin access</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before 6</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:33%\"></span><b>After 2</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">67% lower</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Orders a week from ads</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:0%\"></span><b>Before 0</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 160</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Up from zero</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-242-p5\" aria-labelledby=\"ad-242-t5\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#4338ca\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M4 15 20 7l16 8-16 8z\" fill=\"#6366f1\"/><path d=\"M11 19v8c5 4 13 4 18 0v-8\" fill=\"none\" stroke=\"#4338ca\" stroke-width=\"3\"/></svg><span class=\"cmlg__w\"><b>Tutorly</b><span>Learning</span></span></span><p>Online tutoring<span>New business · 10 days</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A new online tutoring service that launched with Meta ads to parents.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>The new ad account was disabled on its first day, before a single ad had run properly.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>Spend raised from $20 to $800 in one day</li><li>Billing country different from the business</li><li>No business verification</li><li>A new profile as the only admin</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Billing fixed, the business verified and a steady restart plan. The account was restored and grew safely.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Failed payments</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before 3</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:3%\"></span><b>After 0</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Down to zero</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Sign-ups a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:0%\"></span><b>Before 0</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 180</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Up from zero</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "meta-account-disabled",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Alex Barsuk",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ]
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Meta Ad Account Disabled Help questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "Why was my Facebook ad account disabled?",
+      "answer": "Common reasons are payment problems, unusual activity, repeated policy violations, a restricted admin profile or security concerns. The notice gives a reason, but rarely the detail."
+     },
+     {
+      "question": "How do I request a review?",
+      "answer": "From Account Quality in Meta Business Suite. Fix the likely cause first, because a refused review can be final."
+     },
+     {
+      "question": "My account was hacked. What should I do first?",
+      "answer": "Secure every login with a new password and two-factor login, remove people you don’t recognise, and report the hack to Meta before requesting a review."
+     },
+     {
+      "question": "Should I open a new ad account?",
+      "answer": "No. Opening new accounts to get around a restriction breaks Meta’s rules and usually gets the new account disabled too."
+     },
+     {
+      "question": "How long does a Meta review take?",
+      "answer": "Often a few days, sometimes longer. Meta doesn’t publish a fixed time."
+     },
+     {
+      "question": "Can you guarantee my account comes back?",
+      "answer": "No. Only Meta can restore an account. We fix what we can and help you make a clear request."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Get your ad account <em>looked at properly</em>",
+    "lead": "Send us the notice. We’ll call you back within 24 hours.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "What does the notice say, and when did it happen?",
+    "service": "meta-account-disabled",
+    "buttonText": "Request a quote",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Related <em>services</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "heart",
+      "title": "Meta Ads",
+      "url": "/services/digital-marketing/performance-marketing/facebook-ads/",
+      "text": "Facebook and Instagram campaigns."
+     },
+     {
+      "icon": "check",
+      "title": "Meta Pixel and Conversions API",
+      "url": "/services/digital-marketing/performance-marketing/facebook-ads/conversions-api/",
+      "text": "Pixel and CAPI, deduplicated and tested."
+     },
+     {
+      "icon": "chart",
+      "title": "Performance Marketing Audit",
+      "url": "/audits/google-ads-audit/",
+      "text": "A full audit of your ad accounts and tracking."
+     }
+    ]
+   }
+  }
+ ]
+}

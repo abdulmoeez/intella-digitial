@@ -1,0 +1,31 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/signs",
+	"title": "Signs you need this (checklist)",
+	"category": "intella",
+	"icon": "yes",
+	"description": "A ticked list of warning signs beside a dark card with a button (or a photo with a speech bubble).",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{ "key": "title", "type": "inline", "label": "Heading" },
+			{ "key": "lead", "type": "textarea", "label": "Intro" },
+			{ "key": "items", "type": "list", "label": "Signs (one per line)", "default": [] },
+			{ "key": "icon", "type": "text", "label": "Card icon", "default": "check", "help": "Icon name from the theme sprite, e.g. check, chart, search.", "panel": "Card" },
+			{ "key": "asideTitle", "type": "text", "label": "Card title", "panel": "Card" },
+			{ "key": "asideText", "type": "textarea", "label": "Card text", "panel": "Card" },
+			{ "key": "buttonText", "type": "text", "label": "Button text", "panel": "Card" },
+			{ "key": "buttonUrl", "type": "url", "label": "Button link", "default": "#proposal", "panel": "Card" },
+			{ "key": "photo", "type": "image", "label": "Photo instead of the icon (optional)", "panel": "Card" },
+			{ "key": "photoAlt", "type": "text", "label": "Photo description", "panel": "Card" },
+			{ "key": "bubble", "type": "text", "label": "Speech bubble on the photo", "panel": "Card" },
+			{ "key": "shortPhoto", "type": "toggle", "label": "Landscape photo", "default": false, "panel": "Card" }
+		],
+		"section": "cream"
+	}
+}

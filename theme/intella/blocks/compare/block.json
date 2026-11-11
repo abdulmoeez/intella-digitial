@@ -1,0 +1,69 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/compare",
+	"title": "Comparison table",
+	"category": "intella",
+	"icon": "editor-table",
+	"description": "Us vs alternatives. The first column after the labels is highlighted as ours.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "inline",
+				"label": "Intro"
+			},
+			{
+				"key": "corner",
+				"type": "text",
+				"label": "Top-left cell (screen readers)",
+				"default": "What you get"
+			},
+			{
+				"key": "columns",
+				"type": "list",
+				"label": "Column headings",
+				"help": "One per line; the first is us.",
+				"default": []
+			},
+			{
+				"key": "rows",
+				"type": "repeater",
+				"label": "Rows",
+				"itemName": "row",
+				"itemLabel": "label",
+				"fields": [
+					{
+						"key": "label",
+						"type": "text",
+						"label": "Row label"
+					},
+					{
+						"key": "cells",
+						"type": "list",
+						"label": "Cells",
+						"help": "One per line, in column order. Type yes or no for a tick or a dash (yes:Included sets its label).",
+						"default": []
+					}
+				],
+				"default": []
+			},
+			{
+				"key": "note",
+				"type": "text",
+				"label": "Note under the table"
+			}
+		],
+		"section": "cream"
+	}
+}

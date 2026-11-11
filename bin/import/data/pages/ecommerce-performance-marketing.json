@@ -1,0 +1,385 @@
+{
+ "title": "eCommerce Performance Marketing Agency",
+ "path": "/services/digital-marketing/performance-marketing/ecommerce/",
+ "seo": {
+  "title": "eCommerce Performance Marketing Agency | Google, Meta and Amazon Ads | Intella Digital",
+  "description": "An eCommerce performance marketing agency: Google Shopping, Performance Max, Meta, TikTok and Amazon ads, managed for profit with store-based reporting."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Services",
+      "url": "/services/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "eCommerce Performance Marketing",
+      "url": ""
+     }
+    ],
+    "title": "eCommerce ads managed <em>for profit, not just revenue</em>",
+    "lead": "Google Shopping, Meta, TikTok and Amazon ads for online stores, planned together and measured in your store, not in ad platforms.",
+    "buttonText": "Get a free store review",
+    "formLabel": "Get a free store review",
+    "service": "ecommerce-performance-marketing",
+    "notes": [
+     "Managed against your margins",
+     "Measured in your store",
+     "Google, Meta, TikTok and Amazon"
+    ],
+    "sliderLabel": "Common eCommerce advertising problems",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "Revenue up, profit down",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Last quarter</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"ok\"><span>Revenue from ads</span><b>Up 30%</b></li><li class=\"no\"><span>Profit from ads</span><b>Down 12%</b></li></ul></div>",
+      "photo": "media:assets/images/people-cut/phone-c.webp",
+      "fix": "Bids and budgets set by product margin.",
+      "look": "profit"
+     },
+     {
+      "kicker": "",
+      "title": "Every platform claims the sale",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Sales last month</p><ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:100%\"><span>Google + Meta + TikTok</span><b>279</b></li><li style=\"--w:40%\"><span>Your store</span><b>112</b></li></ul></div>",
+      "photo": 0,
+      "fix": "Reporting from your store.",
+      "look": "claim"
+     },
+     {
+      "kicker": "",
+      "title": "Products disapproved",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Merchant Center</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"ok\"><span>Approved</span><b>1,212</b></li><li class=\"no\"><span>Disapproved</span><b>268</b></li></ul></div>",
+      "photo": 0,
+      "fix": "A clean, complete feed.",
+      "look": "feed"
+     },
+     {
+      "kicker": "",
+      "title": "The same photos everywhere",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Ads running</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Product photos</span><b>3</b></li><li class=\"no\"><span>Videos</span><b>0</b></li></ul></div>",
+      "photo": "media:assets/images/people-cut/pink-blazer.webp",
+      "fix": "Video, UGC and new offers every month.",
+      "look": "ads"
+     }
+    ],
+    "tools": "",
+    "visual": "",
+    "look": "cmhero cmhero--pm"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Online stores need ads that count profit",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-322\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-322\">Online stores need ads <span class=\"accent\">that count profit</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a problem to see how we fix it.</p>\n\t\t\t</div>\n\t\t\t<div class=\"wpvt cmvt\" data-tabs>\n\t\t\t\t<div class=\"wpvt__list\" role=\"tablist\" aria-label=\"eCommerce problems\" aria-orientation=\"vertical\"><button class=\"wpvt__tab cmvt__tab cmvt__tab--1\" type=\"button\" role=\"tab\" id=\"bh-321-t-roas\" aria-controls=\"bh-321-roas\" aria-selected=\"true\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">01</i>Revenue up, profit down</b><span>Return on ad spend looks fine, but after product costs, shipping and returns, ads lose money.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--2\" type=\"button\" role=\"tab\" id=\"bh-321-t-feed\" aria-controls=\"bh-321-feed\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">02</i>A feed that holds you back</b><span>Disapproved products, poor titles and missing data limit Shopping and Performance Max.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--3\" type=\"button\" role=\"tab\" id=\"bh-321-t-track\" aria-controls=\"bh-321-track\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">03</i>Platforms claim the same sale</b><span>Google, Meta and TikTok all take credit, so total “sales” are far higher than your store.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--4\" type=\"button\" role=\"tab\" id=\"bh-321-t-creative\" aria-controls=\"bh-321-creative\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">04</i>Ads that stopped selling</b><span>The same product photos everywhere, so costs rise.</span>\n\t\t\t\t\t</button></div>\n\t\t\t\t<div class=\"wpvt__panels\"><div class=\"wpvt__panel cmvt__panel cmvt__panel--1\" role=\"tabpanel\" id=\"bh-321-roas\" aria-labelledby=\"bh-321-t-roas\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Return on ad spend looks fine, but after product costs, shipping and returns, ads lose money.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Manage ads for profit, not revenue.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>A 4× return can lose money on a low-margin product, and a 2× return can be very profitable on a high-margin one.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Margins from your store and finance team</li><li>Targets for each product group</li><li>Budget moved to profitable products</li><li>Monthly profit report</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Growth only helps if it’s profitable.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Same 4× return</p><ul class=\"cmv__rows\" role=\"list\"><li><span>High-margin product</span><b>Profit</b></li><li><span>Low-margin product</span><b>Loss</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Margins by product</b><p>Real margins, after costs and returns.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Profit targets</b><p>A target return for each product group.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Margin-based campaigns</b><p>Best-margin products get the budget.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Profit reporting</b><p>Profit from ads, every month.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Profit targets</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Margin-based campaigns</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Profit reports</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--2\" role=\"tabpanel\" id=\"bh-321-feed\" aria-labelledby=\"bh-321-t-feed\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Disapproved products, poor titles and missing data limit Shopping and Performance Max.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">A product feed built to sell.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>On Google, the feed is the targeting.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Errors fixed</li><li>Titles rewritten</li><li>Custom labels for campaigns</li><li>Weekly checks</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Better data, better Shopping results.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Feed health</p><ul class=\"cmv__rows\" role=\"list\"><li><span>Approved</span><b>100%</b></li><li class=tot><span>Titles rewritten</span><b>840</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Feed fixes</b><p>Errors fixed and monitored.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Titles for search</b><p>Written around real searches.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Attributes</b><p>Sizes, colours and GTINs complete.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Supplemental feeds</b><p>Labels for margin and best-sellers.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A clean feed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Rewritten titles</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Custom labels</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--3\" role=\"tabpanel\" id=\"bh-321-track\" aria-labelledby=\"bh-321-t-track\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Google, Meta and TikTok all take credit, so total “sales” are far higher than your store.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">One version of the truth: your store.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>When every platform claims the sale, budgets go to the wrong place.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Tracking through your store</li><li>Each platform checked</li><li>Reports from your store</li><li>New customers counted separately</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Spend follows real sales.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--bars\"><p class=\"cmv__t\">Sales claimed</p><ul class=\"cmv__vb\" role=\"list\"><li style=\"--h:80%\"><b>96</b><span>Google</span></li><li style=\"--h:60%\"><b>71</b><span>Meta</span></li><li style=\"--h:92%\"><b>112</b><span>Store</span></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Server-side tracking</b><p>Purchases sent reliably to every platform.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Deduplication</b><p>No double counting.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Store-based reporting</b><p>Revenue from Shopify or WooCommerce.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>New vs returning</b><p>Who’s really new.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Server-side tracking</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Store-based reports</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New-customer split</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--4\" role=\"tabpanel\" id=\"bh-321-creative\" aria-labelledby=\"bh-321-t-creative\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>The same product photos everywhere, so costs rise.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">New creative every month, for every platform.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>On social platforms, creative does most of the targeting.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>New concepts monthly</li><li>Vertical video</li><li>Creator content</li><li>Tested properly</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Fresh ads keep costs down.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--bars\"><p class=\"cmv__t\">Cost per sale</p><ul class=\"cmv__vb\" role=\"list\"><li style=\"--h:75%\"><b>$38</b><span>Static</span></li><li style=\"--h:55%\"><b>$29</b><span>Video</span></li><li style=\"--h:42%\"><b>$22</b><span>UGC</span></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Product video</b><p>Short videos for Reels and TikTok.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>UGC</b><p>Creators showing the product in use.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Offers</b><p>Bundles and seasonal offers tested.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Catalogue ads</b><p>Dynamic ads with better templates.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New ads every month</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> UGC</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Catalogue templates</li></ul></div>\n\t\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "ecommerce-performance-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Ads for every step to checkout",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-324\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-324\">Ads for <span class=\"accent\">every step to checkout</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a stage to see what shoppers think, and what we run.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmst2\" data-tabs style=\"--n:4\">\n\t\t\t\t<div class=\"cmst2__tabs\" role=\"tablist\" aria-label=\"Shopping stages\"><button class=\"cmst2__tab cmst2__tab--attract\" type=\"button\" role=\"tab\" id=\"bs-323-t-attract\" aria-controls=\"bs-323-attract\" aria-selected=\"true\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">1</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Discover</b><span>I didn’t know I needed this</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--trust\" type=\"button\" role=\"tab\" id=\"bs-323-t-trust\" aria-controls=\"bs-323-trust\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">2</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Compare</b><span>Which one should I buy?</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--convert\" type=\"button\" role=\"tab\" id=\"bs-323-t-convert\" aria-controls=\"bs-323-convert\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">3</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Buy</b><span>I’m ready to buy</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--keep\" type=\"button\" role=\"tab\" id=\"bs-323-t-keep\" aria-controls=\"bs-323-keep\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">4</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Return</b><span>I liked it, what else?</span></span>\n\t\t\t\t</button></div>\n\t\t\t\t<div class=\"cmst2__panel cmst2__panel--attract\" role=\"tabpanel\" id=\"bs-323-attract\" aria-labelledby=\"bs-323-t-attract\" tabindex=\"0\">\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 1 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Discover</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“I didn’t know I needed this”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Reach new shoppers</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>New visitors, cost per new customer</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>2</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Video and Reels</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Short product videos.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>New shoppers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Meta, TikTok, YouTube</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Demand</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A 15-second product demo</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Prospecting</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Lookalikes from your best customers.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>People like your buyers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Meta, TikTok</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>New customers</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Top 10% of customers</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--trust\" role=\"tabpanel\" id=\"bs-323-trust\" aria-labelledby=\"bs-323-t-trust\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 2 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Compare</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“Which one should I buy?”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Win the comparison</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Product views, add-to-baskets</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>2</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Shopping ads</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Products with price and reviews.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Comparison shoppers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Google, Microsoft</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Clicks from buyers</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Best-sellers with ratings</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Search ads</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Category and product searches.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>People searching</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Google, Microsoft</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>High-intent visits</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>brass table lamp</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--convert\" role=\"tabpanel\" id=\"bs-323-convert\" aria-labelledby=\"bs-323-t-convert\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 3 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Buy</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“I’m ready to buy”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Close the sale</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Purchases, cost per sale</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>2</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Remarketing</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Ads for viewed and basket products.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Recent visitors</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Meta, Google</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Recovered baskets</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>The lamp they left behind</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Amazon ads</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Sponsored Products on your listings.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Amazon shoppers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Amazon</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Marketplace sales</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Your brand at the top</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--keep\" role=\"tabpanel\" id=\"bs-323-keep\" aria-labelledby=\"bs-323-t-keep\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 4 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Return</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“I liked it, what else?”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Bring customers back</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Repeat purchase rate</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>2</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Customer campaigns</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">New products and refills for buyers.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Customers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Meta, Google</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Repeat sales</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A matching shade</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Exclusions</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Customers removed from prospecting.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Customers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>All platforms</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>No wasted spend</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Lists synced weekly</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "ecommerce-performance-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/case-study",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "look": "cmcase cmcase--pm cmcase--ecom",
+    "kicker": "Case study · eCommerce",
+    "title": "How Ferrow Home grew online revenue <em>by 64% in a year</em>",
+    "client": "Ferrow Home",
+    "clientInfo": "· Homeware · Shopping, Performance Max and Meta",
+    "steps": [
+     {
+      "title": "The challenge",
+      "text": "Two freelancers, two sets of numbers and falling profit."
+     },
+     {
+      "title": "What we did",
+      "text": "Server-side tracking, a rebuilt feed, margin-based campaigns and monthly video."
+     },
+     {
+      "title": "The outcome",
+      "text": "More revenue and more profit, measured in Shopify."
+     }
+    ],
+    "buttonText": "Read the case study",
+    "buttonUrl": "/case-studies/",
+    "stats": [
+     {
+      "value": "+64%",
+      "label": "online revenue"
+     },
+     {
+      "value": "3.9×",
+      "label": "return on ad spend"
+     },
+     {
+      "value": "−31%",
+      "label": "cost per sale"
+     },
+     {
+      "value": "+22%",
+      "label": "profit from ads"
+     }
+    ],
+    "chartTitle": "Online revenue from ads, per month",
+    "bars": [
+     {
+      "height": 59,
+      "label": "Month 1: 42"
+     },
+     {
+      "height": 63,
+      "label": "Month 2: 45"
+     },
+     {
+      "height": 66,
+      "label": "Month 3: 47"
+     },
+     {
+      "height": 73,
+      "label": "Month 4: 52"
+     },
+     {
+      "height": 77,
+      "label": "Month 5: 55"
+     },
+     {
+      "height": 82,
+      "label": "Month 6: 58"
+     },
+     {
+      "height": 86,
+      "label": "Month 7: 61"
+     },
+     {
+      "height": 89,
+      "label": "Month 8: 63"
+     },
+     {
+      "height": 93,
+      "label": "Month 9: 66"
+     },
+     {
+      "height": 96,
+      "label": "Month 10: 68"
+     },
+     {
+      "height": 100,
+      "label": "Month 11: 71"
+     },
+     {
+      "height": 97,
+      "label": "Month 12: 69"
+     }
+    ],
+    "axisStart": "Month 1",
+    "axisEnd": "Month 12"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Online stores we run ads for",
+    "html": "<section class=\"section section--white cmwk2s\" aria-labelledby=\"h-327\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-327\">Online stores we <span class=\"accent\">run ads for</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a store to see what we did.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmwk2\" data-tabs>\n\t\t\t\t<div class=\"cmwk2__tabs\" role=\"tablist\" aria-label=\"eCommerce clients\"><button class=\"cmwk2__tab cmwk2__tab--1\" type=\"button\" role=\"tab\" id=\"bw-326-t-ferrow\" aria-controls=\"bw-326-ferrow\" aria-selected=\"true\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"6\" y=\"6\" width=\"28\" height=\"28\" rx=\"8\" fill=\"#14b8a6\"/><path d=\"M14 27V13h12M14 20h9\" stroke=\"#fff\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Ferrow</b><span>Home</span></span></span><span class=\"cmwk2__ind\">eCommerce, homeware</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--2\" type=\"button\" role=\"tab\" id=\"bw-326-t-packwise\" aria-controls=\"bw-326-packwise\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#4338ca\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 4 34 12v16L20 36 6 28V12z\" fill=\"#6366f1\"/><path d=\"M6 12l14 8 14-8M20 20v16\" stroke=\"#c7d2fe\" stroke-width=\"2.5\" fill=\"none\"/></svg><span class=\"cmlg__w\"><b>Packwise</b><span>Supplies</span></span></span><span class=\"cmwk2__ind\">Packaging, eCommerce and Amazon</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--3\" type=\"button\" role=\"tab\" id=\"bw-326-t-orbitly\" aria-controls=\"bw-326-orbitly\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#7c3aed\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"6\" fill=\"#8b5cf6\"/><ellipse cx=\"20\" cy=\"20\" rx=\"16\" ry=\"7\" fill=\"none\" stroke=\"#c4b5fd\" stroke-width=\"3\" transform=\"rotate(-25 20 20)\"/></svg><span class=\"cmlg__w\"><b>Orbitly</b><span>Apps</span></span></span><span class=\"cmwk2__ind\">Consumer subscription brand</span>\n\t\t\t\t</button></div>\n\t\t\t\t<article class=\"cmwk2__panel cmwk2__panel--1\" role=\"tabpanel\" id=\"bw-326-ferrow\" aria-labelledby=\"bw-326-t-ferrow\" tabindex=\"0\">\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Ferrow Home</h3>\n\t\t\t\t\t\t\t<p>eCommerce, homeware · 35 people · 14 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Google Shopping</li><li>Meta Ads</li><li>Tracking</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Google Shopping and Meta were run by two freelancers, and both claimed the same sales.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> One plan across Google Shopping, Performance Max and Meta</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Server-side tracking and the Conversions API</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Product feed rebuilt in Merchant Center</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New video ads every month</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Profitable growth they could trust, measured in Shopify, not in ad platforms.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>3.9×</b><span>return on ad spend</span></li><li><b>+64%</b><span>online revenue</span></li><li><b>−31%</b><span>cost per sale</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--2\" role=\"tabpanel\" id=\"bw-326-packwise\" aria-labelledby=\"bw-326-t-packwise\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Packwise Supplies</h3>\n\t\t\t\t\t\t\t<p>Packaging, eCommerce and Amazon · 50 people · 12 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Amazon Ads</li><li>Google Shopping</li><li>Microsoft Ads</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Amazon sales were growing, but advertising ate most of the margin.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Amazon Sponsored Products restructured by margin</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Google Shopping for the website</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Microsoft Ads for business buyers</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> One report across all three</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>More profitable sales on Amazon and their own site.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>−36%</b><span>Amazon advertising cost of sales</span></li><li><b>+48%</b><span>website revenue</span></li><li><b>3</b><span>platforms, one report</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--3\" role=\"tabpanel\" id=\"bw-326-orbitly\" aria-labelledby=\"bw-326-t-orbitly\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Orbitly Apps</h3>\n\t\t\t\t\t\t\t<p>Consumer subscription brand · 25 people · 8 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>TikTok Ads</li><li>Creative</li><li>Tracking</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>TikTok drove views but very few trials, and they couldn’t tell which videos worked.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> TikTok Pixel and Events API</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Spark ads with creators</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Weekly creative tests</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Meta remarketing for engaged viewers</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Trials at a cost that made the subscription profitable.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>−58%</b><span>cost per trial</span></li><li><b>42</b><span>videos tested</span></li><li><b>2.7×</b><span>trials per month</span></li></ul></div>\n\t\t\t\t</article>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "ecommerce-performance-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Andra-Simina Mocanu",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Alex Barsuk"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "eCommerce programmes, sized to your store",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-330\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-330\">eCommerce programmes, <span class=\"accent\">sized to your store</span></h2>\n\t\t\t\t<p class=\"section-lead\">Three ways to work with us. Each is a fixed monthly price, quoted after a free call.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"cmplans\" role=\"list\"><li class=\"cmplan cmplan--1\">\n\t\t\t\t\t<p class=\"cmplan__name\">Starter</p>\n\t\t\t\t\t<p class=\"cmplan__for\">One or two platforms</p>\n\t\t\t\t\t<p class=\"cmplan__d\">For stores starting paid ads properly.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tracking and feed set up</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Google Shopping or Meta</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly report</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--2 cmplan--main\">\n\t\t\t\t\t<p class=\"cmplan__name\">Growth</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Google, Meta and more</p>\n\t\t\t\t\t<p class=\"cmplan__d\">For stores ready to scale.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Starter</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Shopping, PMax and Meta</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> New ads every month</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Margin-based campaigns</li></ul>\n\t\t\t\t\t<a class=\"button button--primary button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--3\">\n\t\t\t\t\t<p class=\"cmplan__name\">Scale</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Every channel</p>\n\t\t\t\t\t<p class=\"cmplan__d\">For larger stores and marketplaces.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Growth</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> TikTok and Amazon</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Server-side tracking</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A dedicated lead</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li></ul>\n\t\t</div>\n\t</section>",
+    "css": "ecommerce-performance-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/why-intella",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "An eCommerce ads agency that <em>builds stores too</em>",
+    "items": [
+     {
+      "title": "Tracking before spend",
+      "text": "We check every conversion fires before we scale a single campaign."
+     },
+     {
+      "title": "One team, every platform",
+      "text": "Search, social, video and marketplaces planned together, not in silos."
+     },
+     {
+      "title": "Your accounts, your data",
+      "text": "Ads run in accounts you own. You keep everything if you ever leave."
+     },
+     {
+      "title": "We build the landing pages too",
+      "text": "Our web team builds and tests the pages your ads send people to."
+     }
+    ],
+    "facts": [
+     {
+      "value": "10",
+      "label": "ad platforms we manage"
+     },
+     {
+      "value": "100%",
+      "label": "of accounts owned by our clients"
+     },
+     {
+      "value": "48 h",
+      "label": "to a written audit of your account"
+     }
+    ],
+    "bigFacts": true,
+    "quote": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "eCommerce performance marketing questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What is eCommerce performance marketing?",
+      "answer": "Paid ads for online stores, such as Google Shopping, Performance Max, Meta, TikTok and Amazon, managed to grow sales and profit, and measured in your store."
+     },
+     {
+      "question": "Which platforms are best for eCommerce?",
+      "answer": "Usually Google Shopping and Performance Max for people searching, Meta and TikTok for discovery, and Amazon if you sell there."
+     },
+     {
+      "question": "Do you work with Shopify and WooCommerce?",
+      "answer": "Yes. We set up tracking and feeds for Shopify, WooCommerce and most other platforms. We build stores too."
+     },
+     {
+      "question": "What is a good ROAS for eCommerce?",
+      "answer": "It depends on your margins. We set targets by product group from your real margins."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Make your ads <em>profitable, not just busy</em>",
+    "lead": "Give us read-only access. We’ll show you where profit leaks.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "What do you sell, which platform is your store on, and what do you spend a month?",
+    "service": "ecommerce-performance-marketing",
+    "buttonText": "Request my free account review",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "eCommerce ads work best <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "cart",
+      "title": "Google Shopping Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-shopping-ads/",
+      "text": "Product ads and Merchant Center."
+     },
+     {
+      "icon": "cart",
+      "title": "Amazon Ads",
+      "url": "/services/digital-marketing/performance-marketing/amazon-ads/",
+      "text": "Sponsored Products and Brands."
+     },
+     {
+      "icon": "code",
+      "title": "eCommerce Development",
+      "url": "/services/website-development/laravel/laravel-ecommerce-development/",
+      "text": "Stores built to convert."
+     }
+    ]
+   }
+  }
+ ]
+}

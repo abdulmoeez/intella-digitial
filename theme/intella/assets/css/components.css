@@ -1,0 +1,790 @@
+/* Shared components: buttons, section headings, chips, icon tiles, form fields */
+
+/* ---------- Buttons ---------- */
+.button {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.6rem;
+	min-height: 3rem;
+	padding: 0.75rem 1.6rem;
+	border: 2px solid transparent;
+	border-radius: var(--radius-pill);
+	font-family: var(--font-body);
+	font-size: var(--text-base);
+	font-weight: var(--weight-semibold);
+	line-height: 1.2;
+	white-space: nowrap;
+	transition: transform var(--transition), box-shadow var(--transition), background-color var(--transition),
+		color var(--transition);
+
+	& svg {
+		width: 1rem;
+		flex: none;
+		transition: transform var(--transition);
+	}
+
+	&:hover svg {
+		transform: translateX(3px);
+	}
+}
+
+.button--lg {
+	min-height: 3.25rem;
+	padding-inline: 1.8rem;
+	font-size: var(--text-md);
+}
+
+.button--primary {
+	background: var(--gradient-button);
+	color: var(--color-on-dark);
+	box-shadow: var(--shadow-button);
+
+	&:hover {
+		transform: translateY(-1px);
+		box-shadow: 0 18px 32px -10px rgb(51 16 79 / 0.6);
+	}
+}
+
+.button--outline {
+	border-color: var(--color-btn-top);
+	background: transparent;
+	color: var(--color-ink);
+
+	&:hover {
+		background: var(--color-btn-top);
+		color: var(--color-on-dark);
+	}
+}
+
+.button--light {
+	background: var(--color-paper);
+	color: var(--color-btn-top);
+
+	&:hover {
+		transform: translateY(-1px);
+	}
+}
+
+.button--block {
+	width: 100%;
+}
+
+/* Text link with an arrow */
+.text-link {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.5rem;
+	color: var(--color-ink);
+	font-weight: var(--weight-semibold);
+
+	& svg {
+		width: 0.95rem;
+		color: var(--color-accent);
+		transition: transform var(--transition);
+	}
+
+	&:hover svg {
+		transform: translateX(3px);
+	}
+}
+
+.text-link--light {
+	color: var(--color-on-dark);
+
+	& svg {
+		color: var(--color-highlight-light);
+	}
+}
+
+/* ---------- Section heading ---------- */
+.kicker {
+	display: block;
+	margin-block-end: var(--space-md);
+	color: var(--color-accent);
+	font-family: var(--font-body);
+	font-size: var(--text-xs);
+	font-weight: var(--weight-semibold);
+	letter-spacing: 0.18em;
+	text-transform: uppercase;
+}
+
+.kicker--light {
+	color: var(--color-highlight-light);
+}
+
+.section-title {
+	font-size: var(--text-h2);
+}
+
+/* Italic serif accent word with the violet-to-pink gradient */
+.accent {
+	font-family: var(--font-accent);
+	font-style: italic;
+	font-weight: var(--weight-bold);
+	letter-spacing: -0.01em;
+	background: var(--gradient-accent);
+	-webkit-background-clip: text;
+	background-clip: text;
+	color: transparent;
+	padding-inline-end: 0.08em; /* keeps the italic tail from being clipped */
+}
+
+.accent--plain {
+	font-family: inherit;
+	font-style: normal;
+	font-weight: inherit;
+	letter-spacing: inherit;
+}
+
+.accent--light {
+	background-image: var(--gradient-accent-dark);
+}
+
+.section-lead {
+	max-width: 38rem;
+	margin-block-start: var(--space-lg);
+	font-size: var(--text-md);
+	line-height: 1.6;
+}
+
+.section-head {
+	margin-block-end: var(--space-2xl);
+}
+
+.section-head--center {
+	text-align: center;
+
+	& .section-lead {
+		margin-inline: auto;
+	}
+}
+
+.section-head--split {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-end;
+	justify-content: space-between;
+	gap: var(--space-lg);
+}
+
+@media (min-width: 64rem) {
+	.section-head {
+		margin-block-end: 3.5rem;
+	}
+}
+
+/* ---------- Icon tile ---------- */
+.icon-tile {
+	display: inline-grid;
+	place-items: center;
+	width: 2.875rem;
+	height: 2.875rem;
+	border-radius: var(--radius-sm);
+	background: var(--color-lavender);
+	color: var(--color-accent);
+	flex: none;
+
+	& svg {
+		width: 1.2rem;
+	}
+}
+
+.icon-tile--lg {
+	width: 3.25rem;
+	height: 3.25rem;
+	border-radius: 0.8rem;
+}
+
+.icon-tile--dark {
+	background: rgb(255 255 255 / 0.12);
+	color: var(--color-on-dark);
+}
+
+/* ---------- Chips ---------- */
+.chip {
+	display: inline-flex;
+	align-items: center;
+	padding: 0.4rem 0.9rem;
+	border: 1px solid var(--color-line);
+	border-radius: var(--radius-pill);
+	background: var(--color-paper);
+	color: var(--color-ink);
+	font-size: var(--text-sm);
+	transition: border-color var(--transition), color var(--transition);
+
+	&:hover {
+		border-color: var(--color-accent);
+		color: var(--color-accent);
+	}
+}
+
+/* ---------- Form fields ---------- */
+.field {
+	display: grid;
+	gap: 0.45rem;
+}
+
+.field__label {
+	color: var(--color-ink);
+	font-size: var(--text-sm);
+}
+
+.field__input {
+	width: 100%;
+	min-height: 3rem;
+	padding: 0.75rem 1rem;
+	border: 1px solid #d9d3de;
+	border-radius: var(--radius-sm);
+	background: #fbfafc;
+	color: var(--color-ink);
+	font-size: var(--text-base);
+	transition: border-color var(--transition), box-shadow var(--transition);
+
+	&::placeholder {
+		color: #a39cad;
+	}
+
+	&:focus {
+		outline: none;
+		border-color: var(--color-accent);
+		box-shadow: 0 0 0 3px rgb(143 44 244 / 0.15);
+	}
+}
+
+textarea.field__input {
+	min-height: 7rem;
+	resize: vertical;
+}
+
+/* Checkbox pills ("What do you need help with?") */
+.choice-group {
+	border: 0;
+	margin: 0;
+	padding: 0;
+
+	& legend {
+		margin-block-end: 0.45rem;
+		padding: 0;
+	}
+}
+
+.choice-group__options {
+	display: flex;
+	flex-wrap: wrap;
+	gap: var(--space-xs);
+}
+
+.choice {
+	position: relative;
+
+	& input {
+		position: absolute;
+		opacity: 0;
+		inset: 0;
+		margin: 0;
+		cursor: pointer;
+	}
+
+	& span {
+		display: inline-flex;
+		padding: 0.45rem 0.95rem;
+		border: 1px solid #d9d3de;
+		border-radius: var(--radius-pill);
+		background: var(--color-paper);
+		color: var(--color-ink);
+		font-size: var(--text-sm);
+		transition: background-color var(--transition), color var(--transition), border-color var(--transition);
+	}
+
+	& input:checked + span {
+		border-color: var(--color-btn-top);
+		background: var(--gradient-button);
+		color: var(--color-on-dark);
+	}
+
+	& input:focus-visible + span {
+		outline: 2px solid var(--color-accent);
+		outline-offset: 2px;
+	}
+}
+
+.form-note {
+	color: var(--color-muted);
+	font-size: var(--text-sm);
+	text-align: center;
+}
+
+/* ---------- Required / optional markers ---------- */
+.field__req {
+	color: var(--color-danger);
+}
+
+.field__optional {
+	color: var(--color-muted);
+	font-size: var(--text-xs);
+}
+
+/* ---------- Validation errors ---------- */
+.field.has-error .field__input,
+.field.has-error .phone-field {
+	border-color: var(--color-danger);
+	background-color: var(--color-danger-soft);
+}
+
+.field.has-error .phone-field .field__input {
+	background: transparent;
+}
+
+.field.has-error .field__input:focus {
+	box-shadow: 0 0 0 3px rgb(196 45 79 / 0.15);
+}
+
+.field__error {
+	color: var(--color-danger);
+	font-size: var(--text-sm);
+	line-height: 1.4;
+}
+
+.form-status {
+	padding: 0.75rem 1rem;
+	border-radius: var(--radius-sm);
+	background: var(--color-danger-soft);
+	color: var(--color-danger);
+	font-size: var(--text-sm);
+}
+
+/* ---------- Phone field: country code dropdown + number ---------- */
+.phone-field {
+	display: flex;
+	border: 1px solid #d9d3de;
+	border-radius: var(--radius-sm);
+	background: #fbfafc;
+	transition: border-color var(--transition), box-shadow var(--transition);
+
+	&:focus-within {
+		border-color: var(--color-accent);
+		box-shadow: 0 0 0 3px rgb(143 44 244 / 0.15);
+	}
+
+	& .phone-field__input {
+		border: 0;
+		border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+		background: transparent;
+		min-width: 0;
+
+		&:focus {
+			box-shadow: none;
+		}
+	}
+}
+
+.phone-field__code {
+	font-variant-numeric: tabular-nums;
+}
+
+.phone-field__country {
+	position: relative;
+	display: flex;
+	align-items: center;
+	gap: 0.35rem;
+	padding-inline: 0.85rem 0.7rem;
+	border-inline-end: 1px solid #e3dde7;
+	color: var(--color-ink);
+	font-size: var(--text-base);
+	white-space: nowrap;
+	flex: none;
+
+	& svg {
+		width: 0.8rem;
+		color: var(--color-muted);
+	}
+
+	&:hover {
+		background: var(--color-cream);
+		border-radius: var(--radius-sm) 0 0 var(--radius-sm);
+	}
+}
+
+/* The real select sits invisibly on top, so the native picker (and keyboard) still work */
+.phone-field__select {
+	position: absolute;
+	inset: 0;
+	width: 100%;
+	opacity: 0;
+	cursor: pointer;
+}
+
+.phone-field__country:has(.phone-field__select:focus-visible) {
+	outline: 2px solid var(--color-accent);
+	outline-offset: -2px;
+	border-radius: var(--radius-sm) 0 0 var(--radius-sm);
+}
+
+/* ---------- Submit button while sending ---------- */
+.button.is-loading {
+	pointer-events: none;
+	opacity: 0.9;
+
+	& svg {
+		display: none;
+	}
+
+	&::after {
+		content: "";
+		width: 1rem;
+		height: 1rem;
+		border: 2px solid rgb(255 255 255 / 0.35);
+		border-top-color: var(--color-on-dark);
+		border-radius: 50%;
+		animation: button-spin 800ms linear infinite;
+	}
+}
+
+@keyframes button-spin {
+	to { transform: rotate(360deg); }
+}
+
+/* =========================================================
+   Conversion forms (contact, proposal, free review)
+   Same fields everywhere; this layer makes the card feel premium and trustworthy.
+   ========================================================= */
+.contact-form,
+.form-card {
+	position: relative;
+	border: 1px solid var(--color-lavender-line);
+	box-shadow: 0 1px 2px rgb(34 16 47 / 0.04), 0 24px 50px -28px rgb(61 18 87 / 0.35), 0 50px 90px -40px rgb(143 44 244 / 0.28);
+
+	/* Typography: heading font for labels and button, calm body font in the fields */
+	& .field__label {
+		color: var(--color-ink);
+		font-family: var(--font-heading);
+		font-size: 0.875rem;
+		font-weight: var(--weight-semibold);
+		letter-spacing: -0.005em;
+	}
+
+	& .field__optional {
+		font-family: var(--font-body);
+		font-weight: var(--weight-regular);
+		letter-spacing: 0;
+	}
+
+	& .field__input,
+	& .phone-field__code {
+		font-size: 0.97rem;
+		color: var(--color-ink);
+	}
+
+	& .field__input::placeholder {
+		color: #b3abbc;
+	}
+
+	& .field__error {
+		font-size: 0.8125rem;
+	}
+
+	& .choice span {
+		font-size: 0.875rem;
+		font-weight: var(--weight-medium);
+		color: var(--color-ink);
+	}
+
+	& [type="submit"] {
+		font-family: var(--font-heading);
+		font-size: 1.0625rem;
+		font-weight: var(--weight-semibold);
+		letter-spacing: -0.01em;
+	}
+
+	& .form-note {
+		font-size: 0.8125rem;
+	}
+
+	& .field__input {
+		min-height: 3.25rem;
+		border: 1.5px solid #e4dde9;
+		background-color: var(--color-paper);
+		transition: border-color var(--transition), box-shadow var(--transition), background-color var(--transition);
+
+		&:hover {
+			border-color: #cfc3d8;
+		}
+
+		&:focus {
+			border-color: var(--color-accent);
+			box-shadow: 0 0 0 4px rgb(143 44 244 / 0.14);
+		}
+	}
+
+	& .phone-field {
+		border: 1.5px solid #e4dde9;
+		background: var(--color-paper);
+
+		&:hover {
+			border-color: #cfc3d8;
+		}
+
+		&:focus-within {
+			border-color: var(--color-accent);
+			box-shadow: 0 0 0 4px rgb(143 44 244 / 0.14);
+		}
+
+		& .field__input {
+			border: 0;
+			min-height: calc(3.25rem - 3px);
+			box-shadow: none;
+		}
+	}
+
+	& .field.has-error .field__input,
+	& .field.has-error .phone-field {
+		border-color: var(--color-danger);
+		background-color: var(--color-danger-soft);
+	}
+
+	/* "What do you need help with?" pills */
+	& .choice span {
+		gap: 0.35rem;
+		padding: 0.5rem 1rem;
+		border: 1.5px solid #e4dde9;
+		transition: border-color var(--transition), background-color var(--transition), color var(--transition);
+	}
+
+	& .choice:hover span {
+		border-color: #cdb4f3;
+		background: var(--color-lavender-faint);
+	}
+
+	& .choice input:checked + span::before {
+		content: "✓";
+		font-size: 0.8em;
+	}
+
+	/* Submit: richer gradient with a light sweep on hover */
+	& [type="submit"] {
+		position: relative;
+		overflow: hidden;
+		min-height: 3.5rem;
+		background: linear-gradient(135deg, #5a1f8a 0%, var(--color-btn-top) 45%, var(--color-btn-bottom) 100%);
+		box-shadow: 0 18px 36px -14px rgb(74 26 114 / 0.65);
+
+		&::before {
+			content: "";
+			position: absolute;
+			inset: 0 auto 0 -60%;
+			width: 50%;
+			background: linear-gradient(100deg, transparent, rgb(255 255 255 / 0.22), transparent);
+			transform: skewX(-20deg);
+			transition: inset-inline-start 600ms ease;
+		}
+
+		&:hover::before {
+			inset-inline-start: 120%;
+		}
+	}
+}
+
+/* Form header: title + reply-time badge */
+.form-head {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-start;
+	justify-content: space-between;
+	gap: var(--space-sm) var(--space-md);
+	padding-block-end: var(--space-md);
+	border-block-end: 1px solid var(--color-line);
+}
+
+.form-head__title {
+	color: var(--color-ink);
+	font-family: var(--font-heading);
+	font-size: clamp(1.375rem, 1.2rem + 0.6vw, 1.625rem);
+	font-weight: var(--weight-bold);
+	letter-spacing: -0.03em;
+	line-height: 1.15;
+}
+
+.form-head__sub {
+	margin-block-start: 0.35rem;
+	color: var(--color-muted);
+	font-size: 0.9375rem;
+}
+
+/* Reassurance row under the submit button */
+.form-trust {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 0.4rem 1.1rem;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	color: var(--color-muted);
+	font-size: 0.8125rem;
+
+	& li {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.35rem;
+	}
+
+	& svg {
+		width: 0.9rem;
+		color: var(--color-success);
+	}
+}
+
+
+/* Tinted form variant (Content Marketing page, compared against the white forms).
+   A soft lavender card with white fields, so the inputs still stand out. */
+.form-card.form-card--tinted {
+	border-color: #e2d4f2;
+	background: var(--color-lavender-soft);
+
+	& .form-head {
+		border-color: #dccbef;
+	}
+
+	& .form-head__sub,
+	& .form-trust {
+		color: var(--color-text);
+	}
+
+	& .field__input,
+	& .phone-field {
+		border-color: #dccdec;
+		background-color: var(--color-paper);
+	}
+
+	& .field__input:hover {
+		border-color: #c7b2e2;
+	}
+}
+
+/* Dropdown field ("What do you need help with?") */
+.field__select {
+	appearance: none;
+	padding-inline-end: 2.75rem;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%237d7489' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+	background-repeat: no-repeat;
+	background-position: right 1rem center;
+	background-size: 1rem;
+	cursor: pointer;
+
+	/* placeholder option shows in the muted placeholder colour */
+	&:has(option[value=""]:checked) {
+		color: #b3abbc;
+	}
+
+	& option {
+		color: var(--color-ink);
+	}
+}
+
+/* Compact forms (hero proposal forms and the Contact page form): no visible labels,
+   placeholders carry the meaning, short fields in pairs, tighter spacing. */
+.form-compact {
+	gap: 0.7rem;
+
+	& .form-head {
+		margin-block-end: 0.3rem;
+		padding-block-end: 0.85rem;
+	}
+
+	& .form-head__title {
+		font-size: clamp(1.25rem, 1.1rem + 0.5vw, 1.45rem);
+	}
+
+	& .form-head__sub {
+		margin-block-start: 0.2rem;
+		font-size: 0.875rem;
+	}
+
+	& .field {
+		gap: 0.3rem;
+	}
+
+	& .field__input {
+		min-height: 2.75rem;
+		padding: 0.6rem 0.9rem;
+		font-size: 0.9375rem;
+	}
+
+	& textarea.field__input {
+		min-height: 5.5rem;
+	}
+
+	& .contact-form__row {
+		gap: 0.7rem;
+	}
+
+	& .button {
+		margin-block-start: 0.2rem;
+	}
+
+	& .form-trust {
+		gap: 0.3rem 0.9rem;
+		font-size: 0.75rem;
+	}
+}
+
+.form-row {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr));
+	gap: 0.7rem;
+}
+
+.form-card.form-compact {
+	padding: 1.4rem 1.25rem;
+}
+
+.contact-form.form-compact {
+	padding: 1.5rem 1.25rem;
+}
+
+@media (min-width: 40rem) {
+	.form-card.form-compact {
+		padding: 1.6rem 1.5rem;
+	}
+
+	.contact-form.form-compact {
+		padding: 1.9rem;
+	}
+}
+
+/* Accent button: the same violet-to-pink gradient as the italic headings, with a gentle shift on hover */
+.button--accent {
+	border: 0;
+	background: var(--gradient-accent);
+	background-size: 200% 100%;
+	background-position: 0% 50%;
+	color: var(--color-on-dark);
+	box-shadow: 0 10px 24px -14px rgb(143 44 244 / 0.7);
+	transition: background-position 400ms ease, box-shadow var(--transition), transform var(--transition);
+
+	&:hover,
+	&:focus-visible {
+		background-position: 100% 50%;
+		color: var(--color-on-dark);
+		box-shadow: 0 14px 30px -14px rgb(196 58 166 / 0.75);
+		transform: translateY(-1px);
+	}
+}
+
+/* Smaller button */
+.button--sm {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.45rem;
+	min-height: 0;
+	padding: 0.65rem 1.3rem;
+	font-size: 0.975rem;
+	line-height: 1;
+
+	& svg {
+		width: 0.95rem;
+		height: 0.95rem;
+	}
+}

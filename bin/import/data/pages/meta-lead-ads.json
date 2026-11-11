@@ -1,0 +1,284 @@
+{
+ "title": "Facebook Lead Ads Setup",
+ "path": "/services/digital-marketing/performance-marketing/facebook-ads/lead-ads/",
+ "seo": {
+  "title": "Facebook Lead Ads Setup | Meta Lead Ads and CRM Integration | Intella Digital",
+  "description": "Meta lead ads set up properly: forms that qualify, a direct connection to HubSpot, Salesforce or your CRM, instant follow-up and lead quality sent back to Meta."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "Meta Ads",
+      "url": "/services/digital-marketing/performance-marketing/facebook-ads/"
+     },
+     {
+      "label": "Meta Lead Ads Setup",
+      "url": ""
+     }
+    ],
+    "title": "Facebook lead ads that <em>bring leads you can reach</em>",
+    "lead": "Lead forms that ask the right questions, send leads to your CRM in seconds and tell Meta which leads became customers.",
+    "buttonText": "Get my lead ads set up",
+    "formLabel": "Get my lead ads set up",
+    "service": "meta-lead-ads",
+    "notes": [
+     "Leads in your CRM in seconds",
+     "Qualifying questions",
+     "Lead quality sent back to Meta"
+    ],
+    "sliderLabel": "",
+    "fixLabel": "How we fix it",
+    "slides": [],
+    "tools": "",
+    "visual": "<figure class=\"pmrep \" role=\"img\" aria-label=\"Lead ads check: sample report\">\n\t<div class=\"pmrep__head\"><b>Lead ads check</b><span>After our setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Form type</span><span class=\"pmrep__s\">Higher intent</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Qualifying question</span><span class=\"pmrep__s\">Budget</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Sent to HubSpot</span><span class=\"pmrep__s\">Instantly</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Follow-up email</span><span class=\"pmrep__s\">Within 1 minute</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Lead quality to Meta</span><span class=\"pmrep__s\">Daily</span></li></ul>\n\t<p class=\"pmrep__foot\">Leads you can actually reach</p>\n</figure>",
+    "look": "cmhero cmhero--pm cmhero--job"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/signs",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Signs your lead ads <em>need work</em>",
+    "lead": "Cheap leads aren’t a bargain if nobody answers.",
+    "items": [
+     "Leads download as a CSV once a week",
+     "Lots of fake names and numbers",
+     "Sales can’t reach most leads",
+     "No idea which leads became customers",
+     "No instant follow-up",
+     "Forms ask nothing useful"
+    ],
+    "icon": "sparkle",
+    "asideTitle": "Speed and quality win",
+    "asideText": "Leads contacted within five minutes are far more likely to convert than leads called the next day.",
+    "buttonText": "Get this fixed",
+    "buttonUrl": "#proposal",
+    "photo": 0,
+    "photoAlt": "",
+    "bubble": "",
+    "shortPhoto": false
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Meta Lead Ads Setup, <em>done properly</em>",
+    "lead": "One fixed-scope project, quoted after a short call. No retainer needed.",
+    "name": "Meta lead ads setup",
+    "price": "Fixed price, quoted after a 30-minute call",
+    "items": [
+     "Higher-intent forms with a review step",
+     "Qualifying and custom questions",
+     "Privacy policy and form settings",
+     "CRM connection (HubSpot, Salesforce, Zoho, others)",
+     "Instant email or SMS follow-up",
+     "Lead stages sent back to Meta",
+     "A test with the lead ads testing tool"
+    ],
+    "delivery": "Usually done in 1 week",
+    "buttonText": "Request a quote",
+    "buttonUrl": "#proposal",
+    "visual": "<figure class=\"pmrep pmrep--side\" role=\"img\" aria-label=\"What you receive: sample report\">\n\t<div class=\"pmrep__head\"><b>What you receive</b><span>Setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Forms</span><span class=\"pmrep__s\">2</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">CRM sync</span><span class=\"pmrep__s\">Live</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Follow-up</span><span class=\"pmrep__s\">Automatic</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Tested</span><span class=\"pmrep__s\">Yes</span></li></ul>\n\t<p class=\"pmrep__foot\">Leads where sales can see them</p>\n</figure>"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we set it up",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-229\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-229\">How we <span class=\"accent\">set it up</span></h2>\n\t\t\t\t<p class=\"section-lead\">Ready in about a week.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"cmsteps\" role=\"list\"><li class=\"cmstep cmstep--1\">\n\t\t\t\t\t<p class=\"cmstep__when\">Day 1</p>\n\t\t\t\t\t<p class=\"cmstep__n\">1</p>\n\t\t\t\t\t<h3>Audit</h3>\n\t\t\t\t\t<p>Current forms, leads and follow-up.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--2\">\n\t\t\t\t\t<p class=\"cmstep__when\">Day 2</p>\n\t\t\t\t\t<p class=\"cmstep__n\">2</p>\n\t\t\t\t\t<h3>Design</h3>\n\t\t\t\t\t<p>Questions, form type and offer.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--3\">\n\t\t\t\t\t<p class=\"cmstep__when\">Days 3–4</p>\n\t\t\t\t\t<p class=\"cmstep__n\">3</p>\n\t\t\t\t\t<h3>Connect</h3>\n\t\t\t\t\t<p>CRM sync and follow-up.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--4\">\n\t\t\t\t\t<p class=\"cmstep__when\">Day 5</p>\n\t\t\t\t\t<p class=\"cmstep__n\">4</p>\n\t\t\t\t\t<h3>Test</h3>\n\t\t\t\t\t<p>Test leads checked end to end.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--5\">\n\t\t\t\t\t<p class=\"cmstep__when\">Day 6</p>\n\t\t\t\t\t<p class=\"cmstep__n\">5</p>\n\t\t\t\t\t<h3>Launch</h3>\n\t\t\t\t\t<p>Live, with lead quality reporting.</p>\n\t\t\t\t</li></ol>\n\t\t</div>\n\t</section>",
+    "css": "meta-lead-ads",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Why lead ads <em>bring poor leads</em>",
+    "lead": "What we fix most often.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "",
+      "problem": "Pre-filled forms with one tap make it too easy.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "Higher-intent forms with a review step.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "No questions, so no way to qualify.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "One or two questions that matter to sales.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Leads sit in Meta for days.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "An instant CRM sync and alerts.",
+      "afterTitle": "",
+      "after": []
+     },
+     {
+      "title": "",
+      "problem": "Meta optimises for any lead.",
+      "beforeTitle": "",
+      "before": [],
+      "fix": "CRM stages sent back, so Meta finds better leads.",
+      "afterTitle": "",
+      "after": []
+     }
+    ],
+    "visual": "",
+    "alt": true
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your setup summary",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-231\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-231\">Your <span class=\"accent\">setup summary</span></h2>\n\t\t\t\t<p class=\"section-lead\">How the forms, sync and follow-up work.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"chaps\" role=\"list\"><li class=\"chap\"><span class=\"chap__num\">01</span><h3 class=\"chap__title\">Forms</h3><p>Questions and settings.</p><span class=\"chap__pages\">1 page</span></li><li class=\"chap\"><span class=\"chap__num\">02</span><h3 class=\"chap__title\">Integration</h3><p>How leads reach your CRM.</p><span class=\"chap__pages\">1 page</span></li><li class=\"chap\"><span class=\"chap__num\">03</span><h3 class=\"chap__title\">Lead quality</h3><p>How stages are sent back to Meta.</p><span class=\"chap__pages\">1 page</span></li></ol>\n\t\t</div>\n\t</section>",
+    "css": "meta-lead-ads",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Alex Barsuk",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ]
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Meta Lead Ads Setup questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "How do I send Facebook leads to my CRM?",
+      "answer": "Connect the form to your CRM through Meta’s integrations, a native connector (HubSpot, Salesforce) or a tool like Zapier. Leads then arrive in seconds."
+     },
+     {
+      "question": "How do I improve Facebook lead quality?",
+      "answer": "Use higher-intent forms, add qualifying questions and send lead outcomes from your CRM back to Meta so it learns which leads are good."
+     },
+     {
+      "question": "What is the lead ads testing tool?",
+      "answer": "A Meta tool that creates a test lead, so you can check it reaches your CRM before going live."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Get leads <em>your sales team can reach</em>",
+    "lead": "Tell us your CRM and what a good lead looks like. We’ll quote the setup.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "Which CRM do you use, and what makes a lead good?",
+    "service": "meta-lead-ads",
+    "buttonText": "Request a quote",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Related <em>services</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "heart",
+      "title": "Meta Ads",
+      "url": "/services/digital-marketing/performance-marketing/facebook-ads/",
+      "text": "Facebook and Instagram campaigns."
+     },
+     {
+      "icon": "check",
+      "title": "Meta Pixel and Conversions API",
+      "url": "/services/digital-marketing/performance-marketing/facebook-ads/conversions-api/",
+      "text": "Pixel and CAPI, deduplicated and tested."
+     },
+     {
+      "icon": "swap",
+      "title": "CRM Setup",
+      "url": "/services/digital-marketing/crm-setup/",
+      "text": "A CRM your sales team will actually use."
+     }
+    ]
+   }
+  }
+ ]
+}

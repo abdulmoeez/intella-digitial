@@ -1,0 +1,49 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/industry-tags",
+	"title": "Industries (tags)",
+	"category": "intella",
+	"icon": "tag",
+	"description": "Heading and a list of industries as tags.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading"
+			},
+			{
+				"key": "lead",
+				"type": "inline",
+				"label": "Intro"
+			},
+			{
+				"key": "items",
+				"type": "repeater",
+				"label": "Industries",
+				"itemName": "industry",
+				"itemLabel": "name",
+				"fields": [
+					{
+						"key": "name",
+						"type": "text",
+						"label": "Name"
+					},
+					{
+						"key": "filled",
+						"type": "toggle",
+						"label": "Highlighted"
+					}
+				],
+				"default": []
+			}
+		],
+		"section": "white"
+	}
+}

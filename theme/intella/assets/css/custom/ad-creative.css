@@ -1,0 +1,85 @@
+/* custom/ad-creative: styles for this page's custom (one-off) sections, split from the prototype CSS by bin/import/css_split.py. */
+
+.chaps {
+	display: grid;
+	gap: var(--space-md);
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.chap {
+	position: relative;
+	display: grid;
+	gap: 0.5rem;
+	align-content: start;
+	padding: var(--space-lg);
+	border: 1px solid var(--color-line);
+	border-radius: var(--radius-lg);
+	background: var(--color-paper);
+	overflow: hidden;
+
+	& p {
+		line-height: 1.55;
+	}
+
+	&::after {
+		content: "";
+		position: absolute;
+		inset: 0 0 auto;
+		height: 3px;
+		background: var(--gradient-accent);
+		opacity: 0;
+		transition: opacity var(--transition);
+	}
+
+	&:hover::after {
+		opacity: 1;
+	}
+}
+.section--cream .chap {
+	border-color: var(--color-cream-deep);
+}
+.chap__num {
+	font-family: var(--font-accent);
+	font-size: 2rem;
+	font-style: italic;
+	font-weight: var(--weight-bold);
+	line-height: 1;
+	background: var(--gradient-accent);
+	-webkit-background-clip: text;
+	background-clip: text;
+	color: transparent;
+	justify-self: start;
+	padding-inline-end: 0.1em;
+}
+.chap__title {
+	font-size: var(--text-lg);
+	letter-spacing: -0.01em;
+}
+.chap__pages {
+	color: var(--color-muted);
+	font-size: var(--text-xs);
+	font-weight: var(--weight-semibold);
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+}
+@media (min-width: 40rem) {
+	.chaps {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+@media (min-width: 64rem) {
+	.chaps {
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
+.cmsteps { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr)); gap: var(--space-sm); margin: var(--space-2xl) 0 0; padding: 0; list-style: none; counter-reset: none; }
+.cmstep { --c: #2563eb; --bg: #eaf1fd; display: grid; align-content: start; gap: 6px; padding: var(--space-lg) var(--space-md); border-radius: var(--radius-lg); background: var(--color-paper); border: 1px solid var(--color-cream-deep); }
+.cmstep--2 { --c: #0d8a7e; --bg: #e7f6f3; }
+.cmstep--3 { --c: #c26a06; --bg: #fdf3e3; }
+.cmstep--4 { --c: #d0367a; --bg: #fdeef5; }
+.cmstep--5 { --c: #15803d; --bg: #e9f7ee; }
+.cmstep__when { justify-self: start; padding: 1px 8px; border-radius: 999px; background: var(--bg); color: var(--c); font-size: 11px; font-weight: 600; }
+.cmstep__n { color: var(--c); font-family: var(--font-heading); font-size: 1.6rem; font-weight: 700; line-height: 1; }
+.cmstep h3 { color: var(--color-ink); font-size: var(--text-base); }
+.cmstep p:last-child { color: var(--color-text); font-size: var(--text-sm); line-height: 1.55; }

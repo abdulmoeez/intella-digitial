@@ -1,0 +1,77 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/not-found",
+	"title": "Page not found",
+	"category": "intella",
+	"icon": "warning",
+	"description": "The 404 message with a search of every page.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"viewScriptModule": "@intella/page-search",
+	"intella": {
+		"fields": [
+			{
+				"key": "title",
+				"type": "inline",
+				"label": "Heading (H1)"
+			},
+			{
+				"key": "lead",
+				"type": "textarea",
+				"label": "Intro"
+			},
+			{
+				"key": "placeholder",
+				"type": "text",
+				"label": "Search box hint"
+			},
+			{
+				"key": "sitemap",
+				"type": "inline",
+				"label": "Sitemap line",
+				"help": "May contain a link: Or <a href=\"/sitemap/\">browse every page</a>."
+			},
+			{
+				"key": "buttons",
+				"type": "repeater",
+				"label": "Buttons",
+				"itemName": "button",
+				"itemLabel": "text",
+				"max": 3,
+				"fields": [
+					{
+						"key": "text",
+						"type": "text",
+						"label": "Text"
+					},
+					{
+						"key": "url",
+						"type": "url",
+						"label": "Link"
+					},
+					{
+						"key": "style",
+						"type": "select",
+						"label": "Style",
+						"options": [
+							{
+								"label": "Filled (with arrow)",
+								"value": "primary"
+							},
+							{
+								"label": "Outline",
+								"value": "outline"
+							}
+						],
+						"default": "primary"
+					}
+				],
+				"default": []
+			}
+		]
+	}
+}

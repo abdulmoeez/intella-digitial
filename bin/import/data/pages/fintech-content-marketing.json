@@ -1,0 +1,422 @@
+{
+ "title": "Fintech Content Marketing Agency",
+ "path": "/services/digital-marketing/content-marketing/fintech/",
+ "seo": {
+  "title": "Fintech Content Marketing Agency | Financial Services Content Marketing | Intella Digital",
+  "description": "Fintech and financial services content marketing: accurate, compliance-ready content written by finance specialists, from explainers to research reports."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Services",
+      "url": "/services/"
+     },
+     {
+      "label": "Content Marketing",
+      "url": "/services/digital-marketing/content-marketing/"
+     },
+     {
+      "label": "Fintech Content Marketing",
+      "url": ""
+     }
+    ],
+    "title": "Fintech content marketing <em>your compliance team will approve</em>",
+    "lead": "Content marketing for fintech and financial services brands. Specialist writers, a source for every claim and a review process built for compliance, so accurate content gets published faster.",
+    "buttonText": "Get a fintech content plan",
+    "formLabel": "Get a fintech content plan",
+    "service": "fintech-content-marketing",
+    "notes": [
+     "Finance specialist writers",
+     "A source for every claim",
+     "Built for compliance review"
+    ],
+    "sliderLabel": "Common fintech content challenges",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "A young brand asking for people’s money",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">What visitors ask before they sign up</p>\n\t\t\t\t<ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Is my money safe here?</span><b>Not on the site</b></li><li class=\"ok\"><span>Who regulates you?</span><b>Answered</b></li><li class=\"no\"><span>What does it really cost?</span><b>Not on the site</b></li><li class=\"no\"><span>Do people like me use it?</span><b>Not on the site</b></li></ul>\n\t\t\t\t<p class=\"cmhc__note\"><b>3 of 4</b> questions have no answer on the site</p></div>",
+      "photo": "media:assets/images/people-cut/suit.webp",
+      "fix": "Plain fee pages, safety explainers and customer stories with numbers.",
+      "look": "trust"
+     },
+     {
+      "kicker": "",
+      "title": "Content stuck in compliance for months",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Articles published this year</p>\n\t\t\t\t<ol class=\"cmhc__cal\" role=\"list\"><li class=\"\"><span>J</span></li><li class=\"on\"><span>F</span></li><li class=\"\"><span>M</span></li><li class=\"\"><span>A</span></li><li class=\"\"><span>M</span></li><li class=\"on\"><span>J</span></li><li class=\"\"><span>J</span></li><li class=\"\"><span>A</span></li><li class=\"on\"><span>S</span></li><li class=\"\"><span>O</span></li><li class=\"\"><span>N</span></li><li class=\"on\"><span>D</span></li></ol>\n\t\t\t\t<p class=\"cmhc__h\">Where the 90 days go, per article</p>\n\t\t\t\t<ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:6%\"><span>Writer</span><b>4 days</b></li><li style=\"--w:9%\"><span>Subject expert</span><b>6 days</b></li><li style=\"--w:100%\"><span>Compliance</span><b>58 days</b></li><li style=\"--w:38%\"><span>Legal</span><b>22 days</b></li></ul></div>",
+      "photo": 0,
+      "fix": "Claims agreed up front and a source log on every draft, so approval takes days.",
+      "look": "review"
+     },
+     {
+      "kicker": "",
+      "title": "Comparison sites own every money search",
+      "card": "<div class=\"cmhc__card cmhc__card--serp\"><p class=\"cmhc__q\">best savings account for small business</p>\n\t\t\t\t<ol class=\"cmhc__res\" role=\"list\"><li><b>Comparison site</b> 15 best business savings accounts</li><li><b>Big bank</b> Business savings, rates and options</li><li><b>Money news site</b> Top business savings rates this week</li><li class=\"you\"><span>#22</span><b>Your app</b> Why we built a savings account for small firms</li></ol></div>",
+      "photo": 0,
+      "fix": "Original data, calculators and same-day commentary nobody else can publish.",
+      "look": "copy"
+     },
+     {
+      "kicker": "",
+      "title": "Readers who never apply",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Last month, from the blog</p>\n\t\t\t\t<ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:100%\"><span>Read a guide</span><b>12,400</b></li><li style=\"--w:42%\"><span>Used a calculator</span><b>1,860</b></li><li style=\"--w:18%\"><span>Started an application</span><b>310</b></li><li style=\"--w:7%\"><span>Opened an account</span><b>92</b></li></ul>\n\t\t\t\t<p class=\"cmhc__note\">Most readers leave without a next step</p></div>",
+      "photo": "media:assets/images/people-cut/phone-c.webp",
+      "fix": "Content for every stage, from the first question to the application and beyond.",
+      "look": "apply"
+     }
+    ],
+    "tools": "",
+    "visual": "",
+    "look": "cmhero cmhero--fin"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Financial content has no room for error",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-47\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-47\">Financial content has <span class=\"accent\">no room for error</span></h2>\n\t\t\t\t<p class=\"section-lead\">Money decisions are high stakes, for your readers and for your regulator. Pick a challenge to see how we handle it.</p>\n\t\t\t</div>\n\t\t\t<div class=\"wpvt cmvt\" data-tabs>\n\t\t\t\t<div class=\"wpvt__list\" role=\"tablist\" aria-label=\"Fintech content challenges\" aria-orientation=\"vertical\"><button class=\"wpvt__tab cmvt__tab cmvt__tab--1\" type=\"button\" role=\"tab\" id=\"bh-46-t-trust\" aria-controls=\"bh-46-trust\" aria-selected=\"true\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">01</i>A young brand asking for people’s money</b><span>Banks have had a century to earn trust. A newer fintech has to earn it on the page, quickly.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--2\" type=\"button\" role=\"tab\" id=\"bh-46-t-review\" aria-controls=\"bh-46-review\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">02</i>Compliance slows everything down</b><span>Drafts bounce between marketing, compliance and legal for weeks, and timely ideas go stale.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--3\" type=\"button\" role=\"tab\" id=\"bh-46-t-serp\" aria-controls=\"bh-46-serp\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">03</i>Comparison sites own the searches</b><span>Big comparison sites and banks take the top results for almost every money question.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--4\" type=\"button\" role=\"tab\" id=\"bh-46-t-complex\" aria-controls=\"bh-46-complex\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">04</i>Products that are hard to explain</b><span>Fees, rates, eligibility and risk are hard to explain without jargon, or without leaving out what matters.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--5\" type=\"button\" role=\"tab\" id=\"bh-46-t-change\" aria-controls=\"bh-46-change\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">05</i>Rates and rules keep changing</b><span>One rate change or new rule can make dozens of pages wrong overnight, and wrong financial content is a risk.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--6\" type=\"button\" role=\"tab\" id=\"bh-46-t-ai\" aria-controls=\"bh-46-ai\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">06</i>AI tools now answer money questions</b><span>More people ask AI tools about money. They quote sources they trust, and skip the rest.</span>\n\t\t\t\t\t</button><button class=\"wpvt__tab cmvt__tab cmvt__tab--7\" type=\"button\" role=\"tab\" id=\"bh-46-t-leads\" aria-controls=\"bh-46-leads\" aria-selected=\"false\">\n\t\t\t\t\t\t<b><i aria-hidden=\"true\">07</i>Readers who never apply</b><span>Explainers bring in traffic, but readers leave without opening an account or booking a demo.</span>\n\t\t\t\t\t</button></div>\n\t\t\t\t<div class=\"wpvt__panels\"><div class=\"wpvt__panel cmvt__panel cmvt__panel--1\" role=\"tabpanel\" id=\"bh-46-trust\" aria-labelledby=\"bh-46-t-trust\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Banks have had a century to earn trust. A newer fintech has to earn it on the page, quickly.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Earn trust with clarity, expertise and proof on every page.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>People are careful with money, and more careful with a name they don’t know. Every page has to answer the quiet question: can I trust these people with my money?</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Expert authors with their experience shown on every piece</li><li>Clear pages on regulation and how money is protected</li><li>Fee pages with worked examples</li><li>Customer stories with real numbers, approved by compliance</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Trust is the product in financial services. Content is where people decide whether to give it.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--trust\"><p class=\"cmv__t\">What a careful customer checks first</p><ul class=\"cmv__kit\" role=\"list\"><li class=\"on\">Regulated, with details shown</li><li class=\"on\">How my money is protected</li><li class=\"on\">Every fee in plain words</li><li class=\"on\">Real people behind it</li><li class=\"\">Reviews from people like me</li></ul><p class=\"cmv__foot\">Four of five answered on the page</p></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Named expert authors</b><p>Bylines from your finance experts, with their experience shown.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Safety explained</b><p>How money is protected and how you’re regulated, in plain words.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Fee pages in plain words</b><p>Every fee, with worked examples, and no small print surprises.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Customer proof</b><p>Stories, reviews and numbers, approved for publication.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Trust pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Expert bylines</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Customer stories</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--2\" role=\"tabpanel\" id=\"bh-46-review\" aria-labelledby=\"bh-46-t-review\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Drafts bounce between marketing, compliance and legal for weeks, and timely ideas go stale.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Build content for review from the first brief, so sign-off takes days.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>Most financial content isn’t slow because of writing. It’s slow because of review. So we design the process around your compliance team from day one.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>We agree a claims library and the required warnings before any writing starts</li><li>Every draft comes with a source log</li><li>Reviewers get clean copy with tracked changes</li><li>Time-sensitive pieces follow a fast-track route agreed in advance</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>When approvals take days, you can publish when it matters, not three months later.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--fun\"><p class=\"cmv__t\">Average time to approve one article</p><ul class=\"cmv__fun\" role=\"list\"><li><span>Before</span><i style=\"--w:100%\"></i><b>90 days</b></li><li><span>With us</span><i style=\"--w:9%\"></i><b>8 days</b></li></ul><p class=\"cmv__foot\">Claims agreed up front, a source log with every draft</p></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>A claims library</b><p>What you can and can’t say, agreed with compliance once.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>A source log</b><p>Every figure and claim linked to its source.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Reviewer-ready drafts</b><p>Clean copy, tracked changes and the right warnings in place.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>A fast-track route</b><p>A pre-agreed process for time-sensitive commentary.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A claims library</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Source logs</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Faster approvals</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--3\" role=\"tabpanel\" id=\"bh-46-serp\" aria-labelledby=\"bh-46-t-serp\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Big comparison sites and banks take the top results for almost every money question.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Win the specific questions they answer badly, and show up where buyers compare.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>You won’t outrank a comparison site for “best business account”. But you can own hundreds of specific questions they answer in one line, or not at all.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Research into the exact questions your customers ask</li><li>Detailed explainers for one type of customer at a time</li><li>Accurate listings on the comparison sites buyers use</li><li>Answers structured so AI tools can quote them</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Specific questions bring in readers who are closer to choosing a provider.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--gap\"><p class=\"cmv__t\">Search gap review</p><ul class=\"cmv__gaps\" role=\"list\"><li class=\"h\"><span>Search</span><b>Big sites</b><b>You</b></li><li><span>best business account</span><b>✓</b><b class=\"\">–</b></li><li><span>business account for freelance builders</span><b>–</b><b class=\"is-gap\">Our chance</b></li><li><span>how to get paid faster by clients</span><b>–</b><b class=\"is-gap\">Our chance</b></li><li><span>invoice finance for agencies</span><b>–</b><b class=\"is-gap\">Our chance</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Question research</b><p>The exact questions your customers ask, which big sites answer generically.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Niche explainers</b><p>Detailed answers for one type of customer, such as freelancers or importers.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Comparison site listings</b><p>Your product listed and described accurately where people compare.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Answers AI can quote</b><p>Clear, sourced answers that AI tools pick up and cite.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A search gap map</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Niche explainers</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Comparison listings</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--4\" role=\"tabpanel\" id=\"bh-46-complex\" aria-labelledby=\"bh-46-t-complex\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Fees, rates, eligibility and risk are hard to explain without jargon, or without leaving out what matters.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Make the product easy to understand, without making it vague.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>Financial products are complicated, and rules often say what you must include. The job is to make it clear without leaving anything out.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Worked examples with real numbers in every product explainer</li><li>A glossary that every page links to</li><li>Simple diagrams of how money moves</li><li>A reading age check on every piece</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>When people understand a product, they’re more likely to apply, and less likely to complain later.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--complex\"><p class=\"cmv__t\">Invoice finance, with real numbers</p><div class=\"cmv__flow\"><span>$10,000 invoice</span><i>→</i><span>$8,500 today</span><i>→</i><span>$1,250 when paid</span></div>\n\t\t\t<dl class=\"cmv__gl\"><div><dt>Our fee</dt><dd>$250, or 2.5% of the invoice.</dd></div><div><dt>Advance</dt><dd>The part of the invoice we pay you straight away.</dd></div></dl></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Worked examples</b><p>Real numbers that show what a customer pays and gets.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Plain-words glossary</b><p>Every term explained once, and linked from every page.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Diagrams and flows</b><p>How money moves, shown in simple pictures.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Reading age checks</b><p>Every piece checked so it reads easily.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Worked examples</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A glossary</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Simple diagrams</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--5\" role=\"tabpanel\" id=\"bh-46-change\" aria-labelledby=\"bh-46-t-change\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>One rate change or new rule can make dozens of pages wrong overnight, and wrong financial content is a risk.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Track every number and rule, and update content the day it changes.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>Rates, fees and rules change all the time. A page with an old rate isn’t just out of date, it can be a compliance problem.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>A register of every rate, fee and rule, and where it appears</li><li>A review date on every piece</li><li>Same-day updates when something changes</li><li>A log of every change, ready for audits</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>Up-to-date content protects you, and keeps the pages that bring in leads working.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--rel\"><p class=\"cmv__deal\"><b>Base rate changed</b><span>Today, 12:00</span></p><p class=\"cmv__t\">Pages that mention it</p><ul class=\"cmv__kit\" role=\"list\"><li class=\"on\">Savings rates page</li><li class=\"on\">Rates explainer</li><li class=\"on\">Five product pages</li><li class=\"on\">Two comparison pages</li><li class=\"\">Newsletter archive note</li></ul><p class=\"cmv__foot\">Four of five updated by 5pm</p></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>A fact register</b><p>Every rate, fee and rule, and the pages that mention it.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Review dates</b><p>Every piece rechecked on a schedule.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Change alerts</b><p>When a number changes, we know which pages to update.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>An update log</b><p>A record of every change, for your compliance team.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A fact register</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Same-day updates</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> An audit trail</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--6\" role=\"tabpanel\" id=\"bh-46-ai\" aria-labelledby=\"bh-46-t-ai\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>More people ask AI tools about money. They quote sources they trust, and skip the rest.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Be the source AI tools quote, with clear, sourced and current answers.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>People now ask AI tools “is this account safe?” or “how does invoice finance work?”. Those tools quote a few trusted sources. You want to be one of them.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>Answers in the first lines of every page</li><li>Original numbers only you can publish</li><li>Named expert authors and clear sources</li><li>Monthly checks of which AI tools quote you</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>AI answers are the new first page of search, and they favour sources that show their expertise.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--ai\"><p class=\"cmv__ask\">Is my money safe in a business account app?</p><div class=\"cmv__ans\"><p class=\"cmv__al\">AI answer</p><i></i><i></i><i class=\"s\"></i><p class=\"cmv__cite\">Sources: <b>yourbrand.com/safety</b> · central bank guidance</p></div></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Answer-first pages</b><p>The answer in the first lines, then the detail.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Original data</b><p>Numbers AI tools can only get from you.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Expert authors and sources</b><p>Clear signs that a real expert stands behind each page.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Citation tracking</b><p>We check which AI tools quote you, and for what.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Answer-first pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Data pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> AI citation reports</li></ul></div>\n\t\t\t\t\t</div><div class=\"wpvt__panel cmvt__panel cmvt__panel--7\" role=\"tabpanel\" id=\"bh-46-leads\" aria-labelledby=\"bh-46-t-leads\" tabindex=\"0\">\n\t\t\t\t\t\t<p class=\"cmvt__prob\"><span>The challenge</span>Explainers bring in traffic, but readers leave without opening an account or booking a demo.</p>\n\t\t\t\t\t\t<p class=\"cmvt__kick\">Our approach</p>\n\t\t\t\t\t\t<h3 class=\"cmvt__h\">Give every piece a next step that fits where the reader is.</h3>\n\t\t\t\t\t\t<div class=\"cmvt__more\">\n\t\t\t\t\t\t\t<div class=\"cmvt__txt\">\n\t\t\t\t\t\t\t\t<p>Explainers are where people learn. But if a reader finishes a great guide and has nowhere to go next, the work stops at traffic.</p>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">In practice</p>\n\t\t\t\t\t\t\t\t<ul class=\"cmvt__bul\" role=\"list\"><li>A calculator or checker linked from every relevant piece</li><li>Application pages that answer “what do I need?”</li><li>Reports and guides worth an email address</li><li>Nurture emails approved by compliance in advance</li></ul>\n\t\t\t\t\t\t\t\t<p class=\"cmvt__sub\">Why it matters</p>\n\t\t\t\t\t\t\t\t<p>The same traffic brings in more applications when every piece has a clear next step.</p>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<figure class=\"cmvt__fig\" aria-hidden=\"true\"><div class=\"cmv cmv--fun\"><p class=\"cmv__t\">From content, last 6 months</p><ul class=\"cmv__fun\" role=\"list\"><li><span>Readers</span><i style=\"--w:100%\"></i><b>52,000</b></li><li><span>Used a tool</span><i style=\"--w:44%\"></i><b>6,100</b></li><li><span>Applied</span><i style=\"--w:24%\"></i><b>1,480</b></li><li><span>Approved</span><i style=\"--w:15%\"></i><b>910</b></li></ul></div></figure>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<p class=\"cmvt__label\">Methods we use</p>\n\t\t\t\t\t\t<ol class=\"cmvt__ms\" role=\"list\"><li class=\"cmvt__m\"><span class=\"cmvt__mn\">1</span><b>Calculators and checkers</b><p>Tools that answer “how much?” and lead to an application.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">2</span><b>Application-ready pages</b><p>Eligibility, documents needed and time to open, on one page.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">3</span><b>Downloads</b><p>Guides, templates and reports, in exchange for an email.</p></li><li class=\"cmvt__m\"><span class=\"cmvt__mn\">4</span><b>Nurture emails</b><p>Approved email sequences for people not ready yet.</p></li></ol>\n\t\t\t\t\t\t<div class=\"cmvt__get\"><p>What you get</p><ul role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Calculators</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Lead magnets</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Nurture emails</li></ul></div>\n\t\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "fintech-content-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Content your compliance team will actually approve",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-48\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-48\">Content your compliance team <span class=\"accent\">will actually approve</span></h2>\n\t\t\t\t<p class=\"section-lead\">Most financial content dies in review. Ours is built for it from the first brief, so approvals take days, not months.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"cmwf\" role=\"list\"><li class=\"cmwf__s cmwf__s--1\"><p class=\"cmwf__k\">Brief</p><h3>Claims agreed up front</h3><p>We agree what we can and can’t say, the required warnings and the approved product facts.</p></li><li class=\"cmwf__s cmwf__s--2\"><p class=\"cmwf__k\">Draft</p><h3>Written by finance specialists</h3><p>Writers with banking, payments, lending or investment experience.</p></li><li class=\"cmwf__s cmwf__s--3\"><p class=\"cmwf__k\">Source log</p><h3>Every claim backed</h3><p>Each figure and claim linked to its source, ready for review.</p></li><li class=\"cmwf__s cmwf__s--4\"><p class=\"cmwf__k\">Review</p><h3>Compliance and legal</h3><p>Your reviewers see a clean draft, the source log and tracked changes.</p></li><li class=\"cmwf__s cmwf__s--5\"><p class=\"cmwf__k\">Publish</p><h3>With a review date</h3><p>Rates, rules and examples rechecked on a schedule, or when they change.</p></li></ol>\n\t\t\t<div class=\"cmkit cmkit--fin\"><p><b>What your compliance team gets</b></p><ul role=\"list\"><li>A source log for every claim</li><li>Version history and tracked changes</li><li>A library of approved warnings and disclaimers</li><li>Scheduled re-reviews when rates or rules change</li></ul></div>\n\t\t</div>\n\t</section>",
+    "css": "fintech-content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Fintech content your competitors can’t copy",
+    "html": "<section class=\"section section--white cmedges cmedges--fin\" aria-labelledby=\"h-50\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-50\">Fintech content your competitors <span class=\"accent\">can’t copy</span></h2>\n\t\t\t\t<p class=\"section-lead\">Every bank and app publishes money tips. These six types of content are hard to copy, and they’re the ones that bring in applications and demos.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmet\" data-tabs>\n\t\t\t\t<div class=\"cmet__tabs\" role=\"tablist\" aria-label=\"Fintech content that sets you apart\"><button class=\"cmet__tab cmet--1\" type=\"button\" role=\"tab\" id=\"edge-49-t-data\" aria-controls=\"edge-49-data\" aria-selected=\"true\"><span class=\"cmet__n\">01</span><b>Original data from your platform</b></button><button class=\"cmet__tab cmet--2\" type=\"button\" role=\"tab\" id=\"edge-49-t-tools\" aria-controls=\"edge-49-tools\" aria-selected=\"false\"><span class=\"cmet__n\">02</span><b>Calculators and checkers</b></button><button class=\"cmet__tab cmet--3\" type=\"button\" role=\"tab\" id=\"edge-49-t-fast\" aria-controls=\"edge-49-fast\" aria-selected=\"false\"><span class=\"cmet__n\">03</span><b>Same-day expert commentary</b></button><button class=\"cmet__tab cmet--4\" type=\"button\" role=\"tab\" id=\"edge-49-t-open\" aria-controls=\"edge-49-open\" aria-selected=\"false\"><span class=\"cmet__n\">04</span><b>Fee pages in plain words</b></button><button class=\"cmet__tab cmet--5\" type=\"button\" role=\"tab\" id=\"edge-49-t-rules\" aria-controls=\"edge-49-rules\" aria-selected=\"false\"><span class=\"cmet__n\">05</span><b>New rules, explained for your customers</b></button><button class=\"cmet__tab cmet--6\" type=\"button\" role=\"tab\" id=\"edge-49-t-proof\" aria-controls=\"edge-49-proof\" aria-selected=\"false\"><span class=\"cmet__n\">06</span><b>Customer stories with real numbers</b></button></div>\n\t\t\t\t<div class=\"cmet__panels\"><div class=\"cmet__panel cmet--1\" role=\"tabpanel\" id=\"edge-49-data\" aria-labelledby=\"edge-49-t-data\">\n\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t<p class=\"cmet__k\">1 of 6</p>\n\t\t\t\t\t\t<h3>Original data from your platform</h3>\n\t\t\t\t\t\t<p class=\"cmet__what\">Anonymised insights only you can publish: what small firms really pay in fees, or how long invoices take to get paid.</p>\n\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>Why competitors don’t</dt><dd>Only you have the data. Others can quote it, but they have to credit you.</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>How it brings leads</dt><dd>A full report people download, plus press coverage and AI citations that send readers back to you.</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--bars\"><p class=\"cmv__t\">Average days to get paid, by industry</p>\n\t\t<ul class=\"cmv__vb\" role=\"list\"><li style=\"--h:88%\"><b>58</b><span>Building</span></li><li style=\"--h:70%\"><b>46</b><span>Agencies</span></li><li style=\"--h:52%\"><b>34</b><span>Retail</span></li><li style=\"--h:38%\"><b>25</b><span>Software</span></li><li style=\"--h:30%\"><b>19</b><span>Health</span></li></ul>\n\t\t<p class=\"cmv__src\">Source: 40,000 invoices on your platform</p></div></div>\n\t\t\t\t</div><div class=\"cmet__panel cmet--2\" role=\"tabpanel\" id=\"edge-49-tools\" aria-labelledby=\"edge-49-t-tools\">\n\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t<p class=\"cmet__k\">2 of 6</p>\n\t\t\t\t\t\t<h3>Calculators and checkers</h3>\n\t\t\t\t\t\t<p class=\"cmet__what\">Fee calculators, savings projections and eligibility checkers that answer “how much?” and “can I?”.</p>\n\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>Why competitors don’t</dt><dd>They need your real product rules and a build compliance has approved.</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>How it brings leads</dt><dd>The result leads straight into an application, with the details already filled in.</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--calc\"><p class=\"cmv__t\">Send $5,000 abroad</p>\n\t\t<ul class=\"cmv__rows\" role=\"list\"><li><span>Your bank’s fee</span><b class=\"x\">$142</b></li><li><span>Our fee</span><b>$18</b></li><li class=\"tot\"><span>You save</span><b>$124</b></li></ul>\n\t\t<span class=\"cmv__cta\">Open an account →</span></div></div>\n\t\t\t\t</div><div class=\"cmet__panel cmet--3\" role=\"tabpanel\" id=\"edge-49-fast\" aria-labelledby=\"edge-49-t-fast\">\n\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t<p class=\"cmet__k\">3 of 6</p>\n\t\t\t\t\t\t<h3>Same-day expert commentary</h3>\n\t\t\t\t\t\t<p class=\"cmet__what\">When rates, rules or markets move, your experts’ view goes live the same day.</p>\n\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>Why competitors don’t</dt><dd>It needs a fast approval route agreed in advance, which most firms don’t have.</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>How it brings leads</dt><dd>It catches the rush of searches and newsletter sign-ups that follows big news.</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--day\"><p class=\"cmv__t\">Rate decision day</p>\n\t\t<ol class=\"cmv__tl\" role=\"list\"><li><b>09:00</b><span>Rate cut announced</span></li><li><b>10:30</b><span>15-minute call with your economist</span></li><li><b>13:00</b><span>Compliance approves</span></li><li><b>14:00</b><span>Live, and in the newsletter</span></li></ol></div></div>\n\t\t\t\t</div><div class=\"cmet__panel cmet--4\" role=\"tabpanel\" id=\"edge-49-open\" aria-labelledby=\"edge-49-t-open\">\n\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t<p class=\"cmet__k\">4 of 6</p>\n\t\t\t\t\t\t<h3>Fee pages in plain words</h3>\n\t\t\t\t\t\t<p class=\"cmet__what\">Every fee explained clearly, how you make money, and what happens if something goes wrong.</p>\n\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>Why competitors don’t</dt><dd>Most competitors bury their fees. Saying it clearly is an advantage they won’t copy.</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>How it brings leads</dt><dd>It removes the last doubt before people apply.</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--fees\"><p class=\"cmv__t\">Our fees, in plain words</p>\n\t\t<ul class=\"cmv__lib\" role=\"list\"><li><span>Monthly fee</span><b>$0</b></li><li><span>Card payments abroad</span><b>0.5%</b></li><li><span>Sending money abroad</span><b>From 0.35%</b></li></ul>\n\t\t<p class=\"cmv__foot\">How we make money: a small fee on each payment, never on your balance.</p></div></div>\n\t\t\t\t</div><div class=\"cmet__panel cmet--5\" role=\"tabpanel\" id=\"edge-49-rules\" aria-labelledby=\"edge-49-t-rules\">\n\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t<p class=\"cmet__k\">5 of 6</p>\n\t\t\t\t\t\t<h3>New rules, explained for your customers</h3>\n\t\t\t\t\t\t<p class=\"cmet__what\">Clear guides to rule changes that affect your customers, such as e-invoicing, open banking or tax changes.</p>\n\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>Why competitors don’t</dt><dd>It needs specialists who read the rules themselves, not other articles about them.</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>How it brings leads</dt><dd>Businesses reading about a new rule are often ready to change provider.</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--rule\"><div class=\"cmv__doc\"><p class=\"cmv__dt\">E-invoicing becomes mandatory: what changes for you</p><p class=\"cmv__by\">Written with your head of compliance</p><i></i><i class=\"s\"></i></div>\n\t\t<ul class=\"cmv__kit\" role=\"list\"><li class=\"on\">What changes</li><li class=\"on\">The deadline</li><li class=\"on\">What to do now</li></ul></div></div>\n\t\t\t\t</div><div class=\"cmet__panel cmet--6\" role=\"tabpanel\" id=\"edge-49-proof\" aria-labelledby=\"edge-49-t-proof\">\n\t\t\t\t\t<div class=\"cmet__txt\">\n\t\t\t\t\t\t<p class=\"cmet__k\">6 of 6</p>\n\t\t\t\t\t\t<h3>Customer stories with real numbers</h3>\n\t\t\t\t\t\t<p class=\"cmet__what\">Real customers and real results, approved for publication.</p>\n\t\t\t\t\t\t<dl class=\"cmet__dl\">\n\t\t\t\t\t\t\t<div class=\"cmet__why\"><dt>Why competitors don’t</dt><dd>It needs customer consent and compliance sign-off. We arrange both.</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmet__lead\"><dt>How it brings leads</dt><dd>It gives buyers proof from businesses like theirs.</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmet__ill\" aria-hidden=\"true\"><div class=\"cmv cmv--story\"><p class=\"cmv__big\"><b>−38%</b>payment fees in the first year</p><p class=\"cmv__qt\">“We stopped losing money on every supplier payment.”</p><p class=\"cmv__by\">Finance director, Corvel</p></div></div>\n\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t\t<div class=\"cmedge__band\"><p class=\"cmedge__bh\">How each piece turns readers into leads</p><ol role=\"list\"><li><span class=\"cmedge__bn\">01</span><b>A next step in every piece</b><p>A calculator, checker or guide that fits where the reader is, not a generic banner.</p></li><li><span class=\"cmedge__bn\">02</span><b>Downloads worth an email</b><p>Reports, templates and guides readers happily trade their email address for.</p></li><li><span class=\"cmedge__bn\">03</span><b>Emails approved in advance</b><p>Nurture emails signed off by compliance once, then sent automatically.</p></li><li><span class=\"cmedge__bn\">04</span><b>Tracked to applications</b><p>We report which pieces lead to applications, accounts and demos.</p></li></ol></div>\n\t\t</div>\n\t</section>",
+    "css": "fintech-content-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Fintech content from first question to loyal customer",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-52\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-52\">Fintech content from <span class=\"accent\">first question to loyal customer</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a stage to see what customers need from you then, and the content we create for it.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmst2\" data-tabs style=\"--n:4\">\n\t\t\t\t<div class=\"cmst2__tabs\" role=\"tablist\" aria-label=\"Stages from first question to loyal customer\"><button class=\"cmst2__tab cmst2__tab--attract\" type=\"button\" role=\"tab\" id=\"bs-51-t-attract\" aria-controls=\"bs-51-attract\" aria-selected=\"true\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">1</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Discover</b><span>I have a money problem and want to understand my options</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--trust\" type=\"button\" role=\"tab\" id=\"bs-51-t-trust\" aria-controls=\"bs-51-trust\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">2</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Compare</b><span>I’m comparing providers and want to know who to trust</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--convert\" type=\"button\" role=\"tab\" id=\"bs-51-t-convert\" aria-controls=\"bs-51-convert\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">3</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Apply</b><span>I’m ready, but I want to know it’ll be quick and safe</span></span>\n\t\t\t\t</button><button class=\"cmst2__tab cmst2__tab--keep\" type=\"button\" role=\"tab\" id=\"bs-51-t-keep\" aria-controls=\"bs-51-keep\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmst2__dot\" aria-hidden=\"true\">4</span>\n\t\t\t\t\t<span class=\"cmst2__tt\"><b>Grow</b><span>I’ve signed up. Help me get more from it</span></span>\n\t\t\t\t</button></div>\n\t\t\t\t<div class=\"cmst2__panel cmst2__panel--attract\" role=\"tabpanel\" id=\"bs-51-attract\" aria-labelledby=\"bs-51-t-attract\" tabindex=\"0\">\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 1 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Discover</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“I have a money problem and want to understand my options”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Answer money questions clearly, and be the source people remember</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Readers from search, AI citations, newsletter sign-ups</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>3</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Money explainers</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Clear, accurate answers to the questions your customers search for.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>People researching a money decision</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Explainers, guides, glossaries</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Brings in people who have the problem you solve</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>How invoice finance works, with real numbers</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Original data and reports</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Insights from your platform or surveys, which press and AI tools quote.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Journalists, analysts and finance leaders</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Data reports, benchmarks, indexes</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Earns press, links and AI citations</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>How long small firms wait to get paid: data from 40,000 invoices</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">03</p>\n\t\t\t\t\t\t\t<h3>Expert commentary</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Your experts’ view on rates, rules and markets, published the same day.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Customers and prospects following the news</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Articles, LinkedIn posts, newsletter notes</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Catches the rush of searches after big news</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>What today’s rate cut means for business savers</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--trust\" role=\"tabpanel\" id=\"bs-51-trust\" aria-labelledby=\"bs-51-t-trust\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 2 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Compare</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“I’m comparing providers and want to know who to trust”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Show you’re safe, clear and right for them</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Return visits, tool use, comparison page visits</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>4</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Fee and product pages</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Every fee and feature in plain words, with worked examples.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Customers comparing costs</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Product pages, fee pages, FAQs</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Wins the comparison on clarity</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>/business-account/fees/</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Honest comparison pages</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Fair pages comparing you with banks and other apps.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>People down to a shortlist</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Comparison pages, alternatives pages</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Wins the “vs” searches fairly</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Business account app vs your high-street bank</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">03</p>\n\t\t\t\t\t\t\t<h3>Safety and security content</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">How money is protected, how you’re regulated and how accounts stay secure.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Careful customers and risk teams</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Trust centre, security pages, regulation explainers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Removes the biggest doubt about a newer brand</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Is my money safe with us? Your questions answered</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">04</p>\n\t\t\t\t\t\t\t<h3>Customer stories</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Real customers and real numbers, approved for publication.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Buyers who want proof from people like them</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Case studies, short stories, review highlights</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Shows the product working for businesses like theirs</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>How Corvel cut payment fees by 38%</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--convert\" role=\"tabpanel\" id=\"bs-51-convert\" aria-labelledby=\"bs-51-t-convert\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 3 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Apply</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“I’m ready, but I want to know it’ll be quick and safe”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Make applying feel easy and low risk</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Applications started and completed, demo requests</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>3</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Calculators and checkers</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Fee calculators, savings projections and eligibility checkers.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>People close to deciding</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Calculators, quote tools, eligibility checkers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Turns a result into an application</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A “how much could you save?” calculator</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Application guides</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">What people need, how long it takes and what happens next.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Applicants</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Checklists, step-by-step guides, FAQs</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Cuts drop-off during applications</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Open a business account in 10 minutes: what you need</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">03</p>\n\t\t\t\t\t\t\t<h3>Due diligence content</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Security, compliance and integration documents for bigger buyers.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Risk, procurement and IT teams</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>One-pagers, due diligence packs, RFP answers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Helps enterprise deals clear review faster</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Our security and compliance pack for banks</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"cmst2__panel cmst2__panel--keep\" role=\"tabpanel\" id=\"bs-51-keep\" aria-labelledby=\"bs-51-t-keep\" tabindex=\"0\" hidden>\n\t\t\t\t\t<aside class=\"cmst2__brief\">\n\t\t\t\t\t\t<div class=\"cmst2__hero\">\n\t\t\t\t\t\t\t<p class=\"cmst2__step\">Stage 4 of 4</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__name\">Grow</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__lab\">What buyers are thinking</p>\n\t\t\t\t\t\t\t<p class=\"cmst2__quote\">“I’ve signed up. Help me get more from it”</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<dl class=\"cmst2__goals\">\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--do\"><dt>What content has to do</dt><dd>Build usage, loyalty and referrals</dd></div>\n\t\t\t\t\t\t\t<div class=\"cmst2__g cmst2__g--kpi\"><dt>How we measure it</dt><dd>Product usage, cross-sell, referrals</dd></div>\n\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t<p class=\"cmst2__count\"><b>3</b> content types for this stage</p>\n\t\t\t\t\t</aside>\n\t\t\t\t\t<ul class=\"cmst2__cards\" role=\"list\"><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">01</p>\n\t\t\t\t\t\t\t<h3>Onboarding and help content</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Guides that help customers set up and start using features.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>New customers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Welcome guides, help articles, short videos</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Gets customers active sooner</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>Set up automatic invoice reminders</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">02</p>\n\t\t\t\t\t\t\t<h3>Money newsletters</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Useful money tips and product news customers look forward to.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Customers</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Monthly emails, market notes</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Keeps you front of mind and supports cross-sell</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A monthly “money explained” email</p></blockquote>\n\t\t\t\t\t\t</li><li class=\"cmsc2\">\n\t\t\t\t\t\t\t<p class=\"cmsc2__n\">03</p>\n\t\t\t\t\t\t\t<h3>Financial education</h3>\n\t\t\t\t\t\t\t<p class=\"cmsc2__d\">Courses and guides that make customers more confident with money.</p>\n\t\t\t\t\t\t\t<dl class=\"cmsc2__facts\">\n\t\t\t\t\t\t\t\t<div><dt>Who reads it</dt><dd>Customers and their teams</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>Formats</dt><dd>Email courses, guides, webinars</dd></div>\n\t\t\t\t\t\t\t\t<div><dt>What it does</dt><dd>Builds loyalty and word of mouth</dd></div>\n\t\t\t\t\t\t\t</dl>\n\t\t\t\t\t\t\t<blockquote class=\"cmsc2__eg\"><p>A five-day cash flow course for new business owners</p></blockquote>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "fintech-content-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "From first call to first results",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-53\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-53\">From first call to <span class=\"accent\">first results</span></h2>\n\t\t\t\t<p class=\"section-lead\">A clear rhythm, built around how finance and compliance teams approve and publish content.</p>\n\t\t\t</div>\n\t\t\t<ol class=\"cmsteps\" role=\"list\"><li class=\"cmstep cmstep--1\">\n\t\t\t\t\t<p class=\"cmstep__when\">Weeks 1–2</p>\n\t\t\t\t\t<p class=\"cmstep__n\">1</p>\n\t\t\t\t\t<h3>Research</h3>\n\t\t\t\t\t<p>Your buyers, competitors, sales calls and the questions that lead to a sale.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--2\">\n\t\t\t\t\t<p class=\"cmstep__when\">Week 3</p>\n\t\t\t\t\t<p class=\"cmstep__n\">2</p>\n\t\t\t\t\t<h3>Strategy and calendar</h3>\n\t\t\t\t\t<p>Topics, formats and goals for the first three months, with owners and dates.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--3\">\n\t\t\t\t\t<p class=\"cmstep__when\">Every month</p>\n\t\t\t\t\t<p class=\"cmstep__n\">3</p>\n\t\t\t\t\t<h3>Create</h3>\n\t\t\t\t\t<p>Expert interviews, writing, editing and fact-checking.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--4\">\n\t\t\t\t\t<p class=\"cmstep__when\">Every month</p>\n\t\t\t\t\t<p class=\"cmstep__n\">4</p>\n\t\t\t\t\t<h3>Approve and publish</h3>\n\t\t\t\t\t<p>Your reviewers sign off; we publish and distribute.</p>\n\t\t\t\t</li><li class=\"cmstep cmstep--5\">\n\t\t\t\t\t<p class=\"cmstep__when\">Every quarter</p>\n\t\t\t\t\t<p class=\"cmstep__n\">5</p>\n\t\t\t\t\t<h3>Measure and improve</h3>\n\t\t\t\t\t<p>What each piece brought in, what to do more of, and what to refresh.</p>\n\t\t\t\t</li></ol>\n\t\t</div>\n\t</section>",
+    "css": "fintech-content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/case-study",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "look": "cmcase cmcase--fin",
+    "kicker": "Case study · Fintech content marketing",
+    "title": "How Mintwise became the savings app <em>people trust to explain money</em>",
+    "client": "Mintwise",
+    "clientInfo": "· Savings and budgeting app · Regulated",
+    "steps": [
+     {
+      "title": "The challenge",
+      "text": "Content took three months to get through compliance, so the team published four articles a year, and big banks owned every money question in search."
+     },
+     {
+      "title": "What we did",
+      "text": "A claims library agreed with compliance, specialist writers, a source log for every draft and 60 explainers on the questions savers search for."
+     },
+     {
+      "title": "The outcome",
+      "text": "Approval time fell from months to about a week, and organic sign-ups grew month after month."
+     }
+    ],
+    "buttonText": "Read the case study",
+    "buttonUrl": "/case-studies/",
+    "stats": [
+     {
+      "value": "8 days",
+      "label": "average approval time, down from 90"
+     },
+     {
+      "value": "60",
+      "label": "explainers published"
+     },
+     {
+      "value": "+176%",
+      "label": "organic app sign-ups"
+     },
+     {
+      "value": "0",
+      "label": "pieces withdrawn after publishing"
+     }
+    ],
+    "chartTitle": "Organic app sign-ups, per month",
+    "bars": [
+     {
+      "height": 36,
+      "label": "Month 1: 120"
+     },
+     {
+      "height": 39,
+      "label": "Month 2: 128"
+     },
+     {
+      "height": 42,
+      "label": "Month 3: 140"
+     },
+     {
+      "height": 49,
+      "label": "Month 4: 162"
+     },
+     {
+      "height": 55,
+      "label": "Month 5: 181"
+     },
+     {
+      "height": 60,
+      "label": "Month 6: 199"
+     },
+     {
+      "height": 66,
+      "label": "Month 7: 220"
+     },
+     {
+      "height": 74,
+      "label": "Month 8: 244"
+     },
+     {
+      "height": 79,
+      "label": "Month 9: 262"
+     },
+     {
+      "height": 88,
+      "label": "Month 10: 290"
+     },
+     {
+      "height": 93,
+      "label": "Month 11: 309"
+     },
+     {
+      "height": 100,
+      "label": "Month 12: 331"
+     }
+    ],
+    "axisStart": "Month 1",
+    "axisEnd": "Month 12"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Fintech and financial services brands we create content for",
+    "html": "<section class=\"section section--white cmwk2s\" aria-labelledby=\"h-56\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-56\">Fintech and financial services brands <span class=\"accent\">we create content for</span></h2>\n\t\t\t\t<p class=\"section-lead\">Pick a company to see why they came to us, the work we did, what they wanted and what they got.</p>\n\t\t\t</div>\n\t\t\t<div class=\"cmwk2\" data-tabs>\n\t\t\t\t<div class=\"cmwk2__tabs\" role=\"tablist\" aria-label=\"Fintech clients\"><button class=\"cmwk2__tab cmwk2__tab--1\" type=\"button\" role=\"tab\" id=\"bw-55-t-corvel\" aria-controls=\"bw-55-corvel\" aria-selected=\"true\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#a16207\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"16\" fill=\"#ca8a04\"/><path d=\"M26 14a8 8 0 1 0 0 12\" stroke=\"#fef3c7\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Corvel</b><span>Pay</span></span></span><span class=\"cmwk2__ind\">Cross-border payments for small firms</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--2\" type=\"button\" role=\"tab\" id=\"bw-55-t-harbourline\" aria-controls=\"bw-55-harbourline\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#0f766e\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M4 26c5-4 9-4 14 0s9 4 14 0\" stroke=\"#14b8a6\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M20 4v18M13 11h14\" stroke=\"#0f766e\" stroke-width=\"4\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Harbourline</b><span>Capital</span></span></span><span class=\"cmwk2__ind\">Lending for small businesses</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--3\" type=\"button\" role=\"tab\" id=\"bw-55-t-tallis\" aria-controls=\"bw-55-tallis\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#4338ca\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><rect x=\"5\" y=\"22\" width=\"7\" height=\"13\" rx=\"2\" fill=\"#a5b4fc\"/><rect x=\"16.5\" y=\"14\" width=\"7\" height=\"21\" rx=\"2\" fill=\"#6366f1\"/><rect x=\"28\" y=\"5\" width=\"7\" height=\"30\" rx=\"2\" fill=\"#4338ca\"/></svg><span class=\"cmlg__w\"><b>Tallis</b><span>Invest</span></span></span><span class=\"cmwk2__ind\">Investing app for first-time investors</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--4\" type=\"button\" role=\"tab\" id=\"bw-55-t-sentra\" aria-controls=\"bw-55-sentra\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#b91c1c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 3 34 9v10c0 9-6 15-14 18C12 34 6 28 6 19V9z\" fill=\"#dc2626\"/><circle cx=\"20\" cy=\"19\" r=\"5\" fill=\"#fecaca\"/></svg><span class=\"cmlg__w\"><b>Sentra</b><span>Risk</span></span></span><span class=\"cmwk2__ind\">Fraud prevention software for banks</span>\n\t\t\t\t</button><button class=\"cmwk2__tab cmwk2__tab--5\" type=\"button\" role=\"tab\" id=\"bw-55-t-kinfold\" aria-controls=\"bw-55-kinfold\" aria-selected=\"false\">\n\t\t\t\t\t<span class=\"cmlg\" style=\"--lc:#15803d\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"14\" cy=\"16\" r=\"7\" fill=\"#22c55e\"/><circle cx=\"26\" cy=\"16\" r=\"7\" fill=\"#15803d\"/><path d=\"M6 34c2-7 7-10 14-10s12 3 14 10\" fill=\"#86efac\"/></svg><span class=\"cmlg__w\"><b>Kinfold</b><span>Credit Union</span></span></span><span class=\"cmwk2__ind\">Member-owned savings and loans</span>\n\t\t\t\t</button></div>\n\t\t\t\t<article class=\"cmwk2__panel cmwk2__panel--1\" role=\"tabpanel\" id=\"bw-55-corvel\" aria-labelledby=\"bw-55-t-corvel\" tabindex=\"0\">\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Corvel Pay</h3>\n\t\t\t\t\t\t\t<p>Cross-border payments for small firms · Series B · 12 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Calculator</li><li>Explainers</li><li>Fee pages</li><li>Route guides</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Big banks and comparison sites owned every “send money abroad” search, and Corvel’s fee pages confused people.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A fee calculator compared with the main banks</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> 30 explainers on paying overseas suppliers</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Fee and exchange rate pages in plain words</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Guides for the 12 busiest payment routes</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>More business sign-ups from people looking for cheaper international payments.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>3.1×</b><span>business sign-ups from search</span></li><li><b>38%</b><span>of sign-ups used the calculator first</span></li><li><b>12</b><span>route guides on page one</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--2\" role=\"tabpanel\" id=\"bw-55-harbourline\" aria-labelledby=\"bw-55-t-harbourline\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Harbourline Capital</h3>\n\t\t\t\t\t\t\t<p>Lending for small businesses · 80 people · 10 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Eligibility checker</li><li>Loan guides</li><li>Nurture emails</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Plenty of loan applications, but most came from businesses that didn’t qualify, which wasted the credit team’s time.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> An eligibility checker built with the credit team</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A guide to each loan type, with worked examples</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> An application checklist page</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Nurture emails for businesses not yet eligible</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>Fewer, better applications from businesses that qualify.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>+54%</b><span>approved applications</span></li><li><b>−40%</b><span>applications that didn’t qualify</span></li><li><b>9</b><span>loan guides in the top three</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--3\" role=\"tabpanel\" id=\"bw-55-tallis\" aria-labelledby=\"bw-55-t-tallis\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Tallis Invest</h3>\n\t\t\t\t\t\t\t<p>Investing app for first-time investors · Series A · 14 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Answer-first content</li><li>Data report</li><li>AI citations</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>People asked AI tools and forums about investing, and Tallis was never part of the answer.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A glossary of 120 answer-first entries</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A monthly report on what first-time investors buy</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Named expert authors on every page</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> AI citation tracking across four AI tools</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>To be quoted when people ask about investing, and to turn those readers into sign-ups.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>120</b><span>answer-first glossary entries</span></li><li><b>4 of 4</b><span>AI tools now quote Tallis</span></li><li><b>+92%</b><span>organic sign-ups</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--4\" role=\"tabpanel\" id=\"bw-55-sentra\" aria-labelledby=\"bw-55-t-sentra\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Sentra Risk</h3>\n\t\t\t\t\t\t\t<p>Fraud prevention software for banks · 150 people · 12 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Research report</li><li>Due diligence pack</li><li>Thought leadership</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Long enterprise sales. Banks’ risk teams wanted proof and detail the website didn’t have.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> An annual fraud report from anonymised platform data</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A due diligence pack for risk and procurement teams</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Thought leadership from their head of fraud</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Case studies for three types of bank</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>More meetings with senior risk leaders at banks.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>46</b><span>press and analyst citations of the report</span></li><li><b>2.6×</b><span>demo requests from banks</span></li><li><b>5 weeks</b><span>shorter due diligence</span></li></ul></div>\n\t\t\t\t</article><article class=\"cmwk2__panel cmwk2__panel--5\" role=\"tabpanel\" id=\"bw-55-kinfold\" aria-labelledby=\"bw-55-t-kinfold\" tabindex=\"0\" hidden>\n\t\t\t\t\t<header class=\"cmwk2__head\">\n\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t<h3>Kinfold Credit Union</h3>\n\t\t\t\t\t\t\t<p>Member-owned savings and loans · 60 people · 9 months with us</p>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<ul class=\"cmwk2__tags\" role=\"list\"><li>Money guides</li><li>Calculator</li><li>Member stories</li></ul>\n\t\t\t\t\t</header>\n\t\t\t\t\t<div class=\"cmwk2__grid\">\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--why\"><p class=\"cmwk2__k\">Why they came to us</p><p>Older members trusted them, but younger people had never heard of them, and big banks owned every search.</p></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--did\"><p class=\"cmwk2__k\">The work we did</p><ul class=\"cmwk2__did\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Money guides for first jobs, first homes and first cars</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A savings goals calculator</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Member stories, shared with consent</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A plain-words guide to how a credit union works</li></ul></div>\n\t\t\t\t\t\t<div class=\"cmwk2__col cmwk2__col--exp\"><p class=\"cmwk2__k\">The outcome they wanted</p><p>New, younger members from search.</p></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"cmwk2__res\"><p class=\"cmwk2__k\">Results achieved</p><ul role=\"list\"><li><b>+68%</b><span>new members under 35</span></li><li><b>22</b><span>money guides on page one</span></li><li><b>4.1×</b><span>calculator use</span></li></ul></div>\n\t\t\t\t</article>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "fintech-content-marketing",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Andra-Simina Mocanu",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Alex Barsuk"
+    ]
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Financial content programmes, built around review",
+    "html": "<section class=\"section section--white\" aria-labelledby=\"h-59\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-59\">Financial content programmes, <span class=\"accent\">built around review</span></h2>\n\t\t\t\t<p class=\"section-lead\">Three ways to work with us. Each is a fixed monthly price, quoted after a free call.</p>\n\t\t\t</div>\n\t\t\t<ul class=\"cmplans\" role=\"list\"><li class=\"cmplan cmplan--1\">\n\t\t\t\t\t<p class=\"cmplan__name\">Essentials</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Getting started</p>\n\t\t\t\t\t<p class=\"cmplan__d\">The core explainers and product content your site needs.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Content strategy and claims library</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Four pieces a month</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Source log for every piece</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Monthly report</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--2 cmplan--main\">\n\t\t\t\t\t<p class=\"cmplan__name\">Growth</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Building trust at pace</p>\n\t\t\t\t\t<p class=\"cmplan__d\">A steady flow of content your compliance team can approve quickly.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Essentials</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Eight pieces a month</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Market commentary</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Calculators and tools</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Scheduled re-reviews</li></ul>\n\t\t\t\t\t<a class=\"button button--primary button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li><li class=\"cmplan cmplan--3\">\n\t\t\t\t\t<p class=\"cmplan__name\">Authority</p>\n\t\t\t\t\t<p class=\"cmplan__for\">Leading your market</p>\n\t\t\t\t\t<p class=\"cmplan__d\">A full programme for brands that want to be the trusted voice.</p>\n\t\t\t\t\t<ul class=\"tick-list tick-list--plain\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Everything in Growth</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> An annual research report</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Thought leadership for your leaders</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A dedicated content lead</li></ul>\n\t\t\t\t\t<a class=\"button button--outline button--block\" href=\"#proposal\">Get a fixed quote</a>\n\t\t\t\t</li></ul>\n\t\t</div>\n\t</section>",
+    "css": "fintech-content-marketing",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/why-intella",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "A fintech content marketing agency that <em>gets compliance</em>",
+    "items": [
+     {
+      "title": "Finance specialist writers",
+      "text": "Writers with banking, payments, lending and investment experience."
+     },
+     {
+      "title": "Built for review",
+      "text": "Claims libraries, source logs and drafts your reviewers can approve quickly."
+     },
+     {
+      "title": "Written by people",
+      "text": "Every word is written and checked by people. AI is for research only."
+     },
+     {
+      "title": "Kept up to date",
+      "text": "Review dates on every piece, so content doesn’t become a risk."
+     }
+    ],
+    "facts": [
+     {
+      "value": "30+",
+      "label": "countries our writers work from"
+     },
+     {
+      "value": "2",
+      "label": "people check every piece"
+     },
+     {
+      "value": "0",
+      "label": "AI-written words"
+     }
+    ],
+    "bigFacts": true,
+    "quote": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Fintech content marketing questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "What is content marketing for financial services?",
+      "answer": "It’s creating accurate, useful content, such as explainers, guides, research and tools, that helps people understand financial products and choose yours, within the rules of your market."
+     },
+     {
+      "question": "Can you work with our compliance team?",
+      "answer": "Yes. We agree what can be said up front, give reviewers a source log and tracked changes, and fit around your approval process."
+     },
+     {
+      "question": "Do your writers know finance?",
+      "answer": "Yes. We match you with writers who have worked in or written about banking, payments, lending or investment."
+     },
+     {
+      "question": "How much does fintech content marketing cost?",
+      "answer": "Every programme is a fixed monthly price, based on how much content you need and your review process. We quote after a free 30-minute call."
+     },
+     {
+      "question": "How do you keep content accurate over time?",
+      "answer": "Every piece has a review date, and we recheck rates, rules and examples when they change."
+     },
+     {
+      "question": "Do you use AI to write content?",
+      "answer": "No. Financial content needs accuracy and accountability, so every piece is written and checked by people."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Publish content <em>compliance signs off</em>",
+    "lead": "Tell us about your products and your review process. We’ll reply with a plan and a fixed quote.",
+    "steps": [
+     {
+      "title": "We read your content first",
+      "text": "What you publish today, what ranks and what’s missing."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your buyers, your goals and who signs off content."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "The first pieces to create, and what they should achieve."
+     }
+    ],
+    "formTitle": "Request a fintech content plan",
+    "messageHint": "What do you offer, and who to? For example business accounts for small firms",
+    "service": "fintech-content-marketing",
+    "buttonText": "Request my fintech content plan",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "We sign NDAs",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Fintech content marketing works best <em>with</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "chart",
+      "title": "B2B Content Marketing",
+      "url": "/services/digital-marketing/content-marketing/b2b-content-marketing/",
+      "text": "Content for long sales cycles."
+     },
+     {
+      "icon": "code",
+      "title": "SaaS Content Marketing",
+      "url": "/services/digital-marketing/content-marketing/saas-content-marketing/",
+      "text": "Content that turns readers into trials."
+     },
+     {
+      "icon": "pen",
+      "title": "SEO Content Writing",
+      "url": "/services/digital-marketing/seo/seo-content-writing/",
+      "text": "Pages and articles written to rank."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "intella/problems",
+	"title": "Problems and fixes",
+	"category": "intella",
+	"icon": "yes-alt",
+	"description": "Rows of “the problem → how we fix it”, optionally with a small before/after table on each side.",
+	"supports": {
+		"html": false
+	},
+	"render": "file:./render.php",
+	"style": "file:./style.css",
+	"intella": {
+		"fields": [
+			{ "key": "title", "type": "inline", "label": "Heading" },
+			{ "key": "lead", "type": "textarea", "label": "Intro" },
+			{ "key": "problemLabel", "type": "text", "label": "Left column label", "default": "The problem" },
+			{ "key": "fixLabel", "type": "text", "label": "Right column label", "default": "How we fix it" },
+			{ "key": "items", "type": "repeater", "label": "Rows", "fields": [
+				{ "key": "title", "type": "text", "label": "Problem title (optional)" },
+				{ "key": "problem", "type": "textarea", "label": "The problem" },
+				{ "key": "beforeTitle", "type": "text", "label": "Problem table heading (optional)", "help": "e.g. Search terms, last 90 days" },
+				{ "key": "before", "type": "repeater", "label": "Problem table rows", "fields": [
+					{ "key": "label", "type": "text", "label": "Label" },
+					{ "key": "value", "type": "text", "label": "Value" },
+					{ "key": "tone", "type": "select", "label": "Colour", "options": [ { "label": "Bad (red)", "value": "bad" }, { "label": "Warning (amber)", "value": "warn" }, { "label": "Good (green)", "value": "ok" } ] }
+				] },
+				{ "key": "fix", "type": "textarea", "label": "How we fix it" },
+				{ "key": "afterTitle", "type": "text", "label": "Fix table heading (optional)", "help": "e.g. After the fix" },
+				{ "key": "after", "type": "repeater", "label": "Fix table rows", "fields": [
+					{ "key": "label", "type": "text", "label": "Label" },
+					{ "key": "value", "type": "text", "label": "Value" },
+					{ "key": "tone", "type": "select", "label": "Colour", "options": [ { "label": "Good (green)", "value": "ok" }, { "label": "Warning (amber)", "value": "warn" }, { "label": "Bad (red)", "value": "bad" } ] }
+				] }
+			], "default": [] },
+			{ "key": "visual", "type": "code", "label": "Picture above the rows (HTML, optional)", "panel": "Picture" },
+			{ "key": "alt", "type": "toggle", "label": "Detailed style (cards with tables)", "default": false, "panel": "Section" }
+		],
+		"section": "cream"
+	}
+}

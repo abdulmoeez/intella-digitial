@@ -1,0 +1,256 @@
+{
+ "title": "About us",
+ "path": "/about/",
+ "seo": {
+  "title": "About Intella Digital | Marketing and development, one team",
+  "description": "Intella Digital is a digital agency for growing businesses. Our marketing and development teams work to one plan: SEO, AI search, paid ads, websites and apps."
+ },
+ "blocks": [
+  {
+   "name": "intella/page-hero",
+   "attrs": {
+    "layout": "split",
+    "title": "We simplify marketing, development and <em>everything in between</em>",
+    "lead": "Intella Digital is a digital agency for growing businesses. We bring marketing and development together under one roof, so the people who bring in your visitors and the people who build your website work to the same plan.",
+    "buttons": [
+     {
+      "text": "Talk to an expert",
+      "url": "/contact/",
+      "style": "primary"
+     },
+     {
+      "text": "See our work",
+      "url": "/portfolio/",
+      "style": "outline"
+     }
+    ],
+    "chipsLabel": "",
+    "chips": [],
+    "cards": [
+     {
+      "icon": "search",
+      "title": "SEO & content",
+      "url": "/services/digital-marketing/seo/",
+      "text": "Rankings and articles that bring in steady enquiries.",
+      "dark": true
+     },
+     {
+      "icon": "sparkle",
+      "title": "AI search (GEO)",
+      "url": "/services/digital-marketing/geo/",
+      "text": "Get named in ChatGPT, Gemini and AI Overviews.",
+      "dark": false
+     },
+     {
+      "icon": "megaphone",
+      "title": "Paid ads",
+      "url": "/services/#ads",
+      "text": "Google, Meta and LinkedIn campaigns tied to real leads.",
+      "dark": false
+     },
+     {
+      "icon": "code",
+      "title": "Websites & apps",
+      "url": "/services/website-development/",
+      "text": "Fast WordPress sites, Laravel web apps and mobile apps.",
+      "dark": true
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/story",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Why we bring marketing and development <em>together</em>",
+    "body": "Most growing businesses end up working with several suppliers: an SEO agency, someone for ads, a developer for the website. Each one does its part, but nobody owns the result. Ads send visitors to slow pages. Content never gets published because the site is hard to update. Reports go out every month, yet nobody can say which work brought in customers.\n\nWe started Intella Digital to fix that. Our marketing and development teams plan together, share the same goals and measure the same thing: the enquiries your business gets. When marketing needs a new landing page or a faster site, the people building it are in the same conversation.\n\nIt keeps things simple for you. One team to talk to, one plan to follow, and honest advice about what will actually move the needle.",
+    "mission": "To help growing businesses get found, earn trust and turn visitors into customers, with marketing and technology that <em>work as one.</em>"
+   }
+  },
+  {
+   "name": "intella/tilt-cards",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Experience has shaped how we <em>think and build</em>",
+    "lead": "Every business is different, but the problems behind slow growth are often the same. These ideas guide every project we take on.",
+    "numbered": false,
+    "columns": "",
+    "items": [
+     {
+      "icon": "trend",
+      "time": "",
+      "title": "Strategy needs execution",
+      "text": "Great ideas only create value when they turn into practical, measurable actions."
+     },
+     {
+      "icon": "layers",
+      "time": "",
+      "title": "Marketing needs strong foundations",
+      "text": "Campaigns perform better when the website, user experience and technical SEO work together."
+     },
+     {
+      "icon": "code",
+      "time": "",
+      "title": "Technology should solve problems",
+      "text": "Every platform, framework and tool we choose has to earn its place with a business result."
+     },
+     {
+      "icon": "chart",
+      "time": "",
+      "title": "Growth begins with measurement",
+      "text": "Better decisions come from clean data, clear reporting and steady improvement."
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/home-why",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "An agency that works like <em>your own team</em>",
+    "lead": "Senior people, honest advice and work that is measured by the enquiries it brings in. No lock-in, no jargon, no surprises on the invoice.",
+    "buttonText": "Talk to an expert",
+    "buttonUrl": "/contact/",
+    "photos": [],
+    "cards": [
+     {
+      "icon": "user",
+      "title": "One team, both skills",
+      "text": "Marketing and development under one roof, so nothing gets lost between agencies.",
+      "dark": true
+     },
+     {
+      "icon": "users",
+      "title": "Senior people on your account",
+      "text": "You talk to the people who plan and do the work, not a chain of account managers.",
+      "dark": false
+     },
+     {
+      "icon": "chart",
+      "title": "Reporting you can read",
+      "text": "Clear monthly reports that tie the work to enquiries, not vanity metrics.",
+      "dark": false
+     },
+     {
+      "icon": "key",
+      "title": "You own everything",
+      "text": "Your website, ad accounts, data and content always stay in your name.",
+      "dark": true
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/industry-tags",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Small, ambitious teams across <em>many industries</em>",
+    "lead": "Most of our clients are growing businesses that want expert help without hiring a whole department.",
+    "items": [
+     {
+      "name": "Clinics & healthcare",
+      "filled": true
+     },
+     {
+      "name": "Professional services",
+      "filled": false
+     },
+     {
+      "name": "E-commerce & retail",
+      "filled": true
+     },
+     {
+      "name": "Real estate",
+      "filled": false
+     },
+     {
+      "name": "SaaS & startups",
+      "filled": true
+     },
+     {
+      "name": "Education & training",
+      "filled": false
+     },
+     {
+      "name": "Hospitality & travel",
+      "filled": true
+     },
+     {
+      "name": "Local services",
+      "filled": false
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/quote-strip",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Trusted by the businesses <em>we build for</em>",
+    "plainAccent": false,
+    "buttonText": "All case studies",
+    "buttonUrl": "/case-studies/",
+    "people": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ],
+    "cases": [
+     {
+      "tag": "Case study",
+      "title": "Cupello",
+      "text": "Modernising football coaching technology with a faster, more usable platform.",
+      "linkText": "Read the case study",
+      "url": "/case-studies/cupello-modernizing-football-coaching-technology/"
+     },
+     {
+      "tag": "Case study",
+      "title": "The Other Glasses",
+      "text": "A luxury eyewear e-commerce experience, designed and built end to end.",
+      "linkText": "Read the case study",
+      "url": "/case-studies/the-other-glasses-luxury-eyewear-e-commerce-experience-intella-digital/"
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/talk",
+   "attrs": {
+    "background": "white",
+    "look": "plum",
+    "left": false,
+    "title": "Ready to grow with <em>one team?</em>",
+    "lead": "Tell us where you want to be in a year. We'll show you how marketing and development can get you there, on a free 30-minute call.",
+    "buttons": [
+     {
+      "text": "Schedule a free call",
+      "url": "/contact/",
+      "style": "primary"
+     },
+     {
+      "text": "Email us",
+      "url": "mailto:contact@intelladigital.com",
+      "style": "outline"
+     }
+    ],
+    "contact": true,
+    "people": [],
+    "shots": [
+     {
+      "image": "media:assets/images/team/team.jpg"
+     },
+     {
+      "image": "media:assets/images/team/team-3.jpg"
+     }
+    ],
+    "noteReply": "We reply within 1 business day",
+    "noteSkillsTitle": "One team",
+    "noteSkills": "SEO · Ads · Design · Development · AI"
+   }
+  }
+ ]
+}

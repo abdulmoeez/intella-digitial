@@ -1,0 +1,161 @@
+{
+ "title": "Thank you",
+ "path": "/thank-you/",
+ "seo": {
+  "title": "Thank you | Intella Digital",
+  "description": "Thanks for contacting Intella Digital. Here is what happens next."
+ },
+ "blocks": [
+  {
+   "name": "intella/thanks-hero",
+   "attrs": {
+    "title": "Thank you{name}. You’re in <em>good hands.</em>",
+    "lead": "We’ve received your message. A senior member of our team will read it and reply within one business day, usually much sooner.",
+    "buttons": [
+     {
+      "text": "See our work",
+      "url": "/portfolio/",
+      "style": "primary"
+     },
+     {
+      "text": "Back to homepage",
+      "url": "/",
+      "style": "outline"
+     }
+    ],
+    "urgent": "Something urgent? Call {phone} or email {email}."
+   }
+  },
+  {
+   "name": "intella/tilt-cards",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Here’s what to <em>expect</em>",
+    "lead": "No long forms, no pushy sales calls. Just three simple steps.",
+    "numbered": true,
+    "columns": "3",
+    "items": [
+     {
+      "icon": "",
+      "time": "Within 1 business day",
+      "title": "We read your message",
+      "text": "A senior member of the team reviews what you sent and replies with a few questions and times for a call."
+     },
+     {
+      "icon": "",
+      "time": "Next",
+      "title": "Your free 30-minute call",
+      "text": "We talk through your goals, look at your website and marketing together and share quick wins."
+     },
+     {
+      "icon": "",
+      "time": "After the call",
+      "title": "A clear proposal",
+      "text": "You get a plan with scope, timeline and cost. No pressure, and no obligation to go ahead."
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/trust-grid",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "You’ve contacted the <em>right team</em>",
+    "lead": "Growing businesses choose Intella Digital for marketing and development that work together, and for people who care about the results.",
+    "items": [
+     {
+      "icon": "user",
+      "title": "One team, both skills",
+      "text": "Marketing and development under one roof, so nothing gets lost between suppliers."
+     },
+     {
+      "icon": "users",
+      "title": "Senior people on your account",
+      "text": "You talk to the people who plan and do the work."
+     },
+     {
+      "icon": "chart",
+      "title": "Reporting you can read",
+      "text": "Clear monthly reports tied to enquiries, not vanity metrics."
+     },
+     {
+      "icon": "key",
+      "title": "You own everything",
+      "text": "Your website, accounts, data and content stay in your name."
+     },
+     {
+      "icon": "sparkle",
+      "title": "Ready for AI search",
+      "text": "We plan for Google and for the AI assistants buyers now use."
+     },
+     {
+      "icon": "check",
+      "title": "Honest advice",
+      "text": "If something isn’t right for you, we’ll tell you, even if it means less work for us."
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we've helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/quote-strip",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "What our <em>clients</em> say",
+    "plainAccent": true,
+    "buttonText": "All case studies",
+    "buttonUrl": "/case-studies/",
+    "people": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu"
+    ],
+    "cases": [
+     {
+      "tag": "Case study",
+      "title": "Cupello",
+      "text": "Modernising football coaching technology with a faster, more usable platform.",
+      "linkText": "Read the case study",
+      "url": "/case-studies/cupello-modernizing-football-coaching-technology/"
+     },
+     {
+      "tag": "Case study",
+      "title": "The Other Glasses",
+      "text": "A luxury eyewear e-commerce experience, designed and built end to end.",
+      "linkText": "Read the case study",
+      "url": "/case-studies/the-other-glasses-luxury-eyewear-e-commerce-experience-intella-digital/"
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/latest-articles",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Ideas to help you <em>grow</em>",
+    "buttonText": "All articles",
+    "buttonUrl": "/articles/",
+    "count": 3
+   }
+  }
+ ],
+ "noindex": true
+}

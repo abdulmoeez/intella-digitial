@@ -1,0 +1,655 @@
+{
+ "primary": [
+  {
+   "title": "About us",
+   "url": "/about/"
+  },
+  {
+   "title": "Services",
+   "url": "/services/",
+   "mega": true,
+   "link_text": "All services",
+   "cta_title": "Not sure where to start? Get a <em>free review</em>",
+   "cta_text": "A short video on your site’s speed, SEO, AI visibility and conversion gaps, with the fixes we’d make first.",
+   "cta_button": "Get my free review",
+   "cta_url": "/#free-review",
+   "children": [
+    {
+     "key": "seo",
+     "title": "SEO and Content",
+     "description": "Get found on Google and AI",
+     "icon": "search",
+     "url": "/services/#seo",
+     "link_text": "Explore SEO and content",
+     "cta_title": "Not sure why you’re not ranking? Get a <em>free SEO review</em>",
+     "cta_text": "A short video on your rankings, content gaps and AI search visibility, with the fixes we’d make first.",
+     "cta_button": "Get my free SEO review",
+     "cta_url": "/#free-review",
+     "links": [
+      {
+       "title": "SEO",
+       "url": "/services/digital-marketing/seo/",
+       "description": "Rank on page 1 for the searches your buyers make.",
+       "logo": "search",
+       "variant": "icon",
+       "style": "--c:#0d8a7e;--bg:#e7f6f3"
+      },
+      {
+       "title": "GEO / AI search",
+       "url": "/services/digital-marketing/geo/",
+       "description": "Get recommended in ChatGPT, Gemini and AI Overviews.",
+       "logo": "sparkle",
+       "variant": "icon",
+       "style": "--c:#0d8a7e;--bg:#e7f6f3"
+      },
+      {
+       "title": "Content Marketing",
+       "url": "/services/digital-marketing/content-marketing/",
+       "description": "Articles and pages that answer buyers and earn links.",
+       "logo": "pen",
+       "variant": "icon",
+       "style": "--c:#0d8a7e;--bg:#e7f6f3"
+      },
+      {
+       "title": "Local SEO",
+       "url": "/services/digital-marketing/local-seo/",
+       "description": "Win the map pack and local searches in the areas you serve.",
+       "logo": "local-seo",
+       "variant": "logo",
+       "style": ""
+      },
+      {
+       "title": "eCommerce SEO",
+       "url": "/services/digital-marketing/ecommerce-seo/",
+       "description": "Category and product pages that rank and sell.",
+       "logo": "cart",
+       "variant": "icon",
+       "style": "--c:#0d8a7e;--bg:#e7f6f3"
+      },
+      {
+       "title": "Link Building",
+       "url": "/services/digital-marketing/link-building/",
+       "description": "Earn links from relevant, trusted websites.",
+       "logo": "link",
+       "variant": "icon",
+       "style": "--c:#0d8a7e;--bg:#e7f6f3"
+      }
+     ]
+    },
+    {
+     "key": "ads",
+     "title": "Performance Marketing",
+     "description": "Paid ads that bring leads",
+     "icon": "megaphone",
+     "url": "/services/digital-marketing/performance-marketing/",
+     "link_text": "Explore performance marketing",
+     "cta_title": "Paying for clicks that don’t convert? Get a <em>free ads review</em>",
+     "cta_text": "We look at your Google, Meta and LinkedIn campaigns and show you where budget is being wasted.",
+     "cta_button": "Review my ads",
+     "cta_url": "/#free-review",
+     "links": [
+      {
+       "title": "Google Ads",
+       "url": "/services/digital-marketing/performance-marketing/google-ads/",
+       "description": "Search, display and remarketing campaigns for high-intent leads.",
+       "logo": "google-ads",
+       "variant": "logo",
+       "style": ""
+      },
+      {
+       "title": "Google Shopping Ads",
+       "url": "/services/digital-marketing/performance-marketing/google-shopping-ads/",
+       "description": "Product ads that put your catalogue in front of buyers.",
+       "logo": "google-shopping-ads",
+       "variant": "logo",
+       "style": ""
+      },
+      {
+       "title": "YouTube Ads",
+       "url": "/services/digital-marketing/performance-marketing/youtube-ads/",
+       "description": "Video campaigns that build awareness and drive action.",
+       "logo": "youtube-ads",
+       "variant": "logo",
+       "style": ""
+      },
+      {
+       "title": "LinkedIn Ads",
+       "url": "/services/digital-marketing/performance-marketing/linkedin-ads/",
+       "description": "Reach decision makers by role, company and industry.",
+       "logo": "linkedin-ads",
+       "variant": "badge",
+       "style": "background:#0A66C2"
+      },
+      {
+       "title": "Meta Ads",
+       "url": "/services/digital-marketing/performance-marketing/facebook-ads/",
+       "description": "Facebook campaigns that build awareness and drive enquiries.",
+       "logo": "meta-ads",
+       "variant": "logo",
+       "style": ""
+      },
+      {
+       "title": "Instagram Ads",
+       "url": "/services/digital-marketing/performance-marketing/instagram-ads/",
+       "description": "Targeted campaigns that grow visibility and win customers.",
+       "logo": "instagram-ads",
+       "variant": "logo",
+       "style": ""
+      }
+     ]
+    },
+    {
+     "key": "social",
+     "title": "Social Media",
+     "description": "Build an audience that buys",
+     "icon": "share",
+     "url": "/services/#social",
+     "link_text": "Explore social media",
+     "cta_title": "Posting a lot but not growing? Get a <em>free social review</em>",
+     "cta_text": "A quick look at your profiles, content and engagement, with three ideas you can use this month.",
+     "cta_button": "Review my social",
+     "cta_url": "/#free-review",
+     "links": [
+      {
+       "title": "Social Media Management",
+       "url": "/social-media-management/",
+       "description": "Planning, posting and reporting across your channels.",
+       "logo": "calendar",
+       "variant": "icon",
+       "style": "--c:#d0367a;--bg:#fdeef5"
+      },
+      {
+       "title": "Content Creation",
+       "url": "/social-content-creation/",
+       "description": "Graphics, reels and short videos made for each platform.",
+       "logo": "play",
+       "variant": "icon",
+       "style": "--c:#d0367a;--bg:#fdeef5"
+      },
+      {
+       "title": "LinkedIn for B2B",
+       "url": "/linkedin-b2b/",
+       "description": "Company and founder content that builds authority.",
+       "logo": "linkedin-ads",
+       "variant": "badge",
+       "style": "background:#0A66C2"
+      },
+      {
+       "title": "Influencer Marketing",
+       "url": "/services/digital-marketing/social-media/influencer-marketing/",
+       "description": "Partnerships with creators your buyers already follow.",
+       "logo": "heart",
+       "variant": "icon",
+       "style": "--c:#d0367a;--bg:#fdeef5"
+      }
+     ]
+    },
+    {
+     "key": "email",
+     "title": "Email & Automation",
+     "description": "Nurture leads on autopilot",
+     "icon": "mail",
+     "url": "/services/#email",
+     "link_text": "Explore email and automation",
+     "cta_title": "Is your email list earning its keep? Get a <em>free email review</em>",
+     "cta_text": "We check your flows, open rates and deliverability, and show you the automations you’re missing.",
+     "cta_button": "Review my emails",
+     "cta_url": "/#free-review",
+     "links": [
+      {
+       "title": "Email Marketing",
+       "url": "/services/digital-marketing/email-marketing/",
+       "description": "Newsletters and campaigns people actually open.",
+       "logo": "mail",
+       "variant": "icon",
+       "style": "--c:#c26a06;--bg:#fdf3e3"
+      },
+      {
+       "title": "Marketing Automation",
+       "url": "/services/digital-marketing/marketing-automation/",
+       "description": "Welcome, nurture and follow-up flows that run on their own.",
+       "logo": "zap",
+       "variant": "icon",
+       "style": "--c:#c26a06;--bg:#fdf3e3"
+      },
+      {
+       "title": "CRM Setup",
+       "url": "/services/digital-marketing/crm-setup/",
+       "description": "HubSpot and other CRMs set up around how you sell.",
+       "logo": "crm-setup",
+       "variant": "logo",
+       "style": ""
+      },
+      {
+       "title": "Lead Nurturing",
+       "url": "/services/digital-marketing/lead-nurturing/",
+       "description": "Sequences that warm up leads until they are ready to talk.",
+       "logo": "trend",
+       "variant": "icon",
+       "style": "--c:#c26a06;--bg:#fdf3e3"
+      }
+     ]
+    },
+    {
+     "key": "cro",
+     "title": "CRO & Analytics",
+     "description": "More leads from the same traffic",
+     "icon": "target",
+     "url": "/services/#cro",
+     "link_text": "Explore CRO and analytics",
+     "cta_title": "Getting traffic but not enough leads? Get a <em>free conversion review</em>",
+     "cta_text": "A short video on where visitors drop off, what your tracking misses, and the first fixes to test.",
+     "cta_button": "Review my conversions",
+     "cta_url": "/#free-review",
+     "links": [
+      {
+       "title": "Conversion Rate Optimisation",
+       "url": "/services/digital-marketing/conversion-rate-optimisation/",
+       "description": "Find and fix what stops visitors becoming leads.",
+       "logo": "target",
+       "variant": "icon",
+       "style": "--c:#1d6fb8;--bg:#e8f2fb"
+      },
+      {
+       "title": "GA4 and Tracking Setup",
+       "url": "/ga4-tracking-setup/",
+       "description": "Accurate analytics and conversion tracking you can trust.",
+       "logo": "ga4-and-tracking-setup",
+       "variant": "logo",
+       "style": ""
+      },
+      {
+       "title": "Reporting Dashboards",
+       "url": "/services/digital-marketing/reporting-dashboards/",
+       "description": "Live Looker Studio dashboards for the numbers that matter.",
+       "logo": "reporting-dashboards",
+       "variant": "logo",
+       "style": ""
+      },
+      {
+       "title": "A/B Testing",
+       "url": "/services/digital-marketing/ab-testing/",
+       "description": "Test pages, offers and forms to learn what converts.",
+       "logo": "swap",
+       "variant": "icon",
+       "style": "--c:#1d6fb8;--bg:#e8f2fb"
+      }
+     ]
+    },
+    {
+     "key": "design",
+     "title": "Design & Branding",
+     "description": "Look as good as you are",
+     "icon": "palette",
+     "url": "/services/#design",
+     "link_text": "Explore design and branding",
+     "cta_title": "Does your brand look as good as you are? Get a <em>free design review</em>",
+     "cta_text": "Honest feedback on your logo, website and sales materials, with the changes that would build trust fastest.",
+     "cta_button": "Review my brand",
+     "cta_url": "/#free-review",
+     "links": [
+      {
+       "title": "Website Design",
+       "url": "/services/design/website-design/",
+       "description": "Modern, conversion-focused website designs.",
+       "logo": "browser",
+       "variant": "icon",
+       "style": "--c:#d9493a;--bg:#fdeeea"
+      },
+      {
+       "title": "UI / UX Design",
+       "url": "/services/design/ui-ux-design/",
+       "description": "Clear, easy-to-use interfaces for web and mobile apps.",
+       "logo": "ui-ux-design",
+       "variant": "logo",
+       "style": ""
+      },
+      {
+       "title": "Brand Identity",
+       "url": "/services/design/brand-identity/",
+       "description": "Logos, colours and type that make you memorable.",
+       "logo": "palette",
+       "variant": "icon",
+       "style": "--c:#d9493a;--bg:#fdeeea"
+      },
+      {
+       "title": "Landing Page Design",
+       "url": "/services/design/landing-page-design/",
+       "description": "Focused pages built for ads, launches and offers.",
+       "logo": "target",
+       "variant": "icon",
+       "style": "--c:#d9493a;--bg:#fdeeea"
+      }
+     ]
+    },
+    {
+     "key": "web",
+     "title": "Websites",
+     "description": "Fast sites that convert",
+     "icon": "browser",
+     "url": "/services/#web",
+     "link_text": "Explore website development",
+     "cta_title": "Is your website holding you back? Get a <em>free website review</em>",
+     "cta_text": "A short video on your site’s speed, mobile experience and conversion gaps, with the fixes we’d make first.",
+     "cta_button": "Review my website",
+     "cta_url": "/#free-review",
+     "links": [
+      {
+       "title": "Website Development",
+       "url": "/services/website-development/",
+       "description": "Fast, conversion-focused websites built to grow with you.",
+       "logo": "browser",
+       "variant": "icon",
+       "style": "--c:#4f46e5;--bg:#eef0fd"
+      },
+      {
+       "title": "WordPress Development",
+       "url": "/services/website-development/wordpress/",
+       "description": "Custom WordPress themes and sites your team can update.",
+       "logo": "wordpress-development",
+       "variant": "logo",
+       "style": ""
+      },
+      {
+       "title": "Shopify Development",
+       "url": "/shopify-development/",
+       "description": "Online stores that are fast, flexible and easy to run.",
+       "logo": "shopify-development",
+       "variant": "logo",
+       "style": ""
+      },
+      {
+       "title": "Drupal and Joomla",
+       "url": "/services/website-development/drupal/",
+       "description": "Builds, upgrades and support for Drupal and Joomla sites.",
+       "logo": "drupal-and-joomla",
+       "variant": "logo",
+       "style": ""
+      },
+      {
+       "title": "Website Migration",
+       "url": "/services/website-migration/",
+       "description": "Move platforms without losing traffic, rankings or data.",
+       "logo": "swap",
+       "variant": "icon",
+       "style": "--c:#4f46e5;--bg:#eef0fd"
+      },
+      {
+       "title": "Website Maintenance",
+       "url": "/website-maintenance/",
+       "description": "Updates, backups, security and small changes, every month.",
+       "logo": "key",
+       "variant": "icon",
+       "style": "--c:#4f46e5;--bg:#eef0fd"
+      }
+     ]
+    },
+    {
+     "key": "apps",
+     "title": "Apps & Software",
+     "description": "Web apps, mobile apps and SaaS",
+     "icon": "phone",
+     "url": "/services/#apps",
+     "link_text": "Explore app development",
+     "cta_title": "Planning an app or custom software? Get a <em>free scoping call</em>",
+     "cta_text": "Tell us the idea. We’ll come back with a rough scope, the right technology and a realistic timeline.",
+     "cta_button": "Book a scoping call",
+     "cta_url": "/contact/",
+     "links": [
+      {
+       "title": "Laravel Development",
+       "url": "/services/website-development/laravel/",
+       "description": "Custom web apps, portals and dashboards built in Laravel.",
+       "logo": "laravel-development",
+       "variant": "logo",
+       "style": ""
+      },
+      {
+       "title": "Mobile App Development",
+       "url": "/mobile-app-development/",
+       "description": "iOS and Android apps for your customers or your team.",
+       "logo": "phone",
+       "variant": "icon",
+       "style": "--c:#15803d;--bg:#e9f7ee"
+      },
+      {
+       "title": "SaaS Development",
+       "url": "/services/website-development/laravel/saas-development/",
+       "description": "From MVP to scalable product, built for growth.",
+       "logo": "layers",
+       "variant": "icon",
+       "style": "--c:#15803d;--bg:#e9f7ee"
+      },
+      {
+       "title": "API Development",
+       "url": "/services/website-development/laravel/laravel-api-development/",
+       "description": "Secure APIs and integrations that connect your systems.",
+       "logo": "link",
+       "variant": "icon",
+       "style": "--c:#15803d;--bg:#e9f7ee"
+      },
+      {
+       "title": "eCommerce Development",
+       "url": "/services/website-development/laravel/laravel-ecommerce-development/",
+       "description": "Custom stores and checkout flows built to scale.",
+       "logo": "cart",
+       "variant": "icon",
+       "style": "--c:#15803d;--bg:#e9f7ee"
+      },
+      {
+       "title": "Hire Developers",
+       "url": "/services/website-development/laravel/hire-laravel-developers/",
+       "description": "Dedicated Laravel developers who join your team.",
+       "logo": "users",
+       "variant": "icon",
+       "style": "--c:#15803d;--bg:#e9f7ee"
+      }
+     ]
+    },
+    {
+     "key": "ai",
+     "title": "Agentic AI Development",
+     "description": "AI agents that do real work",
+     "icon": "bot",
+     "url": "/services/#ai",
+     "link_text": "Explore agentic AI",
+     "cta_title": "Wondering where AI fits in your business? Get a <em>free AI review</em>",
+     "cta_text": "We map the tasks an AI agent could take off your team’s plate, and what it would take to build one.",
+     "cta_button": "Get my free AI review",
+     "cta_url": "/#free-review",
+     "links": [
+      {
+       "title": "AI Agent Development",
+       "url": "/ai-agent-development/",
+       "description": "Custom agents that research, decide and act across your tools.",
+       "logo": "bot",
+       "variant": "icon",
+       "style": "--c:#7c3aed;--bg:#f3edfd"
+      },
+      {
+       "title": "AI Chatbots and Assistants",
+       "url": "/services/ai-development/ai-chatbots/",
+       "description": "Website and support assistants that answer, qualify and book.",
+       "logo": "chat",
+       "variant": "icon",
+       "style": "--c:#7c3aed;--bg:#f3edfd"
+      },
+      {
+       "title": "AI Workflow Automation",
+       "url": "/ai-workflow-automation/",
+       "description": "Hand repetitive work like data entry and reporting to AI.",
+       "logo": "zap",
+       "variant": "icon",
+       "style": "--c:#7c3aed;--bg:#f3edfd"
+      },
+      {
+       "title": "AI Knowledge Assistants",
+       "url": "/ai-knowledge-assistants/",
+       "description": "Search and answer from your documents, policies and data.",
+       "logo": "search",
+       "variant": "icon",
+       "style": "--c:#7c3aed;--bg:#f3edfd"
+      },
+      {
+       "title": "LLM Integration",
+       "url": "/services/ai-development/llm-integration/",
+       "description": "Add Claude, GPT or Gemini features into your product.",
+       "logo": "link",
+       "variant": "icon",
+       "style": "--c:#7c3aed;--bg:#f3edfd"
+      },
+      {
+       "title": "AI Strategy and Consulting",
+       "url": "/services/ai-development/ai-consulting/",
+       "description": "Find where AI saves time and money before you build.",
+       "logo": "chart",
+       "variant": "icon",
+       "style": "--c:#7c3aed;--bg:#f3edfd"
+      }
+     ]
+    },
+    {
+     "key": "audits",
+     "title": "Audits and Planning",
+     "description": "Know what to fix first",
+     "icon": "chart",
+     "url": "/audits/",
+     "link_text": "See all audits",
+     "cta_title": "Not sure where to start? Get a <em>free review</em>",
+     "cta_text": "A short video on your site’s speed, SEO, AI visibility and conversion gaps, with the fixes we’d make first.",
+     "cta_button": "Get my free review",
+     "cta_url": "/#free-review",
+     "links": [
+      {
+       "title": "Marketing Plan",
+       "url": "/audits/marketing-plan/",
+       "description": "A clear roadmap for steady growth and lead generation.",
+       "logo": "chart",
+       "variant": "icon",
+       "style": "--c:#475569;--bg:#eef1f5"
+      },
+      {
+       "title": "Website Audit",
+       "url": "/audits/website-audit/",
+       "description": "Find the technical, SEO, UX and conversion issues holding you back.",
+       "logo": "browser",
+       "variant": "icon",
+       "style": "--c:#475569;--bg:#eef1f5"
+      },
+      {
+       "title": "SEO Audit",
+       "url": "/audits/seo-audit/",
+       "description": "See why you are not ranking and what to fix first.",
+       "logo": "search",
+       "variant": "icon",
+       "style": "--c:#475569;--bg:#eef1f5"
+      },
+      {
+       "title": "GEO Audit",
+       "url": "/audits/geo-audit/",
+       "description": "Check how AI tools see and describe your brand.",
+       "logo": "sparkle",
+       "variant": "icon",
+       "style": "--c:#475569;--bg:#eef1f5"
+      },
+      {
+       "title": "Content Audit",
+       "url": "/audits/content-audit/",
+       "description": "Uncover content gaps, quick wins and pages to improve.",
+       "logo": "pen",
+       "variant": "icon",
+       "style": "--c:#475569;--bg:#eef1f5"
+      },
+      {
+       "title": "Performance Marketing Audit",
+       "url": "/audits/google-ads-audit/",
+       "description": "Cut wasted ad spend and improve campaign results.",
+       "logo": "megaphone",
+       "variant": "icon",
+       "style": "--c:#475569;--bg:#eef1f5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Case Studies",
+   "url": "/case-studies/"
+  },
+  {
+   "title": "Portfolio",
+   "url": "/portfolio/"
+  },
+  {
+   "title": "Articles",
+   "url": "/articles/"
+  }
+ ],
+ "footer_company": {
+  "title": "Company",
+  "items": [
+   {
+    "title": "About us",
+    "url": "/about/"
+   },
+   {
+    "title": "Case studies",
+    "url": "/case-studies/"
+   },
+   {
+    "title": "Portfolio",
+    "url": "/portfolio/"
+   },
+   {
+    "title": "All services",
+    "url": "/services/"
+   },
+   {
+    "title": "Contact us",
+    "url": "/contact/"
+   }
+  ]
+ },
+ "footer_resources": {
+  "title": "Resources",
+  "items": [
+   {
+    "title": "Articles",
+    "url": "/articles/"
+   },
+   {
+    "title": "Free website review",
+    "url": "/#free-review"
+   },
+   {
+    "title": "Audits",
+    "url": "/audits/"
+   },
+   {
+    "title": "Marketing plan",
+    "url": "/audits/marketing-plan/"
+   },
+   {
+    "title": "Sitemap",
+    "url": "/sitemap/"
+   }
+  ]
+ },
+ "legal": {
+  "title": "Legal",
+  "items": [
+   {
+    "title": "Privacy policy",
+    "url": "/privacy/"
+   },
+   {
+    "title": "Terms",
+    "url": "/terms/"
+   },
+   {
+    "title": "Sitemap",
+    "url": "/sitemap/"
+   }
+  ]
+ }
+}

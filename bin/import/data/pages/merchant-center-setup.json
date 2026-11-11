@@ -1,0 +1,490 @@
+{
+ "title": "Google Merchant Center Setup",
+ "path": "/services/digital-marketing/performance-marketing/google-shopping-ads/merchant-center/",
+ "seo": {
+  "title": "Google Merchant Center Setup | Product Feed Optimisation | Intella Digital",
+  "description": "Google Merchant Center setup and product feed optimisation for Shopify, WooCommerce and other stores: shipping, tax, policies, titles and attributes."
+ },
+ "blocks": [
+  {
+   "name": "intella/hero-short-form",
+   "attrs": {
+    "crumbs": [
+     {
+      "label": "Home",
+      "url": "/"
+     },
+     {
+      "label": "Performance Marketing",
+      "url": "/services/digital-marketing/performance-marketing/"
+     },
+     {
+      "label": "Google Shopping Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-shopping-ads/"
+     },
+     {
+      "label": "Merchant Center Setup and Product Feeds",
+      "url": ""
+     }
+    ],
+    "title": "Merchant Center and product feeds, <em>set up to sell</em>",
+    "lead": "We set up Merchant Center, connect your store and build a product feed that gets approved and shows for the right searches.",
+    "buttonText": "Get my Merchant Center set up",
+    "formLabel": "Get my Merchant Center set up",
+    "service": "merchant-center-setup",
+    "notes": [
+     "Shopify, WooCommerce and more",
+     "Titles written for search",
+     "Disapprovals fixed at the source"
+    ],
+    "sliderLabel": "Common Merchant Center and product feed problems",
+    "fixLabel": "How we fix it",
+    "slides": [
+     {
+      "kicker": "",
+      "title": "Products that can’t show",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Product status, 1,840 products</p><ul class=\"cmhc__fun\" role=\"list\"><li style=\"--w:69%\"><span>Approved</span><b>1,268</b></li><li style=\"--w:19%\"><span>Limited</span><b>352</b></li><li style=\"--w:12%\"><span>Disapproved</span><b>220</b></li></ul><p class=\"cmhc__note\">Almost a third of the range can’t show properly</p></div>",
+      "photo": 0,
+      "fix": "Every error traced to its source and fixed, then checked every week.",
+      "look": "status"
+     },
+     {
+      "kicker": "",
+      "title": "Titles nobody searches for",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Product title</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Title</span><b>“Aurora”</b></li><li class=\"no\"><span>Product type and size</span><b>Missing</b></li><li class=\"no\"><span>Colour and material</span><b>Missing</b></li></ul><p class=\"cmhc__note\">It can’t show for “brass pendant light”</p></div>",
+      "photo": 0,
+      "fix": "Titles rewritten with brand, product type, size, colour and material.",
+      "look": "titles"
+     },
+     {
+      "kicker": "",
+      "title": "Missing GTINs and brands",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Identifiers</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>GTIN</span><b>Missing on 640</b></li><li class=\"no\"><span>Brand</span><b>Blank on 210</b></li><li class=\"no\"><span>Status</span><b>Limited</b></li></ul><p class=\"cmhc__note\">Limited products barely show</p></div>",
+      "photo": 0,
+      "fix": "Identifiers added from your suppliers, or marked correctly for your own products.",
+      "look": "ids"
+     },
+     {
+      "kicker": "",
+      "title": "Shipping and returns not set",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Account settings</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Shipping to UAE</span><b>Not set</b></li><li class=\"no\"><span>Delivery times</span><b>Missing</b></li><li class=\"no\"><span>Return policy</span><b>Not set</b></li></ul><p class=\"cmhc__note\">Products can’t show where you sell</p></div>",
+      "photo": 0,
+      "fix": "Shipping, delivery times, tax and returns set for every country you sell to.",
+      "look": "ship"
+     },
+     {
+      "kicker": "",
+      "title": "Prices that don’t match the site",
+      "card": "<div class=\"cmhc__card\"><p class=\"cmhc__h\">Price check</p><ul class=\"cmhc__ask\" role=\"list\"><li class=\"no\"><span>Price in feed</span><b>$89</b></li><li class=\"no\"><span>Price on site</span><b>$79 on sale</b></li><li class=\"no\"><span>Warnings this week</span><b>112</b></li></ul><p class=\"cmhc__note\">Repeated mismatches can suspend the account</p></div>",
+      "photo": 0,
+      "fix": "Feed and store kept in sync, including sale prices and stock.",
+      "look": "price"
+     }
+    ],
+    "tools": "<ul class=\"pmtools\" role=\"list\" aria-label=\"Tools we work in\"><li class=\"pmtools__i pmtools__i--1\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><path d=\"M8 19h32l-3 21H11z\" fill=\"#4285F4\"/><path d=\"M6 19l5-11h26l5 11z\" fill=\"#34A853\"/><rect x=\"20\" y=\"28\" width=\"8\" height=\"12\" fill=\"#fff\"/></svg><span>Merchant Center</span></li><li class=\"pmtools__i pmtools__i--2\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><path d=\"M11 15h26l-2.5 27h-21z\" fill=\"#95BF47\"/><path d=\"M18 15a6 6 0 0 1 12 0\" fill=\"none\" stroke=\"#5E8E3E\" stroke-width=\"3.5\"/></svg><span>Shopify</span></li><li class=\"pmtools__i pmtools__i--3\"><svg viewBox=\"0 0 48 48\" aria-hidden=\"true\"><path d=\"M8 11h32a4 4 0 0 1 4 4v14a4 4 0 0 1-4 4H27l3 6-9-6H8a4 4 0 0 1-4-4V15a4 4 0 0 1 4-4z\" fill=\"#7F54B3\"/><path d=\"M11 18l3 9 3-7 3 7 3-9M30 22a3 3 0 1 0 0.01 0M37 22a3 3 0 1 0 0.01 0\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><span>WooCommerce</span></li></ul>",
+    "visual": "",
+    "look": "cmhero cmhero--pm cmhero--job"
+   }
+  },
+  {
+   "name": "intella/logo-strip",
+   "attrs": {
+    "label": "Companies we’ve helped grow",
+    "clients": [
+     "post:client:Client logo 1",
+     "post:client:Client logo 2",
+     "post:client:Client logo 3",
+     "post:client:Client logo 4",
+     "post:client:Client logo 5",
+     "post:client:Client logo 6",
+     "post:client:Client logo 7"
+    ],
+    "marquee": false
+   }
+  },
+  {
+   "name": "intella/sign-strips",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Signs your feed <em>is holding you back</em>",
+    "lead": "In Shopping ads and free listings, your feed decides which searches you show for and how your products look. These are the problems we see most.",
+    "items": [
+     {
+      "title": "Hundreds of products are disapproved or limited",
+      "text": "Merchant Center lists the errors, but not always clearly. A missing field, a policy problem or an image issue can each block hundreds of products, and every one of them is a product that can’t show in Shopping ads or free listings.\n\nWe group the errors by cause, fix each one at the source, in your store, a feed rule or a supplemental feed, and request reviews where needed. Then we check the diagnostics every week so new errors don’t pile up.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Product status: sample report\">\n\t<div class=\"pmrep__head\"><b>Product status</b><span>Merchant Center</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Approved</span><span class=\"pmrep__s\">1,268</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Limited</span><span class=\"pmrep__s\">352</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Disapproved</span><span class=\"pmrep__s\">220</span></li><li class=\"pmrep__r pmrep__r--info\"><span class=\"pmrep__l\">Main cause</span><span class=\"pmrep__s\">Missing GTIN</span></li></ul>\n\t<p class=\"pmrep__foot\">A third of the range held back</p>\n</figure>"
+     },
+     {
+      "title": "Titles are copied from your store",
+      "text": "Store titles are written for people already on your site: short, branded, sometimes just a product name. In Shopping, Google matches searches to the title, so a product called “Aurora” never shows for “brass pendant light 40cm”.\n\nWe rewrite titles with the words people search: brand, product type, key attributes such as size, colour and material, and the model. We do it with feed rules for large ranges and by hand for best-sellers.",
+      "picture": "<figure class=\"pmtf pmtf--mini\" role=\"img\" aria-label=\"Product title before and after\">\n\t<p class=\"pmtf__h\">Product title</p>\n\t<div class=\"pmtf__r pmtf__r--b\"><span>Before</span><p>Aurora</p></div>\n\t<div class=\"pmtf__r pmtf__r--a\"><span>After</span><p><mark title=\"Brand\">Lumio<small>Brand</small></mark> Aurora <mark title=\"Material\">Brass<small>Material</small></mark> <mark title=\"Type\">Pendant Light<small>Type</small></mark> <mark title=\"Size\">40cm<small>Size</small></mark></p></div>\n\t<ul class=\"pmtf__tags\" role=\"list\"><li>Brand</li><li>Material</li><li>Type</li><li>Size</li></ul>\n</figure>"
+     },
+     {
+      "title": "GTINs, brands or sizes are missing",
+      "text": "GTINs (barcodes), brands and model numbers help Google match your product to searches and to other sellers. Without them, products are often limited, and clothing, shoes and furniture need sizes, colours and gender too.\n\nWe add identifiers from your suppliers’ data, mark your own-brand products correctly, and fill in the attributes each category needs. Limited products become approved.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Identifiers: sample report\">\n\t<div class=\"pmrep__head\"><b>Identifiers</b><span>Before our fixes</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">GTIN missing</span><span class=\"pmrep__s\">640</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Brand blank</span><span class=\"pmrep__s\">210</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Size missing</span><span class=\"pmrep__s\">184</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Own-brand marked</span><span class=\"pmrep__s\">No</span></li></ul>\n\t<p class=\"pmrep__foot\">Products limited for missing data</p>\n</figure>"
+     },
+     {
+      "title": "Shipping, tax or returns are rejected",
+      "text": "Merchant Center needs shipping costs, delivery times and, in some countries, tax and return settings. If they’re missing or don’t match your site, products can’t show in that country at all.\n\nWe set shipping, delivery times, tax and returns for each country you sell to, so they match what customers see at checkout. Products then show everywhere you deliver.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Settings: sample report\">\n\t<div class=\"pmrep__head\"><b>Settings</b><span>Per country</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Shipping, UAE</span><span class=\"pmrep__s\">Not set</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Shipping, Saudi Arabia</span><span class=\"pmrep__s\">Not set</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Delivery times</span><span class=\"pmrep__s\">Missing</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Return policy</span><span class=\"pmrep__s\">Not set</span></li></ul>\n\t<p class=\"pmrep__foot\">Products blocked in two markets</p>\n</figure>"
+     },
+     {
+      "title": "Prices or stock don’t match the site",
+      "text": "When a sale starts, a product sells out or a price changes, the feed has to change too. If it doesn’t, Google flags a mismatch, and repeated mismatches can lead to a warning or a suspension.\n\nWe set the feed to update on a schedule that matches your store, handle sale prices properly and add structured data to your product pages so Google reads the right price.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Price and stock: sample report\">\n\t<div class=\"pmrep__head\"><b>Price and stock</b><span>Last 7 days</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Price mismatches</span><span class=\"pmrep__s\">112</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Stock mismatches</span><span class=\"pmrep__s\">38</span></li><li class=\"pmrep__r pmrep__r--warn\"><span class=\"pmrep__l\">Feed updates</span><span class=\"pmrep__s\">Once a day</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Structured data</span><span class=\"pmrep__s\">Missing</span></li></ul>\n\t<p class=\"pmrep__foot\">One step from a warning</p>\n</figure>"
+     },
+     {
+      "title": "You haven’t set it up yet",
+      "text": "Many stores never set up Merchant Center, or set it up years ago and forgot it. That means no Shopping ads, no free listings and none of the product searches where people are ready to buy.\n\nWe create and verify the account, connect your store, set up shipping and tax, and build a clean feed. Free listings go live first, so you get product traffic before you spend anything on ads.",
+      "picture": "<figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Merchant Center: sample report\">\n\t<div class=\"pmrep__head\"><b>Merchant Center</b><span>Today</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Account</span><span class=\"pmrep__s\">None</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Free listings</span><span class=\"pmrep__s\">Off</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Products in Google</span><span class=\"pmrep__s\">0</span></li><li class=\"pmrep__r pmrep__r--bad\"><span class=\"pmrep__l\">Store connected</span><span class=\"pmrep__s\">No</span></li></ul>\n\t<p class=\"pmrep__foot\">Missing from product searches</p>\n</figure>"
+     }
+    ],
+    "noteTitle": "Better feed, better Shopping ads",
+    "noteText": "Clear titles and complete data help Google show the right products for the right searches, in ads and free listings.",
+    "buttonText": "Get this fixed",
+    "buttonUrl": "#proposal"
+   }
+  },
+  {
+   "name": "intella/offer",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Merchant Center Setup and Product Feeds, <em>done properly</em>",
+    "lead": "One fixed-scope project, quoted after a short call. No retainer needed.",
+    "name": "Merchant Center setup and feed",
+    "price": "Fixed price, quoted after a 30-minute call",
+    "items": [
+     "Merchant Center account, verification and business details",
+     "Store connection: Shopify, WooCommerce and others",
+     "Shipping, delivery times, tax and returns",
+     "Titles and descriptions written for search",
+     "GTINs, brands and category attributes",
+     "Image checks and fixes",
+     "Feed rules and a supplemental feed",
+     "Free listings, then Google Ads linked"
+    ],
+    "delivery": "Usually done in 1 to 2 weeks",
+    "buttonText": "Request a quote",
+    "buttonUrl": "#proposal",
+    "visual": "<div class=\"pmhum\">\n\t\t\t\t\t<img src=\"{{media:assets/images/team/team-3.jpg}}\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">\n\t\t\t\t\t<div><p class=\"pmhum__t\">A feed specialist, product by product</p><p>Your feed specialist fixes errors at the source and rewrites titles by hand for your best-sellers, with feed rules for the rest of the range.</p><ul role=\"list\"><li>Errors fixed at the source</li><li>Best-sellers by hand</li><li>Weekly checks for 30 days</li></ul></div>\n\t\t\t\t</div><figure class=\"pmtf \" role=\"img\" aria-label=\"Product title before and after\">\n\t<p class=\"pmtf__h\">Product title</p>\n\t<div class=\"pmtf__r pmtf__r--b\"><span>Before</span><p>Aurora</p></div>\n\t<div class=\"pmtf__r pmtf__r--a\"><span>After</span><p><mark title=\"Brand\">Lumio<small>Brand</small></mark> Aurora <mark title=\"Material\">Brass<small>Material</small></mark> <mark title=\"Type\">Pendant Light<small>Type</small></mark> <mark title=\"Size\">40cm<small>Size</small></mark> <mark title=\"Colour\">Warm White<small>Colour</small></mark></p></div>\n\t<ul class=\"pmtf__tags\" role=\"list\"><li>Brand</li><li>Material</li><li>Type</li><li>Size</li><li>Colour</li></ul><p class=\"pmtf__foot\">Same product, same photo. The new title matches what people search, so it shows for far more searches.</p>\n</figure>"
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "How we set it up",
+    "html": "<section class=\"section section--cream\" aria-labelledby=\"h-218\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-218\">How we <span class=\"accent\">set it up</span></h2>\n\t\t\t\t<p class=\"section-lead\">From an empty or broken account to an approved feed in one to two weeks. You see the changes before they go live.</p>\n\t\t\t</div>\n\n\t\t\t<ol class=\"pmsds\" role=\"list\" data-acc><li class=\"pmsd js-acc is-open\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"true\" aria-controls=\"pmsd-1\"><span class=\"pmsd__when\">Step 1 · Days 1–2</span><span class=\"pmsd__t\">Audit</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-1\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We look at your store, your product data and any existing Merchant Center account. We list every error and warning, group them by cause and check your shipping, returns and policies against Google’s rules.</p><p class=\"pmsd__get\"><b>You get:</b> An audit with what to fix first.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Store platform and product data checked</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Errors and warnings grouped by cause</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Shipping, returns and policies reviewed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Best-sellers and margins noted</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-2\"><span class=\"pmsd__when\">Step 2 · Days 2–4</span><span class=\"pmsd__t\">Account and settings</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-2\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We create or clean up the account, verify and claim your website, and add business details, shipping, delivery times, tax and returns for every country you sell to.</p><p class=\"pmsd__get\"><b>You get:</b> An account Google can approve.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Website verified and claimed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Business details and contact information</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Shipping and delivery times per country</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tax and return settings</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-3\"><span class=\"pmsd__when\">Step 3 · Days 4–8</span><span class=\"pmsd__t\">Feed</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-3\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We connect your store, then improve the data: titles, descriptions, identifiers, categories, images and custom labels. Feed rules cover large ranges; best-sellers get written by hand.</p><p class=\"pmsd__get\"><b>You get:</b> A feed ready for review.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Store connection or feed file</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Titles and descriptions rewritten</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> GTINs, brands and attributes completed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Custom labels for margin and best-sellers</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-4\"><span class=\"pmsd__when\">Step 4 · Days 8–10</span><span class=\"pmsd__t\">Approve</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-4\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We submit the feed, work through Google’s review and fix anything still flagged. Where a review is needed, we request it with the fixes in place.</p><p class=\"pmsd__get\"><b>You get:</b> Products approved and showing.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Feed submitted and processed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Remaining errors fixed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Reviews requested where needed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Free listings switched on</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li><li class=\"pmsd js-acc\">\n\t\t\t\t\t<h3 class=\"pmsd__k\"><button class=\"pmsd__btn js-acc-btn\" type=\"button\" aria-expanded=\"false\" aria-controls=\"pmsd-5\"><span class=\"pmsd__when\">Step 5 · Day 10, then 30 days</span><span class=\"pmsd__t\">Hand over and monitor</span><span class=\"pmst__x\" aria-hidden=\"true\"></span></button></h3>\n\t\t\t\t\t<div class=\"pmsd__b\" id=\"pmsd-5\"><div class=\"pmsd__in\">\n\t\t\t\t\t\t<div class=\"pmsd__txt\"><p>We link Google Ads, hand over a feed report and checklist, and check the diagnostics every week for 30 days, so new products and price changes don’t create new errors.</p><p class=\"pmsd__get\"><b>You get:</b> A healthy feed you know how to keep healthy.</p></div>\n\t\t\t\t\t\t<ul class=\"pmsd__do\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Google Ads and GA4 linked</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A walkthrough call</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Weekly diagnostics for 30 days</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> A checklist for new products</li></ul>\n\t\t\t\t\t</div></div>\n\t\t\t\t</li></ol>\n\t\t\t<div class=\"pmau__head\"><p class=\"pmau__kick\">What we set up</p><h3>Eight parts of Merchant Center, <span class=\"accent\">set up properly</span></h3><p>For each part: why it matters, what we set up, what we usually find in existing accounts and what we change.</p></div>\n\t\t\t<div class=\"pmau\" data-tabs>\n\t\t\t\t<div class=\"pmau__tabs\" role=\"tablist\" aria-orientation=\"vertical\" aria-label=\"Parts of Merchant Center we set up\"><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-217-t0\" aria-controls=\"au-217-p0\" aria-selected=\"true\"><span>01</span>Account and verification<em>6 settings · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-217-t1\" aria-controls=\"au-217-p1\" aria-selected=\"false\"><span>02</span>Store connection and feed source<em>6 settings · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-217-t2\" aria-controls=\"au-217-p2\" aria-selected=\"false\"><span>03</span>Shipping, tax and returns<em>6 settings · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-217-t3\" aria-controls=\"au-217-p3\" aria-selected=\"false\"><span>04</span>Titles and descriptions<em>6 settings · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-217-t4\" aria-controls=\"au-217-p4\" aria-selected=\"false\"><span>05</span>Identifiers and attributes<em>6 settings · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-217-t5\" aria-controls=\"au-217-p5\" aria-selected=\"false\"><span>06</span>Images<em>6 settings · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-217-t6\" aria-controls=\"au-217-p6\" aria-selected=\"false\"><span>07</span>Prices, stock and sync<em>6 settings · 4 common issues</em></button><button class=\"pmau__tab\" type=\"button\" role=\"tab\" id=\"au-217-t7\" aria-controls=\"au-217-p7\" aria-selected=\"false\"><span>08</span>Free listings, labels and promotions<em>6 settings · 4 common issues</em></button></div>\n\t\t\t\t<div class=\"pmau__panels\"><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-217-p0\" aria-labelledby=\"au-217-t0\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 1 of 8</p><h4>Account and verification</h4><p class=\"pmau__why\">Before any product can show, Google checks that the store is yours and that it’s a real business, with clear contact details and policies.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Account: sample report\">\n\t<div class=\"pmrep__head\"><b>Account</b><span>After setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Website</span><span class=\"pmrep__s\">Verified and claimed</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Business details</span><span class=\"pmrep__s\">Complete</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Policies</span><span class=\"pmrep__s\">Linked</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Admin</span><span class=\"pmrep__s\">You</span></li></ul>\n\t<p class=\"pmrep__foot\">Ready for Google’s checks</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Website verified and claimed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Business name, address and phone</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Contact page and customer service details</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Refund and return policy pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Secure checkout</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Users and access</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Website never claimed</li><li><span aria-hidden=\"true\">!</span> No contact details on the site</li><li><span aria-hidden=\"true\">!</span> Return policy missing or hard to find</li><li><span aria-hidden=\"true\">!</span> Account owned by a former developer</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> A verified, claimed website</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Business details that match the site</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Policy pages Google can find</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Admin access in your name</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-217-p1\" aria-labelledby=\"au-217-t1\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 2 of 8</p><h4>Store connection and feed source</h4><p class=\"pmau__why\">How products get into Merchant Center decides how often they update and how easy they are to fix. The right method depends on your platform and range.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Feed source: sample report\">\n\t<div class=\"pmrep__head\"><b>Feed source</b><span>Before vs after</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Feeds</span><span class=\"pmrep__s\">2 → 1</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Updates</span><span class=\"pmrep__s\">Monthly → 4 a day</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Variants</span><span class=\"pmrep__s\">Split</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Feed rules</span><span class=\"pmrep__s\">14</span></li></ul>\n\t<p class=\"pmrep__foot\">One source, kept up to date</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Shopify Google channel</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> WooCommerce plugin or feed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Feed files for other platforms</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Update schedule</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Supplemental feeds</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Feed rules</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Two feeds sending the same products</li><li><span aria-hidden=\"true\">!</span> A feed file updated by hand once a month</li><li><span aria-hidden=\"true\">!</span> An app that overwrites every fix</li><li><span aria-hidden=\"true\">!</span> Variants sent as one product</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> One clean source of products</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Updates on a schedule that matches the store</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Fixes in feed rules, so they stay fixed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Each variant sent as its own product</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-217-p2\" aria-labelledby=\"au-217-t2\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 3 of 8</p><h4>Shipping, tax and returns</h4><p class=\"pmau__why\">Shipping costs and delivery times show in your ads and free listings. If they’re missing or wrong, products can’t show in that country, or customers get a surprise at checkout.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Shipping: sample report\">\n\t<div class=\"pmrep__head\"><b>Shipping</b><span>Per market</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">UK</span><span class=\"pmrep__s\">Set</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">UAE</span><span class=\"pmrep__s\">Set</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Saudi Arabia</span><span class=\"pmrep__s\">Set</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Returns</span><span class=\"pmrep__s\">30 days</span></li></ul>\n\t<p class=\"pmrep__foot\">Products show where you deliver</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Shipping costs per country</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Delivery times</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Free shipping thresholds</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Tax settings where needed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Return policy and window</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Markets you sell to</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> No shipping set for a country you sell to</li><li><span aria-hidden=\"true\">!</span> Delivery times missing</li><li><span aria-hidden=\"true\">!</span> Free shipping on the site but not in Merchant Center</li><li><span aria-hidden=\"true\">!</span> Return policy not added</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Shipping and delivery times for every market</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Free shipping thresholds that match the site</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Returns set, so they show in listings</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Settings checked against checkout</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-217-p3\" aria-labelledby=\"au-217-t3\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 4 of 8</p><h4>Titles and descriptions</h4><p class=\"pmau__why\">Titles decide which searches your products show for. Google reads the first words most, so the important details go first.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmtf pmtf--mini\" role=\"img\" aria-label=\"Product title before and after\">\n\t<p class=\"pmtf__h\">Product title</p>\n\t<div class=\"pmtf__r pmtf__r--b\"><span>Before</span><p>Aurora</p></div>\n\t<div class=\"pmtf__r pmtf__r--a\"><span>After</span><p><mark title=\"Brand\">Lumio<small>Brand</small></mark> Aurora <mark title=\"Material\">Brass<small>Material</small></mark> <mark title=\"Type\">Pendant Light<small>Type</small></mark> <mark title=\"Size\">40cm<small>Size</small></mark></p></div>\n\t<ul class=\"pmtf__tags\" role=\"list\"><li>Brand</li><li>Material</li><li>Type</li><li>Size</li></ul>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Brand, product type and key attributes</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Order of words by category</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Best-sellers written by hand</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Feed rules for the rest</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Descriptions with materials and use</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> No promotional text</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Titles copied from the store, often just a name</li><li><span aria-hidden=\"true\">!</span> Size and colour missing from titles</li><li><span aria-hidden=\"true\">!</span> “Free delivery” and “Sale” in titles</li><li><span aria-hidden=\"true\">!</span> Descriptions empty or copied from suppliers</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Titles in the order people search</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Attributes added from your product data</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Promotional text removed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Descriptions that answer buyers’ questions</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-217-p4\" aria-labelledby=\"au-217-t4\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 5 of 8</p><h4>Identifiers and attributes</h4><p class=\"pmau__why\">GTINs, brands and model numbers let Google match your products to searches. Some categories also need size, colour, gender, age group or material.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Identifiers: sample report\">\n\t<div class=\"pmrep__head\"><b>Identifiers</b><span>After our fixes</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">GTIN missing</span><span class=\"pmrep__s\">640 → 0</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Brand blank</span><span class=\"pmrep__s\">210 → 0</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Limited products</span><span class=\"pmrep__s\">352 → 14</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Category set</span><span class=\"pmrep__s\">100%</span></li></ul>\n\t<p class=\"pmrep__foot\">Limited products become approved</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> GTINs from suppliers</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Brand and MPN</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Own-brand products marked correctly</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Google product category</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Size, colour and gender</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Product type for your own structure</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> 640 products without GTINs</li><li><span aria-hidden=\"true\">!</span> Brand left blank</li><li><span aria-hidden=\"true\">!</span> Own-brand products sent with fake GTINs</li><li><span aria-hidden=\"true\">!</span> Clothing without sizes or gender</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Identifiers added from supplier data</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Own-brand products marked correctly</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Categories and product types set</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Required attributes for each category</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-217-p5\" aria-labelledby=\"au-217-t5\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 6 of 8</p><h4>Images</h4><p class=\"pmau__why\">Images are the first thing people see in Shopping. Google rejects images with text, watermarks, borders or placeholders, and blurry ones lose clicks.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Images: sample report\">\n\t<div class=\"pmrep__head\"><b>Images</b><span>Before vs after</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Images with text</span><span class=\"pmrep__s\">96 → 0</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Placeholders</span><span class=\"pmrep__s\">41 → 0</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Variant images</span><span class=\"pmrep__s\">Added</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Extra images</span><span class=\"pmrep__s\">3 per product</span></li></ul>\n\t<p class=\"pmrep__foot\">Images Google accepts</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Main image for every product</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Extra images</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> No text, logos or watermarks</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Size and quality</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Image for each variant</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Lifestyle images where allowed</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Promotional text on product images</li><li><span aria-hidden=\"true\">!</span> Placeholder images for new products</li><li><span aria-hidden=\"true\">!</span> The same image for every colour</li><li><span aria-hidden=\"true\">!</span> Images too small to show</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Clean main images on a plain background</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> An image for each colour or variant</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Extra images added</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> New products checked before they go live</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-217-p6\" aria-labelledby=\"au-217-t6\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 7 of 8</p><h4>Prices, stock and sync</h4><p class=\"pmau__why\">The price and availability in your feed must match your site exactly. Mismatches limit products and, if they keep happening, can lead to a warning or a suspension.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Sync: sample report\">\n\t<div class=\"pmrep__head\"><b>Sync</b><span>Last 7 days</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Price mismatches</span><span class=\"pmrep__s\">112 → 0</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Stock mismatches</span><span class=\"pmrep__s\">38 → 2</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Updates</span><span class=\"pmrep__s\">4 a day</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Structured data</span><span class=\"pmrep__s\">Added</span></li></ul>\n\t<p class=\"pmrep__foot\">No more mismatch warnings</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Price and sale price</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Sale dates</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Availability and stock</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Currency</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Structured data on product pages</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Automatic item updates</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> 112 price mismatches in a week</li><li><span aria-hidden=\"true\">!</span> Sale prices missing from the feed</li><li><span aria-hidden=\"true\">!</span> Sold-out products still listed</li><li><span aria-hidden=\"true\">!</span> No structured data on product pages</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Feed updates several times a day</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Sale prices with start and end dates</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Stock synced from the store</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Structured data so Google reads the right price</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div><div class=\"pmau__panel\" role=\"tabpanel\" id=\"au-217-p7\" aria-labelledby=\"au-217-t7\">\n\t\t\t\t\t<div class=\"pmau__top\">\n\t\t\t\t\t\t<div><p class=\"pmau__k\">Area 8 of 8</p><h4>Free listings, labels and promotions</h4><p class=\"pmau__why\">Once the feed is clean, a few extras help it earn more: free listings, custom labels for bidding and promotions that show in your listings.</p></div>\n\t\t\t\t\t\t<div class=\"pmau__pic\" aria-hidden=\"true\"><figure class=\"pmrep pmrep--mini\" role=\"img\" aria-label=\"Extras: sample report\">\n\t<div class=\"pmrep__head\"><b>Extras</b><span>After setup</span></div>\n\t<ul class=\"pmrep__rows\" role=\"list\"><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Free listings</span><span class=\"pmrep__s\">On</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Custom labels</span><span class=\"pmrep__s\">3</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Promotions</span><span class=\"pmrep__s\">Ready</span></li><li class=\"pmrep__r pmrep__r--ok\"><span class=\"pmrep__l\">Google Ads</span><span class=\"pmrep__s\">Linked</span></li></ul>\n\t<p class=\"pmrep__foot\">Ready for Shopping ads</p>\n</figure></div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<p class=\"pmau__sh\">What we set up</p>\n\t\t\t\t\t<ul class=\"pmau__ch\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Free listings on</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Custom labels for margin, season and best-sellers</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Promotions</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Product reviews feed</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Google Ads and GA4 links</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-check\"/></svg> Local inventory if you have shops</li></ul>\n\t\t\t\t\t<div class=\"pmau__fr\">\n\t\t\t\t\t\t<div class=\"pmau__f\"><p class=\"pmau__sh\">What we often find</p><ul class=\"pmau__fl\" role=\"list\"><li><span aria-hidden=\"true\">!</span> Free listings switched off</li><li><span aria-hidden=\"true\">!</span> No custom labels, so every product is bid on the same way</li><li><span aria-hidden=\"true\">!</span> Promotions never set up</li><li><span aria-hidden=\"true\">!</span> Google Ads not linked</li></ul></div>\n\t\t\t\t\t\t<div class=\"pmau__r\"><p class=\"pmau__sh\">What we change</p><ul class=\"pmau__rl\" role=\"list\"><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Free listings live from day one</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Custom labels ready for Shopping and Performance Max</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Promotions for sales</li><li><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg> Google Ads and GA4 linked</li></ul></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "merchant-center-setup",
+    "modules": [
+     "@intella/scroll-accordions",
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/problems",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Why products <em>get disapproved</em>",
+    "lead": "The issues we fix most often, what they look like in Merchant Center and how we fix them.",
+    "problemLabel": "The problem",
+    "fixLabel": "How we fix it",
+    "items": [
+     {
+      "title": "Missing GTIN or brand",
+      "problem": "Products without identifiers get limited, and Google can’t match them to searches.",
+      "beforeTitle": "Merchant Center",
+      "before": [
+       {
+        "label": "Limited products",
+        "value": "352",
+        "tone": "bad"
+       },
+       {
+        "label": "GTIN missing",
+        "value": "640",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Identifiers added from supplier data, and own-brand products marked correctly.",
+      "afterTitle": "After our fixes",
+      "after": [
+       {
+        "label": "Limited products",
+        "value": "14",
+        "tone": "ok"
+       },
+       {
+        "label": "GTIN missing",
+        "value": "0",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Price or stock mismatch",
+      "problem": "The feed shows a different price or availability from the site, often after a sale starts.",
+      "beforeTitle": "Last 7 days",
+      "before": [
+       {
+        "label": "Price mismatches",
+        "value": "112",
+        "tone": "bad"
+       },
+       {
+        "label": "Account status",
+        "value": "Warning",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Feed synced with the store several times a day, plus structured data on product pages.",
+      "afterTitle": "After 2 weeks",
+      "after": [
+       {
+        "label": "Price mismatches",
+        "value": "0",
+        "tone": "ok"
+       },
+       {
+        "label": "Account status",
+        "value": "Clear",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Image problems",
+      "problem": "Images with promotional text, watermarks or placeholders are rejected.",
+      "beforeTitle": "Images",
+      "before": [
+       {
+        "label": "Rejected",
+        "value": "96",
+        "tone": "bad"
+       },
+       {
+        "label": "Placeholders",
+        "value": "41",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Clean product images on a plain background, with one for each variant.",
+      "afterTitle": "After our fixes",
+      "after": [
+       {
+        "label": "Rejected",
+        "value": "0",
+        "tone": "ok"
+       },
+       {
+        "label": "Placeholders",
+        "value": "0",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Shipping not set for a country",
+      "problem": "Products can’t show in a country with no shipping settings, even if you deliver there.",
+      "beforeTitle": "Markets",
+      "before": [
+       {
+        "label": "Countries with shipping set",
+        "value": "1 of 3",
+        "tone": "bad"
+       },
+       {
+        "label": "Products showing in UAE",
+        "value": "0",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Shipping costs and delivery times for every market you sell to.",
+      "afterTitle": "After setup",
+      "after": [
+       {
+        "label": "Countries with shipping set",
+        "value": "3 of 3",
+        "tone": "ok"
+       },
+       {
+        "label": "Products showing in UAE",
+        "value": "1,826",
+        "tone": "ok"
+       }
+      ]
+     },
+     {
+      "title": "Missing policies or contact details",
+      "problem": "No return policy or contact information on the site can get the whole account flagged.",
+      "beforeTitle": "Account",
+      "before": [
+       {
+        "label": "Return policy",
+        "value": "Missing",
+        "tone": "bad"
+       },
+       {
+        "label": "Contact details",
+        "value": "Email only",
+        "tone": "bad"
+       }
+      ],
+      "fix": "Policy and contact pages added and linked, and business details that match the site.",
+      "afterTitle": "After setup",
+      "after": [
+       {
+        "label": "Return policy",
+        "value": "Linked",
+        "tone": "ok"
+       },
+       {
+        "label": "Contact details",
+        "value": "Complete",
+        "tone": "ok"
+       }
+      ]
+     }
+    ],
+    "visual": "",
+    "alt": true
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Your feed report",
+    "html": "<section class=\"section section--cream pmreport\" aria-labelledby=\"h-220\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-220\">Your <span class=\"accent\">feed report</span></h2>\n\t\t\t\t<p class=\"section-lead\">What we changed, why, and how to keep the feed healthy after we hand it over.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrd__dl\">\n\t\t\t\t<a class=\"button button--primary button--lg\" href=\"{{media:assets/samples/merchant-center-setup-sample-feed-report.pdf}}\" download>Download a sample report <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><use href=\"#i-arrow-right\"/></svg></a>\n\t\t\t\t<p>A real report layout with example data, so you know exactly what you’ll receive.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmrv\">\n\t\t\t\t<ol class=\"pmrv__list\" role=\"list\"><li><span class=\"pmrv__n\">01</span><div><h3>Feed health <small>1 page</small></h3><p>Approved, limited and disapproved products before and after, with the cause of every error.</p></div></li><li><span class=\"pmrv__n\">02</span><div><h3>Account settings <small>1 page</small></h3><p>Verification, business details, shipping, tax and returns, and why we set them that way.</p></div></li><li><span class=\"pmrv__n\">03</span><div><h3>Feed changes <small>1–2 pages</small></h3><p>Title rules, attributes, identifiers and images, with examples from your own products.</p></div></li><li><span class=\"pmrv__n\">04</span><div><h3>Custom labels and extras <small>1 page</small></h3><p>The labels we added for margin, season and best-sellers, plus free listings and promotions.</p></div></li><li><span class=\"pmrv__n\">05</span><div><h3>Weekly checklist <small>1 page</small></h3><p>What to check every week, and what to do when you add new products.</p></div></li></ol>\n\t\t\t\t<a class=\"pmrv__pic\" href=\"{{media:assets/samples/merchant-center-setup-sample-feed-report.pdf}}\" aria-label=\"Open the sample report (PDF)\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--3\" src=\"{{media:assets/samples/merchant-center-setup-sample-feed-report-3.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--2\" src=\"{{media:assets/samples/merchant-center-setup-sample-feed-report-2.jpg}}\" alt=\"\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<img class=\"pmrv__pg pmrv__pg--1\" src=\"{{media:assets/samples/merchant-center-setup-sample-feed-report-1.jpg}}\" alt=\"Cover of the sample report\" width=\"600\" height=\"849\" loading=\"lazy\">\n\t\t\t\t\t<span class=\"pmrv__tag\">Sample · example data</span>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "merchant-center-setup",
+    "modules": []
+   }
+  },
+  {
+   "name": "intella/custom-section",
+   "attrs": {
+    "label": "Stores we’ve set up Merchant Center for",
+    "html": "<section class=\"section section--white pmcsx\" aria-labelledby=\"h-222\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"section-head section-head--center\">\n\t\t\t\t<h2 class=\"section-title\" id=\"h-222\">Stores we’ve set up <span class=\"accent\">Merchant Center</span> for</h2>\n\t\t\t\t<p class=\"section-lead\">Who they are, why they came to us, what we found and what changed. Pick a store to read its story.</p>\n\t\t\t</div>\n\t\t\t<div class=\"pmcs pmcs--ba\" data-tabs>\n\t\t\t\t<div class=\"pmcs__tabs\" role=\"tablist\" aria-orientation=\"vertical\" aria-label=\"Stores we have set up Merchant Center for\"><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-221-t0\" aria-controls=\"ad-221-p0\" aria-selected=\"true\"><span class=\"cmlg\" style=\"--lc:#b45309\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"18\" r=\"10\" fill=\"#f59e0b\"/><rect x=\"15\" y=\"30\" width=\"10\" height=\"5\" rx=\"2\" fill=\"#b45309\"/></svg><span class=\"cmlg__w\"><b>Lumio</b><span>Lighting</span></span></span><span class=\"pmcs__ti\">Lighting store</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-221-t1\" aria-controls=\"ad-221-p1\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#4338ca\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 4 34 12v16L20 36 6 28V12z\" fill=\"#6366f1\"/><path d=\"M6 12l14 8 14-8M20 20v16\" stroke=\"#c7d2fe\" stroke-width=\"2.5\" fill=\"none\"/></svg><span class=\"cmlg__w\"><b>Packwise</b><span>Supplies</span></span></span><span class=\"pmcs__ti\">Packaging supplier</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-221-t2\" aria-controls=\"ad-221-p2\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#c2410c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M30 6C18 8 10 18 9 33l5-5c4 0 10-3 13-9-3 1-5 1-7 0 5-2 8-6 10-13z\" fill=\"#f97316\"/></svg><span class=\"cmlg__w\"><b>Quillon</b><span>Stationery</span></span></span><span class=\"pmcs__ti\">Stationery brand</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-221-t3\" aria-controls=\"ad-221-p3\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#be123c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M8 32V8h8l4 10 4-10h8v24\" fill=\"none\" stroke=\"#e11d48\" stroke-width=\"4\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Calder</b><span>Cycles</span></span></span><span class=\"pmcs__ti\">Bike shop</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-221-t4\" aria-controls=\"ad-221-p4\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#c2410c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"24\" cy=\"8\" r=\"4.5\" fill=\"#ea580c\"/><path d=\"M8 22l7-6 6 4 5-5M15 16l-2 10 7 4-3 7M21 20l9 3\" stroke=\"#ea580c\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Motion</b><span>Activewear</span></span></span><span class=\"pmcs__ti\">Sportswear brand</span></button><button class=\"pmcs__tab\" type=\"button\" role=\"tab\" id=\"ad-221-t5\" aria-controls=\"ad-221-p5\" aria-selected=\"false\"><span class=\"cmlg\" style=\"--lc:#a16207\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"16\" fill=\"#ca8a04\"/><path d=\"M26 14a8 8 0 1 0 0 12\" stroke=\"#fef3c7\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Corvel</b><span>Coffee</span></span></span><span class=\"pmcs__ti\">Coffee roaster</span></button></div>\n\t\t\t\t<div class=\"pmcs__panels\"><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-221-p0\" aria-labelledby=\"ad-221-t0\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#b45309\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"18\" r=\"10\" fill=\"#f59e0b\"/><rect x=\"15\" y=\"30\" width=\"10\" height=\"5\" rx=\"2\" fill=\"#b45309\"/></svg><span class=\"cmlg__w\"><b>Lumio</b><span>Lighting</span></span></span><p>Lighting store<span>Merchant Center and feed · 2 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>An online lighting store on Shopify, selling about 1,800 pendants, lamps and wall lights.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Shopping ads had stalled, and a third of the range was limited or disapproved without anyone knowing why.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>640 products without GTINs</li><li>Titles that were just product names</li><li>Two apps sending the same products</li><li>No shipping set for the UAE</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>One clean feed, rewritten titles and complete identifiers. Almost every product is approved, and Shopping clicks grew within a month.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Products approved</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:70%\"></span><b>Before 69%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 99%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">43% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Shopping clicks a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:55%\"></span><b>Before 8,200</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 14,900</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">82% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-221-p1\" aria-labelledby=\"ad-221-t1\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#4338ca\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M20 4 34 12v16L20 36 6 28V12z\" fill=\"#6366f1\"/><path d=\"M6 12l14 8 14-8M20 20v16\" stroke=\"#c7d2fe\" stroke-width=\"2.5\" fill=\"none\"/></svg><span class=\"cmlg__w\"><b>Packwise</b><span>Supplies</span></span></span><p>Packaging supplier<span>Merchant Center setup · 2 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A WooCommerce store selling boxes, mailers and packing supplies to small online businesses.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>An old agency had set up Merchant Center with a feed file updated by hand, and most of their sizes and pack quantities were missing.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>Variants sent as one product</li><li>Sizes and pack quantities missing from titles</li><li>Bulk prices confusing the feed</li><li>No custom labels for margin</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>One feed straight from the store, with each size and pack sent as its own product and clear titles. Free listings and Shopping now sell across the range.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Products in Google</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:12%\"></span><b>Before 310</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 2,640</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">752% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Monthly sales from Shopping and free listings</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:20%\"></span><b>Before $1,900</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After $9,400</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">395% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-221-p2\" aria-labelledby=\"ad-221-t2\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#c2410c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M30 6C18 8 10 18 9 33l5-5c4 0 10-3 13-9-3 1-5 1-7 0 5-2 8-6 10-13z\" fill=\"#f97316\"/></svg><span class=\"cmlg__w\"><b>Quillon</b><span>Stationery</span></span></span><p>Stationery brand<span>Feed fixes · 10 days</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>An own-brand stationery company selling notebooks, pens and desk accessories worldwide.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Google kept limiting their products for missing GTINs, but their own products don’t have barcodes.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>Own-brand products sent with made-up GTINs</li><li>Brand missing on every product</li><li>Promotional text on images</li><li>Return policy not added</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Products marked correctly as own brand, images cleaned and returns set. Limited products became approved.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Limited products</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before 410</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:1%\"></span><b>After 6</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">99% lower</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Impressions a month</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:33%\"></span><b>Before 62k</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 188k</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">203% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-221-p3\" aria-labelledby=\"ad-221-t3\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#be123c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><path d=\"M8 32V8h8l4 10 4-10h8v24\" fill=\"none\" stroke=\"#e11d48\" stroke-width=\"4\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Calder</b><span>Cycles</span></span></span><p>Bike shop<span>Merchant Center and local inventory · 3 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A bike shop with two stores and an online shop, selling bikes, parts and accessories.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Prices changed often during sales, and Merchant Center had given the account a warning for mismatched prices.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>112 price mismatches in a week</li><li>Sale prices missing from the feed</li><li>Feed updated once a day</li><li>Local stock not shown at all</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Feed synced four times a day with sale prices, and local inventory set up so nearby shoppers see what’s in stock.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Price mismatches a week</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:100%\"></span><b>Before 112</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:0%\"></span><b>After 0</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Down to zero</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Store visits from listings</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:36%\"></span><b>Before 140</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 390</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">179% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-221-p4\" aria-labelledby=\"ad-221-t4\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#c2410c\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"24\" cy=\"8\" r=\"4.5\" fill=\"#ea580c\"/><path d=\"M8 22l7-6 6 4 5-5M15 16l-2 10 7 4-3 7M21 20l9 3\" stroke=\"#ea580c\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg><span class=\"cmlg__w\"><b>Motion</b><span>Activewear</span></span></span><p>Sportswear brand<span>Feed and titles · 2 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A direct-to-consumer activewear brand selling leggings, tops and outerwear in many sizes and colours.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>Their products showed for very few searches, and Google kept asking for sizes, colours and gender.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>Size, colour and gender missing</li><li>One image for every colour</li><li>Titles without product type</li><li>Descriptions copied across products</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Every variant now has its own size, colour and image, and titles include the product type. Products show for far more searches.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Products with all attributes</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:22%\"></span><b>Before 22%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 100%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">355% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Shopping click-through rate</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:43%\"></span><b>Before 0.6%</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 1.4%</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">Up from zero</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div><div class=\"pmcs__panel\" role=\"tabpanel\" id=\"ad-221-p5\" aria-labelledby=\"ad-221-t5\">\n\t\t\t\t\t<div class=\"pmcs__head\"><span class=\"cmlg\" style=\"--lc:#a16207\"><svg viewBox=\"0 0 40 40\" aria-hidden=\"true\" focusable=\"false\"><circle cx=\"20\" cy=\"20\" r=\"16\" fill=\"#ca8a04\"/><path d=\"M26 14a8 8 0 1 0 0 12\" stroke=\"#fef3c7\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/></svg><span class=\"cmlg__w\"><b>Corvel</b><span>Coffee</span></span></span><p>Coffee roaster<span>Merchant Center for new markets · 2 weeks</span></p></div>\n\t\t\t\t\t<dl class=\"pmcs__story\">\n\t\t\t\t\t\t<div><dt>The company</dt><dd>A specialty coffee roaster selling beans, equipment and subscriptions, expanding from the UK to the Gulf.</dd></div>\n\t\t\t\t\t\t<div><dt>Why they came to us</dt><dd>They had started delivering to the UAE and Saudi Arabia, but their products never showed there.</dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__found\"><dt>What we found</dt><dd><ul role=\"list\"><li>Shipping set for the UK only</li><li>No delivery times for new markets</li><li>Prices in one currency only</li><li>Return policy missing</li></ul></dd></div>\n\t\t\t\t\t\t<div class=\"pmcs__done\"><dt>What changed</dt><dd>Shipping, delivery times and returns set for both new markets, with prices in local currency. Products now show in all three countries.</dd></div>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p class=\"pmcs__sh\">Before vs after</p>\n\t\t\t\t\t<ul class=\"pmcs__ms\" role=\"list\"><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Countries with products showing</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:33%\"></span><b>Before 1</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After 3</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">200% higher</p>\n\t\t\t\t\t\t</li><li class=\"pmcs__m\">\n\t\t\t\t\t\t\t<p class=\"pmcs__ml\">Monthly sales from the Gulf</p>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--t\"><span style=\"--w:8%\"></span><b>Before $400</b></div>\n\t\t\t\t\t\t\t<div class=\"pmcs__bar pmcs__bar--a\"><span style=\"--w:100%\"></span><b>After $5,200</b></div>\n\t\t\t\t\t\t\t<p class=\"pmcs__beat\">1200% higher</p>\n\t\t\t\t\t\t</li></ul>\n\t\t\t\t</div></div>\n\t\t\t</div>\n\t\t</div>\n\t</section>",
+    "css": "merchant-center-setup",
+    "modules": [
+     "@intella/tabs"
+    ]
+   }
+  },
+  {
+   "name": "intella/testimonials-spread",
+   "attrs": {
+    "title": "What it’s like to <em>work with us</em>",
+    "people": [
+     "post:testimonial:Andra-Simina Mocanu",
+     "post:testimonial:David Clarke",
+     "post:testimonial:Alex Barsuk"
+    ]
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Merchant Center Setup and Product Feeds questions, <em>answered</em>",
+    "lead": "Can’t find your answer? Ask us on a free 30-minute call.",
+    "buttonText": "Contact us",
+    "buttonUrl": "/contact/",
+    "items": [
+     {
+      "question": "How do I set up Google Merchant Center?",
+      "answer": "Create an account, verify and claim your website, add business details, shipping and tax, then connect your products through your store’s integration or a feed file."
+     },
+     {
+      "question": "Is Google Merchant Center free?",
+      "answer": "Yes. Merchant Center is free, and free listings can show your products at no cost. Shopping ads are paid."
+     },
+     {
+      "question": "Why are my products disapproved?",
+      "answer": "Usually missing identifiers, price or stock mismatches, image problems or policy issues such as a missing return policy."
+     },
+     {
+      "question": "What if my products don’t have GTINs?",
+      "answer": "Own-brand and handmade products often don’t. They should be marked as having no identifier, with the brand set, rather than given made-up numbers."
+     },
+     {
+      "question": "Do you work with Shopify and WooCommerce?",
+      "answer": "Yes, and with other platforms through feed files or apps. We pick the connection that keeps your feed up to date."
+     },
+     {
+      "question": "Is this the same as Merchant Center suspension help?",
+      "answer": "No. This is setup and feed work. If your account is already suspended, see our Merchant Center suspension help."
+     }
+    ],
+    "buttonStyle": "outline"
+   }
+  },
+  {
+   "name": "intella/request-panel",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Get your products <em>approved and selling</em>",
+    "lead": "Tell us about your store. We’ll quote the setup.",
+    "steps": [
+     {
+      "title": "We look at your account first",
+      "text": "Spend, tracking, campaigns and landing pages, before we talk."
+     },
+     {
+      "title": "A 30-minute call",
+      "text": "Your goals, your margins and what a good lead is worth."
+     },
+     {
+      "title": "A plan and fixed quote",
+      "text": "What we’d fix first, what we’d test, and what it costs."
+     }
+    ],
+    "formTitle": "Request a free account review",
+    "messageHint": "Which platform is your store on, and how many products?",
+    "service": "merchant-center-setup",
+    "buttonText": "Request a quote",
+    "trust": [
+     "Fixed quote, usually within one working day",
+     "Read-only access is enough",
+     "Your details stay private"
+    ]
+   }
+  },
+  {
+   "name": "intella/related-services",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "Related <em>services</em>",
+    "buttonText": "All services",
+    "buttonUrl": "/services/",
+    "columns": "3",
+    "items": [
+     {
+      "icon": "cart",
+      "title": "Google Shopping Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-shopping-ads/",
+      "text": "Product ads and Merchant Center."
+     },
+     {
+      "icon": "key",
+      "title": "Merchant Center Suspension Help",
+      "url": "/services/digital-marketing/performance-marketing/google-shopping-ads/merchant-center-suspension/",
+      "text": "Fix the cause and request a review."
+     },
+     {
+      "icon": "search",
+      "title": "Google Ads",
+      "url": "/services/digital-marketing/performance-marketing/google-ads/",
+      "text": "Search, Performance Max and display."
+     }
+    ]
+   }
+  }
+ ]
+}

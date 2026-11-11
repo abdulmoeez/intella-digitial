@@ -1,0 +1,162 @@
+{
+ "title": "Contact",
+ "path": "/contact/",
+ "seo": {
+  "title": "Contact Intella Digital | Talk to our marketing and web team",
+  "description": "Contact Intella Digital about SEO, AI search, paid ads, websites or apps. Send us a message or book a free 30-minute call, and we will reply with clear next steps."
+ },
+ "blocks": [
+  {
+   "name": "intella/contact-hero",
+   "attrs": {
+    "title": "Let's talk about <em>your growth</em>",
+    "lead": "Tell us about your business and what you want to achieve. Whether it's more leads from search and ads, a faster website or a new app, we'll reply with honest advice and clear next steps.",
+    "ways": [
+     {
+      "icon": "mail",
+      "label": "Email us",
+      "value": "contact@intelladigital.com",
+      "url": "mailto:contact@intelladigital.com"
+     },
+     {
+      "icon": "phone",
+      "label": "Call us",
+      "value": "+1 (431) 293-2026",
+      "url": "tel:+14312932026"
+     },
+     {
+      "icon": "pin",
+      "label": "Visit us",
+      "value": "17/A Marathahalli, Outer Ring Road,\nBangalore, India",
+      "url": ""
+     },
+     {
+      "icon": "calendar",
+      "label": "Prefer to talk?",
+      "value": "Schedule a free 30-minute call",
+      "url": "#contact-form"
+     }
+    ],
+    "notes": [
+     "We usually reply within one business day.",
+     "The first call is free, with no obligation.",
+     "You'll talk to the people who do the work."
+    ],
+    "formTitle": "Tell us about your project",
+    "formSub": "Takes about 2 minutes. No obligation.",
+    "services": [
+     "SEO and AI search",
+     "Content marketing",
+     "Paid ads (Google, Meta, LinkedIn)",
+     "Social media",
+     "Email and marketing automation",
+     "CRO and analytics",
+     "Design and branding",
+     "Website design or development",
+     "Web or mobile app",
+     "Agentic AI development",
+     "An audit or marketing plan",
+     "Not sure yet"
+    ],
+    "buttonText": "Send message",
+    "trust": [
+     "Your details stay private",
+     "No spam, ever",
+     "Free 30-minute call"
+    ],
+    "note": "Required. We only use your details to reply to you."
+   }
+  },
+  {
+   "name": "intella/tilt-cards",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "What happens <em>next</em>",
+    "lead": "No long forms, no pushy sales calls. Here's how it works once you get in touch.",
+    "numbered": true,
+    "columns": "",
+    "items": [
+     {
+      "icon": "",
+      "time": "",
+      "title": "You send a message",
+      "text": "Tell us a little about your business, your goals and where you're stuck."
+     },
+     {
+      "icon": "",
+      "time": "",
+      "title": "We get back to you",
+      "text": "We read every message and reply with a few questions and times for a call."
+     },
+     {
+      "icon": "",
+      "time": "",
+      "title": "Call and proposal",
+      "text": "A free 30-minute call, then a clear proposal with scope, timeline and cost."
+     },
+     {
+      "icon": "",
+      "time": "",
+      "title": "We get to work",
+      "text": "Once you're happy, we start, with regular updates and reporting in plain language."
+     }
+    ]
+   }
+  },
+  {
+   "name": "intella/quote-strip",
+   "attrs": {
+    "background": "cream",
+    "anchor": "",
+    "title": "What our <em>clients</em> say",
+    "plainAccent": true,
+    "buttonText": "",
+    "buttonUrl": "",
+    "people": [
+     "post:testimonial:David Clarke",
+     "post:testimonial:Andra-Simina Mocanu",
+     "post:testimonial:Sarah Whitfield",
+     "post:testimonial:Omar Haddad",
+     "post:testimonial:Laura Bennett",
+     "post:testimonial:Daniel Fischer",
+     "post:testimonial:Priya Raman",
+     "post:testimonial:James Holloway",
+     "post:testimonial:Fatima Al-Mansouri",
+     "post:testimonial:Michael Turner"
+    ],
+    "cases": []
+   }
+  },
+  {
+   "name": "intella/faq",
+   "attrs": {
+    "background": "white",
+    "anchor": "",
+    "title": "Before you <em>get in touch</em>",
+    "lead": "Quick answers to what people usually ask before their first call.",
+    "buttonText": "Send us a message",
+    "buttonUrl": "#contact-form",
+    "items": [
+     {
+      "question": "Is the first call really free?",
+      "answer": "Yes. The first call is a free, 30-minute conversation about your business and goals. There's no obligation, and you'll come away with useful advice whether or not we work together."
+     },
+     {
+      "question": "What should I prepare for the call?",
+      "answer": "Nothing formal. It helps to know your main goal, roughly what you spend on marketing today, and any deadlines. If you have access to Google Analytics, Search Console or your ad accounts, even better."
+     },
+     {
+      "question": "How much do your services cost?",
+      "answer": "It depends on what you need. After the call we send a fixed quote for projects, or a clear monthly fee for ongoing marketing, so you know the cost before any work starts."
+     },
+     {
+      "question": "Can you work with our existing team or agency?",
+      "answer": "Yes. We can take on one piece, such as SEO or paid ads, alongside your team or another agency, or we can look after marketing and development together."
+     }
+    ],
+    "buttonStyle": "primary"
+   }
+  }
+ ]
+}
