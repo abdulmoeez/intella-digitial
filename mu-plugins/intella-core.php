@@ -20,4 +20,5 @@ require INTELLA_CORE_DIR . '/shared-content.php';
 require INTELLA_CORE_DIR . '/settings.php';
 require INTELLA_CORE_DIR . '/svg-uploads.php';
 require INTELLA_CORE_DIR . '/schema.php';
+require INTELLA_CORE_DIR . '/mail.php';
 require INTELLA_CORE_DIR . '/forms.php';

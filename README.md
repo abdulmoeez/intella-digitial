@@ -85,3 +85,13 @@ in the live database and is never touched by a deploy.
 **One-time server setup:** clone the repo on the VPS outside the web root, install WordPress and WP-CLI there,
 and create `bin/.deploy.env` (git-ignored) with `WP_PATH="/path/to/wordpress"` (the folder with `wp-config.php`).
 There is no build step, so the server never needs Node.
+
+**Email (form enquiries):** every form is saved under **Leads** in wp-admin and emailed to the address in
+Settings → Intella site ("Send form enquiries to", else the admin email). On the server, mail goes out through
+Mailgun's SMTP server once two constants are in `wp-config.php` (never in git; see `mu-plugins/intella-core/mail.php`):
+```bash
+wp config set INTELLA_SMTP_USER contact@mg.intelladigital.com
+wp config set INTELLA_SMTP_PASS --prompt=value
+wp eval 'var_dump( wp_mail( get_option( "admin_email" ), "Test from the website", "It works." ) );'
+```
+`bool(true)` means Mailgun accepted it. Failures are logged as "Intella mail failed: …" in the PHP error log.
