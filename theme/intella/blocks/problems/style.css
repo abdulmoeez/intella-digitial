@@ -61,3 +61,15 @@
 .pmprobs--alt .pmpf:nth-child(odd) .pmpf__p { border-color: #dbe6fb; background: #f2f6fe; }
 .pmprobs--alt .pmpf:nth-child(even) .pmpf__p { border-color: #f3e2c9; background: #fdf6ec; }
 .pmprobs--alt .pmpf__p .pmpf__ev { background: rgb(255 255 255 / 0.8); }
+.pmba { padding: 14px; border: 1px solid #ece6f1; border-radius: 16px; background: #fff; }
+.pmba__t { margin: 0 0 10px; color: var(--color-ink); font-weight: 700; font-size: 14px; }
+.pmba__r { display: grid; grid-template-columns: 3.8rem minmax(0, 1fr); gap: 8px; padding: 9px 11px; border-radius: 10px; font-size: 13.5px; line-height: 1.45; }
+.pmba__r + .pmba__r { margin-top: 6px; }
+.pmba__r span { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; padding-top: 2px; }
+.pmba__r p { margin: 0; color: var(--color-ink); }
+.pmba__r--b { background: #fbefee; }
+.pmba__r--b span { color: #c0392b; }
+.pmba__r--b p { color: #6b6577; }
+.pmba__r--a { background: #eaf6f1; }
+.pmba__r--a span { color: #0b7a5a; }
+.pmpf__ex { margin-top: 12px; }

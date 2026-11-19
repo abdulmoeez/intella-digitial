@@ -290,3 +290,8 @@
 	.pmcw__ask { grid-template-columns: 1fr; }
 	.pmcw__ask .button { justify-self: start; }
 }
+.pmcb { grid-template-columns: auto minmax(0, 1fr) auto auto; }
+@media (max-width: 1100px) {
+	.pmcb { grid-template-columns: auto minmax(0, 1fr); }
+	.pmcb ul { grid-column: 1 / -1; }
+}

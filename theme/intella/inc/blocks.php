@@ -214,7 +214,7 @@ function intella_block_editor_canvas_styles(): void {
 	if ( ! is_admin() ) {
 		return;
 	}
-	foreach ( array( 'fonts', 'tokens', 'base', 'layout', 'components', 'utilities' ) as $name ) {
+	foreach ( array( 'fonts', 'tokens', 'base', 'layout', 'components', 'sections-shared', 'utilities' ) as $name ) {
 		$path = "assets/css/{$name}.css";
 		wp_enqueue_style( "intella-editor-{$name}", INTELLA_URI . '/' . $path, array(), intella_asset_version( $path ) );
 	}

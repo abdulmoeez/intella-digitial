@@ -22,7 +22,7 @@ add_action( 'wp_head', 'intella_preload_fonts', 1 );
  * Global stylesheets, in cascade order.
  */
 function intella_enqueue_styles(): void {
-	$files    = array( 'fonts', 'tokens', 'base', 'layout', 'mega-menu', 'components', 'utilities' );
+	$files    = array( 'fonts', 'tokens', 'base', 'layout', 'mega-menu', 'components', 'sections-shared', 'utilities' );
 	$previous = array();
 
 	foreach ( $files as $name ) {
